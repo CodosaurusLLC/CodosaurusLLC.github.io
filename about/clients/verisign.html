@@ -1,0 +1,238 @@
+---
+layout: default
+title: Verisign
+style: client-page
+---
+
+<div class="client-logo-div">
+  <a href="http://www.verisign.com/" rel="nofollow" target="_new">
+    <img src="/assets/img/verisign-logo.png"
+         class="client-logo" title="Verisign"></a>
+  &nbsp;via&nbsp;
+  <a href="http://www.celerity.com" rel="nofollow" target="_new">
+    <img src="/assets/img/celerity-logo.jpg"
+         class="client-logo needs-border" title="Celerity IT"></a>
+</div>
+
+<h3>Who are they?</h3>
+
+<p>
+<a href="http://www.verisign.com/" rel="nofollow" target="_new">
+  Verisign</a>,
+based in Reston, Virginia, USA,
+is one of the primary companies that
+make the Internet work.&nbsp;
+Among other things,
+they take care of many of the most important
+<a href="https://en.wikipedia.org/wiki/Domain_name_registry"
+   rel="nofollow" target="_new">
+  domain name registries</a>
+-- they are not merely a
+<a href="https://en.wikipedia.org/wiki/Domain_name_registrar"
+   rel="nofollow" target="_new">registr<i>ar</i></a>,
+ (though they do that too),
+ but the people the registrars <i>depend</i> on.&nbsp;
+ They run the registries for
+ .com, .net, .tv, .cc, .name, .jobs, .edu, and .gov,
+ plus two of the thirteen
+ <a href= "https://en.wikipedia.org/wiki/Root_name_server"
+    rel="nofollow" target="_new">
+   global root name servers</a>.&nbsp;
+ They also provide
+ <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack"
+    rel="nofollow" target="_new">
+   DDOS protection</a>,
+ <a href="https://www.verisign.com/en_US/security-services/dns-management/index.xhtml"
+    rel="nofollow" target="_new">
+   managed DNS</a>,
+ <a href="https://en.wikipedia.org/wiki/Malware" rel="nofollow" target="_new">
+   malware</a>
+ detection,
+ and other defensive services.&nbsp;
+ If you know much about the Internet, you know Verisign!
+</p>
+
+<h3>What did I do, when, where?</h3>
+
+<p>
+My initial task was to
+investigate the feasibility of
+migrating a Rails 4 app
+from using
+<a href="http://www.mysql.com" rel="nofollow" target="_new">MySQL</a>
+to
+<a href="http://basho.com/products/" rel="nofollow" target="_new">Riak</a>,
+a
+<a href="https://en.wikipedia.org/wiki/NoSQL" rel="nofollow" target="_new">
+  "NoSQL"</a>
+database.&nbsp;
+That proved to be infeasible --
+at least, for a complete migration,
+and a partial migration would not have served their purpose.&nbsp;
+So, I also investigated migrating it to
+<a href="http://www.nuodb.com" rel="nofollow" target="_new">NuoDB</a>,
+a
+<a href="https://en.wikipedia.org/wiki/NewSQL" rel="nofollow" target="_new">
+  "NewSQL"</a>
+database.&nbsp;
+That too proved infeasible -- at least, at this time,
+given the state of tools for using NuoDB with Rails.
+</p>
+
+<p>
+During that time, the management decided that
+everything they built should have an API.&nbsp;
+(When you do things at their scale,
+the separate deployability that enables makes a lot of sense.)&nbsp;
+My mission then became to take this app and split it into
+an API half, and a UI half that would depend on it.&nbsp;
+I designed and implement a
+<a href="https://en.wikipedia.org/wiki/Representational_state_transfer"
+   rel="nofollow" target="_new">
+  RESTful</a>
+API, using a Rails server, tailored to the needs of the UI half,
+which a Verisign employee was to create (with help from me).&nbsp;
+The API was a typical straightforward REST type,
+plus a few twists
+(such as adding some endpoints that would delete some subparts en masse,
+and that "create" and "update" were combined into an "upsert"),
+with
+<a href="https://en.wikipedia.org/wiki/HATEOAS" rel="nofollow" target="_new">
+  HATEOAS</a>
+links in
+<a href="http://stateless.co/hal_specification.html"
+   rel="nofollow" target="_new">
+  HAL</a>
+style.&nbsp;
+I also updated the Python and Java tools that were
+using the existing non-RESTful API,
+and of course the tests, in RSpec and Cucumber.&nbsp;
+However, shortly after I had gotten the general concept working in two halves,
+they decided to abandon further development for the moment.
+</p>
+
+<p>
+Sorry, I can't reveal much details of the app,
+but I can say that it was intended to be used as a platform
+on which others can build services.&nbsp;
+That plan has been abandoned,
+but Verisign is still considering
+building some of their <i>own</i> new services on it.&nbsp;
+As of now, it is running, but not accessible from outside Verisign,
+so you can't see the UI half nor explore the API.
+</p>
+
+<p>
+On top of all that, I helped out on other projects,
+when someone needed some brief advice on Ruby, Rails, RSpec, Cucumber, etc.,
+or general techniques of development or testing.&nbsp;
+Also, a friend of mine had been hired as a contractor in another department
+(he went permanent soon thereafter), and I helped him teach our colleagues Ruby,
+<a href="https://en.wikipedia.org/wiki/Pair_programming"
+   rel="nofollow" target="_new">
+  pair programming</a>,
+and
+<a href="https://en.wikipedia.org/wiki/Test-driven_development"
+   rel="nofollow" target="_new">
+  TDD (test-driven development)</a>.&nbsp;
+We had great fun demonstrating "smart-@$$ ping-pong pair programming".&nbsp;
+;-)
+</p>
+
+<p>
+I worked there from June 2013 to February 2014
+(six month initial contract plus three month extension),
+in The Hive (their tiny elite R&amp;D Innovation Lab group in Reston, VA),
+via <a href="http://www.celerity.com" rel="nofollow" target="_new">
+  Celerity IT</a>.&nbsp;
+I was mostly onsite, which I didn't mind because the commute was reasonable --
+and I liked the offerings at the subsidized cafeteria, and the restaurants of
+<a href="http://www.restontowncenter.com/" rel="nofollow" target="_new">
+  Reston Town Center</a>.&nbsp;
+;-)&nbsp;
+After a while, they allowed me to work remote when I liked,
+which wound up being about 40%.
+</p>
+
+<h3>What did they say?</h3>
+
+<div class="quote">Thanks very much, Dave, for all of your contributions
+  over the past months.&nbsp; We've enjoyed having you as part of the Hive!</div>
+
+<div class="quote-source">-David Smith (I reported directly to him)</div>
+
+
+<h3>What did I use?</h3>
+
+<p>
+A sampling of the technologies, techniques, tools, etc. I remember using
+there:
+</p>
+
+<ul>
+
+  <li>
+    <a href="http://rubyonrails.org" rel="nofollow" target="_new">
+      Ruby on Rails</a>
+    3.2 and 4.0
+    (with
+    <a href="https://www.ruby-lang.org" rel="nofollow" target="_new">Ruby</a>
+    1.9 and 2.0)
+  </li>
+
+  <li>
+    <a href="http://basho.com/products/" rel="nofollow" target="_new">Riak</a>,
+    <a href="http://www.nuodb.com" rel="nofollow" target="_new">NuoDB</a>,
+    and
+    <a href="http://www.mysql.com" rel="nofollow" target="_new">MySQL</a>
+    databases
+  </li>
+
+  <li>
+    <a href="http://rspec.info/" rel="nofollow" target="_new">RSpec</a>
+    and
+    <a href="https://cucumber.io/" rel="nofollow" target="_new">Cucumber</a>
+    for testing
+  </li>
+
+  <li>
+    initially a company-private
+    <a href="https://github.com/" rel="nofollow" target="_new">Github</a>
+    account, and later a company-run <i>installation</i>, for source control
+  </li>
+
+  <li>
+    Occasional bits of
+    <a href="http://backbonejs.org" rel="nofollow" target="_new">Backbone</a>,
+    <a href="https://www.lua.org/" rel="nofollow" target="_new">Lua</a>,
+    <a href="https://www.erlang.org/" rel="nofollow" target="_new">Erlang</a>,
+    <a href="https://www.python.org/" rel="nofollow" target="_new">Python</a>,
+    and
+    <a href="https://www.java.com/" rel="nofollow" target="_new">Java</a>.
+  </li>
+
+  <li>
+    <a href="http://jenkins-ci.org/" rel="nofollow" target="_new">Jenkins</a>
+    for
+    <a href="https://en.wikipedia.org/wiki/Continuous_integration"
+       rel="nofollow" target="_new">
+      CI (Continuous Integration)</a>
+  </li>
+
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Test-driven_development"
+      rel="nofollow" target="_new">
+      TDD (Test Driven Development)</a>
+      or
+      <a href="https://en.wikipedia.org/wiki/Behavior-driven_development"
+        rel="nofollow" target="_new">
+        BDD (Behavior Driven Development)</a>,
+      for everything
+  </li>
+
+  <li>
+    I forget what we used for issue tracking; I think it was JIRA, possibly
+    Pivotal Tracker
+  </li>
+
+</ul>

@@ -1,0 +1,141 @@
+---
+layout: default
+title: Department 13
+style: client-page
+---
+
+<div class="client-logo-div">
+  <img src="/assets/img/department-13-logo.png" class="client-logo">
+</div>
+
+<h3>Who are they?</h3>
+
+<p>
+<a href="http://www.department13.com/" rel="nofollow" target="_new">
+  Department 13</a>,
+based in McLean, Virginia, USA,
+"delivers innovative technological solutions that
+transform military, intelligence, and law enforcement operations.&nbsp;
+[...]&nbsp;
+[They] apply [their] unrivalled expertise in Software, Electronics, and
+RF Exploitation to change the face of strategic and tactical operations."
+</p>
+
+<h3>What did I do, when, where?</h3>
+
+<p>
+I worked on a project for them in March and April of 2012,
+fully remotely except for a few meetings within easy driving distance.&nbsp;
+The purpose of the project was to demonstrate what could be done with
+the data from a technique they had developed for tracking the whereabouts of
+certain devices.&nbsp;
+What sort of devices, and how they track them, I am not at liberty to say.
+</p>
+
+<p>
+To accomplish this, I created a single-page application
+in pure hand-rolled JavaScript,
+using a few features of HTML5 and the Google Maps API.&nbsp;
+It included features such as:
+</p>
+
+<ul>
+
+  <li>
+    Let the user designate which devices are "of interest", via unique IDs
+  </li>
+
+  <li>
+    Use a slider to move back and forth through time
+  </li>
+
+  <li>
+    Use buttons to move back and forth through time, event by event,
+    paying attention only to events that involve a "device of interest"
+  </li>
+
+  <li>
+    Show the current location, and "tracks", of each "device of interest"
+  </li>
+
+  <li>
+    Zoom the map in and out, see which devices were in the current area
+    at a given time, tag any subset of them as being "of interest",
+    or see only which "devices of interest" are in the area
+  </li>
+
+  <li>
+    Show which devices were associated with any set of certain key locations,
+    and vice-versa, allowing the user to apply this association repeatedly
+  </li>
+
+  <li>
+    Show how any given device or key location is related to another device
+    or key location, via such associations
+  </li>
+
+  <li>
+    Optionally, automatically zoom in/out to include all
+    current locations and tracks
+  </li>
+
+</ul>
+
+<p>
+I also participated in brainstorming sessions and other meetings,
+about possibilities such as creating a
+<a href= "https://www.palantir.com" rel="nofollow" target="_new">Palantir</a>
+plug-in to exploit this data.
+</p>
+
+<h3>What did they say?</h3>
+
+<div class="quote">
+  I think you've given me some really good value here, Dave.
+</div>
+
+<div class="quote-source">
+  -Robi Sen, CSO,
+  <a href= "http://www.department13.com/" rel="nofollow" target="_new">
+    Department 13</a>
+  (McLean, Virginia, USA)
+</div>
+
+<h3>What did I use?</h3>
+
+<p>
+Technologies, techniques, tools, etc. I used there:
+</p>
+
+<ul>
+
+  <li>
+    <a href= "https://en.wikipedia.org/wiki/JavaScript"
+       rel="nofollow" target="_new">
+      JavaScript</a> 
+    and
+    <a href= "https://en.wikipedia.org/wiki/HTML5" rel="nofollow" target="_new">
+      HTML5</a>
+    to create the demo
+  </li>
+
+  <li>
+    <a href= "http://www.mysql.com/" rel="nofollow" target="_new">MySQL</a>,
+    especially dumps from their database
+  </li>
+
+  <li>
+    <a href= "https://www.ruby-lang.org" rel="nofollow" target="_new">Ruby</a>
+    1.9
+    to process a subset of the MySQL dump data into JSON
+  </li>
+
+  <li>
+    <a href= "https://developers.google.com/maps/"
+       rel="nofollow" target="_new">
+      Google Maps API</a>
+    to create the maps, and the "map pins" and tracks on them
+  </li>
+
+</ul>
+

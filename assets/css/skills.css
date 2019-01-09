@@ -1,0 +1,13 @@
+.skill-table {
+  margin: 0 auto;
+  max-width: calc(var(--max-width) * 0.75);
+}
+
+.skill-table .category-in-table-row th { padding-top: 1em; }
+.skill-table .skill-note {
+  font-size: calc(1em / var(--header-ratio));
+  margin-left: 1em;
+}
+.skill-table td { padding: 0.5em }
+.skill-table tr:nth-child(odd)>td { background-color: #ccd; }
+.skill-table tr:nth-child(even)>td { background-color: #dde; } 

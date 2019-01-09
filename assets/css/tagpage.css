@@ -1,0 +1,3 @@
+.alt-page-title { display: block; }
+.alt-page-title:after { content: "Blog"; }
+.page-title { display: none; }

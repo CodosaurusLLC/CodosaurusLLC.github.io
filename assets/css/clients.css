@@ -1,0 +1,12 @@
+.client-logo {
+  height: auto;
+  max-width: 100%;
+}
+
+.client-name {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2em;
+  text-align: center;
+}
+

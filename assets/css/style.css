@@ -1,0 +1,133 @@
+body {
+  --header-ratio:  1.2;
+  --h5-size:       calc(1em            * var(--header-ratio));
+  --h4-size:       calc(var(--h5-size) * var(--header-ratio));
+  --h3-size:       calc(var(--h4-size) * var(--header-ratio));
+  --h2-size:       calc(var(--h3-size) * var(--header-ratio));
+  --h1-size:       calc(var(--h2-size) * var(--header-ratio));
+  --main-bg-color: #fcfcff;  /* not QUITE stark white, w/ a touch of blue */
+  --main-fg-color: #121;  /* not QUITE stark black, w/ a touch of green */
+  --max-width:     42em;  /* the answer! */
+  --shadow-color:  #888;
+  --shadow-size:   0.5em;
+  --text-color:    var(--main-fg-color);
+  background: var(--main-bg-color);
+  color: var(--text-color);
+  /* standard-width fonts, NOT VERDANA! */
+  font-family: Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
+  font-size: 16pt;
+  line-height: 1.5em;
+  margin: 0 auto;
+  max-width: var(--max-width);
+  padding: 1px;
+}
+
+footer {
+  font-size: 0.6em;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+  /* standard-width fonts, NOT GEORGIA! */
+  font-family: Palatino, Garamond, Times New Roman, Serif;
+  font-weight: bold;
+  line-height: 1.5em;
+  margin: 0;
+  padding-top: 0.2em;
+  text-align: center;
+}
+
+h1 { font-size: var(--h1-size); }
+h2 { font-size: var(--h2-size); }
+h3 { font-size: var(--h3-size); }
+h4 { font-size: var(--h4-size); }
+h5 { font-size: var(--h5-size); }
+
+header {
+  font-weight: bold;
+  line-height: 1.2em;
+  overflow: auto;
+  text-align: center;
+}
+
+header img { border-radius: 0.5em; }
+
+header .dave-pic      { max-width: 36vw; }
+header .dino-pic      { max-width: 48vw; }
+header .header-dave   { float: left; }
+header .header-center { float: none; }
+header .header-dino   {
+  float:  right;
+  height: 231px;  /* same as other, to keep header aligned */
+}
+
+li { margin: 0.5em 0 }
+
+nav {
+  --nav-ems: 0.75;
+  --num-nav-links: 7;
+  font-weight: normal;
+  font-size: calc(var(--nav-ems) * 1em);
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 1.2em;
+  list-style-type: none;
+  justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  background: var(--main-fg-color);
+  border-radius: calc(var(--nav-ems) * 1em);
+  margin: 1px;
+  text-align: center;
+  width: calc(var(--max-width) / var(--nav-ems) / var(--num-nav-links) - 2px);
+}
+nav li:hover {
+  background: green;
+}
+
+nav a {
+  border: 0px solid var(--main-fg-color);
+  color: var(--main-bg-color);
+  display: block;
+  padding: 0.25em 0;
+}
+nav a:hover {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+ol, ul {
+  margin: 0.5em 0 1em 0;
+  padding-left: 1em;  /* don't indent the marker itself */
+}
+
+p { margin: 0.5em 0 1em 0 }
+
+.alt-page-title { display: none; }
+
+.big-n-bold {
+  font-size: var(--h5-size);
+  font-weight: bold;
+}
+
+.card {
+  background: white;
+  border-radius: 0.5em;
+  border: 1px solid var(--main-fg-color);
+  box-shadow: var(--shadow-size)
+              var(--shadow-size)
+              var(--shadow-size)
+              var(--shadow-color);
+  display: table;  /* wtf, this is how to make it honor side-margins auto?! */
+  line-height: 1.5em;
+  margin: 1em auto;
+  padding: 0.5em 1.5em;
+}

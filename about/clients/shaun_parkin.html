@@ -1,0 +1,121 @@
+---
+layout: default
+title: Shaun Parkin
+style: client-page
+---
+
+<h3>Who is he?</h3>
+
+<p>
+Shaun Parkin is a financial professional in Randwick, NSW, Australia.&nbsp;
+He hired me as just himself, not on behalf of a company.
+</p>
+
+<h3>What did I do, when, where?</h3>
+
+<p>
+First I answered a simple question in a forum, something like whether he
+needed an algorithm in order to rebalance stock portfolios.&nbsp;
+I knew a little bit about rebalancing,
+having worked for a financial information company in the past.&nbsp;
+So, I asked what he meant and dove in, in early 2012.
+</p>
+
+<p>
+This led to arranging to do a little project for him.&nbsp; As he wanted a
+quote for the whole thing, rather than proceeding on an hourly basis, I wrote a
+detailed Statement of Work (SOW), specifying that I would start and finish in
+March 2012.
+</p>
+
+<p>
+The project was essentially the Minimum Viable Product (MVP) for a site,
+with the following features that we agreed on:
+</p>
+
+<ul>
+
+  <li>
+    Users can sign up, in, and out.
+  </li>
+
+  <li>
+    There are "portfolios",
+    consisting of multiple "targets",
+    each of which references
+    one Exchange Traded Fund (ETF),
+    and a target <i>percentage</i>,
+    adding up to 100% for each portfolio.
+  </li>
+
+  <li>
+    Admins can create, destroy, and edit portfolios, targets, and ETFs,
+    including updating the price of each ETF.
+  </li>
+
+  <li>
+    Users can tell the system which portfolio they own, and how many shares
+    they have of each ETF.
+  </li>
+
+  <li>
+    The main point of the whole exercise is that users can then ask the
+    system how many shares of which ETF(s) they should buy or sell, in order to
+    get their actual holdings as close as possible to the target percentages in
+    their chosen portfolio.
+  </li>
+
+</ul>
+
+<p>
+This is an example of
+what the financial world calls "rebalancing".&nbsp;
+To accomplish this,
+I wrote a simple Ruby on Rails application,
+with an administrative account
+and some admin-only functions.
+</p>
+
+<p>
+We had discussed additional features, such as automagically retrieving the
+latest prices from a data feed, emailing users when their portfolios were out
+of balance by more than a certain percentage, letting the users specify that
+percentage, etc., but decided to put those off until later, if the MVP ever
+took off.&nbsp; Unfortunately, it has not, showing the wisdom of not arranging
+for the extra features.
+</p>
+
+<h3>What did he say?</h3>
+
+<div class="quote">
+  I'd just like to say that you've done a great job
+  and been very flexible with my requests.
+</div>
+
+<h3>What did I use?</h3>
+
+<p>
+Technologies, techniques, tools, etc. I used there:
+</p>
+
+<ul>
+
+  <li>
+    <a href="http://rubyonrails.org/" rel="nofollow" target="_new">
+      Ruby on Rails</a>
+    3.2 (with
+    <a href="https://www.ruby-lang.org" rel="nofollow" target="_new">Ruby</a>
+    1.9)
+  </li>
+
+  <li>
+    <a href="https://bitbucket.org" rel="nofollow" target="_new">Bitbucket</a>
+    to host the code repository
+  </li>
+
+  <li>
+    <a href="https://www.heroku.com" rel="nofollow" target="_new">Heroku</a>
+    to host it so he could see it in progress
+  </li>
+
+</ul>

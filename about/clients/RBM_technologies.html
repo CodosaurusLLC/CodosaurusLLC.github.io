@@ -1,0 +1,407 @@
+---
+layout: default
+title: RBM Technologies
+style: client-page
+---
+
+<div class="client-logo-div">
+  <a href="http://www.rbmtechnologies.com/" rel="nofollow" target="_new">
+    <img src="/assets/img/rbm-technologies-logo.png"
+         class="client-logo" title="RBM Technlogies"></a>
+  &nbsp;via&nbsp;
+  <a href="https://www.toptal.com/#accept-only-candid-coders"
+     rel="nofollow" target="_new">
+    <img src="/assets/img/toptal-logo-medium.png"
+         class="client-logo" title="Toptal"></a>
+</div>
+
+<h3>Who are they?</h3>
+
+<p><a href="http://www.rbmtechnologies.com/" rel="nofollow" target="_new">
+  RBM Technologies</a>,
+based in Cambridge (a suburb of Boston), Massachusetts, USA,
+provides sales floor planning
+SaaS (Software as a Service)
+to large companies with many consumer-serving locations,
+in the consumer retail/services space.</p>
+
+<h3>What did I do, when, where?</h3>
+
+<p>My contract with RBM
+started in February 2015 and
+was originally anticipated to run for about three to six months,
+via
+<a href="https://www.toptal.com/#accept-only-candid-coders"
+   rel="nofollow" target="_new">
+  Toptal</a>,
+and actually lasted about nine
+(stopping in November to take the
+<a href="/about/clients/US_government">
+  US Government</a>
+contract).&nbsp;
+My main tasks were
+to make enhancements and bugfixes in two systems.&nbsp;
+All work was 100% remote.</p>
+
+<p>The first system
+supports an API to
+answer queries
+sent in a
+JSON-based custom query language,
+and sends the results in JSON.&nbsp;
+It is intended for use <i>by</i> the second system,
+to reduce the time it takes to answer these queries
+from about half an hour
+(sounds crazy, but that's what they said!)
+to a couple seconds.&nbsp;
+(We were aiming for half a second,
+and <i>most</i> known queries quickly became that fast.&nbsp;
+However, a few took up to a couple seconds.&nbsp;
+We agreed that
+the extra effort to
+speed up the few slow ones
+would not be worthwhile.)&nbsp;
+For this one, I:</p>
+
+<ul>
+
+  <li>Made it
+    understand and answer
+    many more types of queries,
+    and in a "cleaner" and more extensible way.&nbsp;
+    (It was
+    composing a massive SQL string.&nbsp;
+    I made it
+    use ActiveRecord.&nbsp;
+    We planned to
+    move eventually
+    to ARel,
+    in order to get "or" capability.&nbsp;
+    That was put on hold
+    once the Rails team announced
+    that ActiveRecord 5 would include that.)</li>
+
+  <li>Extended its ability to
+    store, modify, and delete objects
+    in response to object-change notifications
+    received over RabbitMQ.&nbsp;
+    Previously it only stored certain columns,
+    whose meanings were the same for all clients,
+    and were therefore stored in normal database columns
+    for this program.&nbsp;
+    I made it store
+    attributes whose meanings <i>varied</i> by client,
+    and objects' memberships in
+    custom hierarchies
+    decided by the client.&nbsp;
+    The custom ("ad-hoc") attributes
+    were stored in PostgreSQL HSTOREs,
+    and the hierarchies in a tree fashion using the Ancestry gem.
+    Both were wrapped in 
+    additional layers to enable
+    constraining a search to
+    a particular timeframe.</li>
+
+  <li>Added an "options" endpoint
+    that returns
+    the names and values for assorted options, including
+    those ad-hoc attributes and custom hierarchies.</li>
+
+  <li>Added the ability to download query results in CSV format.</li>
+
+  <li>Added the ability to
+    allow fixture types to "act as" another type,
+    so that when the latter is
+    queried, the former is included.</li>
+
+  <li>Added the ability to
+    allow the client to
+    ask for "sets" of certain types of fixtures,
+    by designating that
+    fixtures of a given type
+    "count as"
+    some fraction of a full fixture.&nbsp;
+    This also worked in reverse,
+    allowing the client to
+    designate that
+    fixtures of a given type
+    "count as"
+    some <i>number</i> of complete fixtures.</li>
+
+  <li>Made it use the other program's database <i>directly</i>,
+    instead of its own summarized copy,
+    negating the prior need for
+    special treatment of
+    client-varying attributes,
+    custom groupings,
+    receiving item updates over RabbitMQ,
+    the "options" endpoint,
+    and other complications.</li>
+
+  <li>That in turn required
+    modifying the multi-tenancy arrangement,
+    from switching <i>schemas</i> to switching <i>entire databases</i>
+    (albeit not <i>servers</i>),
+    even though we were still using PostgreSQL,
+    which does support separate schemas.</li>
+
+  <li>Made it use the other program's <i>tables</i> directly,
+    rather than a <i>view</i>
+    as done previously,
+    which was severely impacting performance,
+    as proven when I:</li>
+
+  <li>Wrote a program to
+    create and benchmark
+    queries done various different ways
+    (such as with a view involving many tables
+    versus joining tables only as needed),
+    and used it to create benchmark spreadsheets.</li>
+
+  <li>Unified the different kinds of queries into one,
+    reducing redundancy in
+    both the "production" codebase and the test suite.</li>
+
+  <li>Updated Capistrano deployment process and files.</li>
+
+  <li>Removed multi-tenancy,
+    opting to have one installation per client,
+    not sharing any more.</li>
+
+  <li>Helped define several new syntax parts for the query language.</li>
+
+  <li>Helped define new request authentication process.</li>
+
+  <li>Fixed some bugs affecting development and testing.</li>
+
+  <li>Fixed a bug preventing referrer-based authentication in cases where the
+    tenant database name did not follow a strict assumption made by prior
+    developers, which was impossible to follow in the test lab environment.</li>
+
+  <li>Fixed a bug creating different cache keys for searches with identical
+    parameters just mentioned in a different order.</li>
+
+  <li>Made it
+    an <i>engine</i>
+    to be used inside the other program,
+    including <i>down</i>grading from Rails 4.2 to 3.0,
+    resolving other conflicts,
+    and packaging it as a gem.</li>
+
+</ul>
+
+<p>
+The second one is
+their "flagship" application,
+under constant active development
+by a large-ish team.&nbsp;
+I worked on it while they had some
+decisions to make
+about the first one.&nbsp;
+This one is for
+planning
+floor layouts for
+chains of
+retail sales stores
+and other such
+consumer service centers,
+such as
+banks,
+big-box retailers,
+and
+cellphone stores.&nbsp;
+For this one, I:</p>
+
+<ul>
+
+  <li>Made it filter a list of "planograms"
+    (arrangements of content on fixtures)
+    according to
+    what category or more specific type of merchandise they're about,
+    what sales campaign they were last updated in,
+    and/or
+    how that update was done.</li>
+
+  <li>Added an icon and highlighting to planograms with unseen changes
+    in that same list,
+    and let users filter and sort by that status.</li>
+
+  <li>Removed those markings
+    when a user
+    clicks on the planogram
+    in the list,
+    to load it into the editor,
+    unless the user has certain "stealth" permissions.
+  </li>
+
+  <li>Added an approval checkbox
+    to the planograms in that list,
+    including
+    making adding/removing approval
+    also mark it as "seen",
+    unless the user has certain "stealth" permissions.
+  </li>
+
+  <li>Changed which fields were imported,
+    and some calculations from those fields,
+    during CSV import processing.
+  </li>
+
+  <li>Made some reports
+    exclude lines about
+    locations outside of
+    chosen campaign
+    or
+    chosen location filter
+    (they were previously cluttered with all locations).</li>
+
+  <li>Made ingestion of client data feed
+    add
+    some more data
+    to the names of
+    automatically created filters.&nbsp;
+    Also made it more efficient,
+    by creating filters for
+    only the combinations of certain factors
+    that were actually used in the current file,
+    not <i>all possible</i> combinations.</li>
+
+  <li>Found and fixed a bug
+    removing too many options from a dynamic list
+    matching only a string typed by the user.</li>
+
+  <li>Found and analyzed (someone else then fixed) a bug
+    in the search for
+    sales content arrangements left over from prior sales campaigns.</li>
+
+  <li>Found root cause of a bug
+    preventing customer admins from performing certain actions;
+    can't claim credit for the fix because it was a data problem,
+    to be solved by other means.</li>
+
+  <li>Fixed bug
+    yielding incorrect counts of
+    how many copies
+    each location
+    had of
+    a given piece of content
+    for a given sales campaign.</li>
+
+</ul>
+
+<p>I also advised on matters of coding style, tools, and process, such as
+ticket granularity,
+ticket state definitions,
+and what to test in what way.</p>
+
+
+<h3>What did they say?</h3>
+
+<div class="quote">
+  Dave joined our team and made an immediate and tangible contribution
+  enhancing and extending a back-end Rails service.&nbsp; He took on complex
+  work, completed tasks with confidence and quality, and worked well both with
+  our current team and independently.&nbsp; I would go back to Dave for any RoR
+  server side work without hesitation.
+</div>
+
+<div class="quote-source">
+  -Ken Sonberg, CTO,
+  <a href="http://www.rbmtechnologies.com/" rel="nofollow" target="_new">
+    RBM Technologies</a>
+</div>
+
+
+<h3>What did I use?</h3>
+
+<p>Technologies, techniques, tools, etc. I used there:</p>
+
+<ul>
+
+  <li>
+    <a href="http://rubyonrails.org/">Ruby on Rails</a>
+    4.2
+    with
+    <a href="https://www.ruby-lang.org/">Ruby</a>
+    2.1,
+    for the query-answerer
+  </li>
+
+  <li>
+    <a href="http://rubyonrails.org/">Ruby on Rails</a>
+    3.0
+    (yes, they knew it was horribly obsolete)
+    with
+    <a href="http://www.rubyenterpriseedition.com/">Ruby Enterprise Edition</a>
+    1.8.7
+    (ditto)
+    for one version of the sales floor planner
+    and
+    <a href="https://www.ruby-lang.org/">Ruby</a>
+    2.1 for
+    another
+  </li>
+
+  <li>
+    <a href="http://haml.info/">Haml</a>
+    for views
+  </li>
+
+  <li>
+    <a href="http://rspec.info/">RSpec</a>
+    for testing
+  </li>
+
+  <li>
+    <a href="https://github.com/rails-api/active_model_serializers">ActiveModel::Serializer</a>
+    to customize the serialization format
+    broadcast by the "main program"
+    and
+    read by the "query-answerer"
+    (before we decided to use the main one's database directly)
+  </li>
+
+  <li>
+    <a href="http://www.postgresql.org/">PostgreSQL</a>
+    9.3,
+    including HSTOREs and multiple schemas
+  </li>
+
+  <li>
+    <a href="https://www.pivotaltracker.com/">Pivotal Tracker</a>
+  </li>
+
+  <li>
+    <a href="http://www.rabbitmq.com/">RabbitMQ</a>
+    3.4
+  </li>
+
+  <li>
+    <a href="http://redis.io/">Redis</a>
+    2.8
+  </li>
+
+  <li>
+    <a href="https://plus.google.com/hangouts/">Google Hangouts</a>
+    for daily standup meetings
+  </li>
+
+  <li>
+    Initially
+    <a href="http://www.skype.com/en/">Skype</a>,
+    then later
+    <a href="https://slack.com/">Slack</a>,
+    for person-to-person IM plus
+    chat rooms</li>
+
+  <li>
+    <a href="https://github.com/influitive/apartment">Apartment</a>
+    to switch schemas within a database, and later entire databases
+  </li>
+
+  <li>
+    <a href="http://capistranorb.com/">Capistrano</a>
+    for deployment
+  </li>
+
+</ul>

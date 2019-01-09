@@ -1,0 +1,280 @@
+---
+layout: default
+title: OnLife Health
+style: client-page
+---
+
+<div class="client-logo-div">
+  <a href="https://onlifehealth.com/" rel="nofollow" target="_new">
+    <img src="/assets/img/onlifeHealth-logo.jpg" class="client-logo"/></a>
+  &nbsp;via&nbsp;
+  <a href="http://www.ravetec.com/" rel="nofollow" target="_new">
+    <img src="/assets/img/ravetec-logo.png"
+         class="client-logo needs-border"
+         style="background: black"
+         title="Ravetec"></a>
+</div>
+
+<h3>Who are they?</h3>
+
+<p><a href="https://onlifehealth.com/" rel="nofollow" target="_new">
+  Onlife Health</a>,
+based in Brentwood, Tennessee, USA, is a
+health and wellness company.&nbsp;
+Their clients are
+insurance carriers,
+who insure
+employees of
+<i>their</i> client companies.&nbsp;
+Onlife offers those employees ("members") services such as
+advice, health assessments,
+help setting and tracking health-related goals,
+and one-on-one coaching.</p>
+
+<h3>What did I do, when, where?</h3>
+
+<p>I worked there,
+in a staff-augmentation role on their team,
+from March to September 2014,
+100% remotely (as did about half the people),
+via <a href="http://www.ravetec.com/" rel="nofollow" target="_new">
+  RaveTec</a>.&nbsp;
+Specifically, I worked on the
+coach-facing section of their portal,
+adding features,
+fixing bugs,
+reviewing code,
+helping define/refine the processes,
+documenting things,
+etc.&nbsp;
+For instance, I:
+
+<ul>
+
+  <li>
+    Added multi-selectability to the filters on the coaches' caseload lists
+  </li>
+
+  <li>
+    Added and fixed filters there
+  </li>
+
+  <li>
+    Added the ability for the coach to
+    order nicotine replacement therapy materials
+    (including exporting the order to the fulfillment center)
+  </li>
+
+  <li>
+    Made it show the coach the name of the group a calling member belongs to
+    (integrating with the Avaya phone system via SOAP)
+  </li>
+
+  <li>
+    Made it close out a member's courses and goals
+    when they opt out of the coaching program
+  </li>
+
+  <li>
+    Made it preserve basic formatting of multi-paragraph text
+  </li>
+
+  <li>
+    Fixed a race condition between the coach caseload item
+    insertion and deletion of Resque background jobs
+  </li>
+
+  <li>
+    Fixed many timezone based problems plaguing the widely distributed team
+  </li>
+
+  <li>
+    Tweaked various UI bits so that users could not enter data
+    that would cause problems
+  </li>
+
+  <li>
+    Centralized documentation on how to set up a development environment
+    (there were <i>several</i> OLH-specific programs that needed to be running,
+    and a few add-ons like Rabbit and Resque)
+  </li>
+
+  <li>
+    Documented how to navigate via the parent company's VPN
+    to the required compliance training
+  </li>
+
+  <li>
+    Introduced the use of
+    <a href="http://screencast.com/" rel="nofollow" target="_new">Jing</a>
+    for demos of bug fixes and new features,
+    making QA approval and the end-of-sprint demo a breeze
+    (QA had already been using it, but only to make screencasts of bugs)
+  </li>
+
+</ul>
+
+and much more.</p>
+
+<p>Unfortunately, since my work was all on the <i>coach-facing</i> part, I
+can't show you my work products in action, unless you get them to hire you as a
+coach!&nbsp; ;-)</p>
+
+
+<h3>What did they say?</h3>
+
+<div class="quote">I worked with Dave while at Onlife Health.&nbsp; He always
+  was impressive with his knowledge of Development.&nbsp; It took him very
+  little time to be a contributing member of the team despite being 100%
+  remote.</div>
+
+<div class="quote-source">-Fred Bidel, Product Owner</div>
+
+
+<h3>What did I use?</h3>
+
+<p>Technologies, techniques, tools, etc. I used there:</p>
+
+<ul>
+
+  <li>
+    <a href="http://rubyonrails.org/" rel="nofollow" target="_new">
+      Ruby on Rails</a>
+    3.2
+    (with
+    <a href="https://www.ruby-lang.org" rel="nofollow" target="_new">
+      Ruby</a>
+    1.9)
+  </li>
+ 
+  <li>
+    Occasional bits of
+    <a href="", "https://angularjs.org/" rel="nofollow" target="_new">
+      Angular JS</a>
+  </li>
+
+  <li>Adding things to the
+    <a href="https://en.wikipedia.org/wiki/Representational_state_transfer"
+       rel="nofollow" target="_new">
+      REST</a>
+    API to integrate with the
+    <a href="https://angularjs.org/" rel="nofollow" target="_new">
+      Angular</a>
+    front-end
+  </li>
+
+  <li>
+    <a href="http://rspec.info/" rel="nofollow" target="_new">RSpec</a>
+    and
+    <a href="http://jasmine.github.io/" rel="nofollow" target="_new">Jasmine</a>
+    for testing
+  </li>
+
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)"
+       rel="nofollow" target="_new">
+      Scrum</a>,
+    on a two-week sprint cycle
+  </li>
+
+  <li>
+    a private
+    <a href="https://github.com/" rel="nofollow" target="_new">Github</a>
+    account for source control, and peer review via
+    <a href="https://help.github.com/articles/using-pull-requests/"
+       rel="nofollow" target="_new">
+      pull requests</a>
+  </li>
+
+  <li>
+    <a href="http://www.jetbrains.com/teamcity/" rel="nofollow" target="_new">
+      Team City</a>
+    for
+    <a href="https://en.wikipedia.org/wiki/Continuous_integration")
+       rel="nofollow" target="_new">
+      CI (Continuous Integration)
+  </li>
+
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Test-driven_development"
+       rel="nofollow" target="_new">
+      TDD (Test Driven Development)</a>
+    or
+    <a href="https://en.wikipedia.org/wiki/Behavior-driven_development"
+       rel="nofollow" target="_new">
+      BDD (Behavior Driven Development)</a>,
+    for everything
+  </li>
+
+  <li>
+    Pair programming as often and as best as we could,
+    given the time zone differences,
+    with tools like
+    <a href="https://github.com/tmux/tmux" rel="nofollow" target="_new">
+      tmux</a>,
+    <a href="http://www.skype.com/en/" rel="nofollow" target="_new">
+      Skype</a>,
+    and
+    <a href="https://screenhero.com/" rel="nofollow" target="_new">
+      Screen Hero</a>
+    (while it was still free)
+  </li>
+
+  <li>
+    first
+    <a href="http://www.pivotaltracker.com/" rel="nofollow" target="_new">
+      Pivotal Tracker</a>
+    and then
+    <a href="https://www.atlassian.com/software/jira"
+       rel="nofollow" target="_new">
+      JIRA</a>,
+    for issue tracking
+  </li>
+
+  <li>
+    QA had already been using
+    <a href="http://screencast.com/" rel="nofollow" target="_new">Jing</a>
+    to make screencasts of bugs;
+    I introduced using it also for bug <i>fixes</i>,
+    and new features (which makes the end-of-sprint demo a breeze!)
+  </li>
+
+  <li>
+    <a href="http://www.skype.com/en/" rel="nofollow" target="_new">Skype</a>
+    and
+    <a href="https://www.google.com/+/learnmore/hangouts/"
+       rel="nofollow" target="_new">
+      Google Hangouts</a>
+    for chat rooms
+    and
+    <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)"
+       rel="nofollow" target="_new">
+      Scrum</a>
+    meetings;
+    occasionally also tried
+    <a href="https://www.fuze.com/" rel="nofollow" target="_new">Fuze</a>,
+    plus
+    <a href="https://cacoo.com/" rel="nofollow" target="_new">Cacoo</a>,
+    to make a realtime whiteboard for sprint retrospectives
+  </li>
+
+  <li>
+    a
+    <a href="https://www.atlassian.com/software/confluence"
+       rel="nofollow" target="_new">
+      Confluence</a>
+    wiki for documentation
+  </li>
+
+  <li>
+    Helping a bit with the
+    <a href="https://en.wikipedia.org/wiki/SOAP" rel="nofollow" target="_new">
+      SOAP</a>
+    (including
+    <a href="https://en.wikipedia.org/wiki/Web_Services_Description_Language"
+       rel="nofollow" target="_new">
+      WSDL</a>)
+    to integrate with Avaya telephone systems
+  </li>
+
+</ul>

@@ -1,0 +1,17 @@
+.page-title-content {
+  background: yellow;
+  padding: 0.1em 0.2em 0 0.2em;
+}
+.acrumen-table {
+  background: black;
+  color: yellow;
+  font-size: var(--h5-size);
+  line-height: var(--h3-size);
+  margin: 0 auto;
+  padding: 1em;
+}
+.acrumen-table td { vertical-align: baseline; }
+td:first-child::first-letter {
+  font-size: var(--h4-size);
+  font-weight: bold;
+}
