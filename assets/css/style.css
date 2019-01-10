@@ -15,7 +15,7 @@ body {
   color: var(--text-color);
   /* standard-width fonts, NOT VERDANA! */
   font-family: Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
-  font-size: 16pt;
+  font-size: 14pt;
   line-height: 1.5em;
   margin: 0 auto;
   max-width: var(--max-width);
@@ -111,6 +111,8 @@ ol, ul {
 
 p { margin: 0.5em 0 1em 0 }
 
+table { margin: 1em auto }
+
 .alt-page-title { display: none; }
 
 .big-n-bold {
@@ -131,3 +133,5 @@ p { margin: 0.5em 0 1em 0 }
   margin: 1em auto;
   padding: 0.5em 1.5em;
 }
+
+.numeric { text-align: right; }
