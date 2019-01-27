@@ -115,6 +115,8 @@ table { margin: 1em auto }
 
 .alt-page-title { display: none; }
 
+.big { font-size: var(--h5-size); }
+
 .big-n-bold {
   font-size: var(--h5-size);
   font-weight: bold;
@@ -134,4 +136,8 @@ table { margin: 1em auto }
   padding: 0.5em 1.5em;
 }
 
+.center { text-align: center; }
+
 .numeric { text-align: right; }
+
+.small { font-size: calc(1em / var(--header-ratio)); }
