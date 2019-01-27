@@ -117,10 +117,7 @@ table { margin: 1em auto }
 
 .big { font-size: var(--h5-size); }
 
-.big-n-bold {
-  font-size: var(--h5-size);
-  font-weight: bold;
-}
+.bold { font-weight: bold; }
 
 .card {
   background: white;
@@ -141,3 +138,5 @@ table { margin: 1em auto }
 .numeric { text-align: right; }
 
 .small { font-size: calc(1em / var(--header-ratio)); }
+
+.squished { line-height: 1em; }
