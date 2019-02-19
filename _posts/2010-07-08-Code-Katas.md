@@ -51,11 +51,11 @@ def chop1 tgt, arr
   # TODO: check for empty array
   hi = arr.length - 1
   lo = 0
-  while hi &gt;= lo do
+  while hi >= lo do
      mid = (hi + lo) / 2
      test = arr[mid]
-     if test &lt; tgt: lo = mid + 1
-     elsif test &gt; tgt: hi = mid - 1
+     if test < tgt: lo = mid + 1
+     elsif test > tgt: hi = mid - 1
      else return mid
      end
   end
@@ -75,7 +75,7 @@ def chop2_helper tgt, arr, min, max
   test = arr[slot]
   if test == tgt: slot
   elsif min == max: -1
-  elsif test &lt; tgt: chop2_helper tgt, arr, slot + 1, max
+  elsif test < tgt: chop2_helper tgt, arr, slot + 1, max
   else chop2_helper tgt, arr, min, slot - 1
   end
 end
@@ -97,7 +97,7 @@ end
 def chop3_pass_test tgt, arr, mid, test
   if test == tgt: mid
   elsif mid == 0: -1
-  elsif test &lt; tgt
+  elsif test < tgt
     chop3_fix_offset mid + 1, chop3(tgt, arr[mid + 1 .. arr.length])
   else chop3 tgt, arr[0 .. mid - 1]
   end
@@ -129,7 +129,7 @@ end
 def chop4_pass_midval tgt, arr, min, max, midpt, midval
   if midval == tgt: midpt
   elsif min == max: -1
-  elsif midval &lt; tgt: chop4_helper tgt, arr, midpt + 1, max
+  elsif midval < tgt: chop4_helper tgt, arr, midpt + 1, max
   else chop4_helper tgt, arr, min, midpt - 1
   end
 end
@@ -140,7 +140,7 @@ end
 
 require 'test/unit'
 
-class TC_MyTest &lt; Test::Unit::TestCase
+class TC_MyTest < Test::Unit::TestCase
 
   def setup
     @arr = [ 0, 1, 2, 3, 5, 8, 13, 21, 34 ]  # fibonacci, btw
