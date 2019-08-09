@@ -5,8 +5,8 @@ body {
   --h3-size:       calc(var(--h4-size) * var(--header-ratio));
   --h2-size:       calc(var(--h3-size) * var(--header-ratio));
   --h1-size:       calc(var(--h2-size) * var(--header-ratio));
-  --main-bg-color: #fcfcff;  /* not QUITE stark white, w/ a touch of blue */
-  --main-fg-color: #121;  /* not QUITE stark black, w/ a touch of green */
+  --main-bg-color: #001;
+  --main-fg-color: #efe;
   --max-width:     42em;  /* the answer! */
   --shadow-color:  #888;
   --shadow-size:   0.5em;
@@ -21,6 +21,10 @@ body {
   max-width: var(--max-width);
   padding: 1px;
 }
+
+a         { color: var(--text-color) }
+a:visited { color: var(--text-color) }
+/* a:hover   { background: #0c0 }  -- NO, interferes w/ nav hovers :-( */
 
 footer {
   font-size: 0.6em;
@@ -89,20 +93,16 @@ nav li {
   text-align: center;
   width: calc(var(--max-width) / var(--nav-ems) / var(--num-nav-links) - 2px);
 }
-nav li:hover {
-  background: green;
-}
 
-nav a {
-  border: 0px solid var(--main-fg-color);
+nav li:hover { background: #0c0; }
+
+nav a, nav a:visited {
   color: var(--main-bg-color);
   display: block;
+  font-weight: bold;
   padding: 0.25em 0;
 }
-nav a:hover {
-  font-weight: bold;
-  text-transform: uppercase;
-}
+nav a:hover { text-transform: uppercase; }
 
 ol, ul {
   margin: 0.5em 0 1em 0;
@@ -112,6 +112,10 @@ ol, ul {
 p { margin: 0.5em 0 1em 0 }
 
 table { margin: 1em auto }
+table td,th {
+  margin:  0 0.5em;
+  text-align: left;
+}
 
 .alt-page-title { display: none; }
 
