@@ -9,5 +9,5 @@
   margin-left: 1em;
 }
 .skill-table td { padding: 0.5em }
-.skill-table tr:nth-child(odd)>td { background-color: #ccd; }
-.skill-table tr:nth-child(even)>td { background-color: #dde; } 
+.skill-table tr:nth-child(odd)>td { background-color: #223; }
+.skill-table tr:nth-child(even)>td { background-color: #334; }
