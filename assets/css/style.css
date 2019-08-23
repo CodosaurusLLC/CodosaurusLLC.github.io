@@ -73,6 +73,7 @@ nav {
   --num-nav-links: 7;
   font-weight: normal;
   font-size: calc(var(--nav-ems) * 1em);
+  margin-bottom: 0.5em;
 }
 
 nav ul {
@@ -80,7 +81,7 @@ nav ul {
   flex-wrap: wrap;
   line-height: 1.2em;
   list-style-type: none;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -91,7 +92,7 @@ nav li {
   border-radius: calc(var(--nav-ems) * 1em);
   margin: 1px;
   text-align: center;
-  width: calc(var(--max-width) / var(--nav-ems) / var(--num-nav-links) - 2px);
+  width: calc(var(--max-width) / var(--num-nav-links));
 }
 
 nav li:hover { background: var(--link-hover-bg-color); }
