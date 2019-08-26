@@ -55,7 +55,7 @@ header {
   text-align:  center;
 }
 
-header img { border-radius: 0.5em; }
+header img { border-radius: 1em; }
 
 header .dave-pic      { max-width: 36vw; }
 header .dino-pic      { max-width: 48vw; }
@@ -69,10 +69,9 @@ header .header-dino   {
 li { margin: 0.5em 0 }
 
 nav {
-  --nav-ems: 0.75;
   --num-nav-links: 7;
   font-weight: normal;
-  font-size: calc(var(--nav-ems) * 1em);
+  font-size: 0.75em;
   margin-bottom: 0.5em;
 }
 
@@ -89,7 +88,7 @@ nav ul {
 
 nav li {
   background: var(--main-fg-color);
-  border-radius: calc(var(--nav-ems) * 1em);
+  border-radius: 0.5em;
   margin: 1px;
   text-align: center;
   width: calc(var(--max-width) / var(--num-nav-links));
@@ -97,16 +96,15 @@ nav li {
 
 nav li:hover { background: var(--link-hover-bg-color); }
 
-nav a, nav a:visited {
+nav a {
+  border-radius: 0.5em;
   color: var(--inverted-link-color);
   display: block;
   font-weight: bold;
   padding: 0.25em 0;
 }
-nav a:hover {
-  border-radius: calc(var(--nav-ems) * 1em);
-  text-transform: uppercase;
-}
+nav a:visited { color: var(--inverted-link-color); }
+nav a:hover { text-transform: uppercase; }
 
 ol, ul {
   margin: 0.5em 0 1em 0;
