@@ -69,7 +69,6 @@ header .header-dino   {
 li { margin: 0.5em 0 }
 
 nav {
-  --num-nav-links: 7;
   font-weight: normal;
   font-size: 0.75em;
   margin-bottom: 0.5em;
@@ -87,11 +86,12 @@ nav ul {
 }
 
 nav li {
+  --num-nav-links: 7;
   background: var(--main-fg-color);
   border-radius: 0.5em;
   margin: 1px;
   text-align: center;
-  width: calc(var(--max-width) / var(--num-nav-links));
+  width: calc(var(--max-width) / (var(--num-nav-links) - 1) - 2px);
 }
 
 nav li:hover { background: var(--link-hover-bg-color); }
