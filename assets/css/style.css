@@ -63,7 +63,7 @@ header .header-dave   { float: left; }
 header .header-center { float: none; }
 header .header-dino   {
   float:  right;
-  height: 231px;  /* same as other, to keep header aligned */
+  height: 228px;  /* same as other, to keep header aligned */
 }
 
 li { margin: 0.5em 0 }
