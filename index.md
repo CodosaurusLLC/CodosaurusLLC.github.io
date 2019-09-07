@@ -4,7 +4,7 @@ title: Home
 ---
 
 # I help companies write better software faster.
-{:class="card" style="margin-bottom: var(--shadow-size)"}
+{:class="card"}
 
 (Mainly established American
 [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service){:rel="nofollow" target="_new"}
