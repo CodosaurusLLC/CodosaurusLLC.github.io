@@ -91,7 +91,7 @@ nav li {
   border-radius: 0.5em;
   margin: 1px;
   text-align: center;
-  width: calc(100% / var(--num-nav-links) - 2px);
+  width: calc((100% / var(--num-nav-links)) - 2px);
 }
 
 nav li:hover { background: var(--link-hover-bg-color); }
@@ -133,7 +133,7 @@ table td,th {
   display: table;  /* wtf, this is how to make it honor side-margins auto?! */
   line-height: 1.5em;
   margin: 1em auto;
-  padding: 0.5em 1.5em;
+  padding: 0.5em 1em;
 }
 
 .card a { color: #009 }

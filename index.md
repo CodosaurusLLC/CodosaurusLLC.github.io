@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# I help companies write better software faster.
+## I help companies write better software faster.
 {:class="card"}
 
 (Mainly established American
