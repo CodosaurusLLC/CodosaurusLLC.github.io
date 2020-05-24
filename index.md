@@ -20,6 +20,7 @@ Do you have:
 - inefficient development processes,
 - questions on how your code could be improved, or
 - a need for some extra help to Get Stuff Done?
+- (Or maybe a conference or podcast, in need of speakers or guests?)
 
 If so, then
 [**let The Codosaurus help!**](/contact)&nbsp;
@@ -52,3 +53,5 @@ I provide the following services:
   for a fixed price after [roadmapping](/services/roadmaps),
   as staff-aug as part of [team advice](/services/advice),
   or just to help you get it done.
+
+- And I [**speak**](/speaking){:class="big"} at conferences and on podcasts.
