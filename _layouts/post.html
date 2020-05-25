@@ -10,25 +10,21 @@ style: post
   <hr/>
 
   <div class="post-meta">
-    <div class="last-update">
-      {%- if page.original-date -%}
-        Original Date:
-        <time>{{ page.original-date | date: site.date_format }}</time>;
-        Last&nbsp;Updated:
-      {%- else -%}
-        Date:
-      {%- endif -%}
-      <time>{{ page.date | date: site.date_format }}</time>
-    </div>
-    <div class="rss-link"><a href="/feed.xml">RSS</a></div>
-    <div class="tag-list">
-      <center>
-        Tags:
-        {% for tag in page.tags %}
-          <a href="/blog/tags/{{ tag }}">{{ tag }}</a>
-        {% endfor %}
-      </center>
-    </div>
+    {%- if page.original-date -%}
+      Posted
+      <time>{{ page.original-date | date: site.date_format }}</time>,
+      Updated&nbsp;
+    {%- else -%}
+      Date:
+    {%- endif -%}
+    <time>{{ page.date | date: site.date_format }}</time>
+    <br/>
+      Tags:
+      {% for tag in page.tags %}
+        <a href="/blog/tags/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    <br/>
+    <a href="/feed.xml">RSS Feed</a>
   </div>
 
   <br clear="both" />

@@ -1,5 +1,7 @@
 ---
+date: 2018-01-01
 layout: post
+original-date: 2018-01-01
 title: Welcome!
 permalink: blog/welcome
 tags: meta

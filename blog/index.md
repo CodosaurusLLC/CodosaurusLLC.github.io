@@ -18,8 +18,8 @@ plus some new ones.
     <tr>
       <th>Title</th>
       <th>Tags</th>
-      <th>Original Date</th>
       <th>Last Update</th>
+      <th>Original Date</th>
     </tr>
   </thead>
   <tbody>
@@ -33,10 +33,10 @@ plus some new ones.
           <a href="/blog/tags/{{ tag }}">{{ tag }}</a>
         {% endfor %}
       </td>
+      <td>{{ post.date | date: site.date_format }}</td>
       <td>
         {{ post.original-date | default: post.date | date: site.date_format }}
       </td>
-      <td>{{ post.date | date: site.date_format }}</td>
     </tr>
     {%- endfor -%}
   </tbody>
