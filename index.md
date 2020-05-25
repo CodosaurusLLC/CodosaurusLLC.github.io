@@ -37,7 +37,7 @@ I provide the following services:
   to help them work <i>efficiently</i>.
 
 - [**Training your developers**](/services/training){:class="big"}
-  how to write better software faster,
+  how to write _better software faster_,
   saving money on
   rework, fixing, and support.
 
