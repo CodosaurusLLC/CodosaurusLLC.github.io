@@ -20,20 +20,19 @@ function mead_calc() {
                      og.toFixed(3) + '%,');
   var str = ('based on ' + honey_pounds + ' pounds of honey in ' +
         total_gallons.toFixed(2) + ' gallons total volume');
-  if(boost) str += ',\nplus a boost of ' + boost + ' from other fermentables';
+  if (boost) str += ',\nplus a boost of ' + boost + ' from other fermentables';
   result_pieces.push(str + '.');
 
   var abv_max = (og - 1) / .007;
-  str = 'That\'s enough sugar to reach ' + abv_max.toFixed(1) + '% ABV, ';
-  if (abv_max <= tolerance) str += 'which your yeast can do.';
-  else str += 'but your yeast can only handle ' + tolerance + '%.';
-  result_pieces.push(str);
+  result_pieces.push('That\'s enough sugar to reach ' +
+                     abv_max.toFixed(1) + '% ABV,');
+  if (abv_max <= tolerance) result_pieces.push('which your yeast can do.');
+  else result_pieces.push('but your yeast can only handle ' + tolerance + '%.');
   var abv_net = Math.min(abv_max, tolerance);
   var fg = og - .007 * abv_net;
   result_pieces.push('So, it should finish with an ABV of about ' +
-                     abv_net.toFixed(1) + 
-                     ', and an SG of about ' + fg.toFixed(3) + '.');
-
+                     abv_net.toFixed(1) + ',', 
+                     'and an SG of about ' + fg.toFixed(3) + '.');
   document.getElementById('results').innerText = result_pieces.join('\n');
 }
 

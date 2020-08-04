@@ -4,21 +4,52 @@ title: Sum of a Batch!
 style: sum-of-a-batch
 ---
 <script src="/assets/sum-of-a-batch.js" type="text/javascript"></script>
-
-<input type="text" id="honey"> pounds of <i>uncaramelized</i> honey
 <br/>
-<input type="text" id="gallons">
-gallons of
-<input type="radio" name="size_type" id="water" value="water" checked
-                                                onClick="set_radio_size(this)">
-<label for="water">water</label>, or
-<input type="radio" name="size_type" id="volume" value="volume"
-                                                 onClick="set_radio_size(this)">
-<label for="volume">total volume</label>
+<div id="ingredient-list">
+  I want to make a batch of mead, using:
+  <br/>
+  <input type="text" id="honey" autofocus> pounds of <i>uncaramelized</i> honey
+  <br/>
+  <input type="text" id="gallons">
+  gallons of
+  <input type="radio" name="size_type" id="water" value="water" checked
+         onClick="set_radio_size(this)">
+  <label for="water">water</label>, or
+  <input type="radio" name="size_type" id="volume" value="volume"
+         onClick="set_radio_size(this)">
+  <label for="volume">total volume</label>
+  <br/>
+  <input type="text" id="boost"> SG boost from any other fermentable sugars
+  <br/>
+  <input type="text" id="tolerance">% alcohol tolerance of the yeast
+  <br/>
+  <button onClick="mead_calc()">Calculate!</button>
+</div>
 <br/>
-<input type="text" id="boost"> SG boost from any other fermentable sugars
-<br/>
-<input type="text" id="tolerance">% alcohol tolerance of the yeast
-<br/>
-<button onClick="mead_calc()">Calculate!</button>
 <div id="results"></div>
+<br/>
+<div id="future-features">
+  Features I <i>may</i> add later include:
+  <ul>
+    <li>
+      A list of things you can add amounts of,
+      including calculating their effects on the fermentable sugars
+    </li>
+    <li>A list of known yeasts, with preset tolerances</li>
+    <li>Rough estimate <i>how long</i> it will take to ferment</li>
+    <li>
+      Ability to create an account,
+      save recipes,
+      make batches,
+      and record actual SG readings,
+      all with further notes
+    </li>
+  </ul>
+  Feel free to get in touch and tell me which of these,
+  or other feature ideas,
+  you really want.&nbsp;
+  Mind you, the more work it is for me,
+  the more likely I'll charge money for it!
+</div>
+<br/>
+<br/>

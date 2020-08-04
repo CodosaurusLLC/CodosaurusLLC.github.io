@@ -1,5 +1,13 @@
-main {
+main { line-height: 1.5em; }
+div#ingredient-list {
+  font-size: 1.5em;
+  line-height: 2em;
+}
+div#results {
   font-size: 1.2em;
   line-height: 1.5em;
 }
-input[type=text] { width: 3em; }
+input[type=text] {
+  vertical-align: text-bottom;
+  width: 3em;
+}
