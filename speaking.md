@@ -22,6 +22,11 @@ The topics I _currently_ have talks prepared for are:
 definition of software quality.</span>&nbsp;
 This is completely technology-agnostic; in fact there is not even any code!&nbsp;
 I have presented full-length talks on this at
+six conferences and
+assorted Washington DC area Meetups,
+gave five-minute "lightning" talks on it at a couple other conferences,
+and discussed it on a podcast.&nbsp;
+<!--
 [Little Rock Tech Fest](http://www.lrtechfest.com/){:rel="nofollow" target="_new"} 2019,
 [American Mensa Annual Gathering](https://ag.us.mensa.org/){:rel="nofollow" target="_new"} 2019,
 [Software Process Advancement](https://www.spaconference.org/){:rel="nofollow" target="_new"} 2019,
@@ -41,7 +46,7 @@ for
 and
 as a backup speaker for
 [RubyNation](http://www.rubynation.org/){:rel="nofollow" target="_new"}
-2018 but no slots opened.)&nbsp;
+2018 but no slots opened.)&nbsp; -->
 The best videos are the 
 [five-minute "lightning talk" version](https://www.youtube.com/embed/YMoa5JpjEtM?start=4080&end=4355)
 from
@@ -55,6 +60,13 @@ from
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:class="big bold"}.&nbsp;
 I have presented full-length talks on this at
+seven conferences and a remote Meetup,
+and discussed it on two podcasts.&nbsp;
+I'm also slated to give a full-length talk on it at 
+[WeAreDevelopers World Congress](https://www.wearedevelopers.com/events/world-congress/){:rel="nofollow" target="_new"} 2021.&nbsp;
+<!--
+[DevTalks Bucharest/Reimagined](https://www.devtalks.ro/bucharest/){:rel="nofollow" target="_new"}
+2020,
 [JSConf Hawai'i](https://www.jsconfhi.com/){:rel="nofollow" target="_new"} 2020,
 [RubyConf](https://rubyconf.org/){:rel="nofollow" target="_new"} 2019,
 [Heartland Devconf](https://aiminstitute.org/hdc/){:rel="nofollow" target="_new"} 2019,
@@ -67,10 +79,6 @@ and talked about it on
 and
 [the Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/){:rel="nofollow" target="_new"}
 episode 459 (May 2020).&nbsp;
-I _will_ be presenting this at
-[DevTalks Bucharest/Reimagined](https://www.devtalks.ro/bucharest/){:rel="nofollow" target="_new"}
-2020 and
-[WeAreDevelopers World Congress](https://www.wearedevelopers.com/events/world-congress/){:rel="nofollow" target="_new"} 2021.&nbsp;
 (I was also selected with this topic for
 [Codestock](https://www.codestock.org/){:rel="nofollow" target="_new"}
 2020
@@ -79,15 +87,15 @@ and
 2020, which were canceled, and
 [WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}
 2020, which has been postponed to an as-yet-unknown date in November,
-all due to the COVID pandemic.)&nbsp;
+all due to the COVID pandemic.)&nbsp; -->
 There is some code in this, not much and fairly simple,
 mainly brief snippets to test, mutations of it, and tests.&nbsp;
-As you may have guessed, I have prepared versions of this in
+<!-- As you may have guessed, -->
+I have prepared versions of this in
 [Ruby](https://www.ruby-lang.org/en/){:rel="nofollow" target="_new"},
 JavaScript,
-and
 [Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
-plus also language-agnostic pseudocode.&nbsp;
+and language-agnostic pseudocode.&nbsp;
 The best videos are
 [the 39-minute one from RubyConf 2019](https://www.youtube.com/watch?v=9GId6mFL0_c){:rel="nofollow" target="_new"}
 and
