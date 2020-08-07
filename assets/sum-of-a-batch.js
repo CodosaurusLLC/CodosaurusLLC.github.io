@@ -17,7 +17,7 @@ function mead_calc() {
   var total_pounds = water_gallons * WATER_POUNDS_PER_GALLON + honey_pounds;
   var og = total_pounds / total_gallons / WATER_POUNDS_PER_GALLON + boost;
   result_pieces.push('That batch should start with an SG of about ' +
-                     og.toFixed(3) + '%,');
+                     og.toFixed(3) + ',');
   var str = ('based on ' + honey_pounds + ' pounds of honey in ' +
         total_gallons.toFixed(2) + ' gallons total volume');
   if (boost) str += ',\nplus a boost of ' + boost + ' from other fermentables';
