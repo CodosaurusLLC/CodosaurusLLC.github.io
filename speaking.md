@@ -56,7 +56,10 @@ and the
 [45-minute conference presentation version](https://www.youtube.com/watch?v=V-pYlihc6hM){:rel="nofollow" target="_new"}
 from
 [Little Rock Tech Fest](http://www.lrtechfest.com/){:rel="nofollow" target="_new"}
-2019.
+2019.&nbsp;
+(Sorry for the bad A/V quality, but that conference doesn't record the talks,
+so it's just from my phone on a tripod.&nbsp;
+One of these days I'll do a clean screencast or something.)
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:class="big bold"}.&nbsp;
 I have presented full-length talks on this at
@@ -96,10 +99,20 @@ I have prepared versions of this in
 JavaScript,
 [Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
 and language-agnostic pseudocode.&nbsp;
-The best videos are
-[the 39-minute one from RubyConf 2019](https://www.youtube.com/watch?v=9GId6mFL0_c){:rel="nofollow" target="_new"}
+The best videos, in increasing length, are
+[the 22-minute one](https://www.youtube.com/watch?v=yNMBOj7JUPs){:rel="nofollow" target="_new"}
+from
+[JSConf Hawai'i](https://www.jsconfhi.com/){:rel="nofollow" target="_new"}
+2020,
+[the 31-minute one](https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790){:rel="nofollow" target="_new"}
+from
+[DevTalks Bucharest/Reimagined](https://www.devtalks.ro/bucharest/){:rel="nofollow" target="_new"}
+2020,
 and
-[the 22-minute one from JSConf Hawai'i 2020](https://www.youtube.com/watch?v=yNMBOj7JUPs){:rel="nofollow" target="_new"}.
+[the 39-minute one](https://www.youtube.com/watch?v=9GId6mFL0_c){:rel="nofollow" target="_new"}
+from
+[RubyConf](http://rubyconf.org/){:rel="nofollow" target="_new"}
+2019.
 
 - <span class="big bold">Ruby "gotchas"</span>,
 i.e., nasty surprises in the
