@@ -31,11 +31,20 @@ function mead_calc() {
   var abv_net = Math.min(abv_max, tolerance);
   var fg = og - .007 * abv_net;
   result_pieces.push('So, it should finish with an ABV of about ' +
-                     abv_net.toFixed(1) + ',', 
-                     'and an SG of about ' + fg.toFixed(3) + '.');
+                     abv_net.toFixed(1) + '%,', 
+                     'and an SG of about ' + fg.toFixed(3) +
+                     ', which is considered ' + sweetness(fg) + '.');
   document.getElementById('results').innerText = result_pieces.join('\n');
 }
 
+function sweetness(fg) {
+  if (fg < 1.000) return 'dry';
+  if (fg < 1.010) return 'medium-dry';
+  if (fg < 1.020) return 'medium-sweet';
+  if (fg < 1.030) return 'sweet';
+  if (fg < 1.040) return 'dessert';
+  return 'very sweet';
+}
 
 window.size_type = 'water';
 function set_radio_size(element) {
