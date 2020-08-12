@@ -38,9 +38,10 @@ function mead_calc() {
 }
 
 function sweetness(fg) {
+  if (fg < 0.090) return 'very dry';
   if (fg < 1.000) return 'dry';
-  if (fg < 1.010) return 'medium-dry';
-  if (fg < 1.020) return 'medium-sweet';
+  if (fg < 1.010) return 'semi-dry';
+  if (fg < 1.020) return 'semi-sweet';
   if (fg < 1.030) return 'sweet';
   if (fg < 1.040) return 'dessert';
   return 'very sweet';
