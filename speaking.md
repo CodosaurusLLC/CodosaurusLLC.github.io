@@ -134,5 +134,5 @@ _property-based_ testing,
 and perhaps one on both property _and_ mutation testing,
 plus any other weird testing tricks I find.
 
-Want me to speak on something not covered above?
+Want me to speak on something not covered above?&nbsp;
 Ask me, and we'll see.
