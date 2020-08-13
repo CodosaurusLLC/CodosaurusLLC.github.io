@@ -1,13 +1,27 @@
-main { line-height: 1.5em; }
+a, a:visited { color: #99f; }
+a:hover {
+  background: yellow;
+  color: black;
+}
+
+body {
+  background: black;
+  color: yellow;
+}
+
 div#ingredient-list {
   font-size: 1.5em;
   line-height: 2em;
 }
+
 div#results {
   font-size: 1.2em;
   line-height: 1.5em;
 }
+
 input[type=text] {
   vertical-align: text-bottom;
   width: 3em;
 }
+
+main { line-height: 1.5em; }
