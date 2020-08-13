@@ -34,7 +34,8 @@ function mead_plan() {
                      abv_net.toFixed(1) + '%,', 
                      'and an SG of about ' + fg.toFixed(3) +
                      ', which is considered ' + sweetness(fg) + '.');
-  document.getElementById('results').innerText = result_pieces.join('\n');
+  document.getElementById('results').innerHTML =
+    result_pieces.join('<br/>') + '<br/><br/>';
 }
 
 function sweetness(fg) {

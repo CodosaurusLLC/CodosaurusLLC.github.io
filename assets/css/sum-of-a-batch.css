@@ -1,22 +1,17 @@
-a, a:visited { color: #99f; }
+:root {
+  --bg-color: #ff0;
+  --fg-color: #000;
+}
+
+a, a:visited { color: #009; }  /* may need to change if fg/bg colors swapped */
 a:hover {
-  background: yellow;
-  color: black;
+  background: var(--fg-color);
+  color: var(--bg-color);
 }
 
 body {
-  background: black;
-  color: yellow;
-}
-
-div#ingredient-list {
-  font-size: 1.5em;
-  line-height: 2em;
-}
-
-div#results {
-  font-size: 1.2em;
-  line-height: 1.5em;
+  background: var(--bg-color);
+  color: var(--fg-color);
 }
 
 input[type=text] {
@@ -24,4 +19,7 @@ input[type=text] {
   width: 3em;
 }
 
-main { line-height: 1.5em; }
+main {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
