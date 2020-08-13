@@ -1,7 +1,7 @@
 HONEY_POUNDS_PER_GALLON = 11.94;
 WATER_POUNDS_PER_GALLON = 8.34;
 
-function mead_calc() {
+function mead_plan() {
   var honey_pounds = parseFloat(document.getElementById('honey').value) || 0;
   var gallons = parseFloat(document.getElementById('gallons').value) || 0;
   var size_type = window.size_type;
@@ -38,13 +38,15 @@ function mead_calc() {
 }
 
 function sweetness(fg) {
-  if (fg < 0.090) return 'very dry';
-  if (fg < 1.000) return 'dry';
-  if (fg < 1.010) return 'semi-dry';
+  if (fg < 0.080) return 'impossibly dry';
+  if (fg < 0.090) return 'absurdly dry';
+  if (fg < 1.000) return 'very dry';
+  if (fg < 1.010) return 'dry';
   if (fg < 1.020) return 'semi-sweet';
   if (fg < 1.030) return 'sweet';
-  if (fg < 1.040) return 'dessert';
-  return 'very sweet';
+  if (fg < 1.040) return 'very sweet';
+  if (fg < 1.050) return 'extremely sweet';
+  return 'overly sweet';
 }
 
 window.size_type = 'water';
