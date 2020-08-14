@@ -20,7 +20,9 @@ function mead_plan() {
                      og.toFixed(3) + ',');
   var str = ('based on ' + honey_pounds + ' pounds of honey in ' +
         total_gallons.toFixed(2) + ' gallons total volume');
-  if (boost) str += ',\nplus a boost of ' + boost + ' from other fermentables';
+  if (boost) {
+    str += ',<br/>plus a boost of ' + boost + ' from other fermentables';
+  }
   result_pieces.push(str + '.');
 
   var abv_max = (og - 1) / .007;
@@ -39,15 +41,11 @@ function mead_plan() {
 }
 
 function sweetness(fg) {
-  if (fg < 0.080) return 'impossibly dry';
-  if (fg < 0.090) return 'absurdly dry';
   if (fg < 1.000) return 'very dry';
   if (fg < 1.010) return 'dry';
   if (fg < 1.020) return 'semi-sweet';
   if (fg < 1.030) return 'sweet';
-  if (fg < 1.040) return 'very sweet';
-  if (fg < 1.050) return 'extremely sweet';
-  return 'overly sweet';
+  return 'very sweet';
 }
 
 window.size_type = 'water';
