@@ -5,34 +5,38 @@ style: sum-of-a-batch
 ---
 <script src="/assets/sum-of-a-batch/common.js" type="text/javascript"></script>
 <script src="/assets/sum-of-a-batch/plan.js" type="text/javascript"></script>
-<br/>
 <div>
   I want to make a batch of mead, using:
-  <br/>
-  <input type="text" id="honey" autofocus>
-  <select id="mass_unit">
-    <option value="kilos">kilos</option>
-    <option value="pounds">pounds</option>
-  </select>
-  of honey (uncaramelized)*
-  <br/>
-  <input type="text" id="water">
-  <select id="volume_unit">
-    <option value="liters">liters</option>
-    <option value="gallons">gallons</option>
-  </select>
-  of
-  <input type="radio" name="volume_type" id="of_water" value="water" checked
-         onClick="set_radio_size(this)">
-  <label for="of_water">water</label>, or
-  <input type="radio" name="volume_type" id="of_volume" value="volume"
-         onClick="set_radio_size(this)">
-  <label for="of_volume">total volume*</label>
-  <br/>
-  <input type="text" id="boost"> SG boost from any other fermentable sugars
-  <br/>
-  <input type="text" id="tolerance">% alcohol tolerance of the yeast*
-  <br/>
+  <ul>
+    <li>
+      <input type="text" id="honey" autofocus>
+      <select id="mass_unit">
+        <option value="kilos">kilos</option>
+        <option value="pounds">pounds</option>
+      </select>
+      of honey (uncaramelized)*
+    </li>
+    <li>
+      <input type="text" id="water">
+      <select id="volume_unit">
+        <option value="liters">liters</option>
+        <option value="gallons">gallons</option>
+      </select>
+      of
+      <input type="radio" name="volume_type" id="of_water" value="water"
+             onClick="set_radio_size(this)" checked>
+      <label for="of_water">water</label>, or
+      <input type="radio" name="volume_type" id="of_volume" value="volume"
+             onClick="set_radio_size(this)">
+      <label for="of_volume">total volume*</label>
+    </li>
+    <li>
+      <input type="text" id="boost"> SG boost from any other fermentable sugars
+    </li>
+    <li>
+      <input type="text" id="tolerance">% alcohol tolerance of the yeast*
+    </li>
+  </ul>
   <button onClick="mead_plan()">Calculate!</button>
   <br/>
   <small>* required values, must be greater than zero</small>
