@@ -3,6 +3,7 @@ layout: sum-of-a-batch
 title: Blend a Batch!
 style: sum-of-a-batch
 ---
+<script src="/assets/sum-of-a-batch/common.js" type="text/javascript"></script>
 <script src="/assets/sum-of-a-batch/blend.js" type="text/javascript"></script>
 <br/>
 <div>
@@ -19,11 +20,15 @@ style: sum-of-a-batch
 
   The second one has:
   <ul>
-    <li><input type="text" id="vol2"> units of volume</li>
+    <li>
+      <input type="text" id="vol2">
+      units of volume (same units as above)
+    </li>
     <li><input type="text" id="sg2"> specific gravity</li>
     <li><input type="text" id="abv2">% alcohol by volume</li>
   </ul>
   <button onClick="mead_blend()">Calculate!</button>
+  <br/><small>(All values are required)</small>
 </div>
 
 <br/>
@@ -31,7 +36,7 @@ style: sum-of-a-batch
 <div id="results"></div>
 Later I <i>may</i> add:
 <ul>
-  <li>blending an arbitrary number of batches</li>
+  <li>blending more than two batches</li>
   <li>picking batches from a dropdown list of your batches*</li>
   <li>picking batches from a list of search results*</li>
 </ul>

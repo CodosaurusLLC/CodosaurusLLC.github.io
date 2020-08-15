@@ -1,25 +1,40 @@
-HONEY_POUNDS_PER_GALLON = 11.94;
-WATER_POUNDS_PER_GALLON = 8.34;
+HONEY_SG = 1.425;
+LITERS_PER_GALLON = 3.78541;
+KILOS_PER_POUND = 0.453592;
 
 function mead_plan() {
-  var honey_pounds = parseFloat(document.getElementById('honey').value) || 0;
-  var gallons = parseFloat(document.getElementById('gallons').value) || 0;
-  var size_type = window.size_type;
-  var tolerance = parseFloat(document.getElementById('tolerance').value) || 0;
+  var errs = [];
+  var honey_mass = get_number('honey', errs);
+  var water_vol = get_number('water', errs);
+  var tolerance = get_number('tolerance', errs);
+
+  if (errs.length > 0) return alert('ERROR:\n' + errs.join('\n'));
+
+  var honey_kg = honey_mass;
+  var mass_unit = get_value('mass_unit');
+  if (mass_unit == 'pounds') honey_kg *= KILOS_PER_POUND;
+  var honey_liters = honey_kg / HONEY_SG;
+
+  var water_liters = water_vol;
+  var volume_unit = get_value('volume_unit');
+  if (volume_unit == 'gallons') water_liters *= LITERS_PER_GALLON;
+
+  if (window.size_type == 'volume') water_liters -= honey_liters;
+  else if (volume_unit == 'liters') water_vol += honey_liters;
+  else water_vol += honey_liters / LITERS_PER_GALLON;
+
+  var total_kg = water_liters + honey_kg;
+  var total_liters = water_liters + honey_liters;
+  var boost = get_number('boost', errs, true) || 0;
+  if (errs.length > 0) return alert('ERROR:\n' + errs.join('\n'));
+  var og = total_kg / total_liters + boost;
+
   var result_pieces = [];
 
-  var honey_gallons = honey_pounds / HONEY_POUNDS_PER_GALLON;
-  var water_gallons = gallons;
-  if (size_type == 'volume') water_gallons -= honey_gallons;
-  var total_gallons = water_gallons + honey_gallons;
-  var boost = parseFloat(document.getElementById('boost').value) || 0;
-
-  var total_pounds = water_gallons * WATER_POUNDS_PER_GALLON + honey_pounds;
-  var og = total_pounds / total_gallons / WATER_POUNDS_PER_GALLON + boost;
   result_pieces.push('That batch should start with an SG of about ' +
                      og.toFixed(3) + ',');
-  var str = ('based on ' + honey_pounds + ' pounds of honey in ' +
-        total_gallons.toFixed(2) + ' gallons total volume');
+  var str = ['based on', honey_mass, mass_unit, 'of honey in',
+             water_vol.toFixed(1), volume_unit, 'total volume'].join(' ');
   if (boost) {
     str += ',<br/>plus a boost of ' + boost + ' from other fermentables';
   }
@@ -40,6 +55,7 @@ function mead_plan() {
     result_pieces.join('<br/>') + '<br/><br/>';
 }
 
+
 function sweetness(fg) {
   if (fg < 1.000) return 'very dry';
   if (fg < 1.010) return 'dry';
@@ -48,8 +64,9 @@ function sweetness(fg) {
   return 'very sweet';
 }
 
+
+// horrible kluge since we can't just read the value
 window.size_type = 'water';
 function set_radio_size(element) {
   window.size_type = element.value;
 }
-

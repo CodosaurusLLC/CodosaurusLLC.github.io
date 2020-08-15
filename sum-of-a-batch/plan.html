@@ -3,33 +3,47 @@ layout: sum-of-a-batch
 title: Plan a Batch!
 style: sum-of-a-batch
 ---
+<script src="/assets/sum-of-a-batch/common.js" type="text/javascript"></script>
 <script src="/assets/sum-of-a-batch/plan.js" type="text/javascript"></script>
 <br/>
 <div>
   I want to make a batch of mead, using:
   <br/>
-  <input type="text" id="honey" autofocus> pounds of honey (uncaramelized)
+  <input type="text" id="honey" autofocus>
+  <select id="mass_unit">
+    <option value="kilos">kilos</option>
+    <option value="pounds">pounds</option>
+  </select>
+  of honey (uncaramelized)
+  *
   <br/>
-  <input type="text" id="gallons">
-  gallons of
-  <input type="radio" name="size_type" id="water" value="water" checked
+  <input type="text" id="water">
+  <select id="volume_unit">
+    <option value="liters">liters</option>
+    <option value="gallons">gallons</option>
+  </select>
+  of
+  <input type="radio" name="volume_type" id="of_water" value="water" checked
          onClick="set_radio_size(this)">
-  <label for="water">water</label>, or
-  <input type="radio" name="size_type" id="volume" value="volume"
+  <label for="of_water">water</label>, or
+  <input type="radio" name="volume_type" id="of_volume" value="volume"
          onClick="set_radio_size(this)">
-  <label for="volume">total volume</label>
+  <label for="of_volume">total volume</label>
+  *
   <br/>
   <input type="text" id="boost"> SG boost from any other fermentable sugars
   <br/>
   <input type="text" id="tolerance">% alcohol tolerance of the yeast
+  *
   <br/>
   <button onClick="mead_plan()">Calculate!</button>
+  <br/>
+  <small>* required values, must be greater than zero</small>
 </div>
 <br/>
 <div id="results"></div>
 Features I <i>may</i> add later include:
 <ul>
-  <li>Metric units</li>
   <li>
     A list of things you can add amounts of,
     including calculating their effects on the fermentable sugars

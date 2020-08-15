@@ -1,12 +1,16 @@
 function mead_blend() {
-  var vol1 = parseFloat(document.getElementById('vol1').value) || 0;
-  var vol2 = parseFloat(document.getElementById('vol2').value) || 0;
+  var errs = [];
+  var vol1 = get_number('vol1', errs);
+  var vol2 = get_number('vol2', errs);
+  var sg1 = get_number('sg1', errs);
+  var sg2 = get_number('sg2', errs);
+  var abv1 = get_number('abv1', errs);
+  var abv2 = get_number('abv2', errs);
+
+  if (errs.length > 0) return alert('ERROR:\n' + errs.join('\n'));
+
   var vol_tot = vol1 + vol2;
-  var sg1 = parseFloat(document.getElementById('sg1').value) || 0;
-  var sg2 = parseFloat(document.getElementById('sg2').value) || 0;
   var sg_avg = (sg1 * vol1 + sg2 * vol2) / vol_tot;
-  var abv1 = parseFloat(document.getElementById('abv1').value) || 0;
-  var abv2 = parseFloat(document.getElementById('abv2').value) || 0;
   var abv_avg = (abv1 * vol1 + abv2 * vol2) / vol_tot;
 
   document.getElementById('results').innerHTML = [
