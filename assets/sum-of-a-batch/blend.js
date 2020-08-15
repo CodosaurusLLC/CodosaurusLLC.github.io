@@ -4,8 +4,9 @@ function mead_blend() {
   var vol2 = get_number('vol2', errs);
   var sg1 = get_number('sg1', errs);
   var sg2 = get_number('sg2', errs);
-  var abv1 = get_number('abv1', errs);
-  var abv2 = get_number('abv2', errs);
+  var abv1 = get_number('abv1', errs, true);
+  var abv2 = get_number('abv2', errs, true);
+  if (abv1 < 0 || abv2 < 0) errs.push('ABV cannot be less than zero');
 
   if (errs.length > 0) return alert('ERROR:\n' + errs.join('\n'));
 
@@ -17,7 +18,8 @@ function mead_blend() {
     'The combined batch will have:',
     '<ul>',
     '<li>a volume of ' + vol_tot + ' units,</li>',
-    '<li>an SG of ' + sg_avg.toFixed(3) + ', and</li>',
+    '<li>an SG of ' + sg_avg.toFixed(3) + ' (' + sweetness(sg_avg) +
+         '), and</li>',
     '<li>an ABV of ' + abv_avg.toFixed(1) + '%.</li>',
     '</ul>'].join('\n');
 }

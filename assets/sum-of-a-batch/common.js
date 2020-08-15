@@ -15,3 +15,12 @@ function get_number(name, errs, blank_ok = false) {
 function get_value(name) {
   return document.getElementById(name).value;
 }
+
+
+function sweetness(fg) {
+  if (fg < 1.000) return 'very dry';
+  if (fg < 1.010) return 'dry';
+  if (fg < 1.020) return 'semi-sweet';
+  if (fg < 1.030) return 'sweet';
+  return 'very sweet';
+}

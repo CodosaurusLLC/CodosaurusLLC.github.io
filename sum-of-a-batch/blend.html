@@ -12,9 +12,9 @@ style: sum-of-a-batch
   <ul>
     <li>
       <input type="text" id="vol1" autofocus>
-      units (gallons, liters, litres, whatever) of volume
+      units (gallons, liters, litres, whatever) of volume*
     </li>
-    <li><input type="text" id="sg1"> specific gravity</li>
+    <li><input type="text" id="sg1"> specific gravity*</li>
     <li><input type="text" id="abv1">% alcohol by volume</li>
   </ul>
 
@@ -22,13 +22,13 @@ style: sum-of-a-batch
   <ul>
     <li>
       <input type="text" id="vol2">
-      units of volume (same units as above)
+      units of volume (same units as above)*
     </li>
-    <li><input type="text" id="sg2"> specific gravity</li>
+    <li><input type="text" id="sg2"> specific gravity*</li>
     <li><input type="text" id="abv2">% alcohol by volume</li>
   </ul>
   <button onClick="mead_blend()">Calculate!</button>
-  <br/><small>(All values are required)</small>
+  <br/><small>* required values, must be greater than zero</small>
 </div>
 
 <br/>
