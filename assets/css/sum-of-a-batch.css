@@ -18,6 +18,11 @@ body {
   color: var(--fg-color);
 }
 
+div.back-to-table {
+  font-size: small;
+  text-align: center;
+}
+
 input[type=text] {
   vertical-align: text-bottom;
   width: 3em;
