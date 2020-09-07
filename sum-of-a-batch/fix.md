@@ -12,7 +12,10 @@ The question now is, what to do about it?
 
 (If it's just plain nasty,
 not jet-fuel nasty which just usually means it's too dry or needs aging,
-but _raw sewage_ nasty, that _probably_ means it's infected.&nbsp;
+but _raw sewage_ nasty,
+or it smells like 
+burnt matches or rotten cabbage or burning rubber or other nasty things,
+that _probably_ means it's infected.&nbsp;
 In that case it's probably a total loss, and
 you need to pour it down the drain and
 _thoroughly_ disinfect _any_ equipment that came in contact with it.&nbsp;
@@ -74,16 +77,17 @@ Click a section to go to some more specific suggestions.
 
 If your mead is too sweet and too weak,
 there are two main causes.&nbsp;
-Check your SG and calculate the ABV from the OG
-(calculator page coming soon... ish).
+Check your SG and calculate the ABV from the OG.&nbsp;
+(Calculator page coming soon... ish.&nbsp;
+Meanwhile use: (OG - SG) / 0.007.)
 
 If the ABV is _at or above_ the yeast's alleged alcohol tolerance,
-your yeast has hit its alcohol tolerance,
+your yeast has probably hit its alcohol tolerance,
 with a lot of sugars left over.&nbsp;
 In this case,
 you can put in some yeast with a higher alcohol tolerance.&nbsp;
 The new yeast will chew through some of the sugars
-that your old yeast couldn't, fixing both problems.
+that your old yeast couldn't, fixing both problems at once.
 
 (I did this myself when I first tried making
 [Joe's Ancient Orange Mead](https://gotmead.com/blog/recipe/joes-ancient-orange-clove-and-cinnamon-mead/){:rel="nofollow" target="_new"},
@@ -95,12 +99,14 @@ to a much more drinkable 1.020.)
 If the ABV is _slightly_ short of the yeast's alleged alcohol tolerance,
 you might have simply gotten a slightly underperforming batch.&nbsp;
 Or it may be in need of nutrients.&nbsp;
+(Adding them after the start is tricky, and
+beyond the scope of this page.)&nbsp;
 Or other conditions may be less than ideal,
 such as temperatures well outside that yeast's preference.&nbsp;
 Try moving it to a place with better conditions,
-and/or adding a little bit of nutrient,
-dissolving it in a bit of water _first_ to avoid the
-"Diet Coke and Mentos effect" (aka Mead Geyser).
+and/or adding a _little_ bit of nutrient.&nbsp;
+(Dissolve it in a bit of water _first_, to avoid the
+"Diet Coke and Mentos effect", aka Mead Geyser.)
 
 If the ABV is _well_ short of the tolerance,
 you likely have a stuck fermentation.&nbsp;
@@ -115,10 +121,15 @@ possibly of a hardier strain than you started with.
 <h3>Just Too Sweet</h3>
 
 If your mead is too sweet but you like the strength,
-you can put in something to _cut_ the sweetness, like lemon juice.
+you can put in something to _cut_ the sweetness, like lemon juice.&nbsp;
+Caveat: raising the volume,
+by adding something non- or less-alcoholic,
+will lower the ABV.&nbsp;
+Alternately, you can dilute it,
+but that will lower the ABV even more.
 
-Caveat: raising the volume (without adding alcohol) will lower the ABV,
-so if the yeast went dormant because of alcohol,
+If you lower the ABV,
+_and_ the yeast went dormant because of alcohol,
 they may wake up and start fermenting again.&nbsp;
 This could _also_ help reduce the sweetness,
 but be sure to use an airlock.&nbsp;
@@ -160,17 +171,26 @@ before adding anything.
 <h3>Just Too Weak</h3>
 
 If your mead is too weak but you like the sweetness,
-again there are multiple causes, and you need to figure your ABV.
+again there are multiple causes, and you need to figure your ABV.&nbsp;
+Be aware, it may simply _taste_ weak, but actually _be_ strong,
+_especially_ when it's sweet.&nbsp;
+I'll ass-u-me you really do want it stronger than it is.
 
 In the most likely case, your yeast hit its alcohol tolerance,
 leaving a good amount of sugars unfermented,
 but not so much that you think it's too sweet.&nbsp;
-To fix this,
-you can add some more alcohol-resistant yeast
+(Otherwise you'd be looking at the "Too Sweet And Strong" section.)
+
+To fix this, you can boost it with some existing alcohol,
+like vodka or Everclear.&nbsp;
+However, I for one consider that to be cheating!&nbsp; ;-)
+
+Alternately, you can add some more alcohol-resistant yeast
 and probably some more honey.&nbsp;
-(Why add more honey?&nbsp;
-Because a lot of it will be _fermented_ by the new yeast.&nbsp;
-You need to replace that, to maintain the sweetness.)
+Why add more honey, you probably wonder?&nbsp;
+Because a lot of it will be _fermented_ by the new yeast,
+in order to boost the strength.&nbsp;
+You need to replace that, to maintain the sweetness you like.
 
 To predict how that will turn out, go to
 <a href="/sum-of-a-batch/plan.html">the batch planning calculator</a>,
@@ -199,7 +219,7 @@ If you are fine with this,
 since dilution plus further fermenting
 _may_ result in a final strength you're happy with,
 just be sure to use an airlock.&nbsp;
-Otherwise, cold-crash, rack, and stabilize.
+Otherwise, cold-crash, rack, and stabilize first.
 
 To predict how diluting and _sweetening_ it will turn out, see
 <a href="/sum-of-a-batch/blend.html">the blending calculator</a>.
