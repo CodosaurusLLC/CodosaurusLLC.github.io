@@ -75,16 +75,14 @@ JavaScript,
 [Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
 and language-agnostic pseudocode.&nbsp;
 I have presented full-length talks on this at
-seven conferences and a remote Meetup,
+eight conferences and a remote Meetup,
 and discussed it on two podcasts.&nbsp;
 I'm also slated to give a full-length talk on it at 
-[NDC Sydney](https://ndcsydney.com/){:rel="nofollow" target="_new"} 2020
-<!-- (unfortunately virtual, I still want to go see Australia!) -->
-and
 [WeAreDevelopers World Congress](https://www.wearedevelopers.com/events/world-congress/){:rel="nofollow" target="_new"} 2021.
 
   <!--
   Details:
+  - [NDC Sydney](https://ndcsydney.com/){:rel="nofollow" target="_new"} 2020
   - [DevTalks Bucharest/Reimagined](https://www.devtalks.ro/bucharest/){:rel="nofollow" target="_new"}
   2020,
   - [JSConf Hawai'i](https://www.jsconfhi.com/){:rel="nofollow" target="_new"} 2020,
