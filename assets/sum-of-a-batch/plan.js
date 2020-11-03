@@ -1,3 +1,4 @@
+ABV_PER_SG_POINT = 131.25;
 HONEY_SG = 1.425;
 LITERS_PER_GALLON = 3.78541;
 KILOS_PER_POUND = 0.453592;
@@ -40,13 +41,13 @@ function mead_plan() {
   }
   result_pieces.push(str + '.');
 
-  var abv_max = (og - 1) / .007;
+  var abv_max = (og - 1) * ABV_PER_SG_POINT;
   result_pieces.push('That\'s enough sugar to reach ' +
                      abv_max.toFixed(1) + '% ABV,');
   if (abv_max <= tolerance) result_pieces.push('which your yeast can do.');
   else result_pieces.push('but your yeast can only handle ' + tolerance + '%.');
   var abv_net = Math.min(abv_max, tolerance);
-  var fg = og - .007 * abv_net;
+  var fg = og - abv_net / ABV_PER_SG_POINT;
   result_pieces.push('So, it should finish with an ABV of about ' +
                      abv_net.toFixed(1) + '%,', 
                      'and an SG of about ' + fg.toFixed(3) +
