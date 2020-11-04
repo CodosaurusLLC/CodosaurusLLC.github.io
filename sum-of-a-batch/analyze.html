@@ -5,49 +5,38 @@ style: sum-of-a-batch
 ---
 <script src="/assets/sum-of-a-batch/common.js" type="text/javascript"></script>
 <script src="/assets/sum-of-a-batch/analyze.js" type="text/javascript"></script>
-<div>
-  <p>
-  I want to analyze
-  (i.e., know the percent alcohol of)
-  a batch of mead.
-  </p>
+<p>
+I want to analyze
+(i.e., know the percent alcohol of)
+a batch of mead.
+</p>
 
-  <p>
-  Its Specific Gravity went from<br/>
-  <input type="text" id="OG" autofocus>
-  (the Original Gravity, or "OG")<br/>
-  down to<br/>
-  <input type="text" id="FG">
-  (the Final Gravity, or "FG").
-  </p>
+<p>
+Its Specific Gravity went from<br/>
+<input type="text" id="OG" autofocus>
+(the Original Gravity, or "OG")<br/>
+down to<br/>
+<input type="text" id="FG">
+(the Final Gravity, or "FG").
+</p>
 
-  <p class="small">
-  (If you didn't take an OG reading, you can use
-  <a href="plan.html">the batch <i>planning</i> page</a>
-  to guesstimate it.)
-  </p>
+<p class="small">
+(If you didn't take an OG reading, you can use
+<a href="plan.html">the batch <i>planning</i> page</a>
+to guesstimate it.)
+</p>
 
-  <button onClick="mead_analyze()">Calculate!</button>
-</div>
+<button onClick="mead_analyze()">Calculate!</button>
 
 <div id="results"></div>
 
 <p class="small">
-To quickly guesstimate it in your head,
+To do the math yourself,
 you can divide the "drop" (OG minus FG) by 0.00762,
 or multiply by 131.24,
 rounding to however may digits you like.&nbsp;
-Dividing the drop in thousandths (aka "points") by 7
-is a very common approximation.&nbsp;
-This page, however, uses a much more complex formula,
-that accounts for some differences that show up
-at the high and low ends.&nbsp;
-(However, it does not take <i>temperature</i> into account.)
-</p>
-
-<p class="small">
-Thanks to Michael Hall and Zymurgy Magazine for the formula.&nbsp;
-See
-<a href="https://www.homebrewersassociation.org/attachments/0000/2497/Math_in_Mash_SummerZym95.pdf" rel="nofollow" target="_new">this article</a>
-for more information.
+Multiplying the drop by 130,
+or dividing the drop <i>in thousandths</i> (aka "points") by 7,
+are very common approximations
+that you might be able to do quickly in your head.
 </p>
