@@ -104,7 +104,7 @@ I'm also slated to give a full-length talk on it at
   [Voxxed Days Athens](http://voxxeddays.com/athens){:rel="nofollow" target="_new"}
   2020, which were canceled, and
   [WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}
-  2020, which has been postponed to an as-yet-unknown date in early November,
+  2020, which has been postponed to 2021,
   all due to the COVID pandemic.)
   -->
 
