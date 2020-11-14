@@ -45,10 +45,12 @@ How _strong_ are they?
 
 - How soon do you need the _roadmap_ done, and _why?_
 
+<!--
 - Are you okay with talking about it _remotely_,
 or do you want me to come to your office,
 or do you have some "neutral zone" in mind,
 or what?
+-->
 
 - Tell me more about _you_.&nbsp;
 What is your history and expertise in software development,

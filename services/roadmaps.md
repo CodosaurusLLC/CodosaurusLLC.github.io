@@ -12,11 +12,11 @@ That includes figuring out
 where you want to go,
 if you're not sure!&nbsp;
 Even if you outsource the implementation,
-you get a document you can use to
+you get documents you can use to
 "shop around" for
 a vendor,
-and some guidance to help them do it.&nbsp;
-(I may bid on that myself, or not.)
+and some guidance to help them do it.<!--&nbsp;
+(I may bid on that myself, or not.)-->
 
 ## Why Do It?
 
@@ -33,7 +33,7 @@ in several ways:
 - It helps uncover _assumptions_
   you may have made,
   that might not be so obvious to an outsider,
-  and may in fact be wrong.
+  and may in fact be _wrong_!
 
 - It helps nail down the _scope_.&nbsp;
   Both you and the implementor(s) can see
@@ -63,12 +63,12 @@ There may be some more back-and-forth, by email or phone.&nbsp;
 This is to make sure that we make best use of our limited time together.
 
 If we determine that my roadmapping services are a good fit for you,
-we determine what _size_ of roadmap you need.&nbsp;
+then we determine what _size_ of roadmap you need.&nbsp;
 This and the expenses determine the total price.&nbsp;
-Roadmaps come in Small, Medium, and Large,
-and cost $998, $4,998, and $19,998 respectively.&nbsp;
+Roadmaps come in Small<!--, Medium,--> and Large,
+and cost $998, $2,998, and $4,998 respectively.&nbsp;
 After you send in a 50% deposit,
-we set a date, time, and place (which may be virtual).
+we set a date and time<!--, and place (which may be virtual)-->.
 
 ### Part 2: Discussions
 
@@ -82,35 +82,37 @@ How long, where, and how many people,
 depends on the roadmap size:
 
 - For a _Small_ roadmap,
-  we discuss it for _one hour_,
-  remotely (such as by phone, Skype, etc.),
+  we discuss it for up to _one hour_<!--,
+  remotely (such as by phone, Skype, etc.)-->,
   with _only you_ (or one person you designate).
 
 - For a _Medium_ roadmap,
-  we discuss it for _six_ hours
-  (over the course of one day),
-  and I can come to your office if you want
-  (though any travel time gets subtracted from the discussion time),
-  and you can bring in up to two extra people.&nbsp;
+  we discuss it for up to _two_ hours,
+  <!-- and I can come to your office if you want
+  (though any travel time gets subtracted from the discussion time), -->
+  and you can bring in one extra person.<!--&nbsp;
   (If I have to travel out of town,
   "travel time" is between my office and the hotel,
   plus an estimated one hour for arranging things.)
-
+  -->
 
 - For a _Large_ roadmap,
-  we discuss it for _thirty_ hours
+  we discuss it for up to _six_ hours
+  (over the course of one day,
+  in morning and afternoon sessions),
+  <!--
   (over the course of one work-week,
   usually as five six-hour days,
   but I can do four 7.5-hour days,
   or various other schedules if you like).&nbsp;
   Again, I can come to your office if you want
-  (though travel time counts against discussion time),
-  and you can bring in up to _four_ extra people
+  (though travel time counts against discussion time),-->
+  and you can bring in up to _two_ extra people<!--
   (though the discussion should be limited to
-  four people _at a time_).
+  four people _at a time_)-->.
 
-- If even a Large isn't enough time,
-  after subtracting travel,
+- If even a Large isn't enough time<!--,
+  after subtracting travel-->,
   don't worry,
   we can work up a custom quote,
   or you can buy multiple Roadmaps and combine them.
@@ -159,8 +161,8 @@ one week to request any corrections if I got anything wrong.&nbsp;
 In that case, I'll _try_ to fix it within a reasonable amount of time,
 but what exactly that is may vary with how busy I am.&nbsp;
 After all that, you have 20 days
-to send me the other half of the payment,
-plus any expenses.
+to send me the other half of the payment<!--,
+plus any expenses-->.
 
 Meanwhile, we can discuss any additional services you would like.&nbsp;
 These will be invoiced separately,
@@ -175,9 +177,9 @@ The short story is that:
 
 - For a _Small_ roadmap, you get:
   - a _high_-level writeup of details and recommendations,
-  - your project broken down into big chunks,
+  - your project broken down into a few big chunks,
   - a _high_ level writeup for each chunk,
-  - a _few_ chunks broken down into features,
+  - _one_ chunk broken down into features,
   - a _high_ level writeup of each feature,
   - and a _small_ number of "test narratives" for each of
   a _small_ number of features.
@@ -190,23 +192,19 @@ The short story is that:
 
 - For a _Medium_ roadmap, you get
   - a _medium_-level writeup of details and recommendations,
-  - your project broken down into big chunks
-    (probably _more_ and _bigger_),
+  - your project broken down into _more_ chunks,
   - a _medium_ level writeup for each chunk,
   - _more_ chunks broken down into features,
   - a _medium_ level writeup of each feature,
-  - and a _medium_ number of "test narratives" for each of
-  a _medium_ number of features.
+  - and _more_ "test narratives" for each of _more_ features.
 
 - For a _Large_ roadmap, you get
-  - a _thorough_ writeup of details and recommendations,
-  - your project broken down into big chunks
-    (probably _still more_ and _still bigger_),
-  - a _thorough_ writeup for each chunk,
-  - _even more_ chunks broken down into features,
-  - a _thorough_ writeup of each feature,
-  - and a _large_ number of "test narratives" for each of
-  a _large_ number of features.
+  - a _more thorough_ writeup of details and recommendations,
+  - your project broken down into _yet more_ chunks,
+  - a _more thorough_ writeup for each chunk,
+  - _more_ chunks broken down into features,
+  - a _more thorough_ writeup of each feature,
+  - and _yet more_ "test narratives" for each of _yet more_ features.
 
 [The gory details are here.](/services/roadmap-size-details)
 
@@ -214,12 +212,12 @@ These names, narratives, and so on,
 will let you stick them right into your issue-tracker,
 so your team can get right to work on
 breaking them down further
-and implementing them...
+and implementing them.<!--..
 or I can do that for an extra fee (see below).&nbsp;
 (If you're not already using an issue tracker,
 you probably need my
 [Team Process/Tools Advice](/services/advice)
-services first!)
+services first!)-->
 
 ### _How should I decide what size I want?_
 
@@ -228,13 +226,30 @@ and how many other people,
 to explain it to me,
 at the level of detail that you want the roadmap to reflect.&nbsp;
 If it's a fairly small and simple project,
-one hour with just us, remotely, may do.&nbsp;
+one hour with just us<!--, remotely,--> may do.&nbsp;
 But if it's big and complex,
 and you want it broken down in detail,
-you may need to talk to me in person
+you may need
+<!--
+to talk to me in person
 (so we can write on whiteboards and such),
-with the help of a few other people,
-for almost a week... or more.
+with
+-->
+the help of some other people,
+for a few days or more.
+
+### _A few days?  But you only offer up to six hours!_
+
+[Statement, one point for me.](https://www.youtube.com/watch?v=swqfFHLck1o){:rel="nofollow" target="_new"}
+
+### _Didn't you used to offer longer sessions?_
+
+Yes, I used to offer eight-hour full-day sessions,
+and full-<i>week</i> sessions too.&nbsp;
+But now I'm semi-retired, and taking life semi-easy.&nbsp;
+If you feel you need multiple days,
+we can still do that,
+but they'll be only six hours of talking, each.
 
 ### _What if I want some other combination?_
 
@@ -250,7 +265,8 @@ If you want more, more, more, we can
 [arrange that](/contact).&nbsp;
 You can buy more Smalls, or a larger size,
 or make a custom combo by tacking on some things
-from the "_What else can I get?_" section below.
+from the "_What else can I get?_" section below,
+or whatever other ideas you may have.
 
 ### _What else can I get?_
 
@@ -258,12 +274,16 @@ After you've had a chance to review the report,
 or if you just want to really customize it,
 we can discuss whether you want some additional services,
 for additional prices we will discuss.&nbsp;
-Mainly:
+For some ideas:
 
+<!--
 - You can take some features from a larger roadmap
   and add them to a smaller one,
   such as taking the overall project recommendations from a Large
   but using the Small schema for everything else.
+-->
+
+- I can break the project down into more chunks.
 
 - I can break down more chunks into features.
 
@@ -271,14 +291,13 @@ Mainly:
 
 - I can give more features some test narratives.
 
-- I can give some features more test narratives.
+- I can give some features more test narratives,
+  especially ones that have more alternate and/or sad paths.
 
-- If you give me access to your issue tracker,
-  I can put the various chunks, features, test narratives, etc. into it.
-
-- I may be able to turn the test _narratives_ into actual _tests_,
+- I _may_ be able to turn the test _narratives_ into actual _tests_,
   depending exactly what technology you're using.
 
+<!--
 - You may ask me to provide some
   conceptual mockups,
   for particular features.&nbsp;
@@ -290,7 +309,12 @@ Mainly:
   how _I_ envision the feature working,
   and can provide a starting point for _your_
   designers or front-end developers.
+-->
 
+- I will _probably not_ want to do the actual implementation,
+  now that I am semi-retired!
+
+<!--
 - _After_ the roadmapping is done,
   I may, or may not, also provide a fixed-price bid
   to actually _implement_ your idea.&nbsp;
@@ -308,12 +332,16 @@ Mainly:
   mentoring,
   [process improvement](/services/advice),
   and other value-added services.
+-->
 
 - Of course I'm happy to "cross-sell" you on my
-  [training](/services/training),
-  [team process/tools advice](/services/advice),
+  [training](/services/training)
+  and
+  [team process/tools advice](/services/advice)
+  <!--
   and
   [code review](/services/code_review)
+  -->
   services.&nbsp;
   :-)
 
