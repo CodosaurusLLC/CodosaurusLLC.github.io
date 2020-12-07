@@ -35,7 +35,8 @@ function mead_plan() {
   result_pieces.push('That batch should start with an SG of about ' +
                      og.toFixed(3) + ',');
   var str = ['based on', honey_mass, mass_unit, 'of honey in',
-             water_vol.toFixed(1), volume_unit, 'total volume'].join(' ');
+             water_vol.toFixed(1), volume_unit, 'total volume<br/>',
+             '(assuming a typical honey SG of ' + HONEY_SG + ')'].join(' ');
   if (boost) {
     str += ',<br/>plus a boost of ' + boost + ' from other fermentables';
   }
