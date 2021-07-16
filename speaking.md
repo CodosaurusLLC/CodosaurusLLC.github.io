@@ -269,6 +269,7 @@ Speaking engagements in the _future_ include:
 
 | Year || Conference || Topic(s) |
 |-|
+|2021||[KCDC](https://www.kcdc.info/){:rel="nofollow" target="_new"}||Mutants|
 |2021||[Code Europe](https://codeeurope.pl/){:rel="nofollow" target="_new"}||Mutants|
 |2021||[Scenic City Summit](https://sceniccitysummit.com/){:rel="nofollow" target="_new"}||ACRUMEN and Mutants|
 |2021||[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
