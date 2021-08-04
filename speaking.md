@@ -272,7 +272,6 @@ Speaking engagements in the _future_ include:
 |2021||[KCDC](https://www.kcdc.info/){:rel="nofollow" target="_new"}||Mutants|
 |2021||[Code Europe](https://codeeurope.pl/){:rel="nofollow" target="_new"}||Mutants|
 |2021||[Scenic City Summit](https://sceniccitysummit.com/){:rel="nofollow" target="_new"}||ACRUMEN and Mutants|
-|2021||[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
 |2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Mutants|
 |2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Mead|
 
@@ -287,6 +286,7 @@ include:
 |-|
 |[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Mutants|
+|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||ACRUMEN (haven't submitted others)|
 |[US Mensa Annual Gathering](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Mead|
 |[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Mutants|
