@@ -13,19 +13,24 @@ Even if your conference is about some language I don't know or don't like,
 if there's enough language-agnostic content,
 or I really want to see the location,
 I might go for it.&nbsp;
-Some of my topics are also appropriate for _testing_ conferences.
+Some of my topics are also appropriate for _testing_ conferences.&nbsp;
+I could also be talking into speaking to a _company_,
+or their devs,
+for a reasonable fee.
 
 The topics I _currently_ have talks prepared for are:
 
 - <span class="big bold">My
 [**ACRUMEN**](/ACRUMEN)
-definition of software quality.</span>&nbsp;
+definition of software quality</span>
+(title: "Write Better Software with ACRUMEN"):&nbsp;
 This is completely technology-agnostic; in fact there is not even any code!&nbsp;
 I have presented full-length talks on this at
 several conferences
 and other such events.
 
-- [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:class="big bold"}.&nbsp;
+- [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:class="big bold"}
+(title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)"):&nbsp;
 There is some code in this, not much and fairly simple,
 mainly brief snippets to test, mutations of it, and tests.&nbsp;
 I have prepared versions with code in
@@ -37,25 +42,41 @@ I have presented full-length talks on this at
 several conferences,
 and discussed it on podcasts.
 
-- <span class="big bold">Ruby "gotchas"</span>,
+- <span class="big bold">Ruby "gotchas"</span>
+(title: "Ruby Gotchas"):&nbsp;
 i.e., nasty surprises in the
 Ruby programming language.
 
-- <span class="big bold">Breaking into conference speaking</span>.&nbsp;
+- <span class="big bold">Ping-Pong Pair Programming</span>
+(title: "Whose Line of Code Is It Anyway?"):&nbsp;
+a hands-on demo with
+a co-speaker _or_
+a volunteer from the audience
+(or series of them),
+working on a problem and in a language
+both chosen by the audience.
+
+- <span class="big bold">Breaking into conference speaking</span>
+(title: "Speak to the World!"):&nbsp;
 I haven't actually done this one at conferences,
 or anywhere else that recorded it,
 but I have the bare bones prepped as a 5-7 minute
 [Toastmasters](http://toastmasters.org/){:rel="nofollow" target="_new"}
 speech,
-and intend to fill it out to 30-45 minutes for conferences.
+and intend to fill it out to 30-45 minutes for conferences.&nbsp;
+Intended content includes
+why you might want to talk at a conference,
+how to find the conferences,
+how to apply to speak at them,
+and a few basic public speaking tips.
 
-- <span class="big bold">Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}</span>.&nbsp;
+- <span class="big bold">Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}</span>
+(title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
+the History and Making of MEAD!"):&nbsp;
 Yes, this is not a technical thing,
 at least in the computer sense.&nbsp;
-Again, I haven't actually done this one at a conference,
-but I had it all prepped for
-a conference
-that got canceled.
+This talk will be presented at the MWM RG in 2022,
+having been prepared for the 2021 one that was canceled.
 
 I'm also interested in putting together talks on
 doctests (such as in Elixir or Python),
@@ -70,7 +91,7 @@ Ask me, and we'll see.
 
 Speaking engagements in the _past_ include:
 
-<table class="small" border="1" align="top">
+<table class="small" border="1" align="top" style="line-height: 1.4em">
   <thead>
     <tr>
       <th class="numeric">Year</th>
@@ -82,6 +103,47 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
+      <td>Mutants</td>
+      <td>(none <i>yet</i>)</td>
+      <td class="numeric">40?</td>
+      <td>video coming eventually</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
+      <td>ACRUMEN</td>
+      <td>(none <i>yet</i>)</td>
+      <td class="numeric">40?</td>
+      <td>video coming eventually</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe Warsaw</a></td>
+      <td>Mutants</td>
+      <td>(none <i>yet</i>)</td>
+      <td class="numeric">55?</td>
+      <td>video coming eventually</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe Gdansk</a></td>
+      <td>Mutants</td>
+      <td>(none <i>yet</i>)</td>
+      <td class="numeric">55?</td>
+      <td>video coming eventually</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">KCDC (Kansas City Developer Conference)</a></td>
+      <td>Mutants</td>
+      <td>(none)</td>
+      <td class="numeric">45?</td>
+      <td>they don't record sessions :-(</td>
+    </tr>
+
     <tr>
       <td class="numeric">2020</td>
       <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
@@ -96,7 +158,7 @@ Speaking engagements in the _past_ include:
       <td>Mutants</td>
       <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" rel="nofollow" target="_new">video</a></td>
       <td class="numeric">31</td>
-      <td>backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a> (30 mins)</td>
+      <td><!-- backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a> (30 mins) --></td>
     </tr>
     <tr>
       <td class="numeric">2020</td>
@@ -269,9 +331,6 @@ Speaking engagements in the _future_ include:
 
 | Year || Conference || Topic(s) |
 |-|
-|2021||[KCDC](https://www.kcdc.info/){:rel="nofollow" target="_new"}||Mutants|
-|2021||[Code Europe](https://codeeurope.pl/){:rel="nofollow" target="_new"}||Mutants|
-|2021||[Scenic City Summit](https://sceniccitysummit.com/){:rel="nofollow" target="_new"}||ACRUMEN and Mutants|
 |2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Mutants|
 |2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Mead|
 
@@ -279,7 +338,8 @@ Speaking engagements in the _future_ include:
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen
 but the conference was canceled
-(or moved online too many timezones away),
+(or moved online too many timezones away,
+or various other reasons),
 include:
 
 | Conference || Topic(s) |
