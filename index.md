@@ -25,7 +25,7 @@ I am only offering <i>remote</i> services.
 
 <div class="card">
 <h2>SEMI-RETIREMENT UPDATE</h2>
-<p>As of early November 2020,
+<p>As of early November 2021,
 I am "semi-retired".&nbsp;
 So, for the foreseeable future,
 I am no longer offering
