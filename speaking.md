@@ -331,6 +331,8 @@ Speaking engagements in the _future_ include:
 
 | Year || Conference || Topic(s) |
 |-|
+|2022||[THAT Conference (Texas)](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||ACRUMEN|
+|2022||[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Mutants|
 |2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Mutants|
 |2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Mead|
 
@@ -347,7 +349,7 @@ include:
 |[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
-|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||ACRUMEN (haven't submitted others)|
+|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||ACRUMEN|
 |[US Mensa Annual Gathering](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Mead|
 |[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Mutants|
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Mutants|
