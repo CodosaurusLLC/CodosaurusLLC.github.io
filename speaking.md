@@ -105,9 +105,17 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2021</td>
+      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a></td>
+      <td>Software quality</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">40?</td>
+      <td>episode not yet released</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Mutants</td>
-      <td>(none <i>yet</i>)</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
       <td class="numeric">40?</td>
       <td>video coming eventually</td>
     </tr>
@@ -115,7 +123,7 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2021</td>
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>ACRUMEN</td>
-      <td>(none <i>yet</i>)</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
       <td class="numeric">40?</td>
       <td>video coming eventually</td>
     </tr>
@@ -123,7 +131,7 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2021</td>
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe Warsaw</a></td>
       <td>Mutants</td>
-      <td>(none <i>yet</i>)</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
       <td class="numeric">55?</td>
       <td>video coming eventually</td>
     </tr>
@@ -131,7 +139,7 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2021</td>
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe Gdansk</a></td>
       <td>Mutants</td>
-      <td>(none <i>yet</i>)</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
       <td class="numeric">55?</td>
       <td>video coming eventually</td>
     </tr>
@@ -228,7 +236,7 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2019</td>
       <td><a href="https://abstractions.io/" rel="nofollow" target="_new">Abstractions</a> II</td>
       <td>Mutants</td>
-      <td>(none <i>yet</i>)</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
       <td></td>
       <td>They recorded it but are fixing technical difficulties</td>
     </tr>
@@ -350,7 +358,7 @@ include:
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||ACRUMEN|
-|[US Mensa Annual Gathering](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Mead|
+|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Mead|
 |[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Mutants|
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Mutants|
 
@@ -360,4 +368,7 @@ Also, I was one of the co-organizers of
 the very first
 international test-driven development conference,
 and appeared briefly on-screen
-to introduce speakers and fill time.
+to introduce speakers and fill time.&nbsp;
+I was also the <i>sole</i> organizer of Ruby DAYCamp 2013,
+an "overflow" event for those who couldn't get into Ruby DCamp
+(defunct, site gone).
