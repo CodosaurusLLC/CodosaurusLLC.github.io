@@ -64,11 +64,14 @@ This is to make sure that we make best use of our limited time together.
 
 If we determine that my roadmapping services are a good fit for you,
 then we determine what _size_ of roadmap you need.&nbsp;
-This and the expenses determine the total price.&nbsp;
-Roadmaps come in Small<!--, Medium,--> and Large,
-and cost $998, $2,998, and $4,998 respectively.&nbsp;
+<!-- This and the expenses determine the total price.&nbsp; -->
+Roadmaps come in Small, Medium, and Large,
+and cost $990, $3,900, and $7,900, respectively<!--
+plus travel expenses-->.&nbsp;
 After you send in a 50% deposit,
-we set a date and time<!--, and place (which may be virtual)-->.
+we set a date and time<!--, and place
+(virtual for now,
+maybe in-person, for Large only, once the pandemic is over)-->.
 
 ### Part 2: Discussions
 
@@ -82,12 +85,13 @@ How long, where, and how many people,
 depends on the roadmap size:
 
 - For a _Small_ roadmap,
-  we discuss it for up to _one hour_<!--,
-  remotely (such as by phone, Skype, etc.)-->,
+  we discuss it for up to _one hour_,
+  <!-- remotely (such as by phone, Skype, Zoom, etc.), -->
   with _only you_ (or one person you designate).
 
 - For a _Medium_ roadmap,
-  we discuss it for up to _two_ hours,
+  we discuss it for up to _four_ hours
+  (in one stretch, with breaks as needed),
   <!-- and I can come to your office if you want
   (though any travel time gets subtracted from the discussion time), -->
   and you can bring in one extra person.<!--&nbsp;
@@ -97,7 +101,7 @@ depends on the roadmap size:
   -->
 
 - For a _Large_ roadmap,
-  we discuss it for up to _six_ hours
+  we discuss it for up to _eight_ hours
   (over the course of one day,
   in morning and afternoon sessions),
   <!--
@@ -114,8 +118,7 @@ depends on the roadmap size:
 - If even a Large isn't enough time<!--,
   after subtracting travel-->,
   don't worry,
-  we can work up a custom quote,
-  or you can buy multiple Roadmaps and combine them.
+  you can buy multiple Larges and even get a volume discount.
 
 We cover what it is you're trying to do,
 breaking it down into manageable chunks,
@@ -238,30 +241,11 @@ with
 the help of some other people,
 for a few days or more.
 
-### _A few days?  But you only offer up to six hours!_
-
-[Statement, one point for me.](https://www.youtube.com/watch?v=swqfFHLck1o){:rel="nofollow" target="_new"}
-
-### _Didn't you used to offer longer sessions?_
-
-Yes, I used to offer eight-hour full-day sessions,
-and full-<i>week</i> sessions too.&nbsp;
-But now I'm semi-retired, and taking life semi-easy.&nbsp;
-If you feel you need multiple days,
-we can still do that,
-but they'll be only six hours of talking, each.
-
-### _What if I want some other combination?_
-
-[Tell me](/contact) what you want, what you really really want,
-and I'll work up a quote.&nbsp;
-You can get some ideas from the "_What else can I get?_" section below.
-
 ### _What if I'm just not sure?_
 
-All righty then, start with Size Small,
-and see how [do] you like it.&nbsp;
-If you want more, more, more, we can
+All righty then, start with a Small,
+and see how you like it.&nbsp;
+If you want more, we can
 [arrange that](/contact).&nbsp;
 You can buy more Smalls, or a larger size,
 or make a custom combo by tacking on some things

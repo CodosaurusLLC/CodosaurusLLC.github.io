@@ -16,34 +16,23 @@ title: Home
 <br/>
 
 <div class="card">
-<h2>COVID-19 UPDATE</h2>
+<h2>COVID-19 AND SEMI-RETIREMENT UPDATE</h2>
+<p>
 For the duration of the pandemic,
-I am only offering <i>remote</i> services.
-</div>
+I am only offering <i>remote</i> services.&nbsp;
+Also, I am now semi-retired,
+so,
+staff-aug work
+will be
+almost entirely
+limited to:
+<ul>
+<li>roughly six months or less in length</li>
+<li>roughly twenty hours a week or less in "width"</li>
+<li>projects that either use Elixir or otherwise really tickle my fancy.&nbsp; ;-)</li>
+</ul>
+</p>
 
-<br/>
-
-<div class="card">
-<h2>SEMI-RETIREMENT UPDATE</h2>
-<p>As of early November 2021,
-I am "semi-retired".&nbsp;
-So, for the foreseeable future,
-I am no longer offering
-staff-augmentation software development services,
-nor
-full-week
-advice sessions.&nbsp;
-Instead, you can have multiple
-all-<i>day</i> sessions --
-and those are now shorter.</p>
-
-<p>Also, once the COVID pandemic is over,
-it is unlikely
-that I will return
-to offering
-on-site services --
-unless I really want to visit your location!&nbsp;
-;-)</p>
 </div>
 
 Do you have:
@@ -52,10 +41,10 @@ Do you have:
 - Developers who produce low-quality software?
 - Inefficient development processes?
 - A conference or podcast, in need of speakers or guests?
+- A need for a couple extra hands to get Get Shhhhtuff Done?
 
 <!--
-- Code where you're not sure of its quality?
-- A need for a few extra hands to get Get Shhhhtuff Done?
+ - Code where you're not sure of its quality?
 -->
 
 If so, then
@@ -85,11 +74,11 @@ I provide the following services:
   efficient,
   idiomatic,
   etc.
+-->
 
 - [**Writing software**](/services/development){:class="big"}
   for a fixed price after [roadmapping](/services/roadmaps),
   as staff-aug as part of [team advice](/services/advice),
   or just to help you get it done.
--->
 
 - And I [**speak**](/speaking){:class="big"} at conferences and on podcasts.
