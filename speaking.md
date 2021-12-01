@@ -89,6 +89,33 @@ and more.
 Want me to speak on something not covered above?&nbsp;
 Ask me, and we'll see.
 
+Definite speaking engagements in the _future_ include:
+
+| Year || Conference || Where || Topic(s) |
+|-|
+|2022||[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
+|2022||[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
+|2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, Virginia, USA||Mead|
+
+
+_Likely_ engagements in the next couple years or so,
+mainly because I was chosen
+but the conference was canceled
+(or moved online too many timezones away,
+or various other reasons),
+include:
+
+| Conference || Where || Topic(s) |
+|-|
+|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, Tennessee, USA||Mutants|
+|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
+|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
+|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, Maryland, USA||Mead|
+|[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece of course!||Mutants|
+|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, Alabama, USA||Mutants|
+
 Speaking engagements in the _past_ include:
 
 <table class="small" border="1" align="top" style="line-height: 1.4em">
@@ -97,7 +124,7 @@ Speaking engagements in the _past_ include:
       <th class="numeric">Year</th>
       <th>Conference</th>
       <th>Topic(s)</th>
-      <th>Link</th>
+      <th>Link(s)</th>
       <th class="numeric">Mins</th>
       <th>Notes</th>
     </tr>
@@ -105,11 +132,11 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2021</td>
-      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a></td>
+      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>, released 2021-12-01</td>
       <td>Software quality</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">40?</td>
-      <td>episode not yet released</td>
+      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" rel="nofollow" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" rel="nofollow" target="_new">transcript</a></td>
+      <td class="numeric">44</td>
+      <td></td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
@@ -334,33 +361,6 @@ Speaking engagements in the _past_ include:
   </tbody>
 </table>
 
-
-Speaking engagements in the _future_ include:
-
-| Year || Conference || Topic(s) |
-|-|
-|2022||[THAT Conference (Texas)](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||ACRUMEN|
-|2022||[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Mutants|
-|2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Mutants|
-|2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Mead|
-
-
-_Likely_ engagements in the next couple years or so,
-mainly because I was chosen
-but the conference was canceled
-(or moved online too many timezones away,
-or various other reasons),
-include:
-
-| Conference || Topic(s) |
-|-|
-|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Mutants|
-|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Mutants|
-|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Mutants|
-|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||ACRUMEN|
-|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Mead|
-|[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Mutants|
-|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Mutants|
 
 Also, I was one of the co-organizers of
 [TDDConf](https://tddconf.com/){:rel="nofollow" target="_new"}
