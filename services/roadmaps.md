@@ -162,10 +162,15 @@ After I send the report,
 you then have
 one week to request any corrections if I got anything wrong.&nbsp;
 In that case, I'll _try_ to fix it within a reasonable amount of time,
-but what exactly that is may vary with how busy I am.&nbsp;
-After all that, you have 20 days
-to send me the other half of the payment<!--,
-plus any expenses-->.
+but what exactly that is may vary with how busy I am.
+
+The second half of the payment is due
+20 days after billing,
+which is usually right after delivery of the finalized roadmap.&nbsp;
+There are
+penalties for late payment
+and
+discounts for early payment.
 
 Meanwhile, we can discuss any additional services you would like.&nbsp;
 These will be invoiced separately,

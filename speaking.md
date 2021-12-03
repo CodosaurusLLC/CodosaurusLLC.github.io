@@ -93,8 +93,8 @@ Definite speaking engagements in the _future_ include:
 
 | Year || Conference || Where || Topic(s) |
 |-|
-|2022||[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
 |2022||[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|2022||[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
 |2022||[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
 |2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, Virginia, USA||Mead|
 
@@ -102,6 +102,7 @@ Definite speaking engagements in the _future_ include:
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen
 but the conference was canceled
+or postponed
 (or moved online too many timezones away,
 or various other reasons),
 include:
