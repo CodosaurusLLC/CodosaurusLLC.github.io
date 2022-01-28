@@ -1,10 +1,10 @@
 ---
-date: 2020-01-01
-layout: post
-original-date: 1989-01-01
+last_updated: 2022-01-01
+layout: blog-post
 permalink: blog/happy-gnu-year
-title: Happy Gnu Year!
+section: Blog
 tags: silliness
+title: Happy Gnu Year!
 ---
 <pre style="background:black; color: white; padding: 2em">
                                    ><
@@ -17,10 +17,10 @@ tags: silliness
    ##/         \ 2 \            [><] \\_@)
   ## |          \ 0 \          _/      \_
  ##  `.     '    \ 2 \  \   / /     ###  \_@ fweee!
- #     \   )——____\_0_\_—| |-'      |##
+ #     \   )——____\_2_\_—| |-'      |##
  #      / //             | ||       | #
        / //              ( ))      /  ##    |=|
-       |||               |||      |KORB##   |:|
-       |||  ASCII Art by |||      | Brut##  `V'
-       \_\\ Dave Aronson \_\\  @= |_____### _|_
+       |||  ASCII Art by  |||      |KORB##   |:|
+       |||  Dave Aronson |||      | Brut##  `V'
+       \_\\ &copy; 1987-2022  \_\\  @= |_____### _|_
 </pre>

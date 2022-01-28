@@ -1,12 +1,8 @@
 ---
-layout: sum-of-a-batch
+layout: default
 title: Home
-style: sum-of-a-batch
 ---
-I want to:
+This content has MOVED to its own domain!&nbsp;
+Please go see:
 
-- [**_Plan_** a batch of mead](plan.html)
-- [**_Analyze_** a batch of mead](analyze.html)
-- [**_Fix_** a batch of mead I didn't like](fix.html)
-- [**_Blend_** a batch of mead](blend.html)
-- [See who wrote "Sum of a Batch!"](/)
+# [SumOfABatch.com](SumOfABatch.com)

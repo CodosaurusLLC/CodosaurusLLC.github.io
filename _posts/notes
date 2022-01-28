@@ -1,0 +1,3 @@
+It will only automagically pick up posts
+if the filename starts with a date.  :-(
+Seems to display them in filename order too.  :-(

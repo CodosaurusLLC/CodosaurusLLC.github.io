@@ -1,0 +1,45 @@
+---
+layout: default
+style: blog-post
+---
+<article>
+
+  {{ content }}
+
+  <hr/>
+
+  <div class="post-meta">
+    Last Updated:
+    <time>{{ page.last_updated | date: site.date_format }}</time>
+    <br/>
+    Tags:
+    {% assign tags = page.tags | sort %}
+    {% for tag in tags %}
+    <a href="/blog/tags/{{tag}}">{{tag}}</a>
+    {% endfor %}
+    <br/>
+    <a class="center" href="/feed.xml">RSS Feed</a>
+  </div>
+
+  <br clear="both" />
+
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://www.codosaur.us/blog/{{page.permalink}}';  // page's canonical URL variable
+      this.page.identifier = '{{page.permalink}}'; // page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://{{site.disqus.shortname}}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+<script id="dsq-count-scr" src="https://{{site.disqus.shortname}}.disqus.com/count.js" async></script>

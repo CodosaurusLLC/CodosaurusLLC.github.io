@@ -1,17 +1,68 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    {%- if layout.style -%}
+      <link rel="stylesheet" href="/assets/css/{{ layout.style }}.css">
+    {%- endif -%}
+    {%- if page.style -%}
+      <link rel="stylesheet" href="/assets/css/{{ page.style }}.css">
+    {%- endif -%}
+    {%- if page.js -%}
+      <script src="/assets/js/{{page.js}}.js" type="text/javascript"></script>
+    {%- endif -%}
+    <title>Codosaurus: {{ page.title }}</title>
+  </head>
 
   <body>
 
-    {%- include header.html -%}
+    <header>
+      <center>
+      <table>
+        <tr>
+          <td class="header-dino flipH">🦖</td>
+          <td>
+            <h1 style="padding: 0"><a href="/">Codosaurus, LLC</a></h1>
+            <div class="header-sublines">How can we evolve you today?</div>
+            <h2 style="padding: 0">
+              {% if page.section %}
+                <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
+              {% endif %}
+              <span class="page-title">{{ page.title }}</span>
+            </h2>
+          </td>
+          <td class="header-dino">🦖</td>
+        </tr>
+      </table>
+      </center>
+    </header>
+
+    <hr style="clear: both"/>
 
     <main class="page-content" aria-label="Content">
       {{ content }}
     </main>
 
-    {%- include footer.html -%}
+  <footer>
+    <hr/>
+
+    &copy; 1990-{{ "now" | date: "%Y" }},
+    <a href="/"><i>Codosaurus, LLC</i></a>,
+    All Rights Reserved.<br/>
+    (Not affiliated with San Diego web firm
+    <a rel="nofollow" target="_new" href="https://codeasaur.us/">Codeasaur-US</a>,
+    nor the
+    Codosaurus FTP client
+    from now-defunct company Grilled Bacon.)
+
+  </footer>
 
   </body>
 

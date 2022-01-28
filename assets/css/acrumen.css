@@ -1,17 +1,47 @@
-.page-title-content {
-  color: yellow;
-  padding: 0.1em 0.2em 0 0.2em;
-}
-.acrumen-table {
-  background: black;
-  color: yellow;
-  font-size: var(--h5-size);
+.page-title { color: var(--acrumen-color); }
+
+.acrumen-table-marker + table {
+  font-size:   var(--h5-size);
   line-height: var(--h3-size);
-  margin: 0 auto;
-  padding: 1em;
+  margin:      0 auto;
 }
-.acrumen-table td { vertical-align: baseline; }
-td:first-child::first-letter {
+
+.acrumen-table-marker + table tr td:first-child:first-letter {
+  color:       var(--acrumen-color);
+  font-size:   var(--h4-size);
+  font-weight: bold;
+}
+
+.acrumen-to-career-table-marker + table {
+  font-size:   var(--h5-size);
+  line-height: var(--h3-size);
+  margin:      0 auto;
+}
+
+.acrumen-to-career-table-marker + table th:first-child { color: var(--acrumen-color); }
+.acrumen-to-career-table-marker + table th,td { text-align: left; }
+.acrumen-to-career-table-marker + table th,td b,strong { font-size: var(--h4-size); }
+.acrumen-to-career-table-marker + table td:first-child:first-letter {
+  color:       var(--acrumen-color);
+  font-size:   var(--h4-size);
+  font-weight: bold;
+}
+
+.career-to-acrumen-table-marker + table {
+  font-size:   var(--h5-size);
+  line-height: var(--h3-size);
+  margin:      0 auto;
+}
+
+.career-to-acrumen-table-marker + table th { font-size: var(--h4-size); }
+.career-to-acrumen-table-marker + table th:last-child { color: var(--acrumen-color); }
+.career-to-acrumen-table-marker + table th,td { text-align: left; }
+.career-to-acrumen-table-marker + table td:first-child:first-letter {
   font-size: var(--h4-size);
+  font-weight: bold;
+}
+
+.truce-list-marker + ul li:first-letter {
+  font-size: var(--h5-size);
   font-weight: bold;
 }

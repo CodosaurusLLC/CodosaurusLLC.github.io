@@ -1,10 +1,10 @@
 ---
-date: 2018-01-01
-layout: post
-original-date: 2018-01-01
-title: Welcome!
+last_updated: 2018-01-01
+layout: blog-post
 permalink: blog/welcome
+section: Blog
 tags: meta
+title: Welcome Back to Codosaurus!
 ---
 
 Greetings, dear readers!&nbsp;

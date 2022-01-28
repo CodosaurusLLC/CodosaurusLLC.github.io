@@ -1,35 +1,42 @@
+:root {
+  --h1-size:       calc(var(--h2-size)   * var(--header-ratio));
+  --h2-size:       calc(var(--h3-size)   * var(--header-ratio));
+  --h3-size:       calc(var(--h4-size)   * var(--header-ratio));
+  --h4-size:       calc(var(--h5-size)   * var(--header-ratio));
+  --h5-size:       calc(var(--text-size) * var(--header-ratio));
+  --small-size:    calc(var(--text-size) / var(--header-ratio));
+  --header-ratio:  1.2;
+  --text-size:     16pt;
+  --link-color:    #dde;  /* not *quite* stark white, plus hint of blue */
+  --bg-color:      #112;  /* not *quite* stark black, plus hint of blue */
+  --fg-color:      #ded;  /* not *quite* stark white, plus hint of green */
+  --acrumen-color: #ee0;  /* not *quite* stark yellow */
+}
+
 body {
-  --header-ratio:        1.2;
-  --h5-size:             calc(1em            * var(--header-ratio));
-  --h4-size:             calc(var(--h5-size) * var(--header-ratio));
-  --h3-size:             calc(var(--h4-size) * var(--header-ratio));
-  --h2-size:             calc(var(--h3-size) * var(--header-ratio));
-  --h1-size:             calc(var(--h2-size) * var(--header-ratio));
-  --main-bg-color:       #002;
-  --main-fg-color:       #efe;
-  --link-color:          #0ff;
-  --link-hover-bg-color: #0c0;
-  --inverted-link-color: #009;
-  --max-width:           42em;  /* the answer! */
-  --text-color:          var(--main-fg-color);
-  background:            var(--main-bg-color);
-  color:                 var(--text-color);
+  background:   var(--bg-color);
+  color:        var(--fg-color);
   /* standard-width fonts, NOT VERDANA! */
-  font-family:           Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
-  font-size:             14pt;
-  line-height:           1.5em;
-  margin:                0 auto;
-  max-width:             var(--max-width);
-  padding:               1px;
+  font-family:  Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
+  font-size:    var(--text-size);
+  line-height:  1.5em;
+  margin:       1px 3%;
 }
 
 a, a:visited { color: var(--link-color) }
-a:hover      { background: var(--link-hover-bg-color) }
+a:hover      {
+  background: var(--link-color);
+  color:      var(--bg-color);
+}
+
+blockquote {
+  font-style: italic;
+  margin-right: 3em;
+}
 
 footer {
-  font-size:   0.6em;
-  line-height: 1.5em;
-  text-align:  center;
+  font-size:  var(--small-size);
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5 {
@@ -48,101 +55,22 @@ h3 { font-size: var(--h3-size); }
 h4 { font-size: var(--h4-size); }
 h5 { font-size: var(--h5-size); }
 
-header {
-  font-weight: bold;
-  line-height: 1.2em;
-  overflow:    auto;
-  text-align:  center;
-}
+li { margin-right: 4em }
 
-header img { border-radius: 1em; }
+.acrumen { color: var(--acrumen-color); }
 
-header .dave-pic      { max-width: 36vw; }
-header .dino-pic      { max-width: 48vw; }
-header .header-dave   { float: left; }
-header .header-center { float: none; }
-header .header-dino   {
-  float:  right;
-  height: 228px;  /* same as other, to keep header aligned */
-}
+.big { font-size: 1.2em; }
 
-li { margin: 0.5em 0 }
+.center { text-align: center }
 
-nav {
-  font-weight: normal;
-  font-size: 0.75em;
-  margin-bottom: 0.5em;
-}
+.flipH { transform: scaleX(-1); }
 
-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  line-height: 1.2em;
-  list-style-type: none;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0;
+.header-dino { font-size: 8em; }
+
+div.header-sublines {
+  font-style: italic;
+  margin-top: -0.6em;
   text-align: center;
 }
 
-nav li {
-  --num-nav-links: 6;
-  background: var(--main-fg-color);
-  border-radius: 0.5em;
-  margin: 1px;
-  text-align: center;
-  width: calc((100% / var(--num-nav-links)) - 2px);
-}
-
-nav li:hover { background: var(--link-hover-bg-color); }
-
-nav a {
-  border-radius: 0.5em;
-  color: var(--inverted-link-color);
-  display: block;
-  font-weight: bold;
-  padding: 0.25em 0;
-}
-nav a:visited { color: var(--inverted-link-color); }
-nav a:hover { text-transform: uppercase; }
-
-ol, ul {
-  margin: 0.5em 0 1em 0;
-  padding-left: 1em;  /* don't indent the marker itself */
-}
-
-p { margin: 0.5em 0 1em 0 }
-
-table { margin: 1em auto }
-table td,th {
-  margin:  0 0.5em;
-  text-align: left;
-  vertical-align: top;
-}
-
-.alt-page-title { display: none; }
-
-.big { font-size: var(--h5-size); }
-
-.bold { font-weight: bold; }
-
-.card {
-  background: var(--main-fg-color);
-  border: 1px solid var(--main-fg-color);
-  border-radius: 0.5em;
-  color: var(--main-bg-color);
-  display: table;  /* wtf, this is how to make it honor side-margins auto?! */
-  line-height: 1.5em;
-  margin: 1em auto;
-  padding: 0.5em 1em;
-}
-
-.card a { color: #009 }
-
-.center { text-align: center; }
-
-.numeric { text-align: right; }
-
-.small { font-size: calc(1em / var(--header-ratio)); }
-
-.squished { line-height: 1em; }
+.todo { color: red !IMPORTANT }

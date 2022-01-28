@@ -1,9 +1,10 @@
 ---
-date: 2018-12-26
-layout: post
-original-date: 2010-07-08
+last_updated: 2018-12-26
+layout: blog-post
 permalink: blog/code-katas
+section: Blog
 tags: coding functional-programming has-code iteration katas recursion ruby tests
+title: Code Katas
 ---
 
 Some of you may be familiar with the term _kata_.&nbsp;
@@ -171,7 +172,7 @@ Note, I'm not saying that this is the best solution,
 let alone the One True Solution.&nbsp;
 Your mileage is practically guaranteed to vary, especially on matters of style.
 
-In fact, I'd _like_ to hear how you would have done it differently --
+In fact, I'd _like_ to hear how you would have done it differently &mdash;
 feedback is how one improves.&nbsp;
 What would you have done differently, and why?&nbsp;
 Would it be faster, clearer, more canonically Rubyish, or what?&nbsp;

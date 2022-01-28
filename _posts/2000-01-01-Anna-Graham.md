@@ -1,9 +1,10 @@
 ---
-date: 2019-02-18
-layout: post
-original-date: 2010-08-01
+last_updated: 2019-02-18
+layout: blog-post
 permalink: blog/anna-graham
+section: Blog
 tags: coding functional-programming has-code katas ruby tests
+title: Anna Graham?  No, ANAGRAM Kata!
 ---
 
 No,
@@ -19,7 +20,7 @@ and what the largest set of anagrams
 My solution hinges around the `load_words` method.&nbsp;
 The implementation, in Ruby, complete with tests of course, is:
 
-```
+```ruby
 #! /usr/bin/ruby
 
 # Dave Thomas Code Kata #6: Anagrams
@@ -193,7 +194,8 @@ infect or neglect.)&nbsp;
 Having "grown up" mostly with C, the imperative/procedural style
 is most intuitive to me.&nbsp;
 However, IMNSHO, one should always strive to at least _consider_,
-or better yet _understand_, alternatives to The Way We've Always Done It --
+or better yet _understand_,
+alternatives to The Way We've Always Done It &mdash;
 and maybe even think up more.
 
 So now, as always, it's your turn.&nbsp;

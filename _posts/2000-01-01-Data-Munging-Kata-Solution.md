@@ -1,9 +1,10 @@
 ---
-date: 2019-02-05
-layout: post
-original-date: 2010-07-09
+last_updated: 2019-02-05
+layout: blog-post
 permalink: blog/data-munging-kata-solution
+section: Blog
 tags: coding dry has-code iteration katas ruby tests NEEDS-UPDATE
+title: Data Munging Kata
 ---
 Kata number three isn't a coding exercise,
 so let's move on to
@@ -37,7 +38,7 @@ long before OOP got so popular.&nbsp;
 Just about the only thing OOP added,
 other than _convenient shorthand_ for such encapsulation,
 was polymorphism.&nbsp;
-But don't get me started -- I'm a self-starter.&nbsp; ;-)
+But don't get me started &mdash; I'm a self-starter.&nbsp; ;-)
 
 Anyway, here's my Ruby solution to #4,
 including of course tests,
@@ -48,7 +49,7 @@ will be happy to see.&nbsp;
 "Test All The Time".&nbsp;
 At least on a G-rated blog it does....)
 
-```
+```ruby
 #! /usr/bin/ruby
 
 # Dave Thomas Code Kata 4, Data Munging.

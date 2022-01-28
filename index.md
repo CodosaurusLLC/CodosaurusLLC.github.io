@@ -3,82 +3,61 @@ layout: default
 title: Home
 ---
 
+<!-- this comment is here just to keep Jekyll from moving the below
+headline up into the header; dunno why it does that.  -->
+
 # I help companies write better software faster.
-{:class="card"}
 
-(Mainly established American
+I do this by:
+
+- **[Roadmapping projects and large features](roadmapping)**
+to help you figure out where you want to go, and how to get there
+
+- **[Advising development teams](advice)**
+about processes, tools, techniques, etc.
+
+- **[Training developers](training)**
+how to write better software faster,
+including what "better" even means in the first place
+
+- **[Writing software](development)**,
+usually on a staff-augmentation basis,
+to "lead by example"
+or just help get your project done
+
+I do these mainly for
+established
+American
 [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service){:rel="nofollow" target="_new"}
- companies,
- but also occasional others.&nbsp;
- See [the Clients page](/about/clients) for details.)
-{:class="center small"}
+companies,
+but other companies could be a reasonable fit too.&nbsp;
+See
+[the Clients page](clients) for more details.
 
-<br/>
+I also [speak](speaking)
+at conferences, on podcasts, and to companies.
 
-<div class="card">
-<h2>COVID-19 AND SEMI-RETIREMENT UPDATE</h2>
-<p>
-For the duration of the pandemic,
-I am only offering <i>remote</i> services.&nbsp;
-Also, I am now semi-retired,
-so,
-staff-aug work
-will be
-almost entirely
-limited to:
-<ul>
-<li>roughly six months or less in length</li>
-<li>roughly twenty hours a week or less in "width"</li>
-<li>projects that either use Elixir or otherwise really tickle my fancy.&nbsp; ;-)</li>
-</ul>
-</p>
+(I also [evaluate advertisements](ad-eval);
+sending me ads for
+[inappropriate jobs](bad-jobs),
+or any products or services,
+constitutes engaging this service.)
 
-</div>
+Other content here:
+- **[the <span class="acrumen">ACRUMEN</span> Software Quality Definition](acrumen)**
+- **[Blog](blog)**
+- **[About Me](about)**
+- **[Contact](contact)**
 
-Do you have:
+Elsewhere:
 
-- Software projects you're not sure how to proceed on?
-- Developers who produce low-quality software?
-- Inefficient development processes?
-- A conference or podcast, in need of speakers or guests?
-- A need for a couple extra hands to get Get Shhhhtuff Done?
+- **[Resume](https://bit.ly/dave-aronson-resume){:target="_new"}**
+- **[Github](https://github.com/davearonson/){:target="_new"}**
+- **[LinkedIn (Dave)](https://www.linkedin.com/in/davearonson/){:target="_new"}**
+- **[LinkedIn (Codosaurus)](http://www.linkedin.com/company/Codosaurus-LLC){:target="_new"}**
+- **[Twitter](https://twitter.com/davearonson){:target="_new"}**
+- **[Exercism](https://exercism.io/profiles/DaveAronson){:target="_new"}**
+- **[Quora](https://www.quora.com/profile/Dave-Aronson){:target="_new"}**
 
-<!--
- - Code where you're not sure of its quality?
--->
-
-If so, then
-[**let The Codosaurus help!**](/contact)&nbsp;
-I provide the following services:
-
-- [**Roadmapping your projects**](/services/roadmaps){:class="big"}
-  to figure out
-  how to get
-  where you want to go,
-  and some shortcuts and speedbumps.
-
-- [**Advising your development teams**](/services/advice){:class="big"}
-  on tools, techniques, processes, etc.
-  to help them work <i>efficiently</i>.
-
-- [**Training your developers**](/services/training){:class="big"}
-  how to write _better software faster_,
-  saving money on
-  rework, fixing, and support.
-
-<!--
-- [**Reviewing your (Ruby) code**](/services/code_review){:class="big"}
-  to help make it more
-  understandable,
-  maintainable,
-  efficient,
-  idiomatic,
-  etc.
--->
-
-- [**Writing software**](/services/development){:class="big"}
-  for a fixed price after [roadmapping](/services/roadmaps),
-  as staff-aug as part of [team advice](/services/advice),
-  or just to help you get it done.
-
-- And I [**speak**](/speaking){:class="big"} at conferences and on podcasts.
+(The design and wording of this whole site is under renovation.&nbsp;
+I know it's not very pretty now, but at least you get the general idea!)

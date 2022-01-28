@@ -1,22 +1,66 @@
 ---
 layout: default
 title: Contact
+style: contact
+js: contact
 ---
 
-Sorry, I'm still transitioning this web site
-from being a Rails app to Github pages.&nbsp;
-So, the old stuff I had with Rails mailers won't work any more,
-and I haven't yet found a good form processor.&nbsp;
-That leaves these options:
+First, please remember,
+sending me ads for
+[inappropriate jobs](bad-jobs),
+or any products or services,
+constitutes engaging my services for
+[advertisement evaluation](ad-eval)!
+
+If you're contact me for some other purpose,
+you can do that in these ways:
+
+- Use this form:
+
+<form action="https://www.actionforms.io/e/r/codosaurus-contact-form"
+      id="contact" method="post" onsubmit="return check_form()">
+    <table>
+      <tr>
+        <td><label for="name">Your Name:</label></td>
+        <td><input type="text" name="name" id="name" required></td>
+      </tr>
+      <tr>
+        <td><label for="email">Your Email Address:</label></td>
+        <td><input type="email" name="email" id="email" required></td>
+      </tr>
+      <tr>
+        <td><label for="subject">Message Subject:</label></td>
+        <td><input type="text" name="subject" id="subject" required></td>
+      </tr>
+      <tr>
+        <td><label for="body">Message Body:</label></td>
+        <td>
+          <textarea name="body" id="body" rows="10" maxlength="1000" required></textarea>
+        </td>
+      </tr>
+      <tr style="position: absolute; right: 101%">
+        <td><label for="mt">Subscription:</label></td>
+        <td><input type="text" name="mt" id="mt"></td>
+      </tr>
+      <tr><td></td><td><input type="submit" value="Send" /></td></tr>
+    </table>
+</form>
 
 - Send email to T.Rex-{{ "now" | date: "%Y" }} at this domain.&nbsp;
-That should be good until the year after next,
+That should be good until roughly the year after next,
 at which point it should get shut off.&nbsp;
+(At that time, just update the year.)&nbsp;
 Sorry not to make it a nice convenient mailto link,
 but I get enough spam already thankyouverymuch.
 
+- You can contact me on
+[LinkedIn](https://www.linkedin.com/in/DaveAronson/){:target="_new"}
+or
+[Twitter](https://twitter.com/DaveAronson){:target="_new"}.
+
 - If you're not just telemarketing, call me at 571-308-6622.
 
-- Lastly, I can also be reached via Skype.&nbsp;
-However, don't usually have the app going,
-so you'll have to arrange it in advance.  
+- Lastly, I can also be reached via
+the usual real-time video-chat apps.&nbsp;
+However, don't usually have them going,
+so you'll have to arrange it in advance.

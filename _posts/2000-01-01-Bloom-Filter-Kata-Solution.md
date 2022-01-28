@@ -1,9 +1,10 @@
 ---
-date: 2019-02-08
-layout: post
-original-date: 2010-07-24
+last_updated: 2019-02-08
+layout: blog-post
 permalink: blog/bloom-filter-kata-solution
+section: Blog
 tags: coding has-code iteration katas ruby tests NEEDS-UPDATE
+title: Bloom Filter Kata
 ---
 
 Kata number five is about Bloom Filters.&nbsp;
@@ -21,7 +22,7 @@ It uses each pair of bytes out of an MD5 digest, as an individual hash.&nbsp;
 yes I know MD5 has been declared too weak to rely on for security,
 but this is just a simple demo.)
 
-```
+```ruby
 #! /usr/bin/ruby
 
 # Dave Thomas Code Kata #5: Bloom Filter

@@ -1,5 +1,11 @@
 table.post-list { margin: 0 auto; }
-table.post-list td { padding: 0.1em 0.2em; }
-table.post-list tbody tr:nth-child(odd) { background-color: #334; }
-table.post-list td { padding: 0.2em 0.5em; }
-td.tag-column { max-width: calc(var(--max-width) / 3); }
+table.post-list td,th {
+  padding: 0.1em 0.2em;
+  text-align: left;
+}
+table.post-list td.tag-column { font-size: 0.75em; }
+
+div.tag-cloud-marker + p {
+  margin-bottom: 2em;
+  text-align: center;
+}
