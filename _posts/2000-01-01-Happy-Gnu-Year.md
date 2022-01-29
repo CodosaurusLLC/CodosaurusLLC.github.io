@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-01
+date: 2022-01-01
 layout: blog-post
 permalink: blog/happy-gnu-year
 section: Blog

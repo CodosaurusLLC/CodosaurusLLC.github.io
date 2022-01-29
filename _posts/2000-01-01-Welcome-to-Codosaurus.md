@@ -1,5 +1,5 @@
 ---
-last_updated: 2018-01-01
+date: 2018-01-01
 layout: blog-post
 permalink: blog/welcome
 section: Blog

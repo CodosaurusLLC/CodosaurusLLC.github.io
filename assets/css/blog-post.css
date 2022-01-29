@@ -4,7 +4,7 @@ code {
   line-height: 1em;  /* why won't it honor anything smaller?! */
 }
 
-div.post-meta { font-size: var(--small) }
+div.post-meta { font-size: var(--small-size) }
 
 /* Syntax highlighting styles swiped from mimima theme */
 

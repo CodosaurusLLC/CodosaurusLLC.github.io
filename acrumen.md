@@ -5,7 +5,7 @@ style: acrumen
 ---
 
 The
-<span class="acrumen">ACRUMEN</span>
+**ACRUMEN**{:class="acrumen"}
 software quality definition
 is a simple list of
 briefly-named and easily-understood aspects
@@ -25,7 +25,7 @@ stands for the idea that software should be:
 | Maintainable: || easy for the developers to change |
 | Efficient: || easy on resources (technical _and other_) |
 
-So what does the <span class="acrumen">**N**</span> stand for?&nbsp;
+So what does the **N**{:class="acrumen"} stand for?&nbsp;
 **N**othing, I just tacked it on to make a real word!&nbsp; ;-)
 
 And why all this <span class="acrumen">yellow</span>?!&nbsp;
@@ -33,7 +33,7 @@ I said "acrumen" was a real word, but I didn't say it was English!&nbsp;
 It's Latin for sour fruit,
 such as grapefruit, limes, and of course especially lemons.&nbsp;
 So, lemon yellow is the official color of
-<span class="acrumen">ACRUMEN</span>.
+**ACRUMEN**{:class="acrumen"}.
 
 So why do we need another definition?&nbsp;
 Most of the ones I found,
@@ -99,12 +99,12 @@ or to go the other way,
 
 | **CAREER** || ACRUMEN |
 |--|--|--|
-| Correct | &nbsp;=>&nbsp; | **C**{:class="acrumen"}orrect |
-| Applicable | &nbsp;=>&nbsp; | **A**{:class="acrumen"}ppropriate, and maybe **U**{:class="acrumen"}sable |
-| Resilient | &nbsp;=>&nbsp; | **R**{:class="acrumen"}obust |
-| Efficient | &nbsp;=>&nbsp; | **E**{:class="acrumen"}fficient |
-| Evolvable | &nbsp;=>&nbsp; | Part of **M**{:class="acrumen"}aintainable |
-| Reasonable | &nbsp;=>&nbsp; | Part of **M**{:class="acrumen"}aintainable |
+| Correct | &nbsp;=>&nbsp; | **C**orrect |
+| Applicable | &nbsp;=>&nbsp; | **A**ppropriate, and maybe **U**sable |
+| Resilient | &nbsp;=>&nbsp; | **R**obust |
+| Efficient | &nbsp;=>&nbsp; | **E**fficient |
+| Evolvable | &nbsp;=>&nbsp; | Part of **M**aintainable |
+| Reasonable | &nbsp;=>&nbsp; | Part of **M**aintainable |
 
 Unfortunately I didn't discover CAREER until I had been
 working/writing on **ACRUMEN**{:class="acrumen"}

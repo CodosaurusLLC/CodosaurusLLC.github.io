@@ -1,5 +1,5 @@
 ---
-last_updated: 2019-02-08
+date: 2019-02-08
 layout: blog-post
 permalink: blog/bloom-filter-kata-solution
 section: Blog

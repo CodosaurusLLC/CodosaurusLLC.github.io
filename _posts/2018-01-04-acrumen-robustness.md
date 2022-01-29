@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-14
+date: 2022-01-14
 layout: blog-post
 permalink: blog/acrumen-robustness
 section: Blog

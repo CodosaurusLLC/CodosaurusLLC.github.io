@@ -1,5 +1,5 @@
 ---
-last_updated: 2018-12-26
+date: 2018-12-26
 layout: blog-post
 permalink: blog/code-katas
 section: Blog

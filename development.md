@@ -34,10 +34,12 @@ and the nearly-inescapable JavaScript,
 sometimes under
 [Stratus VOS](https://en.wikipedia.org/wiki/Stratus_VOS){:rel="nofollow" target="_new"},
 or
-[STOP](https://www.baesystems.com/en/product/stop-os){:rel="nofollow" target="_new"}
+Linux, macOS,
+[STOP](https://www.baesystems.com/en/product/stop-os){:rel="nofollow" target="_new"},
 or other 
 [Unix](https://en.wikipedia.org/wiki/Unix){:rel="nofollow" target="_new"}-workalikes,
-plus many languages and OSes I _don't_ want to work in again.
+plus many languages and OSes I _don't_ want to work in again
+(so I won't mention them here lest they attract recruiters).
 
 There are three general ways I'll write software for you:
 

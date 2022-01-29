@@ -1,5 +1,5 @@
 ---
-last_updated: 2019-02-18
+date: 2019-02-18
 layout: blog-post
 permalink: blog/anna-graham
 section: Blog

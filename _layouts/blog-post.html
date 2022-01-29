@@ -10,7 +10,7 @@ style: blog-post
 
   <div class="post-meta">
     Last Updated:
-    <time>{{ page.last_updated | date: site.date_format }}</time>
+    <time>{{ page.date | date: site.date_format }}</time>
     <br/>
     Tags:
     {% assign tags = page.tags | sort %}

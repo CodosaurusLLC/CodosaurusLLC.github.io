@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-12
+date: 2022-01-12
 layout: blog-post
 permalink: blog/acrumen-appropriateness
 section: Blog

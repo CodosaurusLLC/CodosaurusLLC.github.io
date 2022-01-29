@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-18
+date: 2022-01-18
 layout: blog-post
 permalink: blog/mutation-testing
 section: Blog

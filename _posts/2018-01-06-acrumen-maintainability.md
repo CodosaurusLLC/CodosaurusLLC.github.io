@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-16
+date: 2022-01-16
 layout: blog-post
 permalink: blog/acrumen-maintainability
 section: Blog

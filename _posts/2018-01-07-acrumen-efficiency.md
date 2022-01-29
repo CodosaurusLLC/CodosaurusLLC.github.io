@@ -1,5 +1,5 @@
 ---
-last_updated: 2022-01-17
+date: 2022-01-17
 layout: blog-post
 permalink: blog/acrumen-efficiency
 section: Blog

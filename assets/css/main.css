@@ -1,12 +1,14 @@
 :root {
-  --h1-size:       calc(var(--h2-size)   * var(--header-ratio));
-  --h2-size:       calc(var(--h3-size)   * var(--header-ratio));
-  --h3-size:       calc(var(--h4-size)   * var(--header-ratio));
-  --h4-size:       calc(var(--h5-size)   * var(--header-ratio));
-  --h5-size:       calc(var(--text-size) * var(--header-ratio));
-  --small-size:    calc(var(--text-size) / var(--header-ratio));
-  --header-ratio:  1.2;
-  --text-size:     16pt;
+  --h1-size:       calc(var(--h2-size)    * var(--size-ratio));
+  --h2-size:       calc(var(--h3-size)    * var(--size-ratio));
+  --h3-size:       calc(var(--h4-size)    * var(--size-ratio));
+  --h4-size:       calc(var(--h5-size)    * var(--size-ratio));
+  --h5-size:       calc(var(--big-size)   * var(--size-ratio));
+  --big-size:      calc(var(--text-size)  * var(--size-ratio));
+  --small-size:    calc(var(--text-size)  / var(--size-ratio));
+  --tiny-size:     calc(var(--small-size) / var(--size-ratio));
+  --size-ratio:    1.15;
+  --text-size:     clamp(10pt, 2vw, 16pt);
   --link-color:    #dde;  /* not *quite* stark white, plus hint of blue */
   --bg-color:      #112;  /* not *quite* stark black, plus hint of blue */
   --fg-color:      #ded;  /* not *quite* stark white, plus hint of green */
@@ -20,7 +22,7 @@ body {
   font-family:  Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
   font-size:    var(--text-size);
   line-height:  1.5em;
-  margin:       1px 3%;
+  margin:       1px clamp(1px, 5%, 100px);
 }
 
 a, a:visited { color: var(--link-color) }
@@ -35,7 +37,8 @@ blockquote {
 }
 
 footer {
-  font-size:  var(--small-size);
+  font-size:  var(--tiny-size);
+  line-height: 1.5em;
   text-align: center;
 }
 
@@ -45,7 +48,6 @@ h1, h2, h3, h4, h5 {
   font-weight: bold;
   line-height: 1.5em;
   margin:      0;
-  padding-top: 0.2em;
   text-align:  center;
 }
 
@@ -55,22 +57,28 @@ h3 { font-size: var(--h3-size); }
 h4 { font-size: var(--h4-size); }
 h5 { font-size: var(--h5-size); }
 
-li { margin-right: 4em }
+li { margin-right: 4em; }
+
+th,td { text-align: left; }
 
 .acrumen { color: var(--acrumen-color); }
 
-.big { font-size: 1.2em; }
+.big { font-size: var(--big-size); }
 
 .center { text-align: center }
 
 .flipH { transform: scaleX(-1); }
 
-.header-dino { font-size: 8em; }
+.header-dino { font-size: calc(var(--h1-size) * 3); }
 
 div.header-sublines {
   font-style: italic;
-  margin-top: -0.6em;
+  margin-top: -0.5em;
   text-align: center;
 }
+
+.small { font-size: var(--small-size) }
+
+.tiny { font-size: var(--tiny-size) }
 
 .todo { color: red !IMPORTANT }
