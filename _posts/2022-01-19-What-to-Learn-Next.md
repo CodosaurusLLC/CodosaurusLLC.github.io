@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2022-01-19
 layout: blog-post
 permalink: blog/what-to-learn-next

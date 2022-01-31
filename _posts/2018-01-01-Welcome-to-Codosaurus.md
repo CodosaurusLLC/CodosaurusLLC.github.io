@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2018-01-01
 layout: blog-post
 permalink: blog/welcome

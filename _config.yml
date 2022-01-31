@@ -18,12 +18,12 @@ title: Codosaurus, LLC
 description: >- # this means to ignore newlines until "baseurl:"
   Web site for Codosaurus, LLC, a software development consultancy
   based in the Virginia suburbs of Washington DC but serving clients worldwide.
-  Services include training, process advice, code review, project roadmapping,
+  Services include process advice, project roadmapping, developer training,
   and of course custom software development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: davearonson
-github_username:  davearonson
+url: "https://www.Codosaur.us" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: DaveAronson
+github_username:  DaveAronson
 
 date_format: "%Y-%0m-%0d"
 

@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2022-01-13
 layout: blog-post
 permalink: blog/acrumen-correctness

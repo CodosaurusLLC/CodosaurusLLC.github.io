@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2019-02-05
 layout: blog-post
 permalink: blog/data-munging-kata-solution

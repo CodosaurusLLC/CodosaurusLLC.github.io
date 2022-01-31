@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2019-02-08
 layout: blog-post
 permalink: blog/bloom-filter-kata-solution

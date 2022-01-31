@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2018-12-26
 layout: blog-post
 permalink: blog/code-katas

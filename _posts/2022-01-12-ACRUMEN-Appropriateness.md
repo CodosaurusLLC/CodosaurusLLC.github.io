@@ -1,4 +1,5 @@
 ---
+author: Dave Aronson
 date: 2022-01-12
 layout: blog-post
 permalink: blog/acrumen-appropriateness
