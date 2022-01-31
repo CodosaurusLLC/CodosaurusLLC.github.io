@@ -38,6 +38,10 @@ you can do that in these ways:
           <textarea name="body" id="body" rows="10" maxlength="1000" required></textarea>
         </td>
       </tr>
+      <tr>
+        <td><label for="notspam">This is Not Spam:</label></td>
+        <td><input type="checkbox" name="notspam" id="notspam"></td>
+      </tr>
       <tr style="position: absolute; right: 101%">
         <td><label for="mt">Subscription:</label></td>
         <td><input type="text" name="mt" id="mt"></td>

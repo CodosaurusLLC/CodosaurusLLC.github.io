@@ -1,22 +1,21 @@
 form#contact table {
   margin: auto;
-  vertical-align: top;
-  width: clamp(20em, 80%, 100em);
+  width: clamp(20em, 75%, 80em);
 }
 
-form#contact table td { vertical-align: top; }
+form#contact table td:first-child { width: 9em; }
 
-form#contact table td:first-child { width: 25%; }
-
-form#contact table td:last-child input,textarea {
+input, textarea {
   background: var(--fg-color);
   color:      var(--bg-color);
-  margin-top: 0.5em;
+  margin-top: .5em;
   width:      100%;
 }
 
-form#contact table td:last-child input[type="submit"] {
-  height:      2em;
+input[type="checkbox"] { width: auto; }
+
+input[type="submit"] {
+  height:      3em;
   font-weight: bold;
-  width:       50%;
+  width:       max(50%, 5em);
 }
