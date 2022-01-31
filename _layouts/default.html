@@ -24,24 +24,22 @@
   <body>
 
     <header>
-      <center>
-      <table>
+      <table align="center" class="site-title">
         <tr>
           <td class="header-dino flipH">🦖</td>
           <td>
-            <h1 style="padding: 0"><a href="/">Codosaurus, LLC</a></h1>
+            <h1 style="padding: 0"><a href="/">Codosaurus<!--, LLC--></a></h1>
             <div class="header-sublines">How can we evolve you today?</div>
-            <h2 style="padding: 0">
-              {% if page.section %}
-                <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
-              {% endif %}
-              <span class="page-title">{{ page.title }}</span>
-            </h2>
           </td>
           <td class="header-dino">🦖</td>
         </tr>
       </table>
-      </center>
+      <h2 style="padding: 0">
+        {% if page.section %}
+        <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
+        {% endif %}
+        <span class="page-title">{{ page.title }}</span>
+      </h2>
     </header>
 
     <hr style="clear: both"/>

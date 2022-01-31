@@ -6,7 +6,7 @@ title: Home
 <!-- this comment is here just to keep Jekyll from moving the below
 headline up into the header; dunno why it does that.  -->
 
-# I help companies write better software faster.
+### I help companies write better software faster.
 
 I do this by:
 
