@@ -7,8 +7,8 @@
   --big-size:      calc(var(--text-size)  * var(--size-ratio));
   --small-size:    calc(var(--text-size)  / var(--size-ratio));
   --tiny-size:     calc(var(--small-size) / var(--size-ratio));
-  --size-ratio:    1.167;
-  --text-size:     clamp(10pt, 2vw, 16pt);
+  --size-ratio:    1.125;
+  --text-size:     clamp(12pt, 2vw, 18pt);
   --link-color:    #dde;  /* not *quite* stark white, plus hint of blue */
   --bg-color:      #112;  /* not *quite* stark black, plus hint of blue */
   --fg-color:      #ded;  /* not *quite* stark white, plus hint of green */
@@ -54,9 +54,11 @@ h3 { font-size: var(--h3-size); }
 h4 { font-size: var(--h4-size); }
 h5 { font-size: var(--h5-size); }
 
-li { margin-right: min(5%, 3em); }
+li { margin-right: min(2%, 2em); }
 
 th,td { text-align: left; }
+
+ul { padding-left: calc(1em + min(1%, 1em)); }
 
 .acrumen { color: var(--acrumen-color); }
 
@@ -70,6 +72,7 @@ th,td { text-align: left; }
 
 div.header-sublines {
   font-style: italic;
+  font-size: var(--tiny-size);
   margin-top: -0.5em;
   text-align: center;
 }
