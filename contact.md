@@ -15,6 +15,7 @@ constitutes engaging my services for
 If you're contact me for some other purpose,
 you can do that in these ways:
 
+<!--
 - Use this form:
 
 <form action="https://www.actionforms.io/e/r/codosaurus-contact-form"
@@ -49,12 +50,14 @@ you can do that in these ways:
       <tr><td></td><td><input type="submit" value="Send" /></td></tr>
     </table>
 </form>
+-->
 
 - Send email to T.Rex-{{ "now" | date: "%Y" }} at this domain.&nbsp;
-That should be good until roughly the year after next,
+That should be good for a few years,
 at which point it should get shut off.&nbsp;
 (At that time, just update the year.)&nbsp;
-Sorry not to make it a nice convenient mailto link,
+Sorry not to make it a nice convenient
+form or mailto link,
 but I get enough spam already thankyouverymuch.
 
 - You can contact me on
