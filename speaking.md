@@ -90,12 +90,272 @@ Ask me, and we'll see.
 
 Definite speaking engagements in the _future_ include:
 
-| Year || Conference || Where || Topic(s) |
+| When | Conference | Where | Topic(s) |
 |-|
-|2022||[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}||Bristol, England/UK||Mutants|
-|2022||[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
-|2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, Virginia, USA||Mead|
+|April 2022|[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}|Bristol, England/UK|Mutants|
+|April 2022|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}|Vilnius, Lithuania|Mutants|
+|May 2022|[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}|Stockholm, Sweden|Mutants|
+|August 2022|[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}|Reston, Virginia, USA|Mead|
+{:class="upcoming-engagements speaking"}
 
+Speaking engagements in the _past_ include:
+
+<table class="past-engagements speaking">
+  <thead>
+    <tr>
+      <th class="numeric">Year</th>
+      <th>Conference</th>
+      <th>Topic(s)</th>
+      <th>Link(s)</th>
+      <th class="numeric">Mins</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>, released 2021-12-01</td>
+      <td>Software quality</td>
+      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" rel="nofollow" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" rel="nofollow" target="_new">transcript</a></td>
+      <td class="numeric">44</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
+      <td>Mutants</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">40?</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(video coming eventually)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
+      <td>ACRUMEN</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">40?</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(video coming eventually)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
+      <td>Mutants</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">55?</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(video coming eventually)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
+      <td>Mutants</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">55?</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(video coming eventually)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2021</td>
+      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">KCDC (Kansas City Developer Conference)</a></td>
+      <td>Mutants</td>
+      <td>(none)</td>
+      <td class="numeric">45?</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(they don't record sessions)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2020</td>
+      <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">52</td>
+    </tr>
+    <tr>
+      <td class="numeric">2020</td>
+      <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest / Reimagined</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">31</td>
+    </tr>
+    <!-- <tr class="notes">
+      <td colspan="5">(30-min backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a>)</td>
+    </tr> -->
+    <tr>
+      <td class="numeric">2020</td>
+      <td><a href="https://devchat.tv/ruby-rogues/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
+      <td>Mutants</td>
+      <td><a href="https://devchat.tv/ruby-rogues/rr-459-mutation-testing-with-dave-aronson/" rel="nofollow" target="_new">audio</a></td>
+      <td class="numeric">68</td>
+    </tr>
+    <tr>
+      <td class="numeric">2020</td>
+      <td><a href="https://www.jsconfhi.com/" rel="nofollow" target="_new">JSConf Hawai'i</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">22</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=9GId6mFL0_c" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">39</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="http://www.lrtechfest.com/" rel="nofollow" target="_new">Little Rock Tech Fest</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.youtube.com/watch?v=V-pYlihc6hM" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">45</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(Sorry for the bad audio, they don't record, so it's from my phone on a tripod)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://www.heartlanddc.com/" rel="nofollow" target="_new">Heartland Devconf</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=adBtsgolhvI&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">44</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(recorded on my phone)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://maintainable.fm/" rel="nofollow" target="_new">Maintainable Software Podcast</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://maintainable.fm/episodes/dave-aronson-putting-the-m-in-acrumen-n_6lX9fc" rel="nofollow" target="_new">audio</a></td>
+      <td class="numeric">44</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://github.com/elixirup/remote-meetup/" rel="nofollow" target="_new">Elixir Remote Meetup (September )</a></td>
+      <td>Mutants and Prepending</td>
+      <td><a href="https://www.youtube.com/watch?v=lCjeKcSN41I&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">45</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="http://5by5.tv/rubyonrails/" rel="nofollow" target="_new">Ruby on Rails Podcast</a></td>
+      <td>Mutants</td>
+      <td><a href="http://5by5.tv/rubyonrails/283" rel="nofollow" target="_new">audio</a></td>
+      <td class="numeric">24</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(My first podcast!)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://abstractions.io/" rel="nofollow" target="_new">Abstractions</a> II</td>
+      <td>Mutants</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(They recorded it but are fixing technical difficulties)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td>
+        <a href="https://us.mensa.org/" rel="nofollow" target="_new">American Mensa</a>'s
+        <a href="https://ag.us.mensa.org/" rel="nofollow" target="_new">Annual Gathering</a>
+      </td>
+      <td>ACRUMEN</td>
+      <td>(none)</td>
+      <td class="numeric">75!</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(Again, more aimed at feedback than teaching, taking advantage of their long timeslots (and big brains))</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://www.spaconference.org/" rel="nofollow" target="_new">Software Process Advancement</a></td>
+      <td>ACRUMEN</td>
+      <td>(none)</td>
+      <td class="numeric">150!</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(Aimed mainly at discussing and perfecting it, not so much teaching it)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://ndcoslo.com/" rel="nofollow" target="_new">NDC Oslo</a></td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=0ZchSZPjsY0&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">60</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(My first delivery of this talk, not very good)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://novacodecamp.org/" rel="nofollow" target="_new">Nova Codecamp</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.youtube.com/watch?v=1QfGyGy3EV8&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">60</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(Another one where they don't record so it was just my phone on a tripod)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2019</td>
+      <td><a href="https://codecamp.ro/chisinau-2019-05-11" rel="nofollow" target="_new">Codecamp Chisinau</a></td>
+      <td>ACRUMEN</td>
+      <td>(none)</td>
+      <td class="numeric"></td>
+    </tr>
+    <tr>
+      <td class="numeric">2018</td>
+      <td><a href="https://devconf.pl/" rel="nofollow" target="_new">Devconf Poland</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">37</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(My very first conference talk, so not very well done, sorry!)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2018</td>
+      <td>assorted DC-area Meetups</td>
+      <td>ACRUMEN</td>
+      <td>(none)</td>
+      <td class="numeric"></td>
+    </tr>
+    <tr>
+      <td class="numeric">2018</td>
+      <td><a href="https://elixirconf.com/" rel="nofollow" target="_new">ElixirConf</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.youtube.com/watch?v=6V1FO1xGitU&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">5</td>
+    </tr>
+    <tr>
+      <td class="numeric">2017</td>
+      <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.youtube.com/embed/YMoa5JpjEtM?start=4080&end=4355" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">5</td>
+    </tr>
+    <tr>
+      <td class="numeric">2014</td>
+      <td>assorted DC-area Meetups</td>
+      <td>Ruby Gotchas</td>
+      <td>(none)</td>
+      <td class="numeric">~45</td>
+    </tr>
+    <tr>
+      <td class="numeric">1990s<br/>to Now</td>
+      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metropolitan Washington Mensa</a>'s <a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
+      <td>spam-protection, and non-tech topics</td>
+      <td>(none)</td>
+      <td class="numeric">30-45</td>
+    </tr>
+  </tbody>
+</table>
 
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen
@@ -116,252 +376,7 @@ include:
 |[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece of course!||Mutants|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, Alabama, USA||Mutants|
-
-Speaking engagements in the _past_ include:
-
-<table>
-  <thead>
-    <tr>
-      <th class="numeric">Year</th>
-      <th>Conference</th>
-      <th>Topic(s)</th>
-      <th>Link(s)</th>
-      <th class="numeric">Mins</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>, released 2021-12-01</td>
-      <td>Software quality</td>
-      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" rel="nofollow" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" rel="nofollow" target="_new">transcript</a></td>
-      <td class="numeric">44</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
-      <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">40?</td>
-      <td>video coming eventually</td>
-    </tr>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
-      <td>ACRUMEN</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">40?</td>
-      <td>video coming eventually</td>
-    </tr>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
-      <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">55?</td>
-      <td>video coming eventually</td>
-    </tr>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
-      <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">55?</td>
-      <td>video coming eventually</td>
-    </tr>
-    <tr>
-      <td class="numeric">2021</td>
-      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">KCDC (Kansas City Developer Conference)</a></td>
-      <td>Mutants</td>
-      <td>(none)</td>
-      <td class="numeric">45?</td>
-      <td>they don't record sessions :-(</td>
-    </tr>
-
-    <tr>
-      <td class="numeric">2020</td>
-      <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">52</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2020</td>
-      <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest / Reimagined</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">31</td>
-      <td><!-- backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a> (30 mins) --></td>
-    </tr>
-    <tr>
-      <td class="numeric">2020</td>
-      <td><a href="https://devchat.tv/ruby-rogues/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
-      <td>Mutants</td>
-      <td><a href="https://devchat.tv/ruby-rogues/rr-459-mutation-testing-with-dave-aronson/" rel="nofollow" target="_new">audio</a></td>
-      <td class="numeric">68</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2020</td>
-      <td><a href="https://www.jsconfhi.com/" rel="nofollow" target="_new">JSConf Hawai'i</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">22</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=9GId6mFL0_c" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">39</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="http://www.lrtechfest.com/" rel="nofollow" target="_new">Little Rock Tech Fest</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=V-pYlihc6hM" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">45</td>
-      <td>Sorry for the bad audio, they don't record, so it's from my phone on a tripod; I'm now researching how to de-noise it</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://www.heartlanddc.com/" rel="nofollow" target="_new">Heartland Devconf</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=adBtsgolhvI&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">44</td>
-      <td>recorded on my phone</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://maintainable.fm/" rel="nofollow" target="_new">Maintainable Software Podcast</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://maintainable.fm/episodes/dave-aronson-putting-the-m-in-acrumen-n_6lX9fc" rel="nofollow" target="_new">audio</a></td>
-      <td class="numeric">44</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://github.com/elixirup/remote-meetup/" rel="nofollow" target="_new">Elixir Remote Meetup (September )</a></td>
-      <td>Mutants and Prepending</td>
-      <td><a href="https://www.youtube.com/watch?v=lCjeKcSN41I&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">45</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="http://5by5.tv/rubyonrails/" rel="nofollow" target="_new">Ruby on Rails Podcast</a></td>
-      <td>Mutants</td>
-      <td><a href="http://5by5.tv/rubyonrails/283" rel="nofollow" target="_new">audio</a></td>
-      <td class="numeric">24</td>
-      <td>My first podcast!</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://abstractions.io/" rel="nofollow" target="_new">Abstractions</a> II</td>
-      <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td></td>
-      <td>They recorded it but are fixing technical difficulties</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td>
-        <a href="https://us.mensa.org/" rel="nofollow" target="_new">American Mensa</a>'s
-        <a href="https://ag.us.mensa.org/" rel="nofollow" target="_new">Annual Gathering</a>
-      </td>
-      <td>ACRUMEN</td>
-      <td>(none)</td>
-      <td class="numeric">75!</td>
-      <td>Again, more aimed at feedback than teaching, taking advantage of their long timeslots (and big brains)</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://www.spaconference.org/" rel="nofollow" target="_new">Software Process Advancement</a></td>
-      <td>ACRUMEN</td>
-      <td>(none)</td>
-      <td class="numeric">150!</td>
-      <td>Aimed mainly at discussing and perfecting it, not so much teaching it</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://ndcoslo.com/" rel="nofollow" target="_new">NDC Oslo</a></td>
-      <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=0ZchSZPjsY0&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">60</td>
-      <td>My first delivery of this talk, not very good</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://novacodecamp.org/" rel="nofollow" target="_new">Nova Codecamp</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=1QfGyGy3EV8&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">60</td>
-      <td>Another one where they don't record so it was just my phone on a tripod</td>
-    </tr>
-    <tr>
-      <td class="numeric">2019</td>
-      <td><a href="https://codecamp.ro/chisinau-2019-05-11" rel="nofollow" target="_new">Codecamp Chisinau</a></td>
-      <td>ACRUMEN</td>
-      <td>(none)</td>
-      <td class="numeric"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2018</td>
-      <td><a href="https://devconf.pl/" rel="nofollow" target="_new">Devconf Poland</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">37</td>
-      <td>My very first conference talk, so not very well done, sorry!</td>
-    </tr>
-    <tr>
-      <td class="numeric">2018</td>
-      <td>assorted DC-area Meetups</td>
-      <td>ACRUMEN</td>
-      <td>(none)</td>
-      <td class="numeric"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2018</td>
-      <td><a href="https://elixirconf.com/" rel="nofollow" target="_new">ElixirConf</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=6V1FO1xGitU&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2017</td>
-      <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
-      <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/embed/YMoa5JpjEtM?start=4080&end=4355" rel="nofollow" target="_new">video</a></td>
-      <td class="numeric">5</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">2014</td>
-      <td>assorted DC-area Meetups</td>
-      <td>Ruby Gotchas</td>
-      <td>(none)</td>
-      <td class="numeric">~45</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td class="numeric">1990s<br/>to Present</td>
-      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metropolitan Washington Mensa</a>'s <a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
-      <td>spam-protection, and non-tech topics</td>
-      <td>(none)</td>
-      <td class="numeric">30-45</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
+{:class="likely-engagements speaking"}
 
 Also, I was one of the co-organizers of
 [TDDConf](https://tddconf.com/){:rel="nofollow" target="_new"}

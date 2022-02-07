@@ -33,18 +33,25 @@ a:hover      {
 
 blockquote { font-style: italic; }
 
-footer {
-  font-size:  var(--tiny-size);
-  line-height: 1.5em;
+div.header-sublines {
+  font-style: italic;
+  font-size: var(--tiny-size);
+  margin-top: -0.5em;
   text-align: center;
+}
+
+footer {
+  font-size:   var(--tiny-size);
+  line-height: 1.5em;
+  text-align:  center;
 }
 
 h1, h2, h3, h4, h5 {
   /* standard-width fonts, NOT GEORGIA! */
   font-family: Palatino, Garamond, Times New Roman, Serif;
   font-weight: bold;
-  line-height: 1.5em;
-  margin:      0;
+  line-height: 1.25em;
+  margin:      0.1em;
   text-align:  center;
 }
 
@@ -61,24 +68,10 @@ th,td { text-align: left; }
 ul { padding-left: calc(1em + min(1%, 1em)); }
 
 .acrumen { color: var(--acrumen-color); }
-
-.big { font-size: var(--big-size); }
-
-.center { text-align: center }
-
+.big    { font-size:  var(--big-size); }
+.center { text-align: center; }
 .flipH { transform: scaleX(-1); }
-
 .header-dino { font-size: calc(var(--h1-size) * 2); }
-
-div.header-sublines {
-  font-style: italic;
-  font-size: var(--tiny-size);
-  margin-top: -0.5em;
-  text-align: center;
-}
-
-.small { font-size: var(--small-size) }
-
-.tiny { font-size: var(--tiny-size) }
-
-.todo { color: red !IMPORTANT }
+.small  { font-size:  var(--small-size); }
+.tiny   { font-size:  var(--tiny-size); line-height: var(--small-size); }
+.todo { color: red !IMPORTANT; }

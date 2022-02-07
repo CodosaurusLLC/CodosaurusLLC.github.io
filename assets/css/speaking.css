@@ -1,2 +1,17 @@
 table { margin: 0 auto }
 td,th { text-align: left }
+
+table.upcoming-engagements { font-size: var(--big-size);   }
+table.past-engagements     { font-size: var(--small-size); }
+table.likely-engagements   { font-size: var(--small-size); }
+
+table.speaking th, table.speaking td {
+  padding: 0.2em;
+  vertical-align: top;
+}
+
+table.past-engagements tr.notes td {
+  font-size:   var(--tiny-size);
+  padding-top: 0;
+  text-align:  right;
+}
