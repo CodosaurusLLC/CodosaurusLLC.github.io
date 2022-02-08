@@ -21,7 +21,7 @@ title: Happy Gnu Year!
  #     \   )——____\_2_\_—| |-'      |##
  #      / //             | ||       | #
        / //              ( ))      /  ##    |=|
-       |||  ASCII Art by  |||      |KORB##   |:|
+       |||  ASCII Art by |||      |KORB##   |:|
        |||  Dave Aronson |||      | Brut##  `V'
        \_\\ &copy; 1987-2022  \_\\  @= |_____### _|_
 </pre>
