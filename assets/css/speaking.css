@@ -6,12 +6,14 @@ table.past-engagements     { font-size: var(--small-size); }
 table.likely-engagements   { font-size: var(--small-size); }
 
 table.speaking th, table.speaking td {
-  padding: 0.2em;
+  line-height:    1.4em;
+  padding:        0.2em;
   vertical-align: top;
 }
 
 table.past-engagements tr.notes td {
   font-size:   var(--tiny-size);
-  padding-top: 0;
-  text-align:  right;
+  padding-top:    0;
+  padding-bottom: 0.3em;
+  text-align:     right;
 }

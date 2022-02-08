@@ -5,67 +5,74 @@ title: Speaking
 ---
 
 I enjoy presenting at conferences,
-mainly <!-- technology-agnostic software development ones,
+mainly
+<!-- technology-agnostic software development conferences,
 or about some language I know and like such as Ruby or Elixir, -->
-held in person at interesting destinations.&nbsp;
-<!-- I can also talk to a _company_,
-or their devs,
-for a reasonable fee. -->
+held in person at interesting destinations,
+and reimbursing my travel expenses.&nbsp;
+(I generally do not do _remote_ conferences,
+unless they are within three timezones of US-East.)&nbsp;
+I will also talk to a _company_
+(or their devs)
+for an additional fee.
 
-The topics I _currently_ have talks prepared for are:
+The topics I _currently_ have full-length talks prepared for are:
 
 - My
 [**ACRUMEN**](acrumen)
 definition of software quality
-(title: "Write Better Software with ACRUMEN"):&nbsp;
+(title: "Write Better Software with ACRUMEN").&nbsp;
 <!-- This is completely technology-agnostic;
-in fact there is not even any code!&nbsp; -->
+in fact there is not even any code!&nbsp;
 I have presented on this at
 several conferences
 and other such events,
 from ten minutes to two and a half hours,
-usually 30-45.&nbsp;
-If you like, I can also do this as
-a lightning talk (~5 minutes),
-or a keynote
-(plenary, inspirational, no Q&A).
+usually 30-45.&nbsp; -->
+I can also do this as
+a lightning talk
+or a keynote.
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing)
-(title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)"):&nbsp;
+(title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
 <!-- There is some code in this, not much and fairly simple,
 mainly brief snippets to test, mutations of it, and tests.&nbsp; -->
 I have prepared versions so far with the code in
+<!--
 [Ruby](https://www.ruby-lang.org/en/){:rel="nofollow" target="_new"},
 JavaScript,
 [Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
 and language-agnostic pseudocode.&nbsp;
-I have presented on this at many conferences,
-from twenty minutes to a full hour, soon an hour and a half.&nbsp;
+-->
+several languages,
+and have presented on this at many conferences<!--,
+from twenty minutes to a full hour, soon an hour and a half-->.&nbsp;
 
 - **Ruby "gotchas"**
-(title: "Ruby Gotchas"):&nbsp;
-i.e., nasty surprises in the
-Ruby programming language.&nbsp;
+(title: "Ruby Gotchas").&nbsp;
+<!-- I.e., nasty surprises in the
+Ruby programming language.&nbsp; -->
 I have done this for local user groups, for about 45 minutes.
 
 - **Ping-Pong Pair Programming**
-(title: "Whose Line of Code Is It Anyway?"):&nbsp;
-a hands-on demo with
+(title: "Whose Line of Code Is It Anyway?").&nbsp;
+This is a hands-on demo with
 a co-speaker _or_
 a volunteer from the audience
 (or series of them),
-working on a problem and in a language
-both chosen by the audience.
+working on a problem
+and (at polyglot conferences) in a language
+both _chosen by the audience_.
 
 - **Breaking into conference speaking**
-(title: "You Wanna Say Somethin'?"):&nbsp;
-I haven't actually done this one at conferences,
+(title: "You Wanna Say Somethin'?").&nbsp;
+<!--I haven't actually done this one at conferences,
 or anywhere else that recorded it,
 but I have the bare bones prepped as a 5-7 minute
 [Toastmasters](http://toastmasters.org/){:rel="nofollow" target="_new"}
 speech,
 and intend to fill it out to 30-45 minutes for conferences.&nbsp;
-Intended content includes
+Intended content --> This includes things like
 why you might want to talk at a conference,
 how to find the conferences,
 how to apply to speak at them,
@@ -73,10 +80,14 @@ and a few basic public speaking tips.
 
 - **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
 (title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
-the History and Making of MEAD!"):&nbsp;
-(Yes, this is not a technical thing,
-at least in the computer sense.)
+the History and Making of MEAD!").&nbsp;
+Yes, this is not a technical thing,
+at least in the computer sense.&nbsp;
+;-)
 
+I also have a _lightning_ talk prepared on
+why we _prepend_ to lists, instead of appending,
+when using immutable data.&nbsp;
 I'm also interested in putting together talks on
 doctests (such as in Elixir or Python),
 _property-based_ testing,
@@ -86,7 +97,7 @@ helpful TDD/BDD hints,
 and more.
 
 Want me to speak on something not covered above?&nbsp;
-Ask me, and we'll see.
+[Ask me](/contact), and we'll see.
 
 Definite speaking engagements in the _future_ include:
 
@@ -116,8 +127,8 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2021</td>
-      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>, released 2021-12-01</td>
-      <td>Software quality</td>
+      <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>,<br/>released 2021-12-01</td>
+      <td>ACRUMEN and other<br/>software quality</td>
       <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" rel="nofollow" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" rel="nofollow" target="_new">transcript</a></td>
       <td class="numeric">44</td>
     </tr>
@@ -163,7 +174,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2021</td>
-      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">KCDC (Kansas City Developer Conference)</a></td>
+      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">Kansas City Developer Conference<br/>(KCDC)</a></td>
       <td>Mutants</td>
       <td>(none)</td>
       <td class="numeric">45?</td>
@@ -238,8 +249,8 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td><a href="https://github.com/elixirup/remote-meetup/" rel="nofollow" target="_new">Elixir Remote Meetup (September )</a></td>
-      <td>Mutants and Prepending</td>
+      <td><a href="https://github.com/elixirup/remote-meetup/" rel="nofollow" target="_new">Elixir Remote Meetup<br/>(September)</a></td>
+      <td>Mutants and<br/>Prepending</td>
       <td><a href="https://www.youtube.com/watch?v=lCjeKcSN41I&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
       <td class="numeric">45</td>
     </tr>
@@ -265,7 +276,7 @@ Speaking engagements in the _past_ include:
     <tr>
       <td class="numeric">2019</td>
       <td>
-        <a href="https://us.mensa.org/" rel="nofollow" target="_new">American Mensa</a>'s
+        <a href="https://us.mensa.org/" rel="nofollow" target="_new">American Mensa</a>'s<br/>
         <a href="https://ag.us.mensa.org/" rel="nofollow" target="_new">Annual Gathering</a>
       </td>
       <td>ACRUMEN</td>
@@ -352,8 +363,8 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">1990s<br/>to Now</td>
-      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metropolitan Washington Mensa</a>'s <a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
-      <td>spam-protection, and non-tech topics</td>
+      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metropolitan Washington Mensa</a>'s<br/><a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
+      <td>spam-protection,<br/>and non-tech topics</td>
       <td>(none)</td>
       <td class="numeric">30-45</td>
     </tr>
