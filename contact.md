@@ -18,7 +18,7 @@ you can do that in these ways:
 <!--
 - Use this form:
 
-<form action="https://www.actionforms.io/e/r/codosaurus-contact-form"
+<form action="https://www.actionforms.io/e/r/codosaurus-contact-form-2"
       id="contact" method="post" onsubmit="return check_form()">
     <table>
       <tr>
