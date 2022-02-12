@@ -109,6 +109,27 @@ Definite speaking engagements in the _future_ include:
 |August 2022|[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}|Reston, Virginia, USA|Mead|
 {:class="upcoming-engagements speaking"}
 
+_Likely_ engagements in the next couple years or so,
+mainly because I was chosen
+but the conference was canceled
+or postponed
+(or moved online too many timezones away,
+or various other reasons),
+include:
+
+| Conference || Where || Topic(s) |
+|-|
+|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
+|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, Tennessee, USA||Mutants|
+|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
+|[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
+|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, Maryland, USA||Mead|
+|[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece of course!||Mutants|
+|[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
+|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, Alabama, USA||Mutants|
+{:class="likely-engagements speaking"}
+
 Speaking engagements in the _past_ include:
 
 <table class="past-engagements speaking">
@@ -367,27 +388,6 @@ Speaking engagements in the _past_ include:
     </tr>
   </tbody>
 </table>
-
-_Likely_ engagements in the next couple years or so,
-mainly because I was chosen
-but the conference was canceled
-or postponed
-(or moved online too many timezones away,
-or various other reasons),
-include:
-
-| Conference || Where || Topic(s) |
-|-|
-|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
-|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
-|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, Tennessee, USA||Mutants|
-|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
-|[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
-|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, Maryland, USA||Mead|
-|[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece of course!||Mutants|
-|[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
-|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, Alabama, USA||Mutants|
-{:class="likely-engagements speaking"}
 
 Also, I was one of the co-organizers of
 [TDDConf](https://tddconf.com/){:rel="nofollow" target="_new"}
