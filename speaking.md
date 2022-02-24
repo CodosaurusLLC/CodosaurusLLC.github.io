@@ -106,6 +106,7 @@ Definite speaking engagements in the _future_ include:
 |April 2022|[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}|Bristol, England/UK|Mutants|
 |April 2022|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}|Vilnius, Lithuania|Mutants|
 |May 2022|[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}|Stockholm, Sweden|Mutants|
+|June 2022|[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}|Melbourne, Australia|Mutants|
 |August 2022|[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}|Reston, Virginia, USA|Mead|
 {:class="upcoming-engagements speaking"}
 
