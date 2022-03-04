@@ -220,9 +220,9 @@ Speaking engagements in the _past_ include:
     </tr> -->
     <tr>
       <td class="numeric">2020</td>
-      <td><a href="https://devchat.tv/ruby-rogues/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
+      <td><a href="https://rubyrogues.com/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
       <td>Mutants</td>
-      <td><a href="https://devchat.tv/ruby-rogues/rr-459-mutation-testing-with-dave-aronson/" rel="nofollow" target="_new">audio</a></td>
+      <td><a href="https://rubyrogues.com/467/" rel="nofollow" target="_new">audio</a></td>
       <td class="numeric">68</td>
     </tr>
     <tr>
