@@ -160,7 +160,7 @@ still a good one, but different.
 
 For further explanation, see these blog posts:
 
-- [ACRUMEN](/blog/acrumen)
+- [ACRUMEN](/blog/ACRUMEN)
 - [ACRUMEN: Appropriateness](/blog/acrumen-appropriateness)
 - [ACRUMEN: Correctness](/blog/acrumen-correctness)
 - [ACRUMEN: Robustness](/blog/acrumen-robustness)

@@ -337,7 +337,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td><a href="https://codecamp.ro/chisinau-2019-05-11" rel="nofollow" target="_new">Codecamp Chisinau</a></td>
+      <td>Codecamp Chisinau, part of the <a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a> series</td>
       <td>ACRUMEN</td>
       <td>(none)</td>
       <td class="numeric"></td>
