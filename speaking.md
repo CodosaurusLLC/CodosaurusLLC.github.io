@@ -275,9 +275,9 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td><a href="http://5by5.tv/rubyonrails/" rel="nofollow" target="_new">Ruby on Rails Podcast</a></td>
+      <td><a href="https://www.therubyonrailspodcast.com/" rel="nofollow" target="_new">Ruby on Rails Podcast</a></td>
       <td>Mutants</td>
-      <td><a href="http://5by5.tv/rubyonrails/283" rel="nofollow" target="_new">audio</a></td>
+      <td><a href="https://www.therubyonrailspodcast.com/283" rel="nofollow" target="_new">audio</a></td>
       <td class="numeric">24</td>
     </tr>
     <tr class="notes">
