@@ -19,7 +19,7 @@ plus some newer ones.
   <thead>
     <tr>
       <th>Title</th>
-      <th>Updated</th>
+      <th class="updated-column">Updated</th>
       <th>Tags</th>
     </tr>
   </thead>

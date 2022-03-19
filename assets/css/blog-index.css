@@ -3,6 +3,7 @@ table.post-list td,th {
   padding: 0.1em 0.2em;
   text-align: left;
 }
+table.post-list th.updated-column { min-width: 5em; } /* enough for date */
 table.post-list td.tag-column { font-size: var(--tiny-size); }
 
 div.tag-cloud-marker + p {
