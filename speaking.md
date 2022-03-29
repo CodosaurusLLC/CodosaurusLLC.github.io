@@ -101,13 +101,12 @@ Want me to speak on something not covered above?&nbsp;
 
 Definite speaking engagements in the _future_ include:
 
-| When | Conference | Where | Topic(s) |
+|When||Conference||Where||Topic(s) |
 |-|
-|April 2022|[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}|Bristol, England/UK|Mutants|
-|April 2022|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}|Vilnius, Lithuania|Mutants|
-|May 2022|[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}|Stockholm, Sweden|Mutants|
-|June 2022|[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}|Melbourne, Australia|Mutants|
-|August 2022|[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}|Reston, Virginia, USA|Mead|
+|April&nbsp;2022||[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}||Bristol, England/UK||Mutants|
+|May&nbsp;2022||[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}||Stockholm, Sweden||Mutants|
+|June&nbsp;2022||[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}||Melbourne, Australia||Mutants|
+|August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, Virginia, USA||Mead|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
@@ -123,6 +122,7 @@ include:
 |[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, Tennessee, USA||Mutants|
+|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
 |[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, Texas, USA||ACRUMEN|
 |[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, Maryland, USA||Mead|
@@ -243,11 +243,11 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2019</td>
       <td><a href="http://www.lrtechfest.com/" rel="nofollow" target="_new">Little Rock Tech Fest</a></td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=V-pYlihc6hM" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=RT1712JkUdM" rel="nofollow" target="_new">video</a></td>
       <td class="numeric">45</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(Sorry for the bad audio, they don't record, so it's from my phone on a tripod)</td>
+      <td colspan="5">(Sorry for the bad audio, they don't record, so it's from my phone on a tripod, and slightly cleaned up)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
