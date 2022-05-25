@@ -103,10 +103,10 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|May&nbsp;2022||[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}||Stockholm, Sweden||Mutants|
 |June&nbsp;2022||[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}||Melbourne, Australia||Mutants|
 |July&nbsp;2022||[THAT Conference](https://that.us/events/wi/2022/){:rel="nofollow" target="_new"}||Wisconsin Dells, WI, USA||Mutants|
 |August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, VA, USA||Mead|
+|September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
@@ -147,11 +147,22 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
+      <td>Stockholm, Sweden</td>
+      <td>Mutants</td>
+      <td>(none&nbsp;<i>yet</i>)</td>
+      <td class="numeric">45</td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU (Ass'n of C/C++ Users)</a></td>
       <td>Bristol, UK</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
+      <td><a href="https://digital-medium-co-uk.zoom.us/rec/play/DVCm30uHQ_hgpGrKZ8G5KhM7Rc3tVAjAiYV9ArYOrFizue2Brq8dsG4jsYu8EmHcbMMcas4JEKeiv7MA.HPCCY0Pq3KUFwlT_?continueMode=true&_x_zm_rtaid=6nkwntGNQDOJbkGbh8Bzww.1652020869797.0386e1f4235f3aa0a9759ce13291804b&_x_zm_rhtaid=45">video</a></td>
       <td class="numeric">70</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(raw zoom footage, hard to play, fast fwd to 7:55)</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
