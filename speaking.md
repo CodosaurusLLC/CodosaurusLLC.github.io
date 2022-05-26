@@ -150,8 +150,8 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Stockholm, Sweden</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">45</td>
+      <td><a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" rel="nofollow" target="_new">video</a></td>
+      <td class="numeric">41</td>
     </tr>
     <tr>
       <td class="numeric">2022</td>
