@@ -158,7 +158,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU (Ass'n of C/C++ Users)</a></td>
       <td>Bristol, UK</td>
       <td>Mutants</td>
-      <td><a href="https://digital-medium-co-uk.zoom.us/rec/play/DVCm30uHQ_hgpGrKZ8G5KhM7Rc3tVAjAiYV9ArYOrFizue2Brq8dsG4jsYu8EmHcbMMcas4JEKeiv7MA.HPCCY0Pq3KUFwlT_?continueMode=true&_x_zm_rtaid=6nkwntGNQDOJbkGbh8Bzww.1652020869797.0386e1f4235f3aa0a9759ce13291804b&_x_zm_rhtaid=45">video</a></td>
+      <td><a href="https://youtu.be/xBZqis7SBnw" rel="nofollow" target="_new">video</a></td>
       <td class="numeric">70</td>
     </tr>
     <tr class="notes">
