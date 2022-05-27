@@ -107,7 +107,12 @@ Definite speaking engagements in the _future_ include:
 |July&nbsp;2022||[THAT Conference](https://that.us/events/wi/2022/){:rel="nofollow" target="_new"}||Wisconsin Dells, WI, USA||Mutants|
 |August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, VA, USA||Mead|
 |September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
+|November&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
 {:class="upcoming-engagements speaking"}
+
+<!-- UNCOMMENT AND PUT IN PLACE WHEN EMBARGO OVER:
+|Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
+-->
 
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen
