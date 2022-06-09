@@ -33,8 +33,8 @@ without my prior written approval,
 constitutes engaging my services for
 [evaluation of your advertisement](ad-eval).&nbsp;
 The fee is
-US$5 per word,
-plus $50 per link I must follow for sufficient information,
+US$1 per word,
+plus $100 per link I must follow for sufficient information,
 _all times however many of the above factors apply!_
 
 For example, a
@@ -49,7 +49,7 @@ for a "total compensation package" worth around $150,000
 (which means about $75 an hour),
 would mean that the rate per word
 is _multiplied_ by eight,
-meaning $40 _per word_.
+meaning $8 _per word_.
 
 Payment is due
 one calendar month

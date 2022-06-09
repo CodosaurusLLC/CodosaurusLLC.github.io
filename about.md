@@ -26,7 +26,7 @@ most notably Python, SQL, and the nearly-inescapable JavaScript.&nbsp;
 lest they attract the wrong recruiters.)&nbsp;
 Now I'm trying to break into
 [Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
-having been learning it on and off for a few years,
+having been learning it on and off for several years,
 including some open source contributions,
 but I haven't landed any _paid_ work in it yet.
 
@@ -40,11 +40,12 @@ though I did occasional freelance projects
 on evenings, weekends, and between "permanent" positions.&nbsp;
 In 2009, I _finally_ managed to land a job that would
 get me real-world experience in "modern" languages
-(including some that I had taught myself over the years).&nbsp;
+(including two I had taught myself over the years,
+and another I learned as "post-interview homework").&nbsp;
 In 2011, I wanted to get more experience particularly in Ruby,
 and felt that freelancing was the best way to do that,
 so I tried that again &mdash;
-and this time it worked much better!&nbsp;
+and this time it has worked much better!&nbsp;
 ;-)
 
 Aside from actual hands-on software development,

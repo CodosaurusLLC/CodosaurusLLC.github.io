@@ -64,7 +64,7 @@ Past clients have included:
 
 - a piece of the US Government that prefers not to be named publicly,
 even though the work was not classified,
-but sorta rhymes with "cable-free-birch-cab-Nora-Dory"<!--,
+but sorta rhymes with "cable free-birch cab-Nora-Dory"<!--,
 who needed help with data guards features,
 testing tools, and
 general software quality,
@@ -72,7 +72,7 @@ in Ruby, Python, and C,
 and mentoring junior developers-->;
 
 - [OneDoor](https://onedoor.com/){:rel="nofollow" target="_new"},
-a company with <!-- Ruby on Rails --> software for
+a company with a <!-- Ruby on Rails --> web app for
 retail stores to plan their store layouts<!--,
 who needed help speeding up their database-->;
 
@@ -99,11 +99,15 @@ real estate agents maintain
 their clients' subscriptions to their _snailmail_ newsletters;
 
 - a major British credit card that prefers not to be named publicly,
-but sorta rhymes with "spark-day-bard"<!--,
+but sorta rhymes with "spark-day bard"
+(indirectly as a temporary employee of
+[Object Systems Group](http://osgcorp.com/){:rel="nofollow" target="_new"})<!--,
 which was putting up England's first Daily Deals site (now defunct)
 in Ruby on Rails-->;
 
-- [the US Department of Veterans Affairs](https://www.va.gov/){:rel="nofollow" target="_new"}<!--,
+- [the US Department of Veterans Affairs](https://www.va.gov/){:rel="nofollow" target="_new"}
+(indirectly as a temporary employee of
+[Halfaker & Associates](https://www.halfaker.com/){:rel="nofollow" target="_new"})<!--,
 which was putting up an event planning system in Ruby on Rails,
 including ways for attendees to
 choose and track which sessions to attend, and network with others-->;
@@ -114,7 +118,7 @@ what could be done with the data via correlation and display of map points<!--,
 which I did in JavaScript and HTML5,
 with Ruby to convert a SQL data dump into JS-->;
 
-- an investment advisor in Australia,
+- an individual investment advisor in Australia,
 who wanted a financial portfolio rebalancing system<!--,
 which I did in Ruby on Rails-->;
 
@@ -133,8 +137,8 @@ their project management software product-->;
 who needed a program to initialize fax boards, which I did in C -->;
 
 - a small voice-response system company whose name I forget
-(it was literally thirty years ago, and the records have been lost),
-who needed refactoring, bugfixing, and adding features<!--, in C-->;
+(it was literally thirty years ago, and the records have been lost)<!--,
+who needed refactoring, bugfixing, and adding features, in C-->;
 
 - and even longer ago, assorted companies and private individuals who needed
 PC hardware or software purchased, installed, configured, troubleshot, etc.
