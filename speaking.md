@@ -103,7 +103,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|June&nbsp;2022||[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}||Melbourne, Australia||Mutants|
 |July&nbsp;2022||[THAT Conference](https://that.us/events/wi/2022/){:rel="nofollow" target="_new"}||Wisconsin Dells, WI, USA||Mutants|
 |August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, VA, USA||Mead|
 |September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
@@ -112,7 +111,7 @@ Definite speaking engagements in the _future_ include:
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
-mainly because I was chosen
+mainly because I was chosen already
 but the conference was canceled
 or postponed
 (or moved online too many timezones away,
@@ -128,7 +127,6 @@ include:
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
 |[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, TX, USA||ACRUMEN|
 |[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, MD, USA||Mead|
-|[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece of course!||Mutants|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
 {:class="likely-engagements speaking"}
@@ -149,6 +147,17 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://ndcmelbourne.com/" rel="nofollow" target="_new">NDC Melbourne</a></td>
+      <td>Melbourne, Australia</td>
+      <td>Mutants</td>
+      <td></td>
+      <td class="numeric"></td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(video coming eventually, about 50 minutes)</td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Stockholm, Sweden</td>
       <td>Mutants</td>
@@ -162,9 +171,6 @@ Speaking engagements in the _past_ include:
       <td>Mutants</td>
       <td><a href="https://youtu.be/xBZqis7SBnw" rel="nofollow" target="_new">video</a></td>
       <td class="numeric">70</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(raw zoom footage, hard to play, fast fwd to 7:55)</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
