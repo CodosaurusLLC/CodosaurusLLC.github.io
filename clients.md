@@ -118,8 +118,8 @@ what could be done with the data via correlation and display of map points<!--,
 which I did in JavaScript and HTML5,
 with Ruby to convert a SQL data dump into JS-->;
 
-- an individual investment advisor in Australia,
-who wanted a financial portfolio rebalancing system<!--,
+- EasyETFs, a now-defunct Australian startup that wanted
+a financial portfolio rebalancing system<!--,
 which I did in Ruby on Rails-->;
 
 - Atomic Broadcast, a now-defunct startup with an idea about social media filtering<!--,
