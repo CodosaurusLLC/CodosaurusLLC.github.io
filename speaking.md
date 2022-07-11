@@ -33,7 +33,7 @@ I can also do this as
 a lightning talk
 or a keynote.
 
-- [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing)
+- [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
 <!-- There is some code in this, not much and fairly simple,
 mainly brief snippets to test, mutations of it, and tests.&nbsp; -->
@@ -48,13 +48,22 @@ several languages,
 and have presented on this at many conferences<!--,
 from twenty minutes to a full hour, soon an hour and a half-->.&nbsp;
 
+- [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
+(title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
+Yes I do mean genetic, not generic.&nbsp;
+This one includes some heavy live coding,
+so I prefer to do it in a language I know well,
+but for conferences about other languages
+(or whether the "write/run loop" is long),
+I can fake it with prepped slides.
+
 - **Ruby "gotchas"**
 (title: "Ruby Gotchas").&nbsp;
 <!-- I.e., nasty surprises in the
 Ruby programming language.&nbsp; -->
 I have done this for local user groups, for about 45 minutes.
 
-- **Ping-Pong Pair Programming**
+- [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
 (title: "Whose Line of Code Is It Anyway?").&nbsp;
 This is a hands-on demo with
 a co-speaker _or_
