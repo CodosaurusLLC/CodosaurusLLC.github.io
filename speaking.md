@@ -9,6 +9,7 @@ mainly
 <!-- technology-agnostic software development conferences,
 or about some language I know and like such as Ruby or Elixir, -->
 held in person at interesting destinations,
+that aren't a royal PITA to get to,
 and reimbursing my travel expenses.&nbsp;
 (I generally do not do _remote_ conferences,
 unless they are within three timezones of US-East.)&nbsp;
