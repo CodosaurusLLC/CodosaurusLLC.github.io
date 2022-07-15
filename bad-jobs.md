@@ -24,7 +24,7 @@ are _so_ outside the pale
 as to constitute unquestionable spam.&nbsp;
 For the ones phrased as "mainly",
 I will tolerate _some_ of each aspect,
-such as 20% front-end work &mdash;
+such as 10% front-end work &mdash;
 but approach 50% at your own peril.)
 
 Sending me ads for any of these kinds of work,
@@ -33,9 +33,11 @@ without my prior written approval,
 constitutes engaging my services for
 [evaluation of your advertisement](ad-eval).&nbsp;
 The fee is
-US$1 per word,
+a base of
+US$100,
+plus $1 per word,
 plus $100 per link I must follow for sufficient information,
-_all times however many of the above factors apply!_
+_all_ times _however many of the above factors apply!_
 
 For example, a
 "permanent",
@@ -47,9 +49,12 @@ in Kansas,
 using Windows,
 for a "total compensation package" worth around $150,000
 (which means about $75 an hour),
-would mean that the rate per word
-is _multiplied_ by eight,
-meaning $8 _per word_.
+would mean that the fee
+is _multiplied by eight_.&nbsp;
+So if it's 500 words,
+and I'd have to follow two links to find out full details,
+that's
+8 * ($100 base + $500 for words + $200 for links) = $6400.
 
 Payment is due
 one calendar month
