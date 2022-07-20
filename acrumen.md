@@ -106,12 +106,35 @@ or to go the other way,
 | Evolvable | &nbsp;=>&nbsp; | Part of **M**aintainable |
 | Reasonable | &nbsp;=>&nbsp; | Part of **M**aintainable |
 
+I still prefer **ACRUMEN**{:class="acrumen"} because
+it prioritizes the aspects
+(at least for the typical case),
+and doesn't repeat any letters.&nbsp; :-)
+
 Unfortunately I didn't discover CAREER until I had been
 working/writing on **ACRUMEN**{:class="acrumen"}
 for several years.&nbsp;
 Oh well.&nbsp;
 Maybe we can work on unifying our ideas.&nbsp;
 We've already been discussing our systems.
+
+[Stu Crock](https://twitter.com/StooCrock){:rel="nofollow" target="_new"}
+has an interesting definition, that's even briefer:
+
+> [Quality is the absence of unnecessary friction.](https://dragonsforelevenses.com/2021/09/03/a-useable-definition-of-quality/){:rel="nofollow" target="_new"}
+
+As I told him on Twitter in July 2022, it's
+"[n]ot immediately actionable,
+but the freeform explorations necessary to get there,
+could lead to some great insights."&nbsp;
+In other words, it's a great _prompt_
+for some very productive thinking.&nbsp;
+What he does with it,
+is to identify types of friction present in the system,
+then see which ones are necessary or not in the given situation.&nbsp;
+Often he will ask stakeholders to identify particular areas to focus on,
+which can help guide and prioritize
+his investigation into sources and types of friction.
 
 In 2021,
 [Margaret-Anne Storey](https://www.margaretstorey.com/){:rel="nofollow" target="_new"},
