@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|July&nbsp;2022||[THAT Conference](https://that.us/events/wi/2022/){:rel="nofollow" target="_new"}||Wisconsin Dells, WI, USA||Mutants|
 |August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, VA, USA||Mead|
 |September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
 |Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
@@ -155,6 +154,14 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2022</td>
+      <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
+      <td>Wisconsin Dells, WI, USA</td>
+      <td>Mutants</td>
+      <td>(none)</td>
+      <td class="numeric"></td>
+    </tr>
     <tr>
       <td class="numeric">2022</td>
       <td><a href="https://ndcmelbourne.com/" rel="nofollow" target="_new">NDC Melbourne</a></td>
