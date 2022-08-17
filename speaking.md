@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|August&nbsp;2022||[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}||Reston, VA, USA||Mead|
 |September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
 |Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
 |November&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
@@ -156,6 +155,14 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://pandemicrg2022.wordpress.com/" rel="nofollow" target="_new">MWM RG 2022<br/><small>(Metropolitan Washington Mensa<br/>Regional Gathering)</small></a></td>
+      <td>Reston, VA, USA</td>
+      <td>Mead</td>
+      <td><a href="https://www.youtube.com/watch?v=jwjVYhl4rqI" target="_new">video</a></td>
+      <td class="numeric">62</td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Wisconsin Dells, WI, USA</td>
       <td>Mutants</td>
@@ -178,7 +185,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Stockholm, Sweden</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" target="_new">video</a></td>
       <td class="numeric">41</td>
     </tr>
     <tr>
@@ -186,7 +193,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU (Ass'n of C/C++ Users)</a></td>
       <td>Bristol, UK</td>
       <td>Mutants</td>
-      <td><a href="https://youtu.be/xBZqis7SBnw" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://youtu.be/xBZqis7SBnw" target="_new">video</a></td>
       <td class="numeric">70</td>
     </tr>
     <tr>
@@ -194,7 +201,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>,<br/>released 2021-12-01</td>
       <td>Online</td>
       <td>ACRUMEN and other<br/>software quality</td>
-      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" rel="nofollow" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" rel="nofollow" target="_new">transcript</a></td>
+      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" target="_new">transcript</a></td>
       <td class="numeric">44</td>
     </tr>
     <tr>
@@ -257,7 +264,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
       <td>Online, darnit!</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
       <td class="numeric">52</td>
     </tr>
     <tr>
@@ -265,7 +272,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest / Reimagined</a></td>
       <td>Online, dagnabit!</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" target="_new">video</a></td>
       <td class="numeric">31</td>
     </tr>
     <!-- <tr class="notes">
@@ -276,7 +283,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://rubyrogues.com/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
       <td>Online</td>
       <td>Mutants</td>
-      <td><a href="https://rubyrogues.com/467/" rel="nofollow" target="_new">audio</a></td>
+      <td><a href="https://rubyrogues.com/467/" target="_new">audio</a></td>
       <td class="numeric">68</td>
     </tr>
     <tr>
@@ -284,7 +291,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.jsconfhi.com/" rel="nofollow" target="_new">JSConf Hawai'i</a></td>
       <td>Waikiki, HI, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" target="_new">video</a></td>
       <td class="numeric">22</td>
     </tr>
     <tr>
@@ -292,7 +299,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
       <td>Nashville, TN, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=9GId6mFL0_c" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=9GId6mFL0_c" target="_new">video</a></td>
       <td class="numeric">39</td>
     </tr>
     <tr>
@@ -300,7 +307,7 @@ Speaking engagements in the _past_ include:
       <td><a href="http://www.lrtechfest.com/" rel="nofollow" target="_new">Little Rock Tech Fest</a></td>
       <td>Little Rock, AR, USA</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=RT1712JkUdM" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=RT1712JkUdM" target="_new">video</a></td>
       <td class="numeric">45</td>
     </tr>
     <tr class="notes">
@@ -311,7 +318,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.heartlanddc.com/" rel="nofollow" target="_new">Heartland Devconf</a></td>
       <td>Omaha, NE, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=adBtsgolhvI&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=adBtsgolhvI&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" target="_new">video</a></td>
       <td class="numeric">44</td>
     </tr>
     <tr class="notes">
@@ -322,7 +329,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://maintainable.fm/" rel="nofollow" target="_new">Maintainable Software Podcast</a></td>
       <td>Online</td>
       <td>ACRUMEN</td>
-      <td><a href="https://maintainable.fm/episodes/dave-aronson-putting-the-m-in-acrumen-n_6lX9fc" rel="nofollow" target="_new">audio</a></td>
+      <td><a href="https://maintainable.fm/episodes/dave-aronson-putting-the-m-in-acrumen-n_6lX9fc" target="_new">audio</a></td>
       <td class="numeric">44</td>
     </tr>
     <tr>
@@ -330,7 +337,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://github.com/elixirup/remote-meetup/" rel="nofollow" target="_new">Elixir Remote Meetup<br/>(September)</a></td>
       <td>Online</td>
       <td>Mutants and<br/>Prepending</td>
-      <td><a href="https://www.youtube.com/watch?v=lCjeKcSN41I&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=lCjeKcSN41I&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" target="_new">video</a></td>
       <td class="numeric">45</td>
     </tr>
     <tr>
@@ -338,7 +345,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.therubyonrailspodcast.com/" rel="nofollow" target="_new">Ruby on Rails Podcast</a></td>
       <td>Pittsburgh, PA, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.therubyonrailspodcast.com/283" rel="nofollow" target="_new">audio</a></td>
+      <td><a href="https://www.therubyonrailspodcast.com/283" target="_new">audio</a></td>
       <td class="numeric">24</td>
     </tr>
     <tr class="notes">
@@ -384,7 +391,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://ndcoslo.com/" rel="nofollow" target="_new">NDC Oslo</a></td>
       <td>Oslo, Norway</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=0ZchSZPjsY0&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=0ZchSZPjsY0&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" target="_new">video</a></td>
       <td class="numeric">60</td>
     </tr>
     <tr class="notes">
@@ -395,7 +402,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://novacodecamp.org/" rel="nofollow" target="_new">Nova Codecamp</a></td>
       <td>Reston, VA, USA</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=1QfGyGy3EV8&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=1QfGyGy3EV8&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" target="_new">video</a></td>
       <td class="numeric">60</td>
     </tr>
     <tr class="notes">
@@ -414,7 +421,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://devconf.pl/" rel="nofollow" target="_new">Devconf Poland</a></td>
       <td>Krakow, Poland</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" target="_new">video</a></td>
       <td class="numeric">37</td>
     </tr>
     <tr class="notes">
@@ -433,7 +440,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://elixirconf.com/" rel="nofollow" target="_new">ElixirConf</a></td>
       <td>Bellevue, WA, USA</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=6V1FO1xGitU&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/watch?v=6V1FO1xGitU&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" target="_new">video</a></td>
       <td class="numeric">5</td>
     </tr>
     <tr>
@@ -441,7 +448,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
       <td>New Orleans, LA, USA</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/embed/YMoa5JpjEtM?start=4080&end=4355" rel="nofollow" target="_new">video</a></td>
+      <td><a href="https://www.youtube.com/embed/YMoa5JpjEtM?start=4080&end=4355" target="_new">video</a></td>
       <td class="numeric">5</td>
     </tr>
     <tr>
