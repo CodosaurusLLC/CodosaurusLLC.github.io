@@ -115,12 +115,14 @@ Definite speaking engagements in the _future_ include:
 |-|
 |September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
 |Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
+|Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
 |November&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen already
-but the conference was canceled
+but I declined for this year,
+or the conference was canceled
 or postponed
 (or moved online too many timezones away,
 or various other reasons),
@@ -128,6 +130,7 @@ include:
 
 | Conference || Where || Topic(s) |
 |-|
+|[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and/or Genetic Algos|
 |[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
