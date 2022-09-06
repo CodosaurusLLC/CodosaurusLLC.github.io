@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|September&nbsp;2022||[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}||Lisbon, Portugal||Mutants|
 |Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
 |Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
 |November&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
@@ -156,6 +155,14 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2022</td>
+      <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf EU</a></td>
+      <td>Lisbon, Portugal</td>
+      <td>Mutants</td>
+      <td><a href="https://www.youtube.com/watch?v=EVJZavbMThs&t=2168s" target="_new">video</a></td>
+      <td class="numeric">28</td>
+    </tr>
     <tr>
       <td class="numeric">2022</td>
       <td><a href="https://pandemicrg2022.wordpress.com/" rel="nofollow" target="_new">MWM RG 2022<br/><small>(Metropolitan Washington Mensa<br/>Regional Gathering)</small></a></td>
