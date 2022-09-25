@@ -115,7 +115,8 @@ Definite speaking engagements in the _future_ include:
 |-|
 |Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
 |Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
-|November&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
+|Nov&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
+|Nov&nbsp;2022||[Central Texas Mensa Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online||Mead|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
