@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|Sep/Oct&nbsp;2022||[Voxxed Days Athens](https://voxxeddays.com/athens/){:rel="nofollow" target="_new"}||Athens, Greece||Mutants|
 |Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
 |Nov&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
 |Nov&nbsp;2022||[Central Texas Mensa Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online||Mead|
@@ -158,6 +157,14 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://voxxeddays.com/athens/" rel="nofollow" target="_new">Voxxed Days Athens</a></td>
+      <td>Athens, Greece</td>
+      <td>Mutants</td>
+      <td>(none<sup>+</sup>)</td>
+      <td class="numeric">~37?</td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf EU</a></td>
       <td>Lisbon, Portugal</td>
       <td>Mutants</td>
@@ -177,7 +184,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Wisconsin Dells, WI, USA</td>
       <td>Mutants</td>
-      <td>(none)</td>
+      <td>(none*)</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -185,11 +192,8 @@ Speaking engagements in the _past_ include:
       <td><a href="https://ndcmelbourne.com/" rel="nofollow" target="_new">NDC Melbourne</a></td>
       <td>Melbourne, Australia</td>
       <td>Mutants</td>
-      <td></td>
-      <td class="numeric"></td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(video coming eventually, about 50 minutes)</td>
+      <td><a href="https://www.youtube.com/watch?v=GS16Hyad-i0" target="_new">video</a></td>
+      <td class="numeric">50</td>
     </tr>
     <tr>
       <td class="numeric">2022</td>
@@ -211,8 +215,8 @@ Speaking engagements in the _past_ include:
       <td class="numeric">2021</td>
       <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>,<br/>released 2021-12-01</td>
       <td>Online</td>
-      <td>ACRUMEN and other<br/>software quality</td>
-      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" target="_new">audio</a> and <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" target="_new">transcript</a></td>
+      <td>ACRUMEN<br/>and other<br/>software quality</td>
+      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" target="_new">audio</a><br/>and<br/><a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" target="_new">transcript</a></td>
       <td class="numeric">44</td>
     </tr>
     <tr>
@@ -220,55 +224,40 @@ Speaking engagements in the _past_ include:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">40?</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(video coming eventually)</td>
+      <td>(none<sup>+</sup>)</td>
+      <td class="numeric">~40?</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online</td>
       <td>ACRUMEN</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">40?</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(video coming eventually)</td>
+      <td>(none<sup>+</sup>)</td>
+      <td class="numeric">~40?</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
       <td>Warsaw, Poland</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">55?</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(video coming eventually)</td>
+      <td>(none<sup>+</sup>)</td>
+      <td class="numeric">~55?</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
       <td>Gdansk, Poland</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
-      <td class="numeric">55?</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(video coming eventually)</td>
+      <td>(none<sup>+</sup>)</td>
+      <td class="numeric">~55?</td>
     </tr>
     <tr>
       <td class="numeric">2021</td>
-      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">Kansas City Developer Conference<br/>(KCDC)</a></td>
+      <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">Kansas City Developer<br/>Conference (KCDC)</a></td>
       <td>Kansas City, MO, USA</td>
       <td>Mutants</td>
-      <td>(none)</td>
-      <td class="numeric">45?</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">(they don't record sessions)</td>
+      <td>(none*)</td>
+      <td class="numeric"></td>
     </tr>
     <tr>
       <td class="numeric">2020</td>
@@ -280,7 +269,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2020</td>
-      <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest / Reimagined</a></td>
+      <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest /<br/>Reimagined</a></td>
       <td>Online, dagnabit!</td>
       <td>Mutants</td>
       <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" target="_new">video</a></td>
@@ -333,11 +322,11 @@ Speaking engagements in the _past_ include:
       <td class="numeric">44</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(recorded on my phone)</td>
+      <td colspan="5">(recorded on my phone, since they don't record sessions)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td><a href="https://maintainable.fm/" rel="nofollow" target="_new">Maintainable Software Podcast</a></td>
+      <td><a href="https://maintainable.fm/" rel="nofollow" target="_new">Maintainable Software<br/>Podcast</a></td>
       <td>Online</td>
       <td>ACRUMEN</td>
       <td><a href="https://maintainable.fm/episodes/dave-aronson-putting-the-m-in-acrumen-n_6lX9fc" target="_new">audio</a></td>
@@ -367,10 +356,10 @@ Speaking engagements in the _past_ include:
       <td><a href="https://abstractions.io/" rel="nofollow" target="_new">Abstractions</a> II</td>
       <td>Pittsburgh, PA, USA</td>
       <td>Mutants</td>
-      <td>(none&nbsp;<i>yet</i>)</td>
+      <td>(none)</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(They recorded it but are fixing technical difficulties)</td>
+      <td colspan="5">(They recorded it but messed it up)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -380,7 +369,7 @@ Speaking engagements in the _past_ include:
       </td>
       <td>Phoeniz, AZ, USA</td>
       <td>ACRUMEN</td>
-      <td>(none)</td>
+      <td>(none*)</td>
       <td class="numeric">75!</td>
     </tr>
     <tr class="notes">
@@ -388,10 +377,10 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td><a href="https://www.spaconference.org/" rel="nofollow" target="_new">Software Process Advancement</a></td>
+      <td><a href="https://www.spaconference.org/" rel="nofollow" target="_new">Software Process<br/>Advancement</a></td>
       <td>London, UK</td>
       <td>ACRUMEN</td>
-      <td>(none)</td>
+      <td>(none*)</td>
       <td class="numeric">150!</td>
     </tr>
     <tr class="notes">
@@ -421,10 +410,10 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td>Codecamp Chisinau,<br/>part of the <a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a> series</td>
+      <td>Codecamp Chisinau,<br/>part of the<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a> series</td>
       <td>Chisinau, Moldova</td>
       <td>ACRUMEN</td>
-      <td>(none)</td>
+      <td>(none*)</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -480,6 +469,9 @@ Speaking engagements in the _past_ include:
     </tr>
   </tbody>
 </table>
+*<small>These conferences don't record sessions, and I didn't either.</small>
+<br/>
+<small><sup>+</sup>These conferences recorded, but haven't yet released it.</small>
 
 Also, I was one of the co-organizers of
 [TDDConf](https://tddconf.com/){:rel="nofollow" target="_new"}
