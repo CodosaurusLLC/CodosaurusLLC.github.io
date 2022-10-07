@@ -115,7 +115,7 @@ Definite speaking engagements in the _future_ include:
 |-|
 |Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
 |Nov&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
-|Nov&nbsp;2022||[Central Texas Mensa Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online||Mead|
+|Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online||Mead|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
@@ -205,7 +205,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2022</td>
-      <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU (Ass'n of C/C++ Users)</a></td>
+      <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU<br/>(Ass'n of C/C++ Users)</a></td>
       <td>Bristol, UK</td>
       <td>Mutants</td>
       <td><a href="https://youtu.be/xBZqis7SBnw" target="_new">video</a></td>
@@ -410,7 +410,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td>Codecamp Chisinau,<br/>part of the<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a> series</td>
+      <td>Codecamp Chisinau, by<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a></td>
       <td>Chisinau, Moldova</td>
       <td>ACRUMEN</td>
       <td>(none*)</td>
@@ -461,7 +461,7 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">1990s<br/>to Now</td>
-      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metropolitan Washington Mensa</a>'s<br/><a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
+      <td><a href="https://www.mwm.org/" rel="nofollow" target="_new">Metro Washington Mensa</a>'s<br/><a href="http://mwmrg.org/" rel="nofollow" target="_new">Regional Gathering</a></td>
       <td>Washington, DC, USA area</td>
       <td>spam-protection,<br/>and non-tech topics</td>
       <td>(none)</td>
