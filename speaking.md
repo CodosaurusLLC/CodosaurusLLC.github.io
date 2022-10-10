@@ -160,8 +160,8 @@ Speaking engagements in the _past_ include:
       <td><a href="https://voxxeddays.com/athens/" rel="nofollow" target="_new">Voxxed Days Athens</a></td>
       <td>Athens, Greece</td>
       <td>Mutants</td>
-      <td>(none<sup>+</sup>)</td>
-      <td class="numeric">~37?</td>
+      <td><a href="https://www.youtube.com/watch?v=AUS_G6yCpP0" target="_new">video</a></td>
+      <td class="numeric">41</td>
     </tr>
     <tr>
       <td class="numeric">2022</td>
