@@ -29,17 +29,12 @@ and would like to get some experience in that.&nbsp;
 Before 2011, I did
 tons of C
 and SQL,
-some Python,
-and the nearly-inescapable JavaScript,
-sometimes under
-[Stratus VOS](https://en.wikipedia.org/wiki/Stratus_VOS){:rel="nofollow" target="_new"},
-or
-Linux, macOS,
-[STOP](https://www.baesystems.com/en/product/stop-os){:rel="nofollow" target="_new"},
-or other 
-[Unix](https://en.wikipedia.org/wiki/Unix){:rel="nofollow" target="_new"}-workalikes,
-plus many languages and OSes I _don't_ want to work in again
-(so I won't mention them here lest they attract recruiters).
+plus a decent bit of Python.&nbsp;
+I have also worked in
+many languages and OSes
+that I _don't_ want to work in again,
+so I won't mention them here
+lest they attract the wrong recruiters.
 
 There are three general ways I'll write software for you:
 
@@ -58,57 +53,52 @@ for completion and any other milestones.
 
 ### 2: Buying My Time
 
-Since I'm semi-retired,
-I feel entitled to be a bit picky, in the following ways:
-
 - You _must_ already have good
 software engineering
 processes and tooling
 set up.&nbsp;
 (If you don't, perhaps you need
 [my advice service](advice)
-first, and time to act on it!)
+first!)
 
-- The project _should_
-either use
-[Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"}
-or otherwise really "tickle my fancy".
+- I don't do 40-hour weeks.&nbsp;
+Instead, we will agree on
+an attempted average,
+usually of about 20 or less.&nbsp;
+I will do more only in unforeseeable
+emergencies.&nbsp;
 
-- I don't do 40-hour weeks;
-I _much_ prefer about 20 or fewer,
-and billing by the day or larger unit.
+- My usual "asking" rate per hour is
+$140 for Elixir or Python,
+$180 for Ruby,
+and $240 for C.&nbsp;
+This may get adjusted up or down
+according to various factors of pain or fun.&nbsp;
+There are discounts for paying by the day or week,
+once we agree on a rough level of effort,
+and for fast payment.&nbsp;
+(Usual terms are net-30.)
 
-- I also prefer fairly brief engagements,
-of six months or less.
+- I prefer to work on a B2B basis,
+and will also do 1099, but not W2.
 
-If you insist on counting hours,
-it's $199 per hour or part thereof,
-and more if you want me to
-exceed that time
-or track time more tightly than that.&nbsp;
-However, there are discounts for larger units,
-after we agree on a rough average level of effort.&nbsp;
-You should not have to worry about
-how many hours something takes me,
-so long as I deliver on schedule and budget.&nbsp;
-As
-[Jonathan Stark](https://jonathanstark.com/){:rel="nofollow" target="_new"}
-says,
-[Hourly Billing Is Nuts](https://jonathanstark.com/hbin){:rel="nofollow" target="_new"}!
+- Light travel is okay,
+meaning up to one trip per month,
+lasting up to one week,
+including the travel time,
+which is billable.&nbsp;
+You pay all expenses.
 
-For the duration of the COVID pandemic,
-this is remote-only,
-though occasional travel
-of up to a week
-is OK.
-
-<!--
-Onsite work costs _much_ more.&nbsp;
+- Travel time for onsite work is
+free for the first two hours per week,
+and fully billable after that.&nbsp;
 _Ongoing_ onsite work
 will _only_ be done within about 15 miles of
-[City of Fairfax, Virginia](https://www.google.com/maps/place/Fairfax,+VA){:rel="nofollow" target="_new"},
-and only after the COVID pandemic is fully over.
--->
+[City of Fairfax, Virginia](https://www.google.com/maps/place/Fairfax,+VA){:rel="nofollow" target="_new"}.
+
+- We _will_ use a contract,
+and it _will_ include late-fees.
+
 
 ### 3: As Part of my [Advice](advice) Service
 
@@ -137,23 +127,25 @@ in software I wrote.
 anything that I think I will likely use
 on later contracts for other clients.
 
-- I have a TS, which could be useful for occasional site visits.&nbsp;
-(If you don't know what I mean, don't worry, you don't need it.)
-
-- I occasionally [speak](speaking) at conferences,
-so there will be occasional weeks when I will not be available,
+- I often [speak](speaking) at conferences,
+so there will be weeks when I will not be available,
 sometimes multiple in a row.&nbsp;
 However, I will inform you well in advance.
 
 - **I am _not_ open to
 relocation,
 "permanent" employment,
+"cleared" work (any more),
+front-end-heavy work,
+junior-level work,
+system/network admin work,
 spending months on the road,
 changing careers,
 or
 working for equity or "on spec"**!&nbsp;
 Please do not contact me about such things;
-I will treat it as spam.
+I will treat it as spam,
+which may include publicly ridiculing you and your company.
 
 If there's anything else you need,
 or you're ready to submit your inquiry,

@@ -12,5 +12,3 @@ title: Services
 - **[Writing software](development)**
 
 - **[Speaking to conferences or companies](speaking)**
-
-- **[Advertisement Evaluation](ad-eval)**

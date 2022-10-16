@@ -5,15 +5,7 @@ style: contact
 js: contact
 ---
 
-First, please remember,
-sending me ads for
-[inappropriate jobs](bad-jobs),
-or any products or services,
-constitutes engaging my services for
-[advertisement evaluation](ad-eval)!
-
-If you're contact me for some other purpose,
-you can do that in these ways:
+You can contact me in these ways:
 
 <!--
 - Use this form:

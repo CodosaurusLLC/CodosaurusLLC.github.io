@@ -37,12 +37,6 @@ See
 I also [speak](speaking)
 at conferences, on podcasts, and to companies.
 
-(I also [evaluate advertisements](ad-eval);
-sending me ads for
-[inappropriate jobs](bad-jobs),
-or any products or services,
-constitutes engaging this service.)
-
 Other content here:
 - **[the <span class="acrumen">ACRUMEN</span> Software Quality Definition](acrumen)**
 - **[Blog](blog)**
