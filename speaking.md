@@ -113,9 +113,9 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|Oct&nbsp;2022||[Nerdear.LA](https://nerdear.la/){:rel="nofollow" target="_new"}||Buenos Aires, Argentina||Genetic Algos|
 |Nov&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
-|Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online||Mead|
+|Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online (to Austin, TX, USA)||Mead|
+|Dec&nbsp;2022||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
@@ -135,7 +135,7 @@ include:
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
 |[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
-|[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, TX, USA||ACRUMEN|
+|[THAT Conference](https://that.us/events/tx/2022/){:rel="nofollow" target="_new"}||Round Rock, TX, USA||ACRUMEN and/or Genetic Algos|
 |[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, MD, USA||Mead|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
@@ -154,7 +154,16 @@ Speaking engagements in the _past_ include:
       <th class="numeric">Mins</th>
     </tr>
   </thead>
+
   <tbody>
+    <tr>
+      <td class="numeric">2022</td>
+      <td><a href="https://nerdear.la/" rel="nofollow" target="_new">Nerdear.LA</a></td>
+      <td>Online (to Buenos Aires, Argentina)</td>
+      <td>Genetic Algos</td>
+      <td><a href="https://www.youtube.com/watch?v=p0QYB_8yL0c" target="_new">video</a></td>
+      <td class="numeric">30</td>
+    </tr>
     <tr>
       <td class="numeric">2022</td>
       <td><a href="https://voxxeddays.com/athens/" rel="nofollow" target="_new">Voxxed Days Athens</a></td>
@@ -168,8 +177,8 @@ Speaking engagements in the _past_ include:
       <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf EU</a></td>
       <td>Lisbon, Portugal</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=EVJZavbMThs&t=2168s" target="_new">video</a></td>
-      <td class="numeric">28</td>
+      <td><a href="https://www.youtube.com/watch?v=uIDVJGTdKD4" target="_new">video</a></td>
+      <td class="numeric">29</td>
     </tr>
     <tr>
       <td class="numeric">2022</td>
@@ -222,7 +231,7 @@ Speaking engagements in the _past_ include:
     <tr>
       <td class="numeric">2021</td>
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
-      <td>Online</td>
+      <td>Online (to Chattanooga, TN, USA)</td>
       <td>Mutants</td>
       <td>(none<sup>+</sup>)</td>
       <td class="numeric">~40?</td>
@@ -230,7 +239,7 @@ Speaking engagements in the _past_ include:
     <tr>
       <td class="numeric">2021</td>
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
-      <td>Online</td>
+      <td>Online (to Chattanooga, TN, USA)</td>
       <td>ACRUMEN</td>
       <td>(none<sup>+</sup>)</td>
       <td class="numeric">~40?</td>
@@ -262,7 +271,7 @@ Speaking engagements in the _past_ include:
     <tr>
       <td class="numeric">2020</td>
       <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
-      <td>Online, darnit!</td>
+      <td>Online, darnit! (to Sydney, Australia)</td>
       <td>Mutants</td>
       <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
       <td class="numeric">52</td>
@@ -270,7 +279,7 @@ Speaking engagements in the _past_ include:
     <tr>
       <td class="numeric">2020</td>
       <td><a href="https://www.devtalks.ro/bucharest/" rel="nofollow" target="_new">DevTalks Bucharest /<br/>Reimagined</a></td>
-      <td>Online, dagnabit!</td>
+      <td>Online, dagnabit! (to Bucharest, Romania)</td>
       <td>Mutants</td>
       <td><a href="https://www.youtube.com/embed/tknqCCVQlIA?start=24963&version=3&end=26790" target="_new">video</a></td>
       <td class="numeric">31</td>
