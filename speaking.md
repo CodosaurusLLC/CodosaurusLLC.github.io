@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|Nov&nbsp;2022||[TechBash](https://techbash.com/){:rel="nofollow" target="_new"}||Pocono Manor, PA, USA||Mutants|
 |Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online (to Austin, TX, USA)||Mead|
 |Dec&nbsp;2022||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 {:class="upcoming-engagements speaking"}
@@ -158,10 +157,18 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://techbash.com/" rel="nofollow" target="_new">TechBash</a></td>
+      <td>Pocono Manor, PA, USA</td>
+      <td>Mutants</td>
+      <td><a href="/reds/mutants-techbash-22-slides" target="_new">slides</a>*</td>
+      <td class="numeric"></td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://nerdear.la/" rel="nofollow" target="_new">Nerdear.LA</a></td>
       <td>Online (to Buenos Aires, Argentina)</td>
       <td>Genetic Algos</td>
-      <td><a href="https://www.youtube.com/watch?v=p0QYB_8yL0c" target="_new">video</a></td>
+      <td><a href="https://github.com/CodosaurusLLC/tight-genes" target="_new">repo</a>, <a href="https://www.youtube.com/watch?v=p0QYB_8yL0c" target="_new">video</a></td>
       <td class="numeric">30</td>
     </tr>
     <tr>
@@ -169,7 +176,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://voxxeddays.com/athens/" rel="nofollow" target="_new">Voxxed Days Athens</a></td>
       <td>Athens, Greece</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=AUS_G6yCpP0" target="_new">video</a></td>
+      <td><a href="/reds/mutants-voxxed-ath-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=AUS_G6yCpP0" target="_new">video</a></td>
       <td class="numeric">41</td>
     </tr>
     <tr>
@@ -177,7 +184,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf EU</a></td>
       <td>Lisbon, Portugal</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=uIDVJGTdKD4" target="_new">video</a></td>
+      <td><a href="/reds/mutants-gambi-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=uIDVJGTdKD4" target="_new">video</a></td>
       <td class="numeric">29</td>
     </tr>
     <tr>
@@ -193,7 +200,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Wisconsin Dells, WI, USA</td>
       <td>Mutants</td>
-      <td>(none*)</td>
+      <td><a href="/reds/mutants-that-wi-22-slides.md" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -201,7 +208,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://ndcmelbourne.com/" rel="nofollow" target="_new">NDC Melbourne</a></td>
       <td>Melbourne, Australia</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=GS16Hyad-i0" target="_new">video</a></td>
+      <td><a href="/reds/mutants-ndcmel-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=GS16Hyad-i0" target="_new">video</a></td>
       <td class="numeric">50</td>
     </tr>
     <tr>
@@ -209,7 +216,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Stockholm, Sweden</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" target="_new">video</a></td>
+      <td><a href="/reds/mutants-cbsto22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" target="_new">video</a></td>
       <td class="numeric">41</td>
     </tr>
     <tr>
@@ -217,7 +224,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://accu.org/conf-main/main/" rel="nofollow" target="_new">ACCU<br/>(Ass'n of C/C++ Users)</a></td>
       <td>Bristol, UK</td>
       <td>Mutants</td>
-      <td><a href="https://youtu.be/xBZqis7SBnw" target="_new">video</a></td>
+      <td><a href="https://accu.org/conf-docs/PDFs_2022/dave_aronson_Kill-All-Mutants.pdf" target="_new">slides</a>, <a href="https://youtu.be/xBZqis7SBnw" target="_new">video</a></td>
       <td class="numeric">70</td>
     </tr>
     <tr>
@@ -225,7 +232,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.therelicans.com/polyglot" rel="nofollow" target="_new">Polyglot Podcast</a>,<br/>released 2021-12-01</td>
       <td>Online</td>
       <td>ACRUMEN<br/>and other<br/>software quality</td>
-      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" target="_new">audio</a><br/>and<br/><a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" target="_new">transcript</a></td>
+      <td><a href="https://www.therelicans.com/polyglot/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson" target="_new">audio</a>, <a href="https://dev.to/newrelic/appropriate-correct-robust-usable-maintainable-and-efficient-acrumen-with-dave-aronson-4f71" target="_new">transcript</a></td>
       <td class="numeric">44</td>
     </tr>
     <tr>
@@ -233,7 +240,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online (to Chattanooga, TN, USA)</td>
       <td>Mutants</td>
-      <td>(none<sup>+</sup>)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/mutants-scs-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~40?</td>
     </tr>
     <tr>
@@ -241,7 +248,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online (to Chattanooga, TN, USA)</td>
       <td>ACRUMEN</td>
-      <td>(none<sup>+</sup>)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/acrumen-scs-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~40?</td>
     </tr>
     <tr>
@@ -249,7 +256,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
       <td>Warsaw, Poland</td>
       <td>Mutants</td>
-      <td>(none<sup>+</sup>)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -257,7 +264,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
       <td>Gdansk, Poland</td>
       <td>Mutants</td>
-      <td>(none<sup>+</sup>)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -265,7 +272,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">Kansas City Developer<br/>Conference (KCDC)</a></td>
       <td>Kansas City, MO, USA</td>
       <td>Mutants</td>
-      <td>(none*)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/kill-all-mutants-kcdc-2021" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -273,7 +280,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
       <td>Online, darnit! (to Sydney, Australia)</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
+      <td><a href="https://www.slideshare.net/dare2xl/kill-all-mutants-intro-to-mutation-testing-slides-from-ndc-sydney-2020" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
       <td class="numeric">52</td>
     </tr>
     <tr>
@@ -419,8 +426,8 @@ Speaking engagements in the _past_ include:
     </tr>
     <tr>
       <td class="numeric">2019</td>
-      <td>Codecamp Chisinau, by<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a></td>
-      <td>Chisinau, Moldova</td>
+      <td>Codecamp Chișinău, by<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a></td>
+      <td>Chișinău, Moldova</td>
       <td>ACRUMEN</td>
       <td>(none*)</td>
       <td class="numeric"></td>
@@ -430,7 +437,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://devconf.pl/" rel="nofollow" target="_new">Devconf Poland</a></td>
       <td>Krakow, Poland</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" target="_new">video</a></td>
+      <td><a href="https://www.slideshare.net/dare2xl/acrumen-slides-for-devconf-poland-116136391" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=wcREOna0_NA&list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1" target="_new">video</a></td>
       <td class="numeric">37</td>
     </tr>
     <tr class="notes">
@@ -453,6 +460,17 @@ Speaking engagements in the _past_ include:
       <td class="numeric">5</td>
     </tr>
     <tr>
+      <td class="numeric">2018</td>
+      <td><a href="http://www.rubynation.org/" rel="nofollow" target="_new">RubyNation</a></td>
+      <td>Arlington, VA, USA</td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.slideshare.net/dare2xl/acrumen-slides-for-rubynation-and-capitalgo-2018" target="_new">slides</a></td>
+      <td class="numeric"></td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">(as BACKUP speaker; didn't actually get to speak)</td>
+    </tr>
+    <tr>
       <td class="numeric">2017</td>
       <td><a href="https://rubyconf.org/" rel="nofollow" target="_new">RubyConf</a></td>
       <td>New Orleans, LA, USA</td>
@@ -465,7 +483,7 @@ Speaking engagements in the _past_ include:
       <td>assorted DC-area Meetups</td>
       <td>Washington, DC, USA area</td>
       <td>Ruby Gotchas</td>
-      <td>(none)</td>
+      <td><a href="https://www.slideshare.net/dare2xl/ruby-gotchas-17730356" target="_new">slides</a></td>
       <td class="numeric">~45</td>
     </tr>
     <tr>
