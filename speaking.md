@@ -115,6 +115,7 @@ Definite speaking engagements in the _future_ include:
 |-|
 |Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online (to Austin, TX, USA)||Mead|
 |Dec&nbsp;2022||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
+|Jan&nbsp;2023||[THAT Conference (TX)](https://that.us/events/tx/2023/){:rel="nofollow" target="_new"}||Austin, TX||Genetic Algos|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
