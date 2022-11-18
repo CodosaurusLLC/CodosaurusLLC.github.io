@@ -113,7 +113,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|Nov&nbsp;2022||[Central Texas Mensa<br/>Monthly Meeting](https://www.centraltexasmensa.org/){:rel="nofollow" target="_new"}||Online (to Austin, TX, USA)||Mead|
 |Dec&nbsp;2022||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 |Jan&nbsp;2023||[THAT Conference (TX)](https://that.us/events/tx/2023/){:rel="nofollow" target="_new"}||Austin, TX||Genetic Algos|
 {:class="upcoming-engagements speaking"}
@@ -158,11 +157,19 @@ Speaking engagements in the _past_ include:
   <tbody>
     <tr>
       <td class="numeric">2022</td>
+      <td><a href="https://www.centraltexasmensa.org/" rel="nofollow" target="_new">Central Texas Mensa<br/>Monthly Speaker Meeting</a></td>
+      <td>Online (to Austin, TX, USA)</td>
+      <td>Mead</td>
+      <td>none</td>
+      <td class="numeric">~50</td>
+    </tr>
+    <tr>
+      <td class="numeric">2022</td>
       <td><a href="https://techbash.com/" rel="nofollow" target="_new">TechBash</a></td>
       <td>Pocono Manor, PA, USA</td>
       <td>Mutants</td>
       <td><a href="/reds/mutants-techbash-22-slides" target="_new">slides</a>*</td>
-      <td class="numeric"></td>
+      <td class="numeric">~50</td>
     </tr>
     <tr>
       <td class="numeric">2022</td>
