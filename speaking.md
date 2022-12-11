@@ -114,7 +114,7 @@ Definite speaking engagements in the _future_ include:
 |When||Conference||Where||Topic(s) |
 |-|
 |Jan&nbsp;2023||[THAT Conference (TX)](https://that.us/events/tx/2023/){:rel="nofollow" target="_new"}||Austin, TX||Genetic Algos|
-|Spring&nbsp;2023<br/>(postponed<br/>from Dec 2022)||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
+|March&nbsp;2023||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
