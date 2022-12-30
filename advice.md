@@ -25,31 +25,27 @@ It comes in three basic sizes,
 as follows:
 
 - Hour:&nbsp;
-  We discuss it alone,
+  We (you and I) discuss it alone,
   remotely,
   for one hour,
   and you get no report.&nbsp;
-  This costs $499 for the first hour,
-  and $399 for each further hour.
+  This costs $498.
 
 - Day:&nbsp;
   Mainly, we discuss it
   over the course of a work-day,
-  in several stretches.&nbsp;
+  in several stretches,
+  and within a week,
+  you get a fairly _brief_ report with recommendations.&nbsp;
   In this case "we" means
   myself plus you,
   _or_ another person you designate
   (who may be different per stretch),
   or both.&nbsp;
   You may also have me attend some _meetings_.&nbsp;
-  Within a week, you get a brief report with recommendations.&nbsp;
-  This costs $4,999 for the first day,
-  and $3,999 for each further day.&nbsp;
-  (For the duration of the COVID pandemic, this is remote-only.&nbsp;
-  When COVID is no more,
-  I could come to your office,
-  but you'd also have to pay my travel expenses,
-  and all travel-related time would count towards the time spent.)
+  This costs $3,998,
+  plus travel expenses,
+  and travel time counts.
 
 - Week:&nbsp;
   As above,
@@ -57,8 +53,13 @@ as follows:
   except that you may have me talk to
   _two_ other people at a time without you.&nbsp;
   Within two weeks, you get a _more detailed_ report.&nbsp;
-  This costs $23,999 for the first week,
-  and $17,999 for each further week.
+  This costs $18,998,
+  plus travel expenses,
+  and travel time counts.
+
+Each of these can be had in multiples,
+with a discount
+_if_ arranged in advance.
 
 You may also have me actually _join your team_
 as a software developer
@@ -67,15 +68,9 @@ so as to
 "lead by example"
 and/or
 see your situation from the inside.&nbsp;
-(See above re COVID versus expenses.)&nbsp;
-This also costs $23,999 for the first week,
-and $17,999 for each further week.&nbsp;
+This costs the same as the above.&nbsp;
 Doing this on a full-time or on-site basis
-is limited to two weeks,
-but this is also available for
-up to ten weeks
-as _remote_ and _half_-time,
-for $10,999 for the first week and $7,999 for each further week.
+is limited to two weeks.
 
 Afterward, if you like,
 we can also arrange recurring "checkups",

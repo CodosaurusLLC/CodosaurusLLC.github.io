@@ -23,30 +23,26 @@ It comes in three basic sizes,
 as follows:
 
 - Hour:&nbsp;
-  We discuss it alone,
+  We (you and I) discuss it alone,
   remotely,
   for one hour,
   and you get no report.&nbsp;
-  This costs $399 for the first hour,
-  and $299 for each further hour.
+  This costs $498.
 
 - Day:&nbsp;
   Mainly, we discuss it
   over the course of a work-day,
-  in several stretches.&nbsp;
+  in several stretches,
+  and within a week,
+  you get a fairly _brief_ roadmap.&nbsp;
   In this case "we" means
   myself plus you,
   _or_ another person you designate
   (who may be different per stretch),
   or both.&nbsp;
-  Within a week, you get a fairly _brief_ roadmap.&nbsp;
-  This costs $3,999 for the first day,
-  and $2,999 for each further day.&nbsp;
-  (For the duration of the COVID pandemic, this is remote-only.&nbsp;
-  When COVID is no more,
-  I could come to your office,
-  but you'd also have to pay my travel expenses,
-  and all travel-related time would count towards the time spent.)
+  This costs $3,998,
+  plus travel expenses,
+  and travel time counts.
 
 - Week:&nbsp;
   As above,
@@ -54,8 +50,13 @@ as follows:
   except that you may have me talk to
   _two_ other people at a time without you.&nbsp;
   Within two weeks, you get a _more detailed_ roadmap.&nbsp;
-  This costs $18,999 for the first week,
-  and $14,999 for each further week.
+  This costs $18,998,
+  plus travel expenses,
+  and travel time counts.
+
+Each of these can be had in multiples,
+with a discount
+_if_ arranged in advance.
 
 If you decide to do the development in-house,
 you may want to take advantage of my
