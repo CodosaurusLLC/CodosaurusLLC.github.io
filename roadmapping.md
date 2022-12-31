@@ -24,34 +24,37 @@ as follows:
 
 - Hour:&nbsp;
   We (you and I) discuss it alone,
-  remotely,
+  _remotely_,
   for one hour,
   and you get no report.&nbsp;
-  This costs $498.
+  This costs $398.
 
 - Day:&nbsp;
   Mainly, we discuss it
   over the course of a work-day,
   in several stretches,
-  and within a week,
+  either remotely or at your office,
+  or at some other place we agree on.&nbsp;
+  Within a week,
   you get a fairly _brief_ roadmap.&nbsp;
   In this case "we" means
   myself plus you,
   _or_ another person you designate
   (who may be different per stretch),
   or both.&nbsp;
-  This costs $3,998,
-  plus travel expenses,
+  This costs $2,498,
+  plus any travel expenses,
   and travel time counts.
 
 - Week:&nbsp;
   As above,
   each work-day of a work-week,
   except that you may have me talk to
-  _two_ other people at a time without you.&nbsp;
-  Within two weeks, you get a _more detailed_ roadmap.&nbsp;
-  This costs $18,998,
-  plus travel expenses,
+  _two_ other people at a time without you,
+  and that
+  within _two_ weeks, you get a _more detailed_ roadmap.&nbsp;
+  This costs $9,998,
+  plus any travel expenses,
   and travel time counts.
 
 Each of these can be had in multiples,

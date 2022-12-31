@@ -89,12 +89,12 @@ including the travel time,
 which is billable.&nbsp;
 You pay all expenses.
 
-- Travel time for onsite work is
-free for the first two hours per week,
-and fully billable after that.&nbsp;
-_Ongoing_ onsite work
-will _only_ be done within about 15 miles of
-[City of Fairfax, Virginia](https://www.google.com/maps/place/Fairfax,+VA){:rel="nofollow" target="_new"}.
+- Travel time for _ongoing local_ onsite work
+(within about 15 miles of
+[City of Fairfax, Virginia](https://www.google.com/maps/place/Fairfax,+VA){:rel="nofollow" target="_new"})
+is free for the first hour per week,
+per twenty hours of weekly work,
+and fully billable after that.
 
 - We _will_ use a contract,
 and it _will_ include late-fees.
