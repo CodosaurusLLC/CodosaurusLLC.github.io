@@ -52,11 +52,9 @@ from twenty minutes to a full hour, soon an hour and a half-->.&nbsp;
 - [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
 (title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
 Yes I do mean genetic, not generic.&nbsp;
-This one includes some heavy live coding,
-so I prefer to do it in a language I know well,
-but for conferences about other languages
-(or whether the "write/run loop" is long),
-I can fake it with prepped slides.
+This one includes lots of code (but not _live_ coding),
+currently in Ruby,
+but I could certainly translate it into other languages.
 
 - **Ruby "gotchas"**
 (title: "Ruby Gotchas").&nbsp;
