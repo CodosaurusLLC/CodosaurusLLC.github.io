@@ -111,8 +111,8 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|Jan&nbsp;2023||[THAT Conference (TX)](https://that.us/events/tx/2023/){:rel="nofollow" target="_new"}||Austin, TX||Genetic Algos|
 |March&nbsp;2023||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
+|May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||Málaga, Spain||Genetic Algos|
 {:class="upcoming-engagements speaking"}
 
 _Likely_ engagements in the next couple years or so,
@@ -150,8 +150,15 @@ Speaking engagements in the _past_ include:
       <th class="numeric">Mins</th>
     </tr>
   </thead>
-
   <tbody>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://that.us/events/tx/2023/" rel="nofollow" target="_new">THAT Conference</a></td>
+      <td>Austin, TX, USA</td>
+      <td>Genetic Algos</td>
+      <td><a href="/reds/gen-algs-that-tx-23-slides" target="_new">slides</a>*</td>
+      <td class="numeric">60</td>
+    </tr>
     <tr>
       <td class="numeric">2022</td>
       <td><a href="https://www.centraltexasmensa.org/" rel="nofollow" target="_new">Central Texas Mensa<br/>Monthly Speaker Meeting</a></td>
