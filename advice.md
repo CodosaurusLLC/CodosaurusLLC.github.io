@@ -29,7 +29,7 @@ as follows:
   _remotely_,
   for one hour,
   and you get no report.&nbsp;
-  This costs $398.
+  This costs $498.
 
 - Day:&nbsp;
   Mainly, we discuss it
@@ -45,7 +45,7 @@ as follows:
   (who may be different per stretch),
   or both.&nbsp;
   You may also have me attend some _meetings_.&nbsp;
-  This costs $2,498,
+  This costs $2,998,
   plus any travel expenses,
   and travel time counts.
 
@@ -56,7 +56,7 @@ as follows:
   _two_ other people at a time without you,
   and that
   within _two_ weeks, you get a _more detailed_ report.&nbsp;
-  This costs $9,998,
+  This costs $12,998,
   plus any travel expenses,
   and travel time counts.
 
