@@ -195,3 +195,10 @@ More explanation of **ACRUMEN**{:class="acrumen"}
 might be coming here eventually.&nbsp;
 For now, see
 [my ACRUMEN YouTube playlist](https://www.youtube.com/playlist?list=PLMrm16n64BuaRo9N8xY8OnTOWZ5K2aFG1){:target="_new"}.
+
+Or of course
+you can have me
+conduct a
+[training class](training)
+at your company.&nbsp;
+;-)
