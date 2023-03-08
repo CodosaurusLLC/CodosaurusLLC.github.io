@@ -1,23 +1,28 @@
 ---
 author: Dave Aronson
-date: 2022-03-18
+date: 2023-03-07
 layout: blog-post
 permalink: blog/speaking-engagements
 section: Blog
-style: speaking
 tags: speaking
-title: Speaking Engagements
+title: Upcoming Speaking Engagements
 ---
 
-Updated list of upcoming speaking engagements:
+It occurred to me that I haven't been
+publicizing my upcoming speaking engagements very well.&nbsp;
+Sure they're listed on my
+[speaking page](/speaking),
+but I haven't been notfiying my
+RSS-based followers.&nbsp;
+So, I'm going to try to keep this post up to date.
 
+### Latest Definite Speaking Engagements:
 
-| When | Conference | Where | Topic(s) |
-|April 2022|[ACCU](https://accu.org/conf-main/main/){:rel="nofollow" target="_new"}|Bristol, England/UK|Mutants|
-|April 2022|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}|Vilnius, Lithuania|Mutants|
-|May 2022|[Code BEAM Europe](https://codesync.global/conferences/code-beam-sto-2022/){:rel="nofollow" target="_new"}|Stockholm, Sweden|Mutants|
-|June 2022|[NDC Melbourne](https://ndcmelbourne.com/){:rel="nofollow" target="_new"}|Melbourne, Australia|Mutants|
-|August 2022|[MWM RG](http://mwmrg.org/){:rel="nofollow" target="_new"}|Reston, Virginia, USA|Mead|
-{:class="upcoming-engagements speaking"}
-
-See [my speaking page](/speaking) for more details.
+|When||Conference||Where||Topic(s)|
+|-|
+|March&nbsp;2023||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
+|April&nbsp;2023||[PyCon US](https://us.pycon.org/2023/){:rel="nofollow" target="_new"}||Salt Lake City, UT, USA||Mutants|
+|May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||Málaga, Spain||Genetic Algos|
+|May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
+|May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
+{:class="upcoming-engagements speaking" style="margin: 0 auto"}
