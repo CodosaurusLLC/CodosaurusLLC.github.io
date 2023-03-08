@@ -114,6 +114,7 @@ Definite speaking engagements in the _future_ include:
 |March&nbsp;2023||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 |April&nbsp;2023||[PyCon US](https://us.pycon.org/2023/){:rel="nofollow" target="_new"}||Salt Lake City, UT, USA||Mutants|
 |May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||Málaga, Spain||Genetic Algos|
+|May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
 |May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
 {:class="upcoming-engagements speaking"}
 
