@@ -111,7 +111,6 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|March&nbsp;2023||[Frontrunners](https://frontrunners.tech/){:rel="nofollow" target="_new"}||Arlington, VA, USA||ACRUMEN|
 |April&nbsp;2023||[PyCon US](https://us.pycon.org/2023/){:rel="nofollow" target="_new"}||Salt Lake City, UT, USA||Mutants|
 |May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||Málaga, Spain||Genetic Algos|
 |May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
@@ -154,6 +153,14 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://frontrunners.tech/" rel="nofollow" target="_new">Frontrunners DC</a></td>
+      <td>Arlington, VA, USA</td>
+      <td>ACRUMEN</td>
+      <td><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a><sup>+</sup></td>
+      <td class="numeric">23</td>
+    </tr>
     <tr>
       <td class="numeric">2023</td>
       <td><a href="https://that.us/events/tx/2023/" rel="nofollow" target="_new">THAT Conference</a></td>
