@@ -20,6 +20,9 @@ about processes, tools, techniques, etc.
 how to write better software faster,
 including what "better" even means in the first place
 
+- **[Speaking](speaking)**
+at corporate events, conferences, and podcasts.
+
 - **[Writing software](development)**,
 usually on a staff-augmentation basis,
 to "lead by example"
@@ -33,9 +36,6 @@ companies,
 but other companies could be a reasonable fit too.&nbsp;
 See
 [the Clients page](clients) for more details.
-
-I also [speak](speaking)
-at conferences, on podcasts, and to companies.
 
 Other content here:
 - **[the <span class="acrumen">ACRUMEN</span> Software Quality Definition](acrumen)**

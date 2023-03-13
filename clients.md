@@ -11,16 +11,11 @@ companies.&nbsp;
 However, you don't _have_ to be one to use my services.&nbsp;
 That's just the best fit.
 
-- If your company is not yet "established"
-(over three years old, or profitable),
-you can benefit mainly from my
-[software development](development) services.&nbsp;
-
 - If you sell your software as a _product_,
 or write software for others,
 or your main line of work
 depends directly in some other way
-on software you write,
+on software _you write_,
 you're probably still a good fit for
 all of my services.
 
@@ -29,16 +24,24 @@ depends directly in some other way
 on software you _outsource_,
 you would still be a good fit for
 [roadmapping](roadmapping),
-to help bidders understand what you need.
+to help bidders understand what you need,
+and my
+[software development](development)
+services.
 
 - If you write (or outsource) in-house tools
 that just _help_ with your business,
 like inventory or appointment management or whatever,
+or your company is not yet "established"
+(over three years old, or profitable),
 then you can still benefit from my
 [software development](development) services,
-and maybe [roadmapping](roadmapping) for major efforts.&nbsp;
+and [roadmapping](roadmapping) for major efforts.&nbsp;
 My other services are aimed more at _quality_,
-which generally isn't as important for _this_ software.
+which generally isn't as important for
+internal software,
+or
+ideas still being validated.
 
 So why am I targeting "established American SaaS" companies?&nbsp;
 
@@ -62,9 +65,9 @@ but I'm certainly not _chasing_ that market.
 
 Past clients have included:
 
-- a piece of the US Government that prefers not to be named publicly,
-even though the work was not classified,
-but sorta rhymes with "cable free-birch cab-Nora-Dory"<!--,
+- a piece of the US Government that prefers not to be named publicly
+(even though the work was not classified),
+but sorta rhymes with "cable ski-birch cab-Nora-Dory"<!--,
 who needed help with data guards features,
 testing tools, and
 general software quality,
