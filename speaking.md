@@ -5,17 +5,18 @@ title: Speaking
 ---
 
 I enjoy presenting at conferences,
-mainly
-<!-- technology-agnostic software development conferences,
-or about some language I know and like such as Ruby or Elixir, -->
-held in person at interesting destinations,
+mainly held in person at interesting destinations,
 that aren't a royal PITA to get to,
 and reimbursing my travel expenses.&nbsp;
 (I generally do not do _remote_ conferences,
 unless they are within three timezones of US-East.)&nbsp;
 I will also talk to a _company_
-(or their devs)
-for an additional fee.
+(or their devs),
+for a fee (plus all expenses).
+
+<br/>
+
+### Topics
 
 The topics I _currently_ have full-length talks prepared for are:
 
@@ -24,42 +25,25 @@ The topics I _currently_ have full-length talks prepared for are:
 definition of software quality
 (title: "Write Better Software with ACRUMEN").&nbsp;
 <!-- This is completely technology-agnostic;
-in fact there is not even any code!&nbsp;
-I have presented on this at
-several conferences
-and other such events,
-from ten minutes to two and a half hours,
-usually 30-45.&nbsp; -->
+in fact there is not even any code!&nbsp; -->
 I can also do this as
 a lightning talk
 or a keynote.
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
-<!-- There is some code in this, not much and fairly simple,
-mainly brief snippets to test, mutations of it, and tests.&nbsp; -->
-I have prepared versions so far with the code in
-<!--
-[Ruby](https://www.ruby-lang.org/en/){:rel="nofollow" target="_new"},
-JavaScript,
-[Elixir](https://elixir-lang.org/){:rel="nofollow" target="_new"},
-and language-agnostic pseudocode.&nbsp;
--->
-several languages,
-and have presented on this at many conferences<!--,
-from twenty minutes to a full hour, soon an hour and a half-->.&nbsp;
+I have prepared versions with the code in
+several programming languages.
 
 - [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
 (title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
-Yes I do mean genetic, not generic.&nbsp;
+Yes I do mean gene<b><i>t</i></b>ic, not gene<b><i>r</i></b>ic!&nbsp;
 This one includes lots of code (but not _live_ coding),
 currently in Ruby,
-but I could certainly translate it into other languages.
+but I could certainly translate it into other languages if you want.
 
 - **Ruby "gotchas"**
 (title: "Ruby Gotchas").&nbsp;
-<!-- I.e., nasty surprises in the
-Ruby programming language.&nbsp; -->
 I have done this for local user groups, for about 45 minutes.
 
 - [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
@@ -70,21 +54,8 @@ a volunteer from the audience
 (or series of them),
 working on a problem
 and (at polyglot conferences) in a language
-both _chosen by the audience_.
-
-- **Breaking into conference speaking**
-(title: "You Wanna Say Somethin'?").&nbsp;
-<!--I haven't actually done this one at conferences,
-or anywhere else that recorded it,
-but I have the bare bones prepped as a 5-7 minute
-[Toastmasters](http://toastmasters.org/){:rel="nofollow" target="_new"}
-speech,
-and intend to fill it out to 30-45 minutes for conferences.&nbsp;
-Intended content --> This includes things like
-why you might want to talk at a conference,
-how to find the conferences,
-how to apply to speak at them,
-and a few basic public speaking tips.
+both _chosen by the audience_
+(from a relatively small set).
 
 - **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
 (title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
@@ -93,19 +64,40 @@ Yes, this is not a technical thing,
 at least in the computer sense.&nbsp;
 ;-)
 
-I also have a _lightning_ talk prepared on
-why we _prepend_ to lists, instead of appending,
-when using immutable data.&nbsp;
+I also have five-minte "lightning" talks prepared on:
+
+- **Breaking into conference speaking**
+(title: "You Wanna Say Somethin'?").&nbsp;
+This includes things like
+why you might want to talk at a conference,
+how to find the conferences,
+how to apply to speak at them,
+and a few basic public speaking tips.
+
+- **Why we _prepend_ to lists**, instead of appending,
+when using immutable data,
+as is used with most "functional" programming languages.
+
+- Five-minute versions of my ACRUMEN and mead talks.
+
+<!--
 I'm also interested in putting together talks on
 doctests (such as in Elixir or Python),
 _property-based_ testing,
 any other weird dev-testing tricks I find,
 ways to ease into TDD/BDD,
 helpful TDD/BDD hints,
+code smells,
+design patterns,
 and more.
+-->
 
 Want me to speak on something not covered above?&nbsp;
 [Ask me](/contact), and we'll see.
+
+<br/>
+
+### Definite Future Speaking Engagements
 
 Definite speaking engagements in the _future_ include:
 
@@ -116,6 +108,10 @@ Definite speaking engagements in the _future_ include:
 |May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
 |May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
 {:class="upcoming-engagements speaking"}
+
+<br/>
+
+### Likely Near-Future Speaking Engagements
 
 _Likely_ engagements in the next couple years or so,
 mainly because I was chosen already
@@ -139,6 +135,10 @@ include:
 |[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
 {:class="likely-engagements speaking"}
 
+<br/>
+
+### Past Engagements
+
 Speaking engagements in the _past_ include:
 
 <table class="past-engagements speaking">
@@ -158,7 +158,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://frontrunners.tech/" rel="nofollow" target="_new">Frontrunners DC</a></td>
       <td>Arlington, VA, USA</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">23</td>
     </tr>
     <tr>
@@ -262,7 +262,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online (to Chattanooga, TN, USA)</td>
       <td>Mutants</td>
-      <td><a href="https://www.slideshare.net/dare2xl/mutants-scs-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-scs-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~40?</td>
     </tr>
     <tr>
@@ -270,7 +270,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online (to Chattanooga, TN, USA)</td>
       <td>ACRUMEN</td>
-      <td><a href="https://www.slideshare.net/dare2xl/acrumen-scs-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/acrumen-scs-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~40?</td>
     </tr>
     <tr>
@@ -278,7 +278,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
       <td>Warsaw, Poland</td>
       <td>Mutants</td>
-      <td><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -286,7 +286,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
       <td>Gdansk, Poland</td>
       <td>Mutants</td>
-      <td><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -530,5 +530,7 @@ international test-driven development conference,
 and appeared briefly on-screen
 to introduce speakers and fill time.&nbsp;
 I was also the <i>sole</i> organizer of Ruby DAYCamp (no website) 2013,
-a semi-impromptu "overflow" event for those who couldn't get into Ruby DCamp
+a semi-impromptu "overflow" event for
+those who applied too late for
+Ruby DCamp
 (defunct, site gone).
