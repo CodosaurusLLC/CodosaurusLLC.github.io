@@ -84,3 +84,16 @@ to ensure that we understand their needs correctly.&nbsp;
 Having a test case rejected/corrected
 can save us *hours* of
 implementing code that *does the wrong thing* (and a test for it).
+
+UPDATE:
+
+I have just been informed that Part 1 is no longer true!&nbsp;
+Check out
+[https://www.archunit.org/](https://www.archunit.org/){:rel="nofollow" target="_new"} —
+okay, it still doesn’t seem to be
+what I would call "unit tests",
+so much as "environment tests",
+but it’s a step in that direction.&nbsp;
+Currently meant for Java,
+with ports already working for C#/.NET.&nbsp;
+Credit to [Sayf Jawad](https://www.linkedin.com/in/sayf-jawad-218364a/){:rel="nofollow" target="_new"}.
