@@ -4,7 +4,7 @@ date: 2022-03-08
 layout: blog-post
 permalink: blog/developing-on-ipad
 section: Blog
-tags: dev-tools predictions
+tags: tools predictions
 title: Developing on an iPad?
 ---
 
