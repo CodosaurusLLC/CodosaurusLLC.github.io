@@ -11,8 +11,6 @@ you can get notified through the RSS link at the bottom.&nbsp;
 Meanwhile, below are the ones that _have_ been moved,
 plus some newer ones.
 
-### Posts
-
 {% assign sorted_posts = site.posts | sort: "date" %}
 
 <table class="post-list">
@@ -43,11 +41,12 @@ plus some newer ones.
 <br/>
 
 ### Tag Cloud
+
 {% assign sorted_tags = site.tags | sort %}
 <div class="tag-cloud-marker"></div>
 {%- for tag in sorted_tags -%}
-  {%- assign size = tag[1] | size | plus: 2 | times: 5 -%}
-  [{{ tag[0] }}](tags/{{ tag[0] }}){:style="font-size: {{ size }}px"}
+  {%- assign ems = tag[1] | size | plus: 2 | times: 0.2 -%}
+  [{{ tag[0] }}](tags/{{ tag[0] }}){:style="font-size: {{ems}}em; line-height: 1em"}
 {% endfor %}
 
 [Click here for RSS feed](/feed.xml)

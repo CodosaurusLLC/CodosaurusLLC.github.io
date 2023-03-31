@@ -4,7 +4,7 @@ date: 2023-03-16
 layout: blog-post
 permalink: blog/will-chatgpt-replace-devs
 section: Blog
-tags: dev-life predictions productivity tools 
+tags: career-advice dev-life predictions productivity tools
 title: Will ChatGPT Replace Developers?
 ---
 

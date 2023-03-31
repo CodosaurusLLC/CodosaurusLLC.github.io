@@ -4,7 +4,7 @@ date: 2023-03-29
 layout: blog-post
 permalink: blog/is-cracked-software-safe-for-a-while
 section: Blog
-tags: security
+tags: ethics security
 title: Is Cracked Software Safe for a While?
 ---
 
