@@ -111,32 +111,6 @@ Definite speaking engagements in the _future_ include:
 
 <br/>
 
-### Likely Near-Future Speaking Engagements
-
-_Likely_ engagements in the next couple years or so,
-mainly because I was chosen already
-but I declined for this year,
-or the conference was canceled
-or postponed
-(or moved online too many timezones away,
-or various other reasons),
-include:
-
-| Conference || Where || Topic(s) |
-|-|
-|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
-|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
-|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
-|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
-|[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and/or Genetic Algos|
-|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
-|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, MD, USA||Mead|
-|[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
-|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
-{:class="likely-engagements speaking"}
-
-<br/>
-
 ### Past Engagements
 
 Speaking engagements in the _past_ include:
@@ -534,3 +508,32 @@ a semi-impromptu "overflow" event for
 those who applied too late for
 Ruby DCamp
 (defunct, site gone).
+
+<br/>
+
+### Likely Near-Future Speaking Engagements
+
+_Likely_ engagements in the next couple years or so,
+mainly because I was chosen already
+but I had to decline for that year,
+had to withdraw from selection for some reason but
+found out the talk was going to be selected,
+or the conference was canceled
+or postponed,
+or various other such reasons,
+include:
+
+| Conference || Where || Topic(s) |
+|-|
+|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
+|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
+|[DevConf South Africa](https://www.devconf.co.za/){:rel="nofollow" target="_new"}||various, South Africa||Genetic Algos|
+|[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and/or Genetic Algos|
+|[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||Genetic Algos|
+|[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
+|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, MD, USA||Mead|
+|[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
+|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
+{:class="likely-engagements speaking"}
