@@ -525,7 +525,7 @@ include:
 
 | Conference || Where || Topic(s) |
 |-|
-|[Build Stuff Vilnius](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
+|[Build Stuff](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
 |[DevConf South Africa](https://www.devconf.co.za/){:rel="nofollow" target="_new"}||various, South Africa||Genetic Algos|
@@ -533,7 +533,5 @@ include:
 |[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and/or Genetic Algos|
 |[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||Genetic Algos|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
-|[US Mensa Annual Gathering 2023](https://ag.us.mensa.org/){:rel="nofollow" target="_new"}||Baltimore, MD, USA||Mead|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
-|[WeRockIT](https://www.werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
 {:class="likely-engagements speaking"}
