@@ -132,7 +132,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://frontrunners.tech/" rel="nofollow" target="_new">Frontrunners DC</a></td>
       <td>Arlington, VA, USA</td>
       <td>ACRUMEN</td>
-      <td style="padding-top: 0"><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=5iJGC01ApSc" target="_new">video</a></td>
       <td class="numeric">23</td>
     </tr>
     <tr>
