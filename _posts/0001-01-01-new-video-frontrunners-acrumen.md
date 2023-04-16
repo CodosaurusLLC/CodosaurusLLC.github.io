@@ -4,7 +4,7 @@ date: 2023-04-08
 layout: blog-post
 permalink: blog/new-video-frontrunners-acrumen
 section: Blog
-tags: acrumen speaking
+tags: ACRUMEN speaking
 title: ACRUMEN video from Frontrunners DC released
 ---
 

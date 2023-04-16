@@ -4,7 +4,7 @@ date: 2023-04-16
 layout: blog-post
 permalink: blog/build-right-software-faster
 section: Blog
-tags: software-quality
+tags: appropriateness maintainability productivity software-quality tests tools
 title: How can we build the right software faster?
 ---
 
