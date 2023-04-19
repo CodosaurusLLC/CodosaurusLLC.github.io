@@ -33,18 +33,27 @@ or a keynote.
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
 I have prepared versions with the code in
-several programming languages.
+several programming languages,
+and lengths from 20 minutes to a bit over an hour (plus Q&A).
 
 - [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
 (title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
 Yes I do mean gene<b><i>t</i></b>ic, not gene<b><i>r</i></b>ic!&nbsp;
 This one includes lots of code (but not _live_ coding),
-currently in Ruby,
-but I could certainly translate it into other languages if you want.
+currently in Ruby or Python,
+but I could certainly translate it into other languages if you want.&nbsp;
+I have versions prepared from 30 minutes to 50.
 
 - **Ruby "gotchas"**
 (title: "Ruby Gotchas").&nbsp;
-I have done this for local user groups, for about 45 minutes.
+I have done this for local user groups,
+for about 45 minutes.&nbsp;
+It details some of the unexpected rough edges of Ruby,
+that are contrary to what one might expect,
+based on expectations built up by "most other languages",
+or common sense.&nbsp;
+Unlike most of my talks,
+this is _only_ in Ruby.
 
 - [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
 (title: "Whose Line of Code Is It Anyway?").&nbsp;
@@ -56,6 +65,17 @@ working on a problem
 and (at polyglot conferences) in a language
 both _chosen by the audience_
 (from a relatively small set).
+
+- **TDD (Test Driven Development)**
+(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
+This talk describes the benefits and process of TDD,
+and walks through several examples
+as I develop some helpful calculators
+for brewing mead.&nbsp;
+There is quite a lot of code,
+but it is not _live_-coded.&nbsp;
+Unlike most of my talks,
+this is _only_ in JavaScript.
 
 - **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
 (title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
