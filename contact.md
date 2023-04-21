@@ -59,6 +59,8 @@ or
 
 - If you're not just telemarketing, call me at 571-308-6622.
 
+- Or you can send me snailmail at 3683 Blenheim Blvd., Fairfax, VA 22030 USA.
+
 - Lastly, I can also be reached via
 the usual real-time video-chat apps.&nbsp;
 However, don't usually have them going,
