@@ -10,7 +10,7 @@ title:
 
 I answered on Quora:
 
-> [https://www.quora.com/Why-dont-all-Western-software-develop-a-feature-that-automatically-translates-into-the-language-of-the-users-device-which-doesnt-require-a-lot-of-technology?](https://www.quora.com/Why-dont-all-Western-software-develop-a-feature-that-automatically-translates-into-the-language-of-the-users-device-which-doesnt-require-a-lot-of-technology/answer/Dave-Aronson){:target="_new"}
+> [Why don't all Western software develop a feature that automatically translates into the language of the user's device, which doesn't require a lot of technology?](https://www.quora.com/Why-dont-all-Western-software-develop-a-feature-that-automatically-translates-into-the-language-of-the-users-device-which-doesnt-require-a-lot-of-technology/answer/Dave-Aronson){:target="_new"}
 
 Before you ask “why”, always ask (maybe somewhere else) “whether”.&nbsp;
 Your declaration that this doesn’t require a lot of technology
