@@ -123,8 +123,7 @@ Definite speaking engagements in the _future_ include:
 
 |When||Conference||Where||Topic(s) |
 |-|
-|April&nbsp;2023||[PyCon US](https://us.pycon.org/2023/){:rel="nofollow" target="_new"}||Salt Lake City, UT, USA||Mutants|
-|May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||Málaga, Spain||Genetic Algos|
+|May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||M&aacute;laga, Spain||Genetic Algos|
 |May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
 |May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
 {:class="upcoming-engagements speaking"}
@@ -147,6 +146,14 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://us.pycon.org/2023/" rel="nofollow" target="_new">PyCon US</a></td>
+      <td>Salt Lake City, UT, USA</td>
+      <td>Mutants</td>
+      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a> (video coming soon)</td>
+      <td class="numeric">30</td>
+    </tr>
     <tr>
       <td class="numeric">2023</td>
       <td><a href="https://frontrunners.tech/" rel="nofollow" target="_new">Frontrunners DC</a></td>
