@@ -18,7 +18,7 @@ for a fee (plus all expenses).
 
 ### Topics
 
-The topics I _currently_ have full-length talks prepared for are:
+The talks I am currently pitching include:
 
 - My
 [**ACRUMEN**](acrumen)
@@ -44,6 +44,17 @@ currently in Ruby or Python,
 but I could certainly translate it into other languages if you want.&nbsp;
 I have versions prepared from 30 minutes to 50.
 
+- [**TDD (Test Driven Development)**](https://en.wikipedia.org/wiki/Test-driven_development){:rel="nofollow" target="_new"}
+(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
+This talk describes the benefits and process of TDD,
+and walks through several examples
+as I develop some helpful calculators
+for brewing mead.&nbsp;
+There is quite a lot of code,
+but it is not _live_-coded.&nbsp;
+Unlike most of my talks,
+this is _only_ in JavaScript.
+
 - **Ruby "gotchas"**
 (title: "Ruby Gotchas").&nbsp;
 I have done this for local user groups,
@@ -66,25 +77,12 @@ and (at polyglot conferences) in a language
 both _chosen by the audience_
 (from a relatively small set).
 
-- **TDD (Test Driven Development)**
-(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
-This talk describes the benefits and process of TDD,
-and walks through several examples
-as I develop some helpful calculators
-for brewing mead.&nbsp;
-There is quite a lot of code,
-but it is not _live_-coded.&nbsp;
-Unlike most of my talks,
-this is _only_ in JavaScript.
-
 - **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
 (title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
 the History and Making of MEAD!").&nbsp;
 Yes, this is not a technical thing,
 at least in the computer sense.&nbsp;
 ;-)
-
-I also have five-minte "lightning" talks prepared on:
 
 - **Breaking into conference speaking**
 (title: "You Wanna Say Somethin'?").&nbsp;
@@ -93,6 +91,8 @@ why you might want to talk at a conference,
 how to find the conferences,
 how to apply to speak at them,
 and a few basic public speaking tips.
+
+I also have some five-minute "lightning" talks prepared:
 
 - **Why we _prepend_ to lists**, instead of appending,
 when using immutable data,
@@ -119,14 +119,16 @@ Want me to speak on something not covered above?&nbsp;
 
 ### Definite Future Speaking Engagements
 
-Definite speaking engagements in the _future_ include:
+I have no definite speaking engagements in the _future_.
 
+<!--
 |When||Conference||Where||Topic(s) |
 |-|
 |May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||M&aacute;laga, Spain||Genetic Algos|
 |May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
 |May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
 {:class="upcoming-engagements speaking"}
+-->
 
 <br/>
 
@@ -146,6 +148,36 @@ Speaking engagements in the _past_ include:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://ndcoslo.com/" rel="nofollow" target="_new">NDC Oslo</a></td>
+      <td>Oslo, Norway</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="https://www.Codosaur.us/reds/gen-algs-ndc-oslo-23-slides" target="_new">slides</a> (video coming soon)
+      </td>
+      <td class="numeric">60</td>
+    </tr>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://teqnation.com/" rel="nofollow" target="_new">TEQnation</a></td>
+      <td>Utrecht, Netherlands</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="https://www.Codosaur.us/reds/gen-algs-teqnation-23-slides" target="_new">slides</a> (video coming soon)
+      </td>
+      <td class="numeric">45</td>
+    </tr>
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://www.jonthebeach.com/" rel="nofollow" target="_new">J on the Beach</a></td>
+      <td>Málaga, Spain</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a> (video coming soon)
+      </td>
+      <td class="numeric">40</td>
+    </tr>
     <tr>
       <td class="numeric">2023</td>
       <td><a href="https://us.pycon.org/2023/" rel="nofollow" target="_new">PyCon US</a></td>
