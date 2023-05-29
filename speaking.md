@@ -174,9 +174,10 @@ Speaking engagements in the _past_ include:
       <td>Málaga, Spain</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a> (video coming soon)
+        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a>
+        <a href="https://www.youtube.com/watch?v=PhTsJ1i1un0" rel="nofollow" target="_new">video</a>
       </td>
-      <td class="numeric">40</td>
+      <td class="numeric">30</td>
     </tr>
     <tr>
       <td class="numeric">2023</td>
