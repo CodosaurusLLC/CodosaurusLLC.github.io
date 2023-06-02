@@ -184,7 +184,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://us.pycon.org/2023/" rel="nofollow" target="_new">PyCon US</a></td>
       <td>Salt Lake City, UT, USA</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a> (video coming soon)</td>
+      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a> <a href="https://www.youtube.com/watch?v=G0MbITvWfgY" target="_new">video</a></td>
       <td class="numeric">30</td>
     </tr>
     <tr>
