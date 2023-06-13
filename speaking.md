@@ -174,7 +174,7 @@ Speaking engagements in the _past_ include:
       <td>Málaga, Spain</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a>
+        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=PhTsJ1i1un0" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">30</td>
@@ -184,7 +184,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://us.pycon.org/2023/" rel="nofollow" target="_new">PyCon US</a></td>
       <td>Salt Lake City, UT, USA</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a> <a href="https://www.youtube.com/watch?v=G0MbITvWfgY" target="_new">video</a></td>
+      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=G0MbITvWfgY" target="_new">video</a></td>
       <td class="numeric">30</td>
     </tr>
     <tr>
@@ -355,7 +355,7 @@ Speaking engagements in the _past_ include:
       <td><a href="https://rubyrogues.com/" rel="nofollow" target="_new">Ruby Rogues Podcast</a></td>
       <td>Online</td>
       <td>Mutants</td>
-      <td><a href="https://rubyrogues.com/467/" target="_new">audio</a></td>
+      <td><a href="https://topenddevs.com/podcasts/ruby-rogues/episodes/rr-459-mutation-testing-with-dave-aronson" target="_new">audio</a></td>
       <td class="numeric">68</td>
     </tr>
     <tr>
