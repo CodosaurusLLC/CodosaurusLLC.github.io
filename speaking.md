@@ -119,16 +119,12 @@ Want me to speak on something not covered above?&nbsp;
 
 ### Definite Future Speaking Engagements
 
-I have no definite speaking engagements in the _future_.
+<!-- I have no definite speaking engagements in the _future_. -->
 
-<!--
 |When||Conference||Where||Topic(s) |
 |-|
-|May&nbsp;2023||[J on the Beach](https://www.jonthebeach.com/){:rel="nofollow" target="_new"}||M&aacute;laga, Spain||Genetic Algos|
-|May&nbsp;2023||[TEQnation](https://teqnation.com/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Genetic Algos|
-|May&nbsp;2023||[NDC Oslo](https://ndcoslo.com/){:rel="nofollow" target="_new"}||Oslo, Norway||Genetic Algos|
+|October&nbsp;2023||[Blipz on the Radar](https://www.blipz.io/){:rel="nofollow" target="_new"}||Utrecht, Netherlands||Mutants|
 {:class="upcoming-engagements speaking"}
--->
 
 <br/>
 
