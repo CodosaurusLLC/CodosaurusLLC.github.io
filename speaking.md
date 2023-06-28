@@ -160,7 +160,8 @@ Speaking engagements in the _past_ include:
       <td>Utrecht, Netherlands</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-teqnation-23-slides" target="_new">slides</a> (video coming soon)
+        <a href="https://www.Codosaur.us/reds/gen-algs-teqnation-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=3pMYSj2iPUM" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">45</td>
     </tr>
