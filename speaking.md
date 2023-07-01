@@ -150,9 +150,10 @@ Speaking engagements in the _past_ include:
       <td>Oslo, Norway</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-ndc-oslo-23-slides" target="_new">slides</a> (video coming soon)
+        <a href="https://www.Codosaur.us/reds/gen-algs-ndc-oslo-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=bJXPAhEzvXc" rel="nofollow" target="_new">video</a>
       </td>
-      <td class="numeric">60</td>
+      <td class="numeric">45</td>
     </tr>
     <tr>
       <td class="numeric">2023</td>
