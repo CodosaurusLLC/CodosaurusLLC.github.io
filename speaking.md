@@ -3,7 +3,6 @@ layout: default
 style: speaking
 title: Speaking
 ---
-
 I enjoy presenting at conferences,
 mainly held in person at interesting destinations,
 that aren't a royal PITA to get to,
@@ -18,4 +17,5 @@ for a fee (plus all expenses).
 - [Upcoming Engagements](/speaking/upcoming)
 - [Past Engagements](/speaking/past)
 - [Likely Near Future Engagements](/speaking/likely)
+- [CfPs Closing Soon](/speaking/cfps-ending-soon)
 
