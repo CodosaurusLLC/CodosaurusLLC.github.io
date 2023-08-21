@@ -8,7 +8,9 @@ notes: Use Airtable to mail view to self, copy table from email, remove styling,
 
 <center>LAST UPDATED: 2023-08-18</center>
 
-This is a list of CfPs that I know of,
+This is a list of CfPs
+(Calls for Papers/Presentations/Participation/etc.)
+that I know of,
 closing within the next two weeks.&nbsp;
 It is updated approximately every week
 (usually on Friday afternoon),
