@@ -33,7 +33,7 @@ which may require going through their Speakers _Academy_ first.)
 This list contains _only_
 the CfPs of conferences I am personally interested in,
 ones that other
-[Speakers Network](https://www.toptal.com/community/speakers){{:rel="nofollow" target="_new"}} members inform me of,
+[Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"} members inform me of,
 and a _few_ others I happen to stumble across.&nbsp;
 So, that's mainly software development conferences,
 focused on Elixir (or Phoenix), Ruby (or Rails), Python, JavaScript, or C,
