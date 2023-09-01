@@ -11,7 +11,8 @@ and reimbursing my travel expenses.&nbsp;
 unless they are within three timezones of US-East.)&nbsp;
 I will also talk to a _company_
 (or their devs),
-for a fee (plus all expenses).
+for a fee (plus all expenses),
+or be interviewed on podcasts.
 
 - [List of Talks](/speaking/talks)
 - [Upcoming Engagements](/speaking/upcoming)
