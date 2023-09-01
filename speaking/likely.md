@@ -19,12 +19,11 @@ include:
 |-|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
-|[DevConf Poland](https://devconf.pl/){:rel="nofollow" target="_new"}||Lodz, Poland||ACRUMEN|
 |[DevConf South Africa](https://www.devconf.co.za/){:rel="nofollow" target="_new"}||various, South Africa||Genetic Algos|
 |[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and maybe Genetic Algos|
 |[Devoxx Morocco](https://devoxx.ma/){:rel="nofollow" target="_new"}||Agadir, Morocco||Mutants|
-|[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||Genetic Algos|
+|[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||ACRUMEN|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
 |[JS Day Canarias](https://jsdaycanarias.com/){:rel="nofollow" target="_new"}||Tenerife, Spain||Mutants|
 |[Voxxed Days Brussels](https://brussels.voxxeddays.com/){:rel="nofollow" target="_new"}||Brussels, Belgium||Mutants|
