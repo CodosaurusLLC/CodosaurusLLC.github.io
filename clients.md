@@ -65,6 +65,11 @@ but I'm certainly not _chasing_ that market.
 
 Past clients have included:
 
+<!--
+- [Dominion Due Diligence Group](https://www.d3g.com/){:rel="nofollow" target="_new"},
+an environmental, engineering, and energy due diligence firm;
+-->
+
 - a piece of the US Government that prefers not to be named publicly
 (even though the work was not classified),
 but sorta rhymes with "cable ski-birch cab-Nora-Dory"<!--,
@@ -76,10 +81,11 @@ and mentoring junior developers-->;
 
 - [OneDoor](https://onedoor.com/){:rel="nofollow" target="_new"},
 a company with a <!-- Ruby on Rails --> web app for
-retail stores to plan their store layouts<!--,
+large retail chains to plan their store layouts for sales campaigns<!--,
 who needed help speeding up their database-->;
 
-- [OnLife Health](https://www.onlifehealth.com/){:rel="nofollow" target="_new"}<!--,
+- [OnLife Health](https://www.onlifehealth.com/){:rel="nofollow" target="_new"},
+a comprehensive wellness solutions company<!--,
 who was adding features to
 the section of their Ruby on Rails portal used by coaches-->;
 
@@ -102,15 +108,11 @@ real estate agents maintain
 their clients' subscriptions to their _snailmail_ newsletters;
 
 - a major British credit card that prefers not to be named publicly,
-but sorta rhymes with "spark-day bard"
-(indirectly as a temporary employee of
-[Object Systems Group](http://osgcorp.com/){:rel="nofollow" target="_new"})<!--,
+but sorta rhymes with "spark-day bard"<!--,
 which was putting up England's first Daily Deals site (now defunct)
 in Ruby on Rails-->;
 
-- [the US Department of Veterans Affairs](https://www.va.gov/){:rel="nofollow" target="_new"}
-(indirectly as a temporary employee of
-[Halfaker & Associates](https://www.halfaker.com/){:rel="nofollow" target="_new"})<!--,
+- [the US Department of Veterans Affairs](https://www.va.gov/){:rel="nofollow" target="_new"}<!--,
 which was putting up an event planning system in Ruby on Rails,
 including ways for attendees to
 choose and track which sessions to attend, and network with others-->;
