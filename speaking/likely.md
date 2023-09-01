@@ -17,7 +17,6 @@ include:
 
 | Conference || Where || Topic(s) |
 |-|
-|[Build Stuff](https://www.buildstuff.events/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
 |[DevConf Poland](https://devconf.pl/){:rel="nofollow" target="_new"}||Lodz, Poland||ACRUMEN|
