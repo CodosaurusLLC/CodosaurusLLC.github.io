@@ -6,8 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-09-01</center>
-
+<center>LAST UPDATED: 2023-09-08</center>
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
@@ -26,7 +25,7 @@ and estimates when past ones should reopen.&nbsp;
 [my referral link](https://www.toptal.com/#accept-only-candid-coders){:target="_new"},
 click on the “Apply as a Freelancer” button,
 pass the screening,
-then apply to join the 
+then apply to join the
 [Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"},
 which may require going through their Speakers _Academy_ first.)
 
@@ -55,6 +54,7 @@ Just please make sure that
 the CfP is indeed closing within the next two weeks,
 else I might already have it in the _big_ list, just not this _extract_.
 
+
 <table>
   <tbody>
     <tr>
@@ -68,368 +68,334 @@ else I might already have it in the _big_ list, just not this _extract_.
     </tr>
     <tr>
       <td>
-        <div>Fest.JS KRAKOW</div>
+        Geecon Prague
       </td>
       <td>
-        <div>
-          <a href="https://fest.dev/events/js/krakow-2023/" target="_blank">https://fest.dev/events/js/<wbr>krakow-2023/</a>
-        </div>
+        <a href="http://geecon.cz/" target="_blank">http://geecon.cz/</a>
       </td>
       <td>
-        <div>Krakow, Poland</div>
+        Prague, Czech Republic (Czechia)
       </td>
       <td>
-        <div>2023-09-01</div>
+        2023-09-08
       </td>
       <td>
       </td>
       <td>
-        <div>2023-11-18</div>
+        2023-10-19
       </td>
       <td>
-        <div>
-          <a href="https://docs.google.com/forms/d/1OPrfCEnCh_PHYZnFmeh5ufXQvxzOr4IMs_O8ale4ovs" target="_blank">https://docs.google.com/forms/<wbr>d/1OPrfCEnCh_<wbr>PHYZnFmeh5ufXQvxzOr4IMs_<wbr>O8ale4ovs</a>
-        </div>
+        <a href="https://2023.geecon.cz/cfp/" target="_blank">https://2023.geecon.cz/cfp/</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>J-Fall</div>
+        PyCon Sweden
       </td>
       <td>
-        <div>
-          <a href="https://jfall.nl/" target="_blank">https://jfall.nl/</a>
-        </div>
+        <a href="https://www.pycon.se/" target="_blank">https://www.pycon.se/</a>
       </td>
       <td>
-        <div>Ede, Netherlands</div>
+        Stockholm, Sweden
       </td>
       <td>
-        <div>2023-09-01</div>
+        2023-09-09
       </td>
       <td>
+        ⚑
       </td>
       <td>
-        <div>2023-11-09</div>
+        2023-11-09
       </td>
       <td>
-        <div>
-          <a href="https://sessionize.com/jfall23/" target="_blank">https://sessionize.com/<wbr>jfall23/</a>
-        </div>
+        <a href="https://forms.gle/uphcn4JwLVnmM78M7" target="_blank">https://forms.gle/<wbr>uphcn4JwLVnmM78M7</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>NDC London</div>
+        GambiConf
       </td>
       <td>
-        <div>
-          <a href="https://ndc-london.com/" target="_blank">https://ndc-london.com/</a>
-        </div>
+        <a href="https://gambiconf.dev/" target="_blank">https://gambiconf.dev/</a>
       </td>
       <td>
-        <div>London, United Kingdom</div>
+        São Paulo, Brazil and online
       </td>
       <td>
-        <div>2023-09-01</div>
+        2023-09-10
       </td>
       <td>
       </td>
       <td>
-        <div>2024-01-31</div>
+        2023-11-25
       </td>
       <td>
-        <div>
-          <a href="https://ndclondon.com/call-for-papers" target="_blank">https://ndclondon.com/call-<wbr>for-papers</a>
-        </div>
+        <a href="https://gambiconf.dev/cfp" target="_blank">https://gambiconf.dev/cfp</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>TestJS Summit</div>
+        PyLadies
       </td>
       <td>
-        <div>
-          <a href="https://www.testjssummit.com/" target="_blank">https://www.testjssummit.com/</a>
-        </div>
+        <a href="https://conference.pyladies.com/" target="_blank">https://conference.pyladies.<wbr>com/</a>
       </td>
       <td>
-        <div>Berlin, Germany and online</div>
+        Online Only
       </td>
       <td>
-        <div>2023-09-01</div>
+        2023-09-10
       </td>
       <td>
       </td>
       <td>
-        <div>2023-12-07</div>
+        2023-12-01
       </td>
       <td>
-        <div>
-          <a href="https://forms.gle/3qEJvAwTyAyF262q8" target="_blank">https://forms.gle/<wbr>3qEJvAwTyAyF262q8</a>
-        </div>
+        <a href="https://pretalx.com/pyladiescon-2023/cfp" target="_blank">https://pretalx.com/<wbr>pyladiescon-2023/cfp</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>DDD Adelaide</div>
+        STAREAST
       </td>
       <td>
-        <div>
-          <a href="https://dddadelaide.com/" target="_blank">https://dddadelaide.com/</a>
-        </div>
+        <a href="https://stareast.techwell.com/" target="_blank">https://stareast.techwell.com/</a>
       </td>
       <td>
-        <div>Adelaide, Australia</div>
+        Orlando, Florida, United States of America
       </td>
       <td>
-        <div>2023-09-06</div>
+        2023-09-10
       </td>
       <td>
       </td>
       <td>
-        <div>2023-11-18</div>
+        2024-04-28
       </td>
       <td>
-        <div>
-          <a href="https://dddadelaide.com/cfp" target="_blank">https://dddadelaide.com/cfp</a>
-        </div>
+        <a href="https://stareast.techwell.com/speak-stareast" target="_blank">https://stareast.techwell.com/<wbr>speak-stareast</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>Geecon Prague</div>
+        Prompt Engineering Conference
       </td>
       <td>
-        <div>
-          <a href="http://geecon.cz/" target="_blank">http://geecon.cz/</a>
-        </div>
+        <a href="https://promptengineering.rocks/" target="_blank">https://promptengineering.<wbr>rocks/</a>
       </td>
       <td>
-        <div>Prague, Czech Republic (Czechia)</div>
+        Online Only
       </td>
       <td>
-        <div>2023-09-08</div>
+        2023-09-12
       </td>
       <td>
       </td>
       <td>
-        <div>2023-10-19</div>
+        2023-10-12
       </td>
       <td>
-        <div>
-          <a href="https://2023.geecon.cz/cfp/" target="_blank">https://2023.geecon.cz/cfp/</a>
-        </div>
+        <a href="https://sessionize.com/prompt-engineering-conference-2023" target="_blank">https://sessionize.com/prompt-<wbr>engineering-conference-2023</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>PyCon Sweden</div>
+        GeekcampSG
       </td>
       <td>
-        <div>
-          <a href="https://www.pycon.se/" target="_blank">https://www.pycon.se/</a>
-        </div>
+        <a href="https://geekcamp.sg/" target="_blank">https://geekcamp.sg/</a>
       </td>
       <td>
-        <div>Stockholm, Sweden</div>
+        Singapore, Singapore and online
       </td>
       <td>
-        <div>2023-09-09</div>
+        2023-09-14
       </td>
       <td>
-        <div>⚑</div>
       </td>
       <td>
-        <div>2023-11-09</div>
+        2023-10-14
       </td>
       <td>
-        <div>
-          <a href="https://forms.gle/uphcn4JwLVnmM78M7" target="_blank">https://forms.gle/<wbr>uphcn4JwLVnmM78M7</a>
-        </div>
+        <a href="https://sessionize.com/geekcampsg2023" target="_blank">https://sessionize.com/<wbr>geekcampsg2023</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>GambiConf</div>
+        HalfStack London
       </td>
       <td>
-        <div>
-          <a href="https://gambiconf.dev/" target="_blank">https://gambiconf.dev/</a>
-        </div>
+        <a href="https://halfstackconf.com/london/" target="_blank">https://halfstackconf.com/<wbr>london/</a>
       </td>
       <td>
-        <div>São Paulo, Brazil and online</div>
+        London, United Kingdom
       </td>
       <td>
-        <div>2023-09-10</div>
+        2023-09-15
       </td>
       <td>
+        ⚑
       </td>
       <td>
-        <div>2023-11-25</div>
+        2023-11-15
       </td>
       <td>
-        <div>
-          <a href="https://gambiconf.dev/cfp" target="_blank">https://gambiconf.dev/cfp</a>
-        </div>
+        <a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>STAREAST</div>
+        PyCon Indonesia
       </td>
       <td>
-        <div>
-          <a href="https://stareast.techwell.com/" target="_blank">https://stareast.techwell.com/</a>
-        </div>
+        <a href="https://pycon.id/" target="_blank">https://pycon.id/</a>
       </td>
       <td>
-        <div>Orlando, Florida, United States of America</div>
+        Bandung, Indonesia
       </td>
       <td>
-        <div>2023-09-10</div>
+        2023-09-15
       </td>
       <td>
       </td>
       <td>
-        <div>2024-04-28</div>
+        2023-11-18
       </td>
       <td>
-        <div>
-          <a href="https://stareast.techwell.com/speak-stareast" target="_blank">https://stareast.techwell.com/<wbr>speak-stareast</a>
-        </div>
+        <a href="https://pycon.id/cfp" target="_blank">https://pycon.id/cfp</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>Prompt Engineering Conference</div>
+        PyCon Thailand
       </td>
       <td>
-        <div>
-          <a href="https://promptengineering.rocks/" target="_blank">https://promptengineering.<wbr>rocks/</a>
-        </div>
+        <a href="https://th.pycon.org/" target="_blank">https://th.pycon.org/</a>
       </td>
       <td>
-        <div>Online Only</div>
+        Bangkok, Thailand
       </td>
       <td>
-        <div>2023-09-12</div>
+        2023-09-15
       </td>
       <td>
       </td>
       <td>
-        <div>2023-10-12</div>
+        2023-12-15
       </td>
       <td>
-        <div>
-          <a href="https://sessionize.com/prompt-engineering-conference-2023" target="_blank">https://sessionize.com/prompt-<wbr>engineering-conference-2023</a>
-        </div>
+        <a href="https://www.papercall.io/pyconth2023" target="_blank">https://www.papercall.io/<wbr>pyconth2023</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>GeekcampSG</div>
+        World Usability Day
       </td>
       <td>
-        <div>
-          <a href="https://geekcamp.sg/" target="_blank">https://geekcamp.sg/</a>
-        </div>
+        <a href="https://worldusabilityday.org/" target="_blank">https://worldusabilityday.org/</a>
       </td>
       <td>
-        <div>Singapore, Singapore and online</div>
+        Various,  and online
       </td>
       <td>
-        <div>2023-09-14</div>
+        2023-09-16
       </td>
       <td>
       </td>
       <td>
-        <div>2023-10-14</div>
+        2023-11-09
       </td>
       <td>
-        <div>
-          <a href="https://sessionize.com/geekcampsg2023" target="_blank">https://sessionize.com/<wbr>geekcampsg2023</a>
-        </div>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScF6b8khBSBhsacA3zYwnHe4E0He6c1AXWA94i_Z6i5mgdrbA/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLScF6b8khBSBhsacA3zYwnHe<wbr>4E0He6c1AXWA94i_Z6i5mgdrbA/<wbr>viewform</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>HalfStack London</div>
+        OpenFest
       </td>
       <td>
-        <div>
-          <a href="https://halfstackconf.com/london/" target="_blank">https://halfstackconf.com/<wbr>london/</a>
-        </div>
+        <a href="https://www.openfest.org/en" target="_blank">https://www.openfest.org/en</a>
       </td>
       <td>
-        <div>London, United Kingdom</div>
+        Sofia, Bulgaria
       </td>
       <td>
-        <div>2023-09-15</div>
+        2023-09-17
       </td>
       <td>
-        <div>⚑</div>
       </td>
       <td>
-        <div>2023-11-15</div>
+        2023-11-04
       </td>
       <td>
-        <div>
-          <a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a>
-        </div>
+        <a href="https://cfp.openfest.org/?locale=en" target="_blank">https://cfp.openfest.org/?<wbr>locale=en</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>PyCon Indonesia</div>
+        UXPA International Conference
       </td>
       <td>
-        <div>
-          <a href="https://pycon.id/" target="_blank">https://pycon.id/</a>
-        </div>
+        <a href="https://uxpa2024.org/" target="_blank">https://uxpa2024.org/</a>
       </td>
       <td>
-        <div>Bandung, Indonesia</div>
+        Fort Lauderdale, Florida, United States of America
       </td>
       <td>
-        <div>2023-09-15</div>
+        2023-09-17
       </td>
       <td>
       </td>
       <td>
-        <div>2023-11-18</div>
+        2024-07-08
       </td>
       <td>
-        <div>
-          <a href="https://pycon.id/cfp" target="_blank">https://pycon.id/cfp</a>
-        </div>
+        <a href="https://uxpa2024.org/call-for-proposals/" target="_blank">https://uxpa2024.org/call-for-<wbr>proposals/</a>
       </td>
     </tr>
     <tr>
       <td>
-        <div>PyCon Thailand</div>
+        CityJSConf BERLIN
       </td>
       <td>
-        <div>
-          <a href="https://th.pycon.org/" target="_blank">https://th.pycon.org/</a>
-        </div>
+        <a href="https://berlin.cityjsconf.org/" target="_blank">https://berlin.cityjsconf.org/</a>
       </td>
       <td>
-        <div>Bangkok, Thailand</div>
+        Berlin, Germany and online
       </td>
       <td>
-        <div>2023-09-15</div>
+        2023-09-20
       </td>
       <td>
       </td>
       <td>
-        <div>2023-12-15</div>
+        2023-11-03
       </td>
       <td>
-        <div>
-          <a href="https://www.papercall.io/pyconth2023" target="_blank">https://www.papercall.io/<wbr>pyconth2023</a>
-        </div>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2rtRmqC8Wwqdvay-Ny5PCn9h3W93R0J8qwE44kbnOXS7VUg/viewform?usp=sf_link" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLSe2rtRmqC8Wwqdvay-<wbr>Ny5PCn9h3W93R0J8qwE44kbnOXS7VU<wbr>g/viewform?usp=sf_link</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ConFoo.ca Montreal
+      </td>
+      <td>
+        <a href="https://confoo.ca/en/" target="_blank">https://confoo.ca/en/</a>
+      </td>
+      <td>
+        Montreal, Quebec, Canada
+      </td>
+      <td>
+        2023-09-22
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-21
+      </td>
+      <td>
+        <a href="https://confoo.ca/en/2024/call-for-papers" target="_blank">https://confoo.ca/en/2024/<wbr>call-for-papers</a>
       </td>
     </tr>
   </tbody>
