@@ -106,10 +106,10 @@ such as
 and
 [SIGBOVIK](http://sigbovik.org/){:rel="nofollow" target="_new"}.&nbsp;
 This is currently written in Portuguese
-(as I intend to do it first at
-[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}),
-but I could deliver it in English,
-and with decent lead time I could also translate it into French.
+(as I will do it first at
+[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"},
+in São Paulo, Brazil),
+but I could deliver it in English.
 
 I also have some five-minute "lightning" talks prepared:
 
@@ -133,3 +133,12 @@ and more.
 
 Want me to speak on something not covered above?&nbsp;
 [Ask me](/contact), and we'll see.
+
+Except as noted above,
+these are all in English,
+but with decent lead time to translate,
+I could also do them in French or Portuguese.&nbsp;
+(In non-Anglophone countries,
+I also do my intro in the local language.&nbsp;
+So far, I have done that in
+Dutch, Greek, Lithuanian, Polish, Norwegian, Portuguese, Romanian, Spanish, and Swedish.)
