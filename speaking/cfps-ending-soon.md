@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-09-08</center>
+<center>LAST UPDATED: 2023-09-15</center>
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
@@ -54,6 +54,7 @@ Just please make sure that
 the CfP is indeed closing within the next two weeks,
 else I might already have it in the _big_ list, just not this _extract_.
 
+<hr/>
 
 <table>
   <tbody>
@@ -65,161 +66,6 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>Estimated?</th>
       <th>Event Date</th>
       <th>CFP Link</th>
-    </tr>
-    <tr>
-      <td>
-        Geecon Prague
-      </td>
-      <td>
-        <a href="http://geecon.cz/" target="_blank">http://geecon.cz/</a>
-      </td>
-      <td>
-        Prague, Czech Republic (Czechia)
-      </td>
-      <td>
-        2023-09-08
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-10-19
-      </td>
-      <td>
-        <a href="https://2023.geecon.cz/cfp/" target="_blank">https://2023.geecon.cz/cfp/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        PyCon Sweden
-      </td>
-      <td>
-        <a href="https://www.pycon.se/" target="_blank">https://www.pycon.se/</a>
-      </td>
-      <td>
-        Stockholm, Sweden
-      </td>
-      <td>
-        2023-09-09
-      </td>
-      <td>
-        ⚑
-      </td>
-      <td>
-        2023-11-09
-      </td>
-      <td>
-        <a href="https://forms.gle/uphcn4JwLVnmM78M7" target="_blank">https://forms.gle/<wbr>uphcn4JwLVnmM78M7</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        GambiConf
-      </td>
-      <td>
-        <a href="https://gambiconf.dev/" target="_blank">https://gambiconf.dev/</a>
-      </td>
-      <td>
-        São Paulo, Brazil and online
-      </td>
-      <td>
-        2023-09-10
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-11-25
-      </td>
-      <td>
-        <a href="https://gambiconf.dev/cfp" target="_blank">https://gambiconf.dev/cfp</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        PyLadies
-      </td>
-      <td>
-        <a href="https://conference.pyladies.com/" target="_blank">https://conference.pyladies.<wbr>com/</a>
-      </td>
-      <td>
-        Online Only
-      </td>
-      <td>
-        2023-09-10
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-12-01
-      </td>
-      <td>
-        <a href="https://pretalx.com/pyladiescon-2023/cfp" target="_blank">https://pretalx.com/<wbr>pyladiescon-2023/cfp</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        STAREAST
-      </td>
-      <td>
-        <a href="https://stareast.techwell.com/" target="_blank">https://stareast.techwell.com/</a>
-      </td>
-      <td>
-        Orlando, Florida, United States of America
-      </td>
-      <td>
-        2023-09-10
-      </td>
-      <td>
-      </td>
-      <td>
-        2024-04-28
-      </td>
-      <td>
-        <a href="https://stareast.techwell.com/speak-stareast" target="_blank">https://stareast.techwell.com/<wbr>speak-stareast</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Prompt Engineering Conference
-      </td>
-      <td>
-        <a href="https://promptengineering.rocks/" target="_blank">https://promptengineering.<wbr>rocks/</a>
-      </td>
-      <td>
-        Online Only
-      </td>
-      <td>
-        2023-09-12
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-10-12
-      </td>
-      <td>
-        <a href="https://sessionize.com/prompt-engineering-conference-2023" target="_blank">https://sessionize.com/prompt-<wbr>engineering-conference-2023</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        GeekcampSG
-      </td>
-      <td>
-        <a href="https://geekcamp.sg/" target="_blank">https://geekcamp.sg/</a>
-      </td>
-      <td>
-        Singapore, Singapore and online
-      </td>
-      <td>
-        2023-09-14
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-10-14
-      </td>
-      <td>
-        <a href="https://sessionize.com/geekcampsg2023" target="_blank">https://sessionize.com/<wbr>geekcampsg2023</a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -396,6 +242,28 @@ else I might already have it in the _big_ list, just not this _extract_.
       </td>
       <td>
         <a href="https://confoo.ca/en/2024/call-for-papers" target="_blank">https://confoo.ca/en/2024/<wbr>call-for-papers</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ConveyUX
+      </td>
+      <td>
+        <a href="https://conveyux.com/" target="_blank">https://conveyux.com/</a>
+      </td>
+      <td>
+        Seattle, Washington, United States of America and online
+      </td>
+      <td>
+        2023-09-23
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-27
+      </td>
+      <td>
+        <a href="https://conveyux.com/call-for-speakers/" target="_blank">https://conveyux.com/call-for-<wbr>speakers/</a>
       </td>
     </tr>
   </tbody>
