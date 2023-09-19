@@ -65,14 +65,11 @@ but I'm certainly not _chasing_ that market.
 
 Past clients have included:
 
-<!--
 - [Dominion Due Diligence Group](https://www.d3g.com/){:rel="nofollow" target="_new"},
 an environmental, engineering, and energy due diligence firm;
--->
 
-- a piece of the US Government that prefers not to be named publicly
-(even though the work was not classified),
-but sorta rhymes with "cable ski-birch cab-Nora-Dory"<!--,
+- a piece of the US military that prefers not to be named publicly
+(even though the work was not classified)<!--,
 who needed help with data guards features,
 testing tools, and
 general software quality,
@@ -89,9 +86,7 @@ a comprehensive wellness solutions company<!--,
 who was adding features to
 the section of their Ruby on Rails portal used by coaches-->;
 
-- a major Internet infrastructure company that prefers not to be named publicly,
-but sorta rhymes with "very-fine"
-(not to be confused with the certificate business they had spun off)<!--,
+- a major Internet infrastructure company that prefers not to be named publicly<!--,
 who was experimenting with moving storage from MySQL or PostgreSQL
 to Riak or some other such sharded system,
 for a Ruby on Rails system
@@ -102,13 +97,12 @@ and split it into API and UI halves-->;
 a maker of custom database systems<!--,
 who wanted Ruby on Rails administrative interfaces to the databases-->;
 
-- [HomeActions](https://www.retrievalsystems.com/){:rel="nofollow" target="_new"},
+- [HomeActions](https://homeactions.net/){:rel="nofollow" target="_new"},
 a company with <!-- Ruby on Rails --> software to let
 real estate agents maintain
 their clients' subscriptions to their _snailmail_ newsletters;
 
-- a major British credit card that prefers not to be named publicly,
-but sorta rhymes with "spark-day bard"<!--,
+- a major British credit card that prefers not to be named publicly<!--,
 which was putting up England's first Daily Deals site (now defunct)
 in Ruby on Rails-->;
 
@@ -123,22 +117,25 @@ what could be done with the data via correlation and display of map points<!--,
 which I did in JavaScript and HTML5,
 with Ruby to convert a SQL data dump into JS-->;
 
-- EasyETFs, a now-defunct Australian startup that wanted
-a financial portfolio rebalancing system<!--,
+- EasyETFs, a now-defunct Australian startup in the financial space<!--
+that wanted a financial portfolio rebalancing system,
 which I did in Ruby on Rails-->;
 
 - Atomic Broadcast, a now-defunct startup with an idea about social media filtering<!--,
 for which I did a brief test-drive (just retrieving tweets) in Ruby on Rails-->;
 
-- Liqwid Networks (a now-defunct "Real-Time Enterprise Computing and Communications (RTEC2) technology" software company),
+- Liqwid Networks, a now-defunct
+"Real-Time Enterprise Computing and Communications (RTEC2) technology"
+software company<!--,
 who had a group-centric self-service web-based
-email and SMS system<!-- in Python,
+email and SMS system in Python,
 for which I roadmapped and implemented features,
 housed the server for a while,
 and interfaced with an overseas company trying to integrate it into
 their project management software product-->;
 
-- [Send2Fax](http://www.send2fax.com/){:rel="nofollow" target="_new"}<!--,
+- [Send2Fax](http://www.send2fax.com/){:rel="nofollow" target="_new"},
+an Internet fax-sending company<!--,
 who needed a program to initialize fax boards, which I did in C -->;
 
 - a small voice-response system company whose name I forget
@@ -147,3 +144,13 @@ who needed refactoring, bugfixing, and adding features, in C-->;
 
 - and even longer ago, assorted companies and private individuals who needed
 PC hardware or software purchased, installed, configured, troubleshot, etc.
+
+If you want to hire me through a staffing agency,
+I have worked in the past with
+[Synigent Technologies](https://www.synigent.com/){:rel="nofollow" target="_new"},
+[Toptal](https://www.toptal.com/#accept-only-candid-coders){:rel="nofollow" target="_new"}
+(please make sure you include the anchor on that URL,
+as it's my referral code),
+and
+[Celerity](https://www.celerity.com/){:rel="nofollow" target="_new"}.&nbsp;
+(And others, now defunct.)
