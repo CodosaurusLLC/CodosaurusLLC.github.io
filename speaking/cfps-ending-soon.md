@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-09-15</center>
+<center>LAST UPDATED: 2023-09-23</center>
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
@@ -69,183 +69,6 @@ else I might already have it in the _big_ list, just not this _extract_.
     </tr>
     <tr>
       <td>
-        HalfStack London
-      </td>
-      <td>
-        <a href="https://halfstackconf.com/london/" target="_blank">https://halfstackconf.com/<wbr>london/</a>
-      </td>
-      <td>
-        London, United Kingdom
-      </td>
-      <td>
-        2023-09-15
-      </td>
-      <td>
-        ⚑
-      </td>
-      <td>
-        2023-11-15
-      </td>
-      <td>
-        <a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        PyCon Indonesia
-      </td>
-      <td>
-        <a href="https://pycon.id/" target="_blank">https://pycon.id/</a>
-      </td>
-      <td>
-        Bandung, Indonesia
-      </td>
-      <td>
-        2023-09-15
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-11-18
-      </td>
-      <td>
-        <a href="https://pycon.id/cfp" target="_blank">https://pycon.id/cfp</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        PyCon Thailand
-      </td>
-      <td>
-        <a href="https://th.pycon.org/" target="_blank">https://th.pycon.org/</a>
-      </td>
-      <td>
-        Bangkok, Thailand
-      </td>
-      <td>
-        2023-09-15
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-12-15
-      </td>
-      <td>
-        <a href="https://www.papercall.io/pyconth2023" target="_blank">https://www.papercall.io/<wbr>pyconth2023</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        World Usability Day
-      </td>
-      <td>
-        <a href="https://worldusabilityday.org/" target="_blank">https://worldusabilityday.org/</a>
-      </td>
-      <td>
-        Various,  and online
-      </td>
-      <td>
-        2023-09-16
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-11-09
-      </td>
-      <td>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScF6b8khBSBhsacA3zYwnHe4E0He6c1AXWA94i_Z6i5mgdrbA/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLScF6b8khBSBhsacA3zYwnHe<wbr>4E0He6c1AXWA94i_Z6i5mgdrbA/<wbr>viewform</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        OpenFest
-      </td>
-      <td>
-        <a href="https://www.openfest.org/en" target="_blank">https://www.openfest.org/en</a>
-      </td>
-      <td>
-        Sofia, Bulgaria
-      </td>
-      <td>
-        2023-09-17
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-11-04
-      </td>
-      <td>
-        <a href="https://cfp.openfest.org/?locale=en" target="_blank">https://cfp.openfest.org/?<wbr>locale=en</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        UXPA International Conference
-      </td>
-      <td>
-        <a href="https://uxpa2024.org/" target="_blank">https://uxpa2024.org/</a>
-      </td>
-      <td>
-        Fort Lauderdale, Florida, United States of America
-      </td>
-      <td>
-        2023-09-17
-      </td>
-      <td>
-      </td>
-      <td>
-        2024-07-08
-      </td>
-      <td>
-        <a href="https://uxpa2024.org/call-for-proposals/" target="_blank">https://uxpa2024.org/call-for-<wbr>proposals/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        CityJSConf BERLIN
-      </td>
-      <td>
-        <a href="https://berlin.cityjsconf.org/" target="_blank">https://berlin.cityjsconf.org/</a>
-      </td>
-      <td>
-        Berlin, Germany and online
-      </td>
-      <td>
-        2023-09-20
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-11-03
-      </td>
-      <td>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2rtRmqC8Wwqdvay-Ny5PCn9h3W93R0J8qwE44kbnOXS7VUg/viewform?usp=sf_link" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLSe2rtRmqC8Wwqdvay-<wbr>Ny5PCn9h3W93R0J8qwE44kbnOXS7VU<wbr>g/viewform?usp=sf_link</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        ConFoo.ca Montreal
-      </td>
-      <td>
-        <a href="https://confoo.ca/en/" target="_blank">https://confoo.ca/en/</a>
-      </td>
-      <td>
-        Montreal, Quebec, Canada
-      </td>
-      <td>
-        2023-09-22
-      </td>
-      <td>
-      </td>
-      <td>
-        2024-02-21
-      </td>
-      <td>
-        <a href="https://confoo.ca/en/2024/call-for-papers" target="_blank">https://confoo.ca/en/2024/<wbr>call-for-papers</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         ConveyUX
       </td>
       <td>
@@ -264,6 +87,204 @@ else I might already have it in the _big_ list, just not this _extract_.
       </td>
       <td>
         <a href="https://conveyux.com/call-for-speakers/" target="_blank">https://conveyux.com/call-for-<wbr>speakers/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        DevWorld
+      </td>
+      <td>
+        <a href="https://devworldconference.com/" target="_blank">https://devworldconference.<wbr>com/</a>
+      </td>
+      <td>
+        Amsterdam, Netherlands
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-29
+      </td>
+      <td>
+        <a href="https://forms.gle/wtCyAZMRUaTgucn78" target="_blank">https://forms.gle/<wbr>wtCyAZMRUaTgucn78</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        JSConf Japan
+      </td>
+      <td>
+        <a href="https://jsconf.jp/" target="_blank">https://jsconf.jp/</a>
+      </td>
+      <td>
+        Tokyo, Japan
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-11-19
+      </td>
+      <td>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkgAaCLVDWDXBgnFJt-J1H0dVU_A88Fg_tn4XVdUJyMkCvMA/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSfkgAaCLVDWDXBgnFJt-<wbr>J1H0dVU_A88Fg_tn4XVdUJyMkCvMA/<wbr>viewform</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        JSWorld
+      </td>
+      <td>
+        <a href="https://jsworldconference.com/" target="_blank">https://jsworldconference.com/</a>
+      </td>
+      <td>
+        Amsterdam, Netherlands and online
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-28
+      </td>
+      <td>
+        <a href="https://forms.gle/87pFyjyu4J8bdGMH7" target="_blank">https://forms.gle/<wbr>87pFyjyu4J8bdGMH7</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Michigan Technology Conference
+      </td>
+      <td>
+        <a href="https://mitechcon.org/" target="_blank">https://mitechcon.org/</a>
+      </td>
+      <td>
+        Pontiac, Michigan, United States of America
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-03-21
+      </td>
+      <td>
+        <a href="https://www.mitechcon.org/speak" target="_blank">https://www.mitechcon.org/<wbr>speak</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Pacific Northwest Software Quality Conference
+      </td>
+      <td>
+        <a href="https://www.pnsqc.org/" target="_blank">https://www.pnsqc.org/</a>
+      </td>
+      <td>
+        Portland, Oregon, United States of America and online
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-10-09
+      </td>
+      <td>
+        <a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&amp;prid=1253451" target="_blank">https://mms.pnsqc.org/members/<wbr>proposals/propselect.php?<wbr>orgcode=PNSQ&amp;prid=1253451</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        XtremePython
+      </td>
+      <td>
+        <a href="https://xtremepython.dev/" target="_blank">https://xtremepython.dev/</a>
+      </td>
+      <td>
+        Online Only
+      </td>
+      <td>
+        2023-09-30
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-12-05
+      </td>
+      <td>
+        <a href="https://forms.gle/7dv6iqToggY8Gshs5" target="_blank">https://forms.gle/<wbr>7dv6iqToggY8Gshs5</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Chippewa Valley Code Camp
+      </td>
+      <td>
+        <a href="https://chippewavalleycodecamp.com/" target="_blank">https://<wbr>chippewavalleycodecamp.com/</a>
+      </td>
+      <td>
+        Eau Claire, Wisconsin, United States of America
+      </td>
+      <td>
+        2023-10-01
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-12-02
+      </td>
+      <td>
+        <a href="https://www.papercall.io/cvcc2023" target="_blank">https://www.papercall.io/<wbr>cvcc2023</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Big Mountain Data and Dev Conference
+      </td>
+      <td>
+        <a href="https://www.utahgeekevents.com/events/big-mountain-data-dev-2023/" target="_blank">https://www.utahgeekevents.<wbr>com/events/big-mountain-data-<wbr>dev-2023/</a>
+      </td>
+      <td>
+        Sandy, Utah, United States of America
+      </td>
+      <td>
+        2023-10-02
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-11-10
+      </td>
+      <td>
+        <a href="https://sessionize.com/big-mountain-data-and-dev-conference_23" target="_blank">https://sessionize.com/big-<wbr>mountain-data-and-dev-<wbr>conference_23</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Software Design &amp; Development (SDD) Conference London
+      </td>
+      <td>
+        <a href="https://sddconf.com/" target="_blank">https://sddconf.com/</a>
+      </td>
+      <td>
+        London, United Kingdom
+      </td>
+      <td>
+        2023-10-06
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-05-14
+      </td>
+      <td>
+        <a href="https://sessionize.com/sdd-2024" target="_blank">https://sessionize.com/sdd-<wbr>2024</a>
       </td>
     </tr>
   </tbody>
