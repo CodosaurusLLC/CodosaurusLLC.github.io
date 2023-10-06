@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-09-29</center>
+<center>LAST UPDATED: 2023-10-06</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -69,121 +69,311 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Link</th>
     </tr>
     <tr>
-      <td>Code:Dive</td>
-      <td><a href="https://codedive.pl/" target="_blank">https://codedive.pl/</a></td>
-      <td>Wrocław, Poland</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2023-11-16</td>
-      <td><a href="http://nokia.ly/3ZbeArI" target="_blank">http://nokia.ly/3ZbeArI</a></td>
+      <td>
+        Software Design &amp; Development (SDD) Conference London
+      </td>
+      <td>
+        <a href="https://sddconf.com/" target="_blank">https://sddconf.com/</a>
+      </td>
+      <td>
+        London, United Kingdom
+      </td>
+      <td>
+        2023-10-06
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-05-14
+      </td>
+      <td>
+        <a href="https://sessionize.com/sdd-2024" target="_blank">https://sessionize.com/sdd-<wbr>2024</a>
+      </td>
     </tr>
     <tr>
-      <td>DevWorld</td>
-      <td><a href="https://devworldconference.com/" target="_blank">https://devworldconference.<wbr>com/</a></td>
-      <td>Amsterdam, Netherlands</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2024-02-29</td>
-      <td><a href="https://forms.gle/wtCyAZMRUaTgucn78" target="_blank">https://forms.gle/<wbr>wtCyAZMRUaTgucn78</a></td>
+      <td>
+        NDC Sydney
+      </td>
+      <td>
+        <a href="https://ndcsydney.com/" target="_blank">https://ndcsydney.com/</a>
+      </td>
+      <td>
+        Sydney, Australia and online
+      </td>
+      <td>
+        2023-10-08
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-14
+      </td>
+      <td>
+        <a href="https://ndcsydney.com/call-for-papers" target="_blank">https://ndcsydney.com/call-<wbr>for-papers</a>
+      </td>
     </tr>
     <tr>
-      <td>GDG DevFest DC</td>
-      <td><a href="https://www.devfestdc.org/" target="_blank">https://www.devfestdc.org/</a></td>
-      <td>Washington, District of Columbia, United States of America</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2023-10-20</td>
-      <td><a href="https://docs.google.com/forms/d/1N6QryhORF9I3qNq2srxB1wh-8UAxuQcRnZtMTtWsVqU/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/1N6QryhORF9I3qNq2srxB1wh-<wbr>8UAxuQcRnZtMTtWsVqU/viewform</a></td>
+      <td>
+        XtremePython
+      </td>
+      <td>
+        <a href="https://xtremepython.dev/" target="_blank">https://xtremepython.dev/</a>
+      </td>
+      <td>
+        Online Only
+      </td>
+      <td>
+        2023-10-10
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-12-05
+      </td>
+      <td>
+        <a href="https://forms.gle/7dv6iqToggY8Gshs5" target="_blank">https://forms.gle/<wbr>7dv6iqToggY8Gshs5</a>
+      </td>
     </tr>
     <tr>
-      <td>JSConf Japan</td>
-      <td><a href="https://jsconf.jp/" target="_blank">https://jsconf.jp/</a></td>
-      <td>Tokyo, Japan</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2023-11-19</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkgAaCLVDWDXBgnFJt-J1H0dVU_A88Fg_tn4XVdUJyMkCvMA/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSfkgAaCLVDWDXBgnFJt-<wbr>J1H0dVU_A88Fg_tn4XVdUJyMkCvMA/<wbr>viewform</a></td>
+      <td>
+        DeveloperWeek SF
+      </td>
+      <td>
+        <a href="http://www.developerweek.com/" target="_blank">http://www.developerweek.com/</a>
+      </td>
+      <td>
+        Oakland, California, United States of America and online
+      </td>
+      <td>
+        2023-10-13
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-21
+      </td>
+      <td>
+        <a href="https://www.developerweek.com/conference/call-for-speakers/" target="_blank">https://www.developerweek.com/<wbr>conference/call-for-speakers/</a>
+      </td>
     </tr>
     <tr>
-      <td>JSWorld</td>
-      <td><a href="https://jsworldconference.com/" target="_blank">https://jsworldconference.com/</a></td>
-      <td>Amsterdam, Netherlands and online</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2024-02-28</td>
-      <td><a href="https://forms.gle/87pFyjyu4J8bdGMH7" target="_blank">https://forms.gle/<wbr>87pFyjyu4J8bdGMH7</a></td>
+      <td>
+        Windy City Devfest
+      </td>
+      <td>
+        <a href="https://windycity.devfest.io/" target="_blank">https://windycity.devfest.io/</a>
+      </td>
+      <td>
+        Chicago, Illinois, United States of America
+      </td>
+      <td>
+        2023-10-14
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-10-24
+      </td>
+      <td>
+        <a href="https://www.papercall.io/windy-city-devfest" target="_blank">https://www.papercall.io/<wbr>windy-city-devfest</a>
+      </td>
     </tr>
     <tr>
-      <td>Michigan Technology Conference</td>
-      <td><a href="https://mitechcon.org/" target="_blank">https://mitechcon.org/</a></td>
-      <td>Pontiac, Michigan, United States of America</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2024-03-21</td>
-      <td><a href="https://www.mitechcon.org/speak" target="_blank">https://www.mitechcon.org/<wbr>speak</a></td>
+      <td>
+        Craft Conf
+      </td>
+      <td>
+        <a href="https://craft-conf.com/" target="_blank">https://craft-conf.com/</a>
+      </td>
+      <td>
+        Budapest, Hungary
+      </td>
+      <td>
+        2023-10-15
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-05-30
+      </td>
+      <td>
+        <a href="https://www.papercall.io/craft2024" target="_blank">https://www.papercall.io/<wbr>craft2024</a>
+      </td>
     </tr>
     <tr>
-      <td>Pacific Northwest Software Quality Conference</td>
-      <td><a href="https://www.pnsqc.org/" target="_blank">https://www.pnsqc.org/</a></td>
-      <td>Portland, Oregon, United States of America and online</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2023-10-09</td>
-      <td><a href="https://mms.pnsqc.org/members/proposals/propselect.php?orgcode=PNSQ&amp;prid=1253451" target="_blank">https://mms.pnsqc.org/members/<wbr>proposals/propselect.php?<wbr>orgcode=PNSQ&amp;prid=1253451</a></td>
+      <td>
+        DevCon Bucharest
+      </td>
+      <td>
+        <a href="https://www.dev-con.ro/" target="_blank">https://www.dev-con.ro/</a>
+      </td>
+      <td>
+        Bucharest, Romania and online
+      </td>
+      <td>
+        2023-10-15
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-11-01
+      </td>
+      <td>
+        <a href="https://www.papercall.io/devcon2023" target="_blank">https://www.papercall.io/<wbr>devcon2023</a>
+      </td>
     </tr>
     <tr>
-      <td>XtremePython</td>
-      <td><a href="https://xtremepython.dev/" target="_blank">https://xtremepython.dev/</a></td>
-      <td>Online Only</td>
-      <td>2023-09-30</td>
-      <td></td>
-      <td>2023-12-05</td>
-      <td><a href="https://forms.gle/7dv6iqToggY8Gshs5" target="_blank">https://forms.gle/<wbr>7dv6iqToggY8Gshs5</a></td>
+      <td>
+        DevNexus      </td>
+      <td>
+        <a href="https://devnexus.com/" target="_blank">https://devnexus.com/</a>
+      </td>
+      <td>
+        Atlanta, Georgia, United States of America
+      </td>
+      <td>
+        2023-10-15
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-04-10
+      </td>
+      <td>
+        <a href="https://sessionize.com/devnexus-2024/" target="_blank">https://sessionize.com/<wbr>devnexus-2024/</a>
+      </td>
     </tr>
     <tr>
-      <td>Chippewa Valley Code Camp</td>
-      <td><a href="https://chippewavalleycodecamp.com/" target="_blank">https://<wbr>chippewavalleycodecamp.com/</a></td>
-      <td>Eau Claire, Wisconsin, United States of America</td>
-      <td>2023-10-01</td>
-      <td></td>
-      <td>2023-12-02</td>
-      <td><a href="https://www.papercall.io/cvcc2023" target="_blank">https://www.papercall.io/<wbr>cvcc2023</a></td>
+      <td>
+        Voxxed Days Ticino
+      </td>
+      <td>
+        <a href="https://voxxeddays.com/ticino/" target="_blank">https://voxxeddays.com/ticino/</a>
+      </td>
+      <td>
+        Lugano, Switzerland
+      </td>
+      <td>
+        2023-10-15
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-01-19
+      </td>
+      <td>
+        <a href="https://vdt24.cfp.dev/" target="_blank">https://vdt24.cfp.dev/</a>
+      </td>
     </tr>
     <tr>
-      <td>Big Mountain Data and Dev Conference</td>
-      <td><a href="https://www.utahgeekevents.com/events/big-mountain-data-dev-2023/" target="_blank">https://www.utahgeekevents.<wbr>com/events/big-mountain-data-<wbr>dev-2023/</a></td>
-      <td>Sandy, Utah, United States of America</td>
-      <td>2023-10-02</td>
-      <td></td>
-      <td>2023-11-10</td>
-      <td><a href="https://sessionize.com/big-mountain-data-and-dev-conference_23" target="_blank">https://sessionize.com/big-<wbr>mountain-data-and-dev-<wbr>conference_23</a></td>
+      <td>
+        Conf42: JavaScript
+      </td>
+      <td>
+        <a href="https://www.conf42.com/js2023" target="_blank">https://www.conf42.com/js2023</a>
+      </td>
+      <td>
+        Online Only
+      </td>
+      <td>
+        2023-10-16
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-11-16
+      </td>
+      <td>
+        <a href="https://www.papercall.io/conf42-javascript-2023" target="_blank">https://www.papercall.io/<wbr>conf42-javascript-2023</a>
+      </td>
     </tr>
     <tr>
-      <td>Software Design &amp; Development (SDD) Conference London</td>
-      <td><a href="https://sddconf.com/" target="_blank">https://sddconf.com/</a></td>
-      <td>London, United Kingdom</td>
-      <td>2023-10-06</td>
-      <td></td>
-      <td>2024-05-14</td>
-      <td><a href="https://sessionize.com/sdd-2024" target="_blank">https://sessionize.com/sdd-<wbr>2024</a></td>
+      <td>
+        JS Poland
+      </td>
+      <td>
+        <a href="https://www.js-poland.pl/" target="_blank">https://www.js-poland.pl/</a>
+      </td>
+      <td>
+        Warsaw, Poland and online
+      </td>
+      <td>
+        2023-10-16
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-11-08
+      </td>
+      <td>
+        <a href="https://www.js-poland.pl/cfp" target="_blank">https://www.js-poland.pl/cfp</a>
+      </td>
     </tr>
     <tr>
-      <td>NDC Sydney</td>
-      <td><a href="https://ndcsydney.com/" target="_blank">https://ndcsydney.com/</a></td>
-      <td>Sydney, Australia and online</td>
-      <td>2023-10-08</td>
-      <td></td>
-      <td>2024-02-14</td>
-      <td><a href="https://ndcsydney.com/call-for-papers" target="_blank">https://ndcsydney.com/call-<wbr>for-papers</a></td>
+      <td>
+        FrontRunners JS/Web Conference
+      </td>
+      <td>
+        <a href="https://frontrunners.tech/" target="_blank">https://frontrunners.tech/</a>
+      </td>
+      <td>
+        Arlington, Virginia, United States of America
+      </td>
+      <td>
+        2023-10-20
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-03-08
+      </td>
+      <td>
+        <a href="https://www.papercall.io/frontrunners2024" target="_blank">https://www.papercall.io/<wbr>frontrunners2024</a>
+      </td>
     </tr>
     <tr>
-      <td>DeveloperWeek SF</td>
-      <td><a href="http://www.developerweek.com/" target="_blank">http://www.developerweek.com/</a></td>
-      <td>Oakland, California, United States of America and online</td>
-      <td>2023-10-13</td>
-      <td></td>
-      <td>2024-02-21</td>
-      <td><a href="https://www.developerweek.com/conference/call-for-speakers/" target="_blank">https://www.developerweek.com/<wbr>conference/call-for-speakers/</a></td>
+      <td>
+        RubyConf Taiwan
+      </td>
+      <td>
+        <a href="https://rubyconf.tw/" target="_blank">https://rubyconf.tw/</a>
+      </td>
+      <td>
+        Taipei, Taiwan
+      </td>
+      <td>
+        2023-10-20
+      </td>
+      <td>
+      </td>
+      <td>
+        2023-12-15
+      </td>
+      <td>
+        <a href="https://cfp.rubyconf.tw/activities/2023" target="_blank">https://cfp.rubyconf.tw/<wbr>activities/2023</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Voxxed Days CERN
+      </td>
+      <td>
+        <a href="https://cern.voxxeddays.com/" target="_blank">https://cern.voxxeddays.com/</a>
+      </td>
+      <td>
+        Geneva, Switzerland
+      </td>
+      <td>
+        2023-10-20
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-01-23
+      </td>
+      <td>
+        <a href="https://vdcern24.cfp.dev/" target="_blank">https://vdcern24.cfp.dev/</a>
+      </td>
     </tr>
   </tbody>
 </table>
