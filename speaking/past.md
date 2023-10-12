@@ -19,6 +19,16 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2023</td>
+      <td><a href="https://www.blipz.io/" rel="nofollow" target="_new">Blipz on the Radar</a></td>
+      <td>Utrecht, Netherlands</td>
+      <td>Mutants</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/mutants-blipz-23-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">45</td>
+    </tr>
+    <tr>
+      <td class="numeric">2023</td>
       <td><a href="https://ndcoslo.com/" rel="nofollow" target="_new">NDC Oslo</a></td>
       <td>Oslo, Norway</td>
       <td>Genetic Algos</td>
