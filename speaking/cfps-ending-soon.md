@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-10-17</center>
+<center>LAST UPDATED: 2023-10-24</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -55,7 +55,7 @@ Just please make sure that
 the CfP is indeed closing within the next two weeks,
 else I might already have it in the _big_ list, just not this _extract_.
 
-<hr/>
+<hr>
 
 <table>
   <tbody>
@@ -67,95 +67,6 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Close<br>Estimated?</th>
       <th>Event Date</th>
       <th>CFP Link</th>
-    </tr>
-    <tr>
-      <td>
-        FrontRunners JS/Web Conference
-      </td>
-      <td>
-        <a href="https://frontrunners.tech/" target="_blank">https://frontrunners.tech/</a>
-      </td>
-      <td>
-        Arlington, Virginia, United States of America
-      </td>
-      <td>
-        2023-10-20
-      </td>
-      <td>
-      </td>
-      <td>
-        2024-03-08
-      </td>
-      <td>
-        <a href="https://www.papercall.io/frontrunners2024" target="_blank">https://www.papercall.io/<wbr>frontrunners2024</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        RubyConf Taiwan
-      </td>
-      <td>
-        <a href="https://rubyconf.tw/" target="_blank">https://rubyconf.tw/</a>
-      </td>
-      <td>
-        Taipei, Taiwan
-      </td>
-      <td>
-        2023-10-20
-      </td>
-      <td>
-      </td>
-      <td>
-        2023-12-15
-      </td>
-      <td>
-        <a href="https://cfp.rubyconf.tw/activities/2023" target="_blank">https://cfp.rubyconf.tw/<wbr>activities/2023</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Voxxed Days CERN
-      </td>
-      <td>
-        <a href="https://cern.voxxeddays.com/" target="_blank">https://cern.voxxeddays.com/</a>
-      </td>
-      <td>
-        Geneva, Switzerland
-      </td>
-      <td>
-        2023-10-20
-      </td>
-      <td>
-      </td>
-      <td>
-        2024-01-23
-      </td>
-      <td>
-        <a href="https://vdcern24.cfp.dev/" target="_blank">https://vdcern24.cfp.dev/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        XtremeJS
-      </td>
-      <td>
-        <a href="https://xtremejs.dev/" target="_blank">https://xtremejs.dev/</a>
-      </td>
-      <td>
-        Online Only
-      </td>
-      <td>
-        2023-10-21
-      </td>
-      <td>
-        ⚑
-      </td>
-      <td>
-        2023-11-21
-      </td>
-      <td>
-        <a href="https://forms.gle/iY7EgXTsQppuVhnM7" target="_blank">https://forms.gle/<wbr>iY7EgXTsQppuVhnM7</a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -177,6 +88,28 @@ else I might already have it in the _big_ list, just not this _extract_.
       </td>
       <td>
         <a href="https://boosterconf.no/info/cfp/" target="_blank">https://boosterconf.no/info/<wbr>cfp/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Webinale
+      </td>
+      <td>
+        <a href="https://webinale.de/en/" target="_blank">https://webinale.de/en/</a>
+      </td>
+      <td>
+        Berlin, Germany and online
+      </td>
+      <td>
+        2023-10-27
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-05-28
+      </td>
+      <td>
+        <a href="https://callforpapers.sandsmedia.com/" target="_blank">https://callforpapers.<wbr>sandsmedia.com/</a>
       </td>
     </tr>
     <tr>
@@ -419,6 +352,73 @@ else I might already have it in the _big_ list, just not this _extract_.
       </td>
       <td>
         <a href="https://webexpo.net/call-for-papers/" target="_blank">https://webexpo.net/call-for-<wbr>papers/</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        DDD Melbourne
+      </td>
+      <td>
+        <a href="https://www.dddmelbourne.com/" target="_blank">https://www.dddmelbourne.com/</a>
+      </td>
+      <td>
+        Melbourne, Australia
+      </td>
+      <td>
+        2023-11-01
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-03-16
+      </td>
+      <td>
+        <a href="https://www.dddmelbourne.com/cfp" target="_blank">https://www.dddmelbourne.com/<wbr>cfp</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Nor(Dev):Con (Norfolk Developers Conference)
+      </td>
+      <td>
+        <a href="https://nordevcon.com/" target="_blank">https://nordevcon.com/</a>
+      </td>
+      <td>
+        Norwich, United Kingdom
+      </td>
+      <td>
+        2023-11-01
+      </td>
+      <td>
+      </td>
+      <td>
+        2024-02-22
+      </td>
+      <td>
+        <a href="https://nor.dev/cfp" target="_blank">https://nor.dev/cfp</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        DevDays Europe/Vilnius (also DevOpsPro)
+      </td>
+      <td>
+        <a href="https://devdays.lt/" target="_blank">https://devdays.lt/</a>
+      </td>
+      <td>
+        See Comments,  and online
+      </td>
+      <td>
+        2023-11-06
+      </td>
+      <td>
+        ⚑
+      </td>
+      <td>
+        2024-05-20
+      </td>
+      <td>
+        <a href="https://devdays.lt/call-for-papers/" target="_blank">https://devdays.lt/call-for-<wbr>papers/</a>
       </td>
     </tr>
   </tbody>
