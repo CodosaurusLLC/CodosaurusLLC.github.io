@@ -19,6 +19,42 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2023</td>
+      <td><a href="https://www.buildstuff.events/" rel="nofollow" target="_new">Build Stuff</a></td>
+      <td>Vilnius, Lithuania</td>
+      <td>Mutants</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">35</td>
+    </tr>
+    
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://www.buildstuff.events/events/build-stuff-appetizer-2023" rel="nofollow" target="_new">Build Stuff "Appetizer"</a></td>
+      <td>Vilnius, Lithuania</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/acrumen-bs-app-23-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">20</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">Last talk, so sort of "Closing Keynote" ;-)</td>
+    </tr>
+    
+    <tr>
+      <td class="numeric">2023</td>
+      <td><a href="https://www.open-conf.gr/" rel="nofollow" target="_new">Oπe\n (Open) Conf</a></td>
+      <td>Athens, Greece</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/gen-algs-open-23-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">30</td>
+    </tr>
+    
+    <tr>
+      <td class="numeric">2023</td>
       <td><a href="https://www.blipz.io/" rel="nofollow" target="_new">Blipz on the Radar</a></td>
       <td>Utrecht, Netherlands</td>
       <td>Mutants</td>
