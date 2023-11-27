@@ -19,11 +19,25 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2023</td>
+      <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf</a></td>
+      <td>S&atilde;o Paulo, Brazil</td>
+      <td>Genaver</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/genaver-gambi-23-slides" target="_new">slides</a> (video coming)
+      </td>
+      <td class="numeric">~25</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">In Portuguese!</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2023</td>
       <td><a href="https://www.buildstuff.events/" rel="nofollow" target="_new">Build Stuff</a></td>
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a>*
+        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a> (video coming)
       </td>
       <td class="numeric">35</td>
     </tr>
