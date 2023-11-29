@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-11-21</center>
+<center>LAST UPDATED: 2023-11-29</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -64,7 +64,7 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>Event Website</th>
       <th>Location</th>
       <th>CFP Close Date</th>
-      <th>CFP Close Estimated?</th>
+      <th>CFP Close<br>Estimated?</th>
       <th>Event Date</th>
       <th>CFP Link</th>
     </tr>
@@ -119,7 +119,7 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td>Manila, Philippines</td>
       <td>2023-12-03</td>
       <td></td>
-      <td>2024-02-24</td>
+      <td>2024-02-25</td>
       <td><a href="https://bit.ly/pyconph_cfp" target="_blank">https://bit.ly/pyconph_cfp</a></td>
     </tr>
     <tr>
@@ -139,6 +139,42 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td>⚑</td>
       <td>2024-02-05</td>
       <td><a href="https://forms.gle/5oYxtHybX8kGrLto9" target="_blank">https://forms.gle/<wbr>5oYxtHybX8kGrLto9</a></td>
+    </tr>
+    <tr>
+      <td>Appdevcon/Endpointcon</td>
+      <td><a href="https://appdevcon.nl/" target="_blank">https://appdevcon.nl/</a></td>
+      <td>Amsterdam, Netherlands</td>
+      <td>2023-12-08</td>
+      <td></td>
+      <td>2024-03-15</td>
+      <td><a href="https://appdevcon.nl/speakers/cfp/" target="_blank">https://appdevcon.nl/speakers/<wbr>cfp/</a></td>
+    </tr>
+    <tr>
+      <td>FOSDEM</td>
+      <td><a href="https://fosdem.org/" target="_blank">https://fosdem.org/</a></td>
+      <td>Brussels, Belgium</td>
+      <td>2023-12-08</td>
+      <td></td>
+      <td>2024-02-03</td>
+      <td><a href="https://fosdem.org/2024/news/2023-11-20-call-for-presentations/" target="_blank">https://fosdem.org/2024/news/<wbr>2023-11-20-call-for-<wbr>presentations/</a></td>
+    </tr>
+    <tr>
+      <td>WebDevCon</td>
+      <td><a href="https://webdevcon.nl/" target="_blank">https://webdevcon.nl/</a></td>
+      <td>Amsterdam, Netherlands</td>
+      <td>2023-12-08</td>
+      <td></td>
+      <td>2024-03-15</td>
+      <td><a href="https://webdevcon.nl/speakers/cfp/" target="_blank">https://webdevcon.nl/speakers/<wbr>cfp/</a></td>
+    </tr>
+    <tr>
+      <td>ElixirConf EU</td>
+      <td><a href="https://www.elixirconf.eu/" target="_blank">https://www.elixirconf.eu/</a></td>
+      <td>Lisbon, Portugal and online</td>
+      <td>2023-12-10</td>
+      <td></td>
+      <td>2024-04-18</td>
+      <td><a href="https://www.elixirconf.eu/#cft" target="_blank">https://www.elixirconf.eu/#cft</a></td>
     </tr>
   </tbody>
 </table>
