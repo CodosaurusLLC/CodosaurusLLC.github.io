@@ -1,0 +1,10 @@
+:root {
+  --link-color: #119;  /* not *quite* stark black, plus strong blue */
+  --bg-color:   #ddf;  /* not *quite* stark white, plus hint of blue */
+  --fg-color:   #131;  /* not *quite* stark black, plus hint of green */
+}
+
+p + ul { margin-top: -1em; }  /* remove space between -- not exact */
+
+/* undo how sup screws up line height */
+sup { font-size: 0.7em; position: relative; top: -.4em; vertical-align: top; }
