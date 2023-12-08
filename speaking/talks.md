@@ -13,9 +13,9 @@ definition of software quality
 (title: "Write Better Software with ACRUMEN").&nbsp;
 <!-- This is completely technology-agnostic;
 in fact there is not even any code!&nbsp; -->
-I can also do this as
-a lightning talk
-or a keynote.
+I can do this as a keynote,
+a regular session,
+or a lightning talk.
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
@@ -74,13 +74,14 @@ at least in the computer sense.&nbsp;
 - **Breaking into conference speaking**
 (title: "You Wanna Say Somethin'?").&nbsp;
 This includes things like
-why you might want to talk at a conference,
-how to find the conferences,
-how to apply to speak at them,
+why you might want to talk at a conference (or not),
+how to find and choose the conferences,
+apply to speak at them,
+track your applications,
 and a few basic public speaking tips.
 
 - **[Genaver](https://github.com/CodosaurusLLC/Genaver){:target="_new"}**
-(title: "Genaver: A Tool for Multi-Talking").&nbsp;
+(title: "Multi-Talking (not a typo!) with Genaver!").&nbsp;
 Genaver is a tool I have created
 that lets me quickly and easily generate
 a version of a presentation
@@ -106,10 +107,10 @@ such as
 and
 [SIGBOVIK](http://sigbovik.org/){:rel="nofollow" target="_new"}.&nbsp;
 This is currently written in Portuguese
-(as I will do it first at
-[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"},
-in São Paulo, Brazil),
-but I could deliver it in English.
+(as delivered at
+[GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}
+2023, in São Paulo, Brazil),
+but I could deliver it in English or French as well.
 
 I also have some five-minute "lightning" talks prepared:
 
@@ -131,14 +132,32 @@ design patterns,
 and more.
 -->
 
-Want me to speak on something not covered above?&nbsp;
+### Other Info for Organizers
+
+
+- Want me to speak on something not covered above?&nbsp;
 [Ask me](/contact), and we'll see.
 
-Except as noted above,
+- Except as noted above,
 these are all in English,
 but with decent lead time to translate,
 I could also do them in French or Portuguese.&nbsp;
 (In non-Anglophone countries,
 I also do my intro in the local language.&nbsp;
 So far, I have done that in
-Dutch, Greek, Lithuanian, Polish, Norwegian, Portuguese, Romanian, Spanish, and Swedish.)
+Dutch,
+Greek,
+Lithuanian,
+Polish,
+Norwegian,
+Portuguese,
+Romanian,
+Spanish, and
+Swedish.)
+
+- I will travel anywhere not a danger zone nor a PITA to get to,
+especially interesting tourist/history spots.
+
+- If you want my talk but are afraid of the airfare expenses,
+let's talk about it.&nbsp;
+There may be options, such as combining conferences on one trip.
