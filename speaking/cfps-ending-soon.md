@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-12-05</center>
+<center>LAST UPDATED: 2023-12-10</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -69,134 +69,76 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Link</th>
     </tr>
     <tr>
-      <td>Laracon EU</td>
-      <td>
-        <a href="https://laracon.eu/" target="_blank">https://laracon.eu/</a>
-      </td>
-      <td>Amsterdam, Netherlands</td>
-      <td>2023-12-05</td>
-      <td>⚑</td>
-      <td>2024-02-05</td>
-      <td>
-        <a href="https://forms.gle/5oYxtHybX8kGrLto9" target="_blank">https://forms.gle/<wbr>5oYxtHybX8kGrLto9</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Appdevcon/Endpointcon</td>
-      <td>
-        <a href="https://appdevcon.nl/" target="_blank">https://appdevcon.nl/</a>
-      </td>
-      <td>Amsterdam, Netherlands</td>
-      <td>2023-12-08</td>
-      <td></td>
-      <td>2024-03-15</td>
-      <td>
-        <a href="https://appdevcon.nl/speakers/cfp/" target="_blank">https://appdevcon.nl/speakers/<wbr>cfp/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>FOSDEM</td>
-      <td>
-        <a href="https://fosdem.org/" target="_blank">https://fosdem.org/</a>
-      </td>
-      <td>Brussels, Belgium</td>
-      <td>2023-12-08</td>
-      <td></td>
-      <td>2024-02-03</td>
-      <td>
-        <a href="https://fosdem.org/2024/news/2023-11-20-call-for-presentations/" target="_blank">https://fosdem.org/2024/news/<wbr>2023-11-20-call-for-<wbr>presentations/</a>
-      </td>
-    </tr>
-    <tr>
-      <td>WebDevCon</td>
-      <td>
-        <a href="https://webdevcon.nl/" target="_blank">https://webdevcon.nl/</a>
-      </td>
-      <td>Amsterdam, Netherlands</td>
-      <td>2023-12-08</td>
-      <td></td>
-      <td>2024-03-15</td>
-      <td>
-        <a href="https://webdevcon.nl/speakers/cfp/" target="_blank">https://webdevcon.nl/speakers/<wbr>cfp/</a>
-      </td>
-    </tr>
-    <tr>
       <td>ElixirConf EU</td>
-      <td>
-        <a href="https://www.elixirconf.eu/" target="_blank">https://www.elixirconf.eu/</a>
-      </td>
+      <td><a href="https://www.elixirconf.eu/" target="_blank">https://www.elixirconf.eu/</a></td>
       <td>Lisbon, Portugal and online</td>
       <td>2023-12-10</td>
       <td></td>
       <td>2024-04-18</td>
-      <td>
-        <a href="https://www.elixirconf.eu/#cft" target="_blank">https://www.elixirconf.eu/#cft</a>
-      </td>
+      <td><a href="https://www.elixirconf.eu/#cft" target="_blank">https://www.elixirconf.eu/#cft</a></td>
     </tr>
     <tr>
       <td>T3chfest.es</td>
-      <td>
-        <a href="https://t3chfest.es/en" target="_blank">https://t3chfest.es/en</a>
-      </td>
+      <td><a href="https://t3chfest.es/en" target="_blank">https://t3chfest.es/en</a></td>
       <td>Madrid, Spain and online</td>
       <td>2023-12-13</td>
       <td></td>
       <td>2024-03-14</td>
-      <td>
-        <a href="https://t3chfest.es/en/call-for-talks/" target="_blank">https://t3chfest.es/en/call-<wbr>for-talks/</a>
-      </td>
+      <td><a href="https://t3chfest.es/en/call-for-talks/" target="_blank">https://t3chfest.es/en/call-<wbr>for-talks/</a></td>
     </tr>
     <tr>
       <td>Infobip SHIFT MIAMI</td>
-      <td>
-        <a href="https://shift.infobip.com/us/" target="_blank">https://shift.infobip.com/us/</a>
-      </td>
-      <td>Miami, FL, USA</td>
+      <td><a href="https://shift.infobip.com/us/" target="_blank">https://shift.infobip.com/us/</a></td>
+      <td>Miami, Florida, United States of America</td>
       <td>2023-12-15</td>
       <td></td>
       <td>2024-04-23</td>
-      <td>
-        <a href="https://airtable.com/apphDmd86uwqL6Riw/shrMHCWCVQK5rbHhz" target="_blank">https://airtable.com/<wbr>apphDmd86uwqL6Riw/<wbr>shrMHCWCVQK5rbHhz</a>
-      </td>
+      <td><a href="https://airtable.com/apphDmd86uwqL6Riw/shrMHCWCVQK5rbHhz" target="_blank">https://airtable.com/<wbr>apphDmd86uwqL6Riw/<wbr>shrMHCWCVQK5rbHhz</a></td>
     </tr>
     <tr>
       <td>JSDay Verona</td>
-      <td>
-        <a href="https://jsday.it/" target="_blank">https://jsday.it/</a>
-      </td>
+      <td><a href="https://jsday.it/" target="_blank">https://jsday.it/</a></td>
       <td>Verona, Italy and online</td>
       <td>2023-12-15</td>
       <td></td>
       <td>2024-04-11</td>
-      <td>
-        <a href="https://2024.jsday.it/welcome/cfp.html" target="_blank">https://2024.jsday.it/welcome/<wbr>cfp.html</a>
-      </td>
+      <td><a href="https://2024.jsday.it/welcome/cfp.html" target="_blank">https://2024.jsday.it/welcome/<wbr>cfp.html</a></td>
     </tr>
     <tr>
       <td>Orlando Code Camp</td>
-      <td>
-        <a href="https://orlandocodecamp.com/" target="_blank">https://orlandocodecamp.com/</a>
-      </td>
-      <td>Sanford, FL, USA</td>
+      <td><a href="https://orlandocodecamp.com/" target="_blank">https://orlandocodecamp.com/</a></td>
+      <td>Sanford, Florida, United States of America</td>
       <td>2023-12-15</td>
       <td></td>
       <td>2024-02-24</td>
-      <td>
-        <a href="https://sessionize.com/orlando-code-camp-2024" target="_blank">https://sessionize.com/<wbr>orlando-code-camp-2024</a>
-      </td>
+      <td><a href="https://sessionize.com/orlando-code-camp-2024" target="_blank">https://sessionize.com/<wbr>orlando-code-camp-2024</a></td>
     </tr>
     <tr>
       <td>PyCon US</td>
-      <td>
-        <a href="https://us.pycon.org/" target="_blank">https://us.pycon.org/</a>
-      </td>
-      <td>Pittsburgh, PA, USA and online</td>
+      <td><a href="https://us.pycon.org/" target="_blank">https://us.pycon.org/</a></td>
+      <td>Pittsburgh, Pennsylvania, United States of America and online</td>
       <td>2023-12-18</td>
       <td></td>
       <td>2024-05-17</td>
-      <td>
-        <a href="https://us.pycon.org/2024/speaking/" target="_blank">https://us.pycon.org/2024/<wbr>speaking/</a>
-      </td>
+      <td><a href="https://us.pycon.org/2024/speaking/" target="_blank">https://us.pycon.org/2024/<wbr>speaking/</a></td>
+    </tr>
+    <tr>
+      <td>Python Pizza PRAGUE</td>
+      <td><a href="https://prague.python.pizza/" target="_blank">https://prague.python.pizza/</a></td>
+      <td>Prague, Czech Republic (Czechia)</td>
+      <td>2023-12-20</td>
+      <td></td>
+      <td>2024-02-24</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfaDox_HZ2il0KOoohtYQJxVbhuTlwMFpmbz8bp-WOoLVQlNQ/viewform?usp=sf_link" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLSfaDox_<wbr>HZ2il0KOoohtYQJxVbhuTlwMFpmbz8<wbr>bp-WOoLVQlNQ/viewform?usp=sf_<wbr>link</a></td>
+    </tr>
+    <tr>
+      <td>PyCon Germany</td>
+      <td><a href="https://pycon.de/" target="_blank">https://pycon.de/</a></td>
+      <td>Berlin, Germany</td>
+      <td>2023-12-22</td>
+      <td></td>
+      <td>2024-04-22</td>
+      <td><a href="https://2024.pycon.de/blog/call-for-proposals/" target="_blank">https://2024.pycon.de/blog/<wbr>call-for-proposals/</a></td>
     </tr>
   </tbody>
 </table>
