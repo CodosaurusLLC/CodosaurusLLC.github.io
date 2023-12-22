@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-12-10</center>
+<center>LAST UPDATED: 2023-12-22</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -69,69 +69,6 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Link</th>
     </tr>
     <tr>
-      <td>ElixirConf EU</td>
-      <td><a href="https://www.elixirconf.eu/" target="_blank">https://www.elixirconf.eu/</a></td>
-      <td>Lisbon, Portugal and online</td>
-      <td>2023-12-10</td>
-      <td></td>
-      <td>2024-04-18</td>
-      <td><a href="https://www.elixirconf.eu/#cft" target="_blank">https://www.elixirconf.eu/#cft</a></td>
-    </tr>
-    <tr>
-      <td>T3chfest.es</td>
-      <td><a href="https://t3chfest.es/en" target="_blank">https://t3chfest.es/en</a></td>
-      <td>Madrid, Spain and online</td>
-      <td>2023-12-13</td>
-      <td></td>
-      <td>2024-03-14</td>
-      <td><a href="https://t3chfest.es/en/call-for-talks/" target="_blank">https://t3chfest.es/en/call-<wbr>for-talks/</a></td>
-    </tr>
-    <tr>
-      <td>Infobip SHIFT MIAMI</td>
-      <td><a href="https://shift.infobip.com/us/" target="_blank">https://shift.infobip.com/us/</a></td>
-      <td>Miami, Florida, United States of America</td>
-      <td>2023-12-15</td>
-      <td></td>
-      <td>2024-04-23</td>
-      <td><a href="https://airtable.com/apphDmd86uwqL6Riw/shrMHCWCVQK5rbHhz" target="_blank">https://airtable.com/<wbr>apphDmd86uwqL6Riw/<wbr>shrMHCWCVQK5rbHhz</a></td>
-    </tr>
-    <tr>
-      <td>JSDay Verona</td>
-      <td><a href="https://jsday.it/" target="_blank">https://jsday.it/</a></td>
-      <td>Verona, Italy and online</td>
-      <td>2023-12-15</td>
-      <td></td>
-      <td>2024-04-11</td>
-      <td><a href="https://2024.jsday.it/welcome/cfp.html" target="_blank">https://2024.jsday.it/welcome/<wbr>cfp.html</a></td>
-    </tr>
-    <tr>
-      <td>Orlando Code Camp</td>
-      <td><a href="https://orlandocodecamp.com/" target="_blank">https://orlandocodecamp.com/</a></td>
-      <td>Sanford, Florida, United States of America</td>
-      <td>2023-12-15</td>
-      <td></td>
-      <td>2024-02-24</td>
-      <td><a href="https://sessionize.com/orlando-code-camp-2024" target="_blank">https://sessionize.com/<wbr>orlando-code-camp-2024</a></td>
-    </tr>
-    <tr>
-      <td>PyCon US</td>
-      <td><a href="https://us.pycon.org/" target="_blank">https://us.pycon.org/</a></td>
-      <td>Pittsburgh, Pennsylvania, United States of America and online</td>
-      <td>2023-12-18</td>
-      <td></td>
-      <td>2024-05-17</td>
-      <td><a href="https://us.pycon.org/2024/speaking/" target="_blank">https://us.pycon.org/2024/<wbr>speaking/</a></td>
-    </tr>
-    <tr>
-      <td>Python Pizza PRAGUE</td>
-      <td><a href="https://prague.python.pizza/" target="_blank">https://prague.python.pizza/</a></td>
-      <td>Prague, Czech Republic (Czechia)</td>
-      <td>2023-12-20</td>
-      <td></td>
-      <td>2024-02-24</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfaDox_HZ2il0KOoohtYQJxVbhuTlwMFpmbz8bp-WOoLVQlNQ/viewform?usp=sf_link" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLSfaDox_<wbr>HZ2il0KOoohtYQJxVbhuTlwMFpmbz8<wbr>bp-WOoLVQlNQ/viewform?usp=sf_<wbr>link</a></td>
-    </tr>
-    <tr>
       <td>PyCon Germany</td>
       <td><a href="https://pycon.de/" target="_blank">https://pycon.de/</a></td>
       <td>Berlin, Germany</td>
@@ -139,6 +76,96 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td></td>
       <td>2024-04-22</td>
       <td><a href="https://2024.pycon.de/blog/call-for-proposals/" target="_blank">https://2024.pycon.de/blog/<wbr>call-for-proposals/</a></td>
+    </tr>
+    <tr>
+      <td>TheJam.dev</td>
+      <td><a href="https://TheJam.dev/" target="_blank">https://TheJam.dev/</a></td>
+      <td>Online Only</td>
+      <td>2023-12-25</td>
+      <td>⚑</td>
+      <td>2024-01-24</td>
+      <td>mailto:<a href="mailto:brian@cfe.dev" target="_blank">brian@cfe.dev</a></td>
+    </tr>
+    <tr>
+      <td>CityJSConf LONDON</td>
+      <td><a href="https://london.cityjsconf.org/" target="_blank">https://london.cityjsconf.org/</a></td>
+      <td>London, United Kingdom and online</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-04-05</td>
+      <td><a href="https://forms.gle/zLzs3mWjBFosJfzA8" target="_blank">https://forms.gle/<wbr>zLzs3mWjBFosJfzA8</a></td>
+    </tr>
+    <tr>
+      <td>DecompileD</td>
+      <td><a href="https://www.decompiled.de/" target="_blank">https://www.decompiled.de/</a></td>
+      <td>Dresden, Germany</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-03-08</td>
+      <td><a href="https://www.papercall.io/decompiled24" target="_blank">https://www.papercall.io/<wbr>decompiled24</a></td>
+    </tr>
+    <tr>
+      <td>Dev Day Belgium</td>
+      <td><a href="https://www.devday.be/" target="_blank">https://www.devday.be/</a></td>
+      <td>Mons, Belgium</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-03-28</td>
+      <td><a href="https://sessionize.com/devday-2024/" target="_blank">https://sessionize.com/devday-<wbr>2024/</a></td>
+    </tr>
+    <tr>
+      <td>Devoxx Greece</td>
+      <td><a href="https://devoxx.gr/" target="_blank">https://devoxx.gr/</a></td>
+      <td>Athens, Greece</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-04-18</td>
+      <td><a href="https://dvgr24.cfp.dev/" target="_blank">https://dvgr24.cfp.dev/</a></td>
+    </tr>
+    <tr>
+      <td>Java Day Istanbul</td>
+      <td><a href="https://www.javaday.istanbul/" target="_blank">https://www.javaday.istanbul/</a></td>
+      <td>Istanbul, Turkey and online</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-05-11</td>
+      <td><a href="https://www.papercall.io/javaday-2024" target="_blank">https://www.papercall.io/<wbr>javaday-2024</a></td>
+    </tr>
+    <tr>
+      <td>JSHeroes</td>
+      <td><a href="https://jsheroes.io/" target="_blank">https://jsheroes.io/</a></td>
+      <td>Cluj-Napoca, Romania</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-05-23</td>
+      <td><a href="https://jsheroes.io/speak" target="_blank">https://jsheroes.io/speak</a></td>
+    </tr>
+    <tr>
+      <td>Tropical Ruby</td>
+      <td><a href="https://www.tropicalrb.com/" target="_blank">https://www.tropicalrb.com/</a></td>
+      <td>São Paulo, Brazil</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-04-04</td>
+      <td><a href="https://www.papercall.io/tropical-rb" target="_blank">https://www.papercall.io/<wbr>tropical-rb</a></td>
+    </tr>
+    <tr>
+      <td>Voxxed Days Bucharest</td>
+      <td><a href="https://romania.voxxeddays.com/voxxed-days-bucharest-2024/" target="_blank">https://romania.voxxeddays.<wbr>com/voxxed-days-bucharest-<wbr>2024/</a></td>
+      <td>Bucharest, Romania</td>
+      <td>2023-12-31</td>
+      <td></td>
+      <td>2024-03-27</td>
+      <td><a href="https://vdbuh2024.cfp.dev/" target="_blank">https://vdbuh2024.cfp.dev/</a></td>
+    </tr>
+    <tr>
+      <td>PyCascades</td>
+      <td><a href="https://pycascades.com/" target="_blank">https://pycascades.com/</a></td>
+      <td>Seattle, Washington, United States of America and online</td>
+      <td>2024-01-04</td>
+      <td></td>
+      <td>2024-04-06</td>
+      <td><a href="https://pretalx.com/pycascades-2024/cfp" target="_blank">https://pretalx.com/<wbr>pycascades-2024/cfp</a></td>
     </tr>
   </tbody>
 </table>
