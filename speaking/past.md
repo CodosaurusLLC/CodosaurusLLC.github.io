@@ -370,7 +370,7 @@ title: Past
         <a href="https://us.mensa.org/" rel="nofollow" target="_new">American Mensa</a>'s<br/>
         <a href="https://ag.us.mensa.org/" rel="nofollow" target="_new">Annual Gathering</a>
       </td>
-      <td>Phoeniz, AZ, USA</td>
+      <td>Phoenix, AZ, USA</td>
       <td>ACRUMEN</td>
       <td>(none*)</td>
       <td class="numeric">75!</td>
