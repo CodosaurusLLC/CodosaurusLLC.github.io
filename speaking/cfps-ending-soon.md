@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-12-22</center>
+<center>LAST UPDATED: 2023-12-27</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -67,24 +67,6 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Close<br>Estimated?</th>
       <th>Event Date</th>
       <th>CFP Link</th>
-    </tr>
-    <tr>
-      <td>PyCon Germany</td>
-      <td><a href="https://pycon.de/" target="_blank">https://pycon.de/</a></td>
-      <td>Berlin, Germany</td>
-      <td>2023-12-22</td>
-      <td></td>
-      <td>2024-04-22</td>
-      <td><a href="https://2024.pycon.de/blog/call-for-proposals/" target="_blank">https://2024.pycon.de/blog/<wbr>call-for-proposals/</a></td>
-    </tr>
-    <tr>
-      <td>TheJam.dev</td>
-      <td><a href="https://TheJam.dev/" target="_blank">https://TheJam.dev/</a></td>
-      <td>Online Only</td>
-      <td>2023-12-25</td>
-      <td>⚑</td>
-      <td>2024-01-24</td>
-      <td>mailto:<a href="mailto:brian@cfe.dev" target="_blank">brian@cfe.dev</a></td>
     </tr>
     <tr>
       <td>CityJSConf LONDON</td>
@@ -166,6 +148,33 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td></td>
       <td>2024-04-06</td>
       <td><a href="https://pretalx.com/pycascades-2024/cfp" target="_blank">https://pretalx.com/<wbr>pycascades-2024/cfp</a></td>
+    </tr>
+    <tr>
+      <td>PyCon Italy</td>
+      <td><a href="https://pycon.it/en" target="_blank">https://pycon.it/en</a></td>
+      <td>Florence/Firenze, Italy</td>
+      <td>2024-01-06</td>
+      <td></td>
+      <td>2024-05-22</td>
+      <td><a href="https://pycon.it/cfp" target="_blank">https://pycon.it/cfp</a></td>
+    </tr>
+    <tr>
+      <td>International JavaScript Conference SAN DIEGO</td>
+      <td><a href="https://javascript-conference.com/san-diego/" target="_blank">https://javascript-conference.<wbr>com/san-diego/</a></td>
+      <td>San Diego, California, United States of America and online</td>
+      <td>2024-01-09</td>
+      <td></td>
+      <td>2024-05-20</td>
+      <td><a href="https://callforpapers.sandsmedia.com/" target="_blank">https://callforpapers.<wbr>sandsmedia.com/</a></td>
+    </tr>
+    <tr>
+      <td>PyCon Lithuania</td>
+      <td><a href="https://www.pycon.lt/" target="_blank">https://www.pycon.lt/</a></td>
+      <td>Vilnius, Lithuania</td>
+      <td>2024-01-10</td>
+      <td></td>
+      <td>2024-04-03</td>
+      <td><a href="https://pycon.lt/2024/call-for-proposals" target="_blank">https://pycon.lt/2024/call-<wbr>for-proposals</a></td>
     </tr>
   </tbody>
 </table>
