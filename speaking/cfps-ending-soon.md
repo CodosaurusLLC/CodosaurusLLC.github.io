@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2023-12-27</center>
+<center>LAST UPDATED: 2024-01-02</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -69,112 +69,148 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Link</th>
     </tr>
     <tr>
-      <td>CityJSConf LONDON</td>
-      <td><a href="https://london.cityjsconf.org/" target="_blank">https://london.cityjsconf.org/</a></td>
-      <td>London, United Kingdom and online</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-04-05</td>
-      <td><a href="https://forms.gle/zLzs3mWjBFosJfzA8" target="_blank">https://forms.gle/<wbr>zLzs3mWjBFosJfzA8</a></td>
-    </tr>
-    <tr>
-      <td>DecompileD</td>
-      <td><a href="https://www.decompiled.de/" target="_blank">https://www.decompiled.de/</a></td>
-      <td>Dresden, Germany</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-03-08</td>
-      <td><a href="https://www.papercall.io/decompiled24" target="_blank">https://www.papercall.io/<wbr>decompiled24</a></td>
-    </tr>
-    <tr>
-      <td>Dev Day Belgium</td>
-      <td><a href="https://www.devday.be/" target="_blank">https://www.devday.be/</a></td>
-      <td>Mons, Belgium</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-03-28</td>
-      <td><a href="https://sessionize.com/devday-2024/" target="_blank">https://sessionize.com/devday-<wbr>2024/</a></td>
-    </tr>
-    <tr>
-      <td>Devoxx Greece</td>
-      <td><a href="https://devoxx.gr/" target="_blank">https://devoxx.gr/</a></td>
-      <td>Athens, Greece</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-04-18</td>
-      <td><a href="https://dvgr24.cfp.dev/" target="_blank">https://dvgr24.cfp.dev/</a></td>
-    </tr>
-    <tr>
-      <td>Java Day Istanbul</td>
-      <td><a href="https://www.javaday.istanbul/" target="_blank">https://www.javaday.istanbul/</a></td>
-      <td>Istanbul, Turkey and online</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-05-11</td>
-      <td><a href="https://www.papercall.io/javaday-2024" target="_blank">https://www.papercall.io/<wbr>javaday-2024</a></td>
-    </tr>
-    <tr>
-      <td>JSHeroes</td>
-      <td><a href="https://jsheroes.io/" target="_blank">https://jsheroes.io/</a></td>
-      <td>Cluj-Napoca, Romania</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-05-23</td>
-      <td><a href="https://jsheroes.io/speak" target="_blank">https://jsheroes.io/speak</a></td>
-    </tr>
-    <tr>
-      <td>Tropical Ruby</td>
-      <td><a href="https://www.tropicalrb.com/" target="_blank">https://www.tropicalrb.com/</a></td>
-      <td>São Paulo, Brazil</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-04-04</td>
-      <td><a href="https://www.papercall.io/tropical-rb" target="_blank">https://www.papercall.io/<wbr>tropical-rb</a></td>
-    </tr>
-    <tr>
-      <td>Voxxed Days Bucharest</td>
-      <td><a href="https://romania.voxxeddays.com/voxxed-days-bucharest-2024/" target="_blank">https://romania.voxxeddays.<wbr>com/voxxed-days-bucharest-<wbr>2024/</a></td>
-      <td>Bucharest, Romania</td>
-      <td>2023-12-31</td>
-      <td></td>
-      <td>2024-03-27</td>
-      <td><a href="https://vdbuh2024.cfp.dev/" target="_blank">https://vdbuh2024.cfp.dev/</a></td>
-    </tr>
-    <tr>
       <td>PyCascades</td>
       <td><a href="https://pycascades.com/" target="_blank">https://pycascades.com/</a></td>
       <td>Seattle, Washington, United States of America and online</td>
-      <td>2024-01-04</td>
+      <td>Jan 04</td>
       <td></td>
-      <td>2024-04-06</td>
+      <td>Apr 06</td>
       <td><a href="https://pretalx.com/pycascades-2024/cfp" target="_blank">https://pretalx.com/<wbr>pycascades-2024/cfp</a></td>
     </tr>
     <tr>
       <td>PyCon Italy</td>
       <td><a href="https://pycon.it/en" target="_blank">https://pycon.it/en</a></td>
       <td>Florence/Firenze, Italy</td>
-      <td>2024-01-06</td>
+      <td>Jan 06</td>
       <td></td>
-      <td>2024-05-22</td>
+      <td>May 22</td>
       <td><a href="https://pycon.it/cfp" target="_blank">https://pycon.it/cfp</a></td>
     </tr>
     <tr>
       <td>International JavaScript Conference SAN DIEGO</td>
       <td><a href="https://javascript-conference.com/san-diego/" target="_blank">https://javascript-conference.<wbr>com/san-diego/</a></td>
       <td>San Diego, California, United States of America and online</td>
-      <td>2024-01-09</td>
+      <td>Jan 09</td>
       <td></td>
-      <td>2024-05-20</td>
+      <td>May 20</td>
       <td><a href="https://callforpapers.sandsmedia.com/" target="_blank">https://callforpapers.<wbr>sandsmedia.com/</a></td>
     </tr>
     <tr>
       <td>PyCon Lithuania</td>
       <td><a href="https://www.pycon.lt/" target="_blank">https://www.pycon.lt/</a></td>
       <td>Vilnius, Lithuania</td>
-      <td>2024-01-10</td>
+      <td>Jan 10</td>
       <td></td>
-      <td>2024-04-03</td>
+      <td>Apr 03</td>
       <td><a href="https://pycon.lt/2024/call-for-proposals" target="_blank">https://pycon.lt/2024/call-<wbr>for-proposals</a></td>
+    </tr>
+    <tr>
+      <td>Devoxx UK</td>
+      <td><a href="https://www.devoxx.co.uk/" target="_blank">https://www.devoxx.co.uk/</a></td>
+      <td>London, United Kingdom</td>
+      <td>Jan 12</td>
+      <td></td>
+      <td>May 08</td>
+      <td><a href="https://devoxxuk24.cfp.dev/" target="_blank">https://devoxxuk24.cfp.dev/</a></td>
+    </tr>
+    <tr>
+      <td>RubyConf AU</td>
+      <td><a href="https://rubyconf.org.au/" target="_blank">https://rubyconf.org.au/</a></td>
+      <td>Sydney, Australia</td>
+      <td>Jan 12</td>
+      <td></td>
+      <td>Apr 11</td>
+      <td><a href="https://sessionize.com/rubyconf-au-2024" target="_blank">https://sessionize.com/<wbr>rubyconf-au-2024</a></td>
+    </tr>
+    <tr>
+      <td>Voxxed Days Brussels</td>
+      <td><a href="https://brussels.voxxeddays.com/" target="_blank">https://brussels.voxxeddays.<wbr>com/</a></td>
+      <td>Brussels, Belgium</td>
+      <td>Jan 12</td>
+      <td></td>
+      <td>May 22</td>
+      <td><a href="https://vdbxl24.cfp.dev/" target="_blank">https://vdbxl24.cfp.dev/</a></td>
+    </tr>
+    <tr>
+      <td>Devoxx France</td>
+      <td><a href="https://www.devoxx.fr/" target="_blank">https://www.devoxx.fr/</a></td>
+      <td>Paris, France</td>
+      <td>Jan 14</td>
+      <td></td>
+      <td>Apr 17</td>
+      <td><a href="https://devoxxfr2024.cfp.dev/" target="_blank">https://devoxxfr2024.cfp.dev/</a></td>
+    </tr>
+    <tr>
+      <td>DWX (Developer-Week)</td>
+      <td><a href="https://www.developer-week.de/en/" target="_blank">https://www.developer-week.de/<wbr>en/</a></td>
+      <td>Nuremberg/Nürnberg, Germany</td>
+      <td>Jan 14</td>
+      <td></td>
+      <td>Jul 02</td>
+      <td><a href="https://sessionize.com/developer-week-24/" target="_blank">https://sessionize.com/<wbr>developer-week-24/</a></td>
+    </tr>
+    <tr>
+      <td>Lambda Days</td>
+      <td><a href="https://www.lambdadays.org/" target="_blank">https://www.lambdadays.org/</a></td>
+      <td>Krakow, Poland</td>
+      <td>Jan 14</td>
+      <td></td>
+      <td>May 27</td>
+      <td><a href="https://www.lambdadays.org/lambdadays2024#call-for-talks" target="_blank">https://www.lambdadays.org/<wbr>lambdadays2024#call-for-talks</a></td>
+    </tr>
+    <tr>
+      <td>NewCrafts</td>
+      <td><a href="https://ncrafts.io/" target="_blank">https://ncrafts.io/</a></td>
+      <td>Paris, France</td>
+      <td>Jan 14</td>
+      <td></td>
+      <td>May 16</td>
+      <td><a href="https://sessionize.com/newcrafts-paris-2024/" target="_blank">https://sessionize.com/<wbr>newcrafts-paris-2024/</a></td>
+    </tr>
+    <tr>
+      <td>Scalar</td>
+      <td><a href="https://www.scalar-conf.com/" target="_blank">https://www.scalar-conf.com/</a></td>
+      <td>Warsaw, Poland</td>
+      <td>Jan 14</td>
+      <td></td>
+      <td>Mar 21</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScsJZ171KHay-YCYl0_xCuEM3eINqqzuEaAy6CMui5FFmvkTw/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLScsJZ171KHay-YCYl0_<wbr>xCuEM3eINqqzuEaAy6CMui5FFmvkTw<wbr>/viewform</a></td>
+    </tr>
+    <tr>
+      <td>ACE! Poland</td>
+      <td><a href="http://aceconf.com/" target="_blank">http://aceconf.com/</a></td>
+      <td>Krakow, Poland and online</td>
+      <td>Jan 15</td>
+      <td></td>
+      <td>Jun 13</td>
+      <td><a href="https://aceconf.com/become-speaker" target="_blank">https://aceconf.com/become-<wbr>speaker</a></td>
+    </tr>
+    <tr>
+      <td>PyCon Slovakia</td>
+      <td><a href="https://pycon.sk/" target="_blank">https://pycon.sk/</a></td>
+      <td>Bratislava, Slovakia</td>
+      <td>Jan 15</td>
+      <td></td>
+      <td>Mar 15</td>
+      <td><a href="https://2024.pycon.sk/en/cfp.html" target="_blank">https://2024.pycon.sk/en/cfp.<wbr>html</a></td>
+    </tr>
+    <tr>
+      <td>Techorama BE</td>
+      <td><a href="https://techorama.be/" target="_blank">https://techorama.be/</a></td>
+      <td>Antwerp, Belgium</td>
+      <td>Jan 15</td>
+      <td></td>
+      <td>May 07</td>
+      <td><a href="https://sessionize.com/techorama-2024-belgium/" target="_blank">https://sessionize.com/<wbr>techorama-2024-belgium/</a></td>
+    </tr>
+    <tr>
+      <td>Web à Québec</td>
+      <td><a href="https://webaquebec.org/" target="_blank">https://webaquebec.org/</a></td>
+      <td>Quebec City, Canada</td>
+      <td>Jan 15</td>
+      <td></td>
+      <td>May 28</td>
+      <td><a href="https://webaquebec.org/appel-a-conferences" target="_blank">https://webaquebec.org/appel-<wbr>a-conferences</a></td>
     </tr>
   </tbody>
 </table>
