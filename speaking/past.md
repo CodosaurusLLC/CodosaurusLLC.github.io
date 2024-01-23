@@ -23,9 +23,10 @@ title: Past
       <td>S&atilde;o Paulo, Brazil</td>
       <td>Genaver</td>
       <td>
-        <a href="https://www.codosaur.us/reds/genaver-gambi-23-slides" target="_new">slides</a> (video coming)
+        <a href="https://www.codosaur.us/reds/genaver-gambi-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=CJtFPdvBcj8" target="_new">video</a>
       </td>
-      <td class="numeric">~25</td>
+      <td class="numeric">25</td>
     </tr>
     <tr class="notes">
       <td colspan="5">In Portuguese!</td>
