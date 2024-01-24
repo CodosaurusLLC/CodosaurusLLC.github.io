@@ -11,4 +11,4 @@ title: CfP List Updated
 My list of conference Calls for Presentations (CfPs)
 has been updated, at:
 
-https://www.codosaur.us/speaking/cfps-ending-soon
+[https://www.codosaur.us/speaking/cfps-ending-soon](https://www.codosaur.us/speaking/cfps-ending-soon)
