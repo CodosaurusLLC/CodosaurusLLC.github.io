@@ -1,7 +1,7 @@
 :root {
-  --link-color: #119;  /* not *quite* stark black, plus strong blue */
-  --bg-color:   #ddf;  /* not *quite* stark white, plus hint of blue */
-  --fg-color:   #131;  /* not *quite* stark black, plus hint of green */
+  --bg-color:   #002;
+  --fg-color:   #cfc;
+  --link-color: #ccf;
 }
 
 p + ul { margin-top: -1em; }  /* remove space between -- not exact */

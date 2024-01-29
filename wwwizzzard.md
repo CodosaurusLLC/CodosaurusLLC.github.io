@@ -13,20 +13,13 @@ title: WWWiZZZard!
 # WWWizzzard:
 ### It checks the WWW while you zzz!
 
-<p align="center">
-<img src="/assets/img/wizard.jpg" alt="wizard with drones" style="border-radius: 1em; max-width: 90%">
-<br>
-<small>
-(<a href="https://commons.wikimedia.org/wiki/File:Cool_wizard_with_mini-drones.jpg"
-target="_new" rel="nofollow"
->https://commons.wikimedia.org/wiki/File:Cool_wizard_with_mini-drones.jpg</a>)
-</small>
-</p>
+<img src="/assets/img/computer-wizard.png" alt="wizard using a computer" style="float: left; max-width: 45%">
+<img src="/assets/img/boy-sleeping-in-bed.png" alt="boy sleeping in bed" style="float: right; max-width: 45%">
 
-
+<br clear="both">
 
 Give WWWizzzard a URL to check,
-and tell it how often, from 1 to 99 hour, days, or weeks.<sup>0</sup>&nbsp;
+and tell it how often: hourly, daily, weekly, or monthly.&nbsp;
 When it detects a change<sup>1</sup>,
 you get an email including the changes.&nbsp;
 And you get 31 checks per month (totaled over all your URLs), for _free_,
@@ -35,10 +28,11 @@ Never miss another sale, concert, CfP, or other such anticipated announcement!
 {:class="big"}
 
 Sound good to you?&nbsp;
-Give me your email address to be notified when it's ready!&nbsp;
-Also feel free to send feedback on the whole idea,
-to wiz-{{ "now" | date: "%Y" }} at this domain.&nbsp;
-(Sorry not to put it all together for you,
+Send your email address
+to wiz-{{ "now" | date: "%Y" }} at this domain,
+to be notified when it's ready!&nbsp;
+Also feel free to send feedback on the whole idea!&nbsp;
+(Sorry not to put my address together for you,
 but I get quite enough spam already!)
 {:class="big"}
 
@@ -70,9 +64,6 @@ Other planned options include:
 - Notification to an "inbox" _here_<sup>3</sup>
 - Follow links to other pages on site and check _them_ for changes<sup>3</sup>
 
-<sup>0</sup> At least, that's what I'm planning so far.
-{:class="small"}
-
 <sup>1</sup> Not all changes will be detectable.&nbsp;
 In particular, WWWizzzard will _not_ execute JavaScript,
 which may affect the site's final contents.&nbsp;
@@ -91,10 +82,16 @@ and if it does happen, will not be so cheap.
 {:class="small"}
 - 31 checks per month for free
 - Additional checks for 1 "credit"
-- Credits purchased in "packs" of about 100/200/500/1000/2000/5000
+- Credits purchased in "packs" of 100/200/500/etc. up to 1M
 - Smallest "pack" is 1 cent/credit, with discounts or bonuses for larger packs
 {:class="small"}
 
 <sup>3</sup> For an extra cost, TBD but probably just an extra credit each,
 _recursively_.
 {:class="small"}
+
+<small>
+Image credits:<br>
+sleeping person adapted from https://vectorportal.com/vector/boy-sleeping-in-bed-vector-clip-art/29752;<br>
+wizard untraceable, there are copies all over the web, but I found no pointers to the creator; if you happen to know, please tell me.
+</small>
