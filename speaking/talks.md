@@ -153,7 +153,8 @@ Norwegian,
 Portuguese,
 Romanian,
 Spanish, and
-Swedish.)
+Swedish,
+and will soon add German.)
 
 - I will travel anywhere not a danger zone nor a PITA to get to,
 especially interesting tourist/history spots.
