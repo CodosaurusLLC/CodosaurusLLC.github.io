@@ -1,6 +1,6 @@
 ---
 author: Dave Aronson
-date: 2024-01-23
+date: 2024-01-30
 layout: blog-post
 permalink: blog/cfp-list-updated
 section: Blog
