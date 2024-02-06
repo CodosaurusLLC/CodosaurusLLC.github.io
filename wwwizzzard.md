@@ -19,8 +19,8 @@ title: WWWiZZZard!
 <br clear="both">
 
 Give WWWizzzard a URL to check,
-and tell it how often: hourly, daily, weekly, or monthly.&nbsp;
-When it detects a change<sup>1</sup>,
+and tell it how often: hourly, daily, weekly, monthly, or quarterly.&nbsp;
+When it detects a change of status or content<sup>1</sup>,
 you get an email including the changes.&nbsp;
 And you get 31 checks per month (totaled over all your URLs), for _free_,
 with more for a mere one cent (US) each _or less!_<sup>2</sup>&nbsp;
@@ -36,9 +36,11 @@ Also feel free to send feedback on the whole idea!&nbsp;
 but I get quite enough spam already!)
 {:class="big"}
 
-I already have the basic "guts" of it working as a command-line app.&nbsp;
-Mainly, I need to add separate user accounts
+I already have the basic "guts" of it working as a command-line app,
+giving its output on the console rather than an email.&nbsp;
+I just need to add separate user accounts
 (including letting you buy and use credits),
+make it send email,
 wrap it all as a web-app,
 and arrange hosting.&nbsp;
 So, it should be ready pretty soon,
