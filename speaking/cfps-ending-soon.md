@@ -36,18 +36,18 @@ ones that other
 [Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"} members inform me of,
 and a _few_ others I happen to stumble across.&nbsp;
 So, that's mainly software development conferences,
-focused on Elixir (or Phoenix), Ruby (or Rails), Python, JavaScript, or C,
-or not focused on any particular tech stack
+focused on Elixir (or Phoenix), Ruby (or Rails), Python, JavaScript, C,
+or sometimes closely related things
+(like the BEAM or C++),
+or _not_ tightly focused on any particular tech stack
 (though it may _lean heavily_ towards one or two),
 or occasionally testing
 (of the kind devs should do to their own code,
 not the kind a QA tester does).&nbsp;
 It usually omits CfPs from conferences
 held in places I won't go,
-or focused on any particular
-methodology, other field of application, other lines of work, etc.&nbsp;
-(I won't even mention them here,
-lest it mislead people looking for those.)
+lasting less than a full work-day,
+or about any other tech stack or topic.
 
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
