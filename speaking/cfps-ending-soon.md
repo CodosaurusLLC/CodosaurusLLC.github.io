@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2024-02-06</center>
+<center>LAST UPDATED: 2024-02-13</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -47,7 +47,8 @@ not the kind a QA tester does).&nbsp;
 It usually omits CfPs from conferences
 held in places I won't go,
 lasting less than a full work-day,
-or about any other tech stack or topic.
+or about any other tech stack or topic,
+or tightly focused on Agile, Open Source, etc.
 
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
@@ -67,69 +68,6 @@ else I might already have it in the _big_ list, just not this _extract_.
       <th>CFP Close<br>Estimated?</th>
       <th>Event Date</th>
       <th>CFP Link</th>
-    </tr>
-    <tr>
-      <td>CodeMotion Madrid</td>
-      <td><a href="https://conferences.codemotion.com/madrid2024/en/" target="_blank">https://conferences.<wbr>codemotion.com/madrid2024/en/</a></td>
-      <td>Madrid, Spain</td>
-      <td>2024-02-08</td>
-      <td></td>
-      <td>2024-05-21</td>
-      <td><a href="https://sessionize.com/codemotion-madrid-2024/" target="_blank">https://sessionize.com/<wbr>codemotion-madrid-2024/</a></td>
-    </tr>
-    <tr>
-      <td>QCon London</td>
-      <td><a href="https://qconlondon.com/" target="_blank">https://qconlondon.com/</a></td>
-      <td>London, United Kingdom</td>
-      <td>2024-02-08</td>
-      <td>⚑</td>
-      <td>2024-04-08</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSeagtEnnQhXve5TbubBrFgp<wbr>xSMJa_wosPutqEdQOkNN9TAanQ/<wbr>viewform</a></td>
-    </tr>
-    <tr>
-      <td>Dev2Next</td>
-      <td><a href="https://www.dev2next.com/" target="_blank">https://www.dev2next.com/</a></td>
-      <td>Denver, Colorado, United States of America</td>
-      <td>2024-02-09</td>
-      <td></td>
-      <td>2024-09-30</td>
-      <td><a href="https://www.dev2next.com/cfp" target="_blank">https://www.dev2next.com/cfp</a></td>
-    </tr>
-    <tr>
-      <td>200 OK</td>
-      <td><a href="https://200ok.us/" target="_blank">https://200ok.us/</a></td>
-      <td>Tulsa, Oklahoma, United States of America and online</td>
-      <td>2024-02-10</td>
-      <td></td>
-      <td>2024-05-17</td>
-      <td><a href="https://www.papercall.io/200ok2024" target="_blank">https://www.papercall.io/<wbr>200ok2024</a></td>
-    </tr>
-    <tr>
-      <td>Design Principles and Practices</td>
-      <td><a href="https://designprinciplesandpractices.com/" target="_blank">https://<wbr>designprinciplesandpractices.<wbr>com/</a></td>
-      <td>Valencia, Spain and online</td>
-      <td>2024-02-11</td>
-      <td></td>
-      <td>2024-03-11</td>
-      <td><a href="https://designprinciplesandpractices.com/2024-conference/call-for-papers" target="_blank">https://<wbr>designprinciplesandpractices.<wbr>com/2024-conference/call-for-<wbr>papers</a></td>
-    </tr>
-    <tr>
-      <td>GOTO Amsterdam</td>
-      <td><a href="https://gotoams.nl/" target="_blank">https://gotoams.nl/</a></td>
-      <td>Amsterdam, Netherlands</td>
-      <td>2024-02-11</td>
-      <td>⚑</td>
-      <td>2024-06-11</td>
-      <td><a href="https://airtable.com/shrlIsDUW7wTsPR2x" target="_blank">https://airtable.com/<wbr>shrlIsDUW7wTsPR2x</a></td>
-    </tr>
-    <tr>
-      <td>Wroclove.rb</td>
-      <td><a href="https://wrocloverb.com/" target="_blank">https://wrocloverb.com/</a></td>
-      <td>Wrocław, Poland</td>
-      <td>2024-02-12</td>
-      <td>⚑</td>
-      <td>2024-04-12</td>
-      <td><a href="https://forms.gle/bgTVhWZzjRV74F1x7" target="_blank">https://forms.gle/<wbr>bgTVhWZzjRV74F1x7</a></td>
     </tr>
     <tr>
       <td>TestBash Brighton</td>
@@ -168,6 +106,15 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td><a href="https://jprime.io/cfp" target="_blank">https://jprime.io/cfp</a></td>
     </tr>
     <tr>
+      <td>WeAreDevelopers World Congress</td>
+      <td><a href="https://www.wearedevelopers.com/world-congress/" target="_blank">https://www.wearedevelopers.<wbr>com/world-congress/</a></td>
+      <td>Berlin, Germany</td>
+      <td>2024-02-15</td>
+      <td></td>
+      <td>2024-07-18</td>
+      <td><a href="https://sessionize.com/wearedevelopers-world-congress-2024" target="_blank">https://sessionize.com/<wbr>wearedevelopers-world-<wbr>congress-2024</a></td>
+    </tr>
+    <tr>
       <td>Monki Gras</td>
       <td><a href="https://monkigras.com/" target="_blank">https://monkigras.com/</a></td>
       <td>London, United Kingdom</td>
@@ -184,6 +131,42 @@ else I might already have it in the _big_ list, just not this _extract_.
       <td></td>
       <td>2024-06-12</td>
       <td><a href="https://ndcoslo.com/call-for-papers" target="_blank">https://ndcoslo.com/call-for-<wbr>papers</a></td>
+    </tr>
+    <tr>
+      <td>InfoQ DevSummit</td>
+      <td><a href="https://devsummit.infoq.com/" target="_blank">https://devsummit.infoq.com/</a></td>
+      <td>Boston, Massachusetts, United States of America</td>
+      <td>2024-02-24</td>
+      <td>⚑</td>
+      <td>2024-06-24</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSeagtEnnQhXve5TbubBrFgp<wbr>xSMJa_wosPutqEdQOkNN9TAanQ/<wbr>viewform</a></td>
+    </tr>
+    <tr>
+      <td>Helvetic Ruby</td>
+      <td><a href="https://helvetic-ruby.ch/" target="_blank">https://helvetic-ruby.ch/</a></td>
+      <td>Zurich, Switzerland</td>
+      <td>2024-02-25</td>
+      <td></td>
+      <td>2024-05-17</td>
+      <td><a href="https://helvetic-ruby.ch/call-for-speakers/" target="_blank">https://helvetic-ruby.ch/call-<wbr>for-speakers/</a></td>
+    </tr>
+    <tr>
+      <td>Sunny Tech</td>
+      <td><a href="https://sunny-tech.io/" target="_blank">https://sunny-tech.io/</a></td>
+      <td>Montpellier, France</td>
+      <td>2024-02-25</td>
+      <td></td>
+      <td>2024-07-04</td>
+      <td><a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/" target="_blank">https://conference-hall.io/<wbr>public/event/<wbr>32IQQ5wYijdJdXrqtYsx/</a></td>
+    </tr>
+    <tr>
+      <td>Halfstack Charlotte</td>
+      <td><a href="https://halfstackconf.com/charlotte/" target="_blank">https://halfstackconf.com/<wbr>charlotte/</a></td>
+      <td>Charlotte, North Carolina, United States of America</td>
+      <td>2024-02-26</td>
+      <td>⚑</td>
+      <td>2024-04-26</td>
+      <td><a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a></td>
     </tr>
   </tbody>
 </table>
