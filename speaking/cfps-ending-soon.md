@@ -6,7 +6,7 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center>LAST UPDATED: 2024-02-13</center>
+<center>LAST UPDATED: 2024-02-20</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -59,114 +59,211 @@ else I might already have it in the _big_ list, just not this _extract_.
 <hr>
 
 <table>
-  <tbody>
-    <tr>
-      <th>Event Name</th>
-      <th>Event Website</th>
-      <th>Location</th>
-      <th>CFP Close<br>Date</th>
-      <th>CFP Close<br>Estimated?</th>
-      <th>Event Date</th>
-      <th>CFP Link</th>
-    </tr>
-    <tr>
-      <td>TestBash Brighton</td>
-      <td><a href="https://www.ministryoftesting.com/events/testbash-brighton-2024" target="_blank">https://www.ministryoftesting.<wbr>com/events/testbash-brighton-<wbr>2024</a></td>
-      <td>Brighton, United Kingdom</td>
-      <td>2024-02-14</td>
-      <td></td>
-      <td>2024-09-12</td>
-      <td><a href="https://ministryoftesting.typeform.com/to/KxVmnpVs" target="_blank">https://ministryoftesting.<wbr>typeform.com/to/KxVmnpVs</a></td>
-    </tr>
-    <tr>
-      <td>/New</td>
-      <td><a href="https://slashnew.tech/" target="_blank">https://slashnew.tech/</a></td>
-      <td>Newcastle, NSW, Australia</td>
-      <td>2024-02-15</td>
-      <td>⚑</td>
-      <td>2024-05-15</td>
-      <td><a href="https://slashnew.tech/cfp/" target="_blank">https://slashnew.tech/cfp/</a></td>
-    </tr>
-    <tr>
-      <td>CPP North</td>
-      <td><a href="https://cppnorth.ca/" target="_blank">https://cppnorth.ca/</a></td>
-      <td>Toronto, Canada</td>
-      <td>2024-02-15</td>
-      <td></td>
-      <td>2024-07-21</td>
-      <td><a href="https://cppnorth.ca/cfp.html" target="_blank">https://cppnorth.ca/cfp.html</a></td>
-    </tr>
-    <tr>
-      <td>JPrime</td>
-      <td><a href="https://jprime.io/" target="_blank">https://jprime.io/</a></td>
-      <td>Sofia, Bulgaria</td>
-      <td>2024-02-15</td>
-      <td></td>
-      <td>2024-05-28</td>
-      <td><a href="https://jprime.io/cfp" target="_blank">https://jprime.io/cfp</a></td>
-    </tr>
-    <tr>
-      <td>WeAreDevelopers World Congress</td>
-      <td><a href="https://www.wearedevelopers.com/world-congress/" target="_blank">https://www.wearedevelopers.<wbr>com/world-congress/</a></td>
-      <td>Berlin, Germany</td>
-      <td>2024-02-15</td>
-      <td></td>
-      <td>2024-07-18</td>
-      <td><a href="https://sessionize.com/wearedevelopers-world-congress-2024" target="_blank">https://sessionize.com/<wbr>wearedevelopers-world-<wbr>congress-2024</a></td>
-    </tr>
-    <tr>
-      <td>Monki Gras</td>
-      <td><a href="https://monkigras.com/" target="_blank">https://monkigras.com/</a></td>
-      <td>London, United Kingdom</td>
-      <td>2024-02-18</td>
-      <td></td>
-      <td>2024-03-14</td>
-      <td><a href="https://www.papercall.io/monkigras24" target="_blank">https://www.papercall.io/<wbr>monkigras24</a></td>
-    </tr>
-    <tr>
-      <td>NDC Oslo</td>
-      <td><a href="https://ndcoslo.com/" target="_blank">https://ndcoslo.com/</a></td>
-      <td>Oslo, Norway</td>
-      <td>2024-02-18</td>
-      <td></td>
-      <td>2024-06-12</td>
-      <td><a href="https://ndcoslo.com/call-for-papers" target="_blank">https://ndcoslo.com/call-for-<wbr>papers</a></td>
-    </tr>
-    <tr>
-      <td>InfoQ DevSummit</td>
-      <td><a href="https://devsummit.infoq.com/" target="_blank">https://devsummit.infoq.com/</a></td>
-      <td>Boston, Massachusetts, United States of America</td>
-      <td>2024-02-24</td>
-      <td>⚑</td>
-      <td>2024-06-24</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSeagtEnnQhXve5TbubBrFgp<wbr>xSMJa_wosPutqEdQOkNN9TAanQ/<wbr>viewform</a></td>
-    </tr>
-    <tr>
-      <td>Helvetic Ruby</td>
-      <td><a href="https://helvetic-ruby.ch/" target="_blank">https://helvetic-ruby.ch/</a></td>
-      <td>Zurich, Switzerland</td>
-      <td>2024-02-25</td>
-      <td></td>
-      <td>2024-05-17</td>
-      <td><a href="https://helvetic-ruby.ch/call-for-speakers/" target="_blank">https://helvetic-ruby.ch/call-<wbr>for-speakers/</a></td>
-    </tr>
-    <tr>
-      <td>Sunny Tech</td>
-      <td><a href="https://sunny-tech.io/" target="_blank">https://sunny-tech.io/</a></td>
-      <td>Montpellier, France</td>
-      <td>2024-02-25</td>
-      <td></td>
-      <td>2024-07-04</td>
-      <td><a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/" target="_blank">https://conference-hall.io/<wbr>public/event/<wbr>32IQQ5wYijdJdXrqtYsx/</a></td>
-    </tr>
-    <tr>
-      <td>Halfstack Charlotte</td>
-      <td><a href="https://halfstackconf.com/charlotte/" target="_blank">https://halfstackconf.com/<wbr>charlotte/</a></td>
-      <td>Charlotte, North Carolina, United States of America</td>
-      <td>2024-02-26</td>
-      <td>⚑</td>
-      <td>2024-04-26</td>
-      <td><a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Event Name</th>
+    <th>Event Website</th>
+    <th>Location</th>
+    <th>CFP Close<br>Date</th>
+    <th>CFP Close<br>stimated?</th>
+    <th>Event Date</th>
+    <th>CFP Link</th>
+  </tr>
+  <tr>
+    <td>InfoQ DevSummit</td>
+    <td><a href="https://devsummit.infoq.com/" target="_blank">https://devsummit.infoq.com/</a></td>
+    <td>Boston, MA, USA</td>
+    <td>2024-02-24</td>
+    <td>⚑</td>
+    <td>2024-06-24</td>
+    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/<wbr>1FAIpQLSeagtEnnQhXve5TbubBrFgp<wbr>xSMJa_wosPutqEdQOkNN9TAanQ/<wbr>viewform</a></td>
+  </tr>
+  <tr>
+    <td>CPP North</td>
+    <td><a href="https://cppnorth.ca/" target="_blank">https://cppnorth.ca/</a></td>
+    <td>Toronto, Canada</td>
+    <td>2024-02-25</td>
+    <td></td>
+    <td>2024-07-21</td>
+    <td><a href="https://cppnorth.ca/cfp.html" target="_blank">https://cppnorth.ca/cfp.html</a></td>
+  </tr>
+  <tr>
+    <td>Helvetic Ruby</td>
+    <td><a href="https://helvetic-ruby.ch/" target="_blank">https://helvetic-ruby.ch/</a></td>
+    <td>Zurich, Switzerland</td>
+    <td>2024-02-25</td>
+    <td></td>
+    <td>2024-05-17</td>
+    <td><a href="https://helvetic-ruby.ch/call-for-speakers/" target="_blank">https://helvetic-ruby.ch/call-<wbr>for-speakers/</a></td>
+  </tr>
+  <tr>
+    <td>Sunny Tech</td>
+    <td><a href="https://sunny-tech.io/" target="_blank">https://sunny-tech.io/</a></td>
+    <td>Montpellier, France</td>
+    <td>2024-02-25</td>
+    <td></td>
+    <td>2024-07-04</td>
+    <td><a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/" target="_blank">https://conference-hall.io/<wbr>public/event/<wbr>32IQQ5wYijdJdXrqtYsx/</a></td>
+  </tr>
+  <tr>
+    <td>Halfstack Charlotte</td>
+    <td><a href="https://halfstackconf.com/charlotte/" target="_blank">https://halfstackconf.com/<wbr>charlotte/</a></td>
+    <td>Charlotte, NC, USA</td>
+    <td>2024-02-26</td>
+    <td>⚑</td>
+    <td>2024-04-26</td>
+    <td><a href="https://halfstackconf.com/cfp/" target="_blank">https://halfstackconf.com/cfp/</a></td>
+  </tr>
+  <tr>
+    <td>C3Festival</td>
+    <td><a href="https://c3fest.com/" target="_blank">https://c3fest.com/</a></td>
+    <td>Amsterdam, Netherlands</td>
+    <td>2024-02-28</td>
+    <td></td>
+    <td>2024-06-14</td>
+    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfD-K3eyLhLglvqpsCEzq1-m_K5NE2ih5YMtujxyIRcjiJw_g/viewform" target="_blank">https://docs.google.com/forms/<wbr>d/e/1FAIpQLSfD-<wbr>K3eyLhLglvqpsCEzq1-m_<wbr>K5NE2ih5YMtujxyIRcjiJw_g/<wbr>viewform</a></td>
+  </tr>
+  <tr>
+    <td>Brighton Ruby</td>
+    <td><a href="https://brightonruby.com/" target="_blank">https://brightonruby.com/</a></td>
+    <td>Brighton, United Kingdom</td>
+    <td>2024-02-29</td>
+    <td></td>
+    <td>2024-06-28</td>
+    <td><a href="https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6" target="_blank">https://forms.reform.app/<wbr>goodscary/brighton-ruby-2024-<wbr>cfp/gci0d6</a></td>
+  </tr>
+  <tr>
+    <td>Developers Conference Mauritius</td>
+    <td><a href="https://conference.mscc.mu/" target="_blank">https://conference.mscc.mu/</a></td>
+    <td>Port Louis, Mauritius</td>
+    <td>2024-02-29</td>
+    <td></td>
+    <td>2024-07-18</td>
+    <td><a href="https://sessionize.com/developers-conference-2024/" target="_blank">https://sessionize.com/<wbr>developers-conference-2024/</a></td>
+  </tr>
+  <tr>
+    <td>Dublin Tech Summit</td>
+    <td><a href="https://dublintechsummit.tech/" target="_blank">https://dublintechsummit.tech/</a></td>
+    <td>Dublin, Ireland</td>
+    <td>2024-02-29</td>
+    <td>⚑</td>
+    <td>2024-05-29</td>
+    <td><a href="https://dublintechsummit.tech/apply-to-speak/" target="_blank">https://dublintechsummit.tech/<wbr>apply-to-speak/</a></td>
+  </tr>
+  <tr>
+    <td>JSConf Ireland</td>
+    <td><a href="https://www.jsconf.ie/" target="_blank">https://www.jsconf.ie/</a></td>
+    <td>Dublin, Ireland</td>
+    <td>2024-02-29</td>
+    <td></td>
+    <td>2024-09-25</td>
+    <td><a href="https://www.jsconf.ie/call-for-proposals/" target="_blank">https://www.jsconf.ie/call-<wbr>for-proposals/</a></td>
+  </tr>
+  <tr>
+    <td>Nebraska.Code()</td>
+    <td><a href="https://nebraskacode.amegala.com/" target="_blank">https://nebraskacode.amegala.<wbr>com/</a></td>
+    <td>Lincoln, NE, USA</td>
+    <td>2024-02-29</td>
+    <td></td>
+    <td>2024-07-18</td>
+    <td><a href="https://sessionize.com/nebraska-code-2024" target="_blank">https://sessionize.com/<wbr>nebraska-code-2024</a></td>
+  </tr>
+  <tr>
+    <td>Tech Pro Camp</td>
+    <td><a href="https://techprocamp.com/" target="_blank">https://techprocamp.com/</a></td>
+    <td>Sarasota, FL, USA</td>
+    <td>2024-02-29</td>
+    <td></td>
+    <td>2024-04-20</td>
+    <td><a href="https://techprocamp.com/sessions/call-for-speakers/" target="_blank">https://techprocamp.com/<wbr>sessions/call-for-speakers/</a></td>
+  </tr>
+  <tr>
+    <td>Blue Ridge Ruby</td>
+    <td><a href="https://blueridgeruby.com/" target="_blank">https://blueridgeruby.com/</a></td>
+    <td>Asheville, NC, USA</td>
+    <td>2024-03-01</td>
+    <td></td>
+    <td>2024-05-30</td>
+    <td><a href="https://www.papercall.io/blue-ridge-ruby-2024" target="_blank">https://www.papercall.io/blue-<wbr>ridge-ruby-2024</a></td>
+  </tr>
+  <tr>
+    <td>Devoxx Poland</td>
+    <td><a href="https://devoxx.pl/" target="_blank">https://devoxx.pl/</a></td>
+    <td>Krakow, Poland</td>
+    <td>2024-03-01</td>
+    <td></td>
+    <td>2024-06-19</td>
+    <td><a href="https://devoxxpl24.cfp.dev" target="_blank">https://devoxxpl24.cfp.dev</a></td>
+  </tr>
+  <tr>
+    <td>Riviera Dev</td>
+    <td><a href="https://rivieradev.fr/" target="_blank">https://rivieradev.fr/</a></td>
+    <td>Valbonne, France</td>
+    <td>2024-03-01</td>
+    <td>⚑</td>
+    <td>2024-07-09</td>
+    <td><a href="https://conference-hall.io/public/event/ieJBZ8FhXHMinZmeTCJp" target="_blank">https://conference-hall.io/<wbr>public/event/<wbr>ieJBZ8FhXHMinZmeTCJp</a></td>
+  </tr>
+  <tr>
+    <td>THAT Conference WISCONSIN</td>
+    <td><a href="https://thatconference.com/wi/" target="_blank">https://thatconference.com/wi/</a></td>
+    <td>Wisconsin Dells, WI, USA</td>
+    <td>2024-03-01</td>
+    <td></td>
+    <td>2024-07-29</td>
+    <td><a href="https://thatconference.com/call-for-speakers/wi/2024" target="_blank">https://thatconference.com/<wbr>call-for-speakers/wi/2024</a></td>
+  </tr>
+  <tr>
+    <td>UX Australia</td>
+    <td><a href="https://uxaustralia.com.au/" target="_blank">https://uxaustralia.com.au/</a></td>
+    <td>Melbourne, Australia and online</td>
+    <td>2024-03-01</td>
+    <td></td>
+    <td>2024-08-29</td>
+    <td><a href="https://uxaustralia.com.au/conferences/ux-australia-2024/call-for-proposals/" target="_blank">https://uxaustralia.com.au/<wbr>conferences/ux-australia-2024/<wbr>call-for-proposals/</a></td>
+  </tr>
+  <tr>
+    <td>DDD Southwest</td>
+    <td><a href="https://dddsouthwest.com/" target="_blank">https://dddsouthwest.com/</a></td>
+    <td>Bristol, United Kingdom</td>
+    <td>2024-03-02</td>
+    <td></td>
+    <td>2024-04-27</td>
+    <td><a href="https://sessionize.com/ddd-south-west-2024" target="_blank">https://sessionize.com/ddd-<wbr>south-west-2024</a></td>
+  </tr>
+  <tr>
+    <td>American Mensa Annual Gathering</td>
+    <td><a href="https://ag.us.mensa.org/" target="_blank">https://ag.us.mensa.org/</a></td>
+    <td>Kansas City, MO, USA</td>
+    <td>2024-03-03</td>
+    <td>⚑</td>
+    <td>2024-07-03</td>
+    <td><a href="https://ag.us.mensa.org/programming/submit-a-proposal/" target="_blank">https://ag.us.mensa.org/<wbr>programming/submit-a-proposal/</a></td>
+  </tr>
+  <tr>
+    <td>AmsterdamJS/JSNation</td>
+    <td><a href="https://jsnation.com/" target="_blank">https://jsnation.com/</a></td>
+    <td>Amsterdam, Netherlands and online</td>
+    <td>2024-03-03</td>
+    <td></td>
+    <td>2024-06-13</td>
+    <td><a href="https://forms.gle/YrkQmkeBJVUdEaup8" target="_blank">https://forms.gle/<wbr>YrkQmkeBJVUdEaup8</a></td>
+  </tr>
+  <tr>
+    <td>DevConf.cz</td>
+    <td><a href="https://www.devconf.info/cz/" target="_blank">https://www.devconf.info/cz/</a></td>
+    <td>Brno, Czech Republic (Czechia)</td>
+    <td>2024-03-03</td>
+    <td></td>
+    <td>2024-06-13</td>
+    <td><a href="https://pretalx.com/devconf-cz-2024/cfp" target="_blank">https://pretalx.com/devconf-<wbr>cz-2024/cfp</a></td>
+  </tr>
+  <tr>
+    <td>LeadDev NYC</td>
+    <td><a href="https://leaddev.com/leaddev-new-york" target="_blank">https://leaddev.com/leaddev-<wbr>new-york</a></td>
+    <td>New York, NY, USA</td>
+    <td>2024-03-03</td>
+    <td></td>
+    <td>2024-09-04</td>
+    <td><a href="https://leaddev.submittable.com/submit/272507/talk-submissions-for-leaddev-new-york-2024" target="_blank">https://leaddev.submittable.<wbr>com/submit/272507/talk-<wbr>submissions-for-leaddev-new-<wbr>york-2024</a></td>
+  </tr>
 </table>
