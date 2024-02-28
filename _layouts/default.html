@@ -24,25 +24,22 @@
   <body>
 
     <header>
-      <table align="center" class="site-title">
-        <tr>
-          <td class="header-dino flipH">🦖</td>
-          <td>
-            <h1 style="padding: 0"><a href="/">Codosaurus<!--, LLC--></a></h1>
-            <div class="header-sublines">How can we evolve you today?</div>
-          </td>
-          <td class="header-dino">🦖</td>
-        </tr>
-      </table>
-      <h2 style="padding: 0">
+      <h1>
+        <!-- flipH won't work w/ a span; must be a block-y element, wtf?! -->
+        <big><div class="flipH" style="display: inline-block">🦖</div></big>
+        <a href="/">Codosaurus<!--, LLC--></a>
+        <big>🦖</big>
+      </h1>
+      <div class="header-sublines">How can we evolve you today?</div>
+      <h2>
         {% if page.section %}
-        <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
+          <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
         {% endif %}
-        <span class="page-title">{{ page.title }}</span>
+        {{ page.title }}
       </h2>
     </header>
 
-    <hr style="clear: both"/>
+    <hr>
 
     <main class="page-content" aria-label="Content">
       {{ content }}

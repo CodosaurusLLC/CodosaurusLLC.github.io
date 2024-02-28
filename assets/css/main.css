@@ -22,7 +22,7 @@ body {
   font-family:  Trebuchet MS, Tahoma, Helvetica, Arial, Sans-Serif;
   font-size:    var(--text-size);
   line-height:  1.5em;
-  margin:       1px clamp(1px, 5%, 100px);
+  margin:       2px clamp(2px, 5%, 100px);
 }
 
 a, a:visited { color: var(--link-color) }
@@ -35,7 +35,7 @@ blockquote { font-style: italic; }
 
 div.header-sublines {
   font-style: italic;
-  font-size: var(--tiny-size);
+  font-size: var(--big-size);
   margin-top: -0.5em;
   text-align: center;
 }
@@ -71,7 +71,6 @@ ul { padding-left: calc(1em + min(1%, 1em)); }
 .big    { font-size:  var(--big-size); }
 .center { text-align: center; }
 .flipH { transform: scaleX(-1); }
-.header-dino { font-size: calc(var(--h1-size) * 2); }
 .small  { font-size:  var(--small-size); }
 .tiny   { font-size:  var(--tiny-size); line-height: var(--small-size); }
 .todo { color: red !IMPORTANT; }
