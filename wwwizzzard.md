@@ -85,4 +85,4 @@ and if it does happen, will not be cheap.
 _recursively_.
 {:class="small"}
 
-<small>Image credit: from Bard</small>
+<small>Image credit: originally from Google Bard, then tweaked by me</small>
