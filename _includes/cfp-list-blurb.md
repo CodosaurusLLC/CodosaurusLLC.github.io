@@ -1,3 +1,8 @@
+<center>
+  LAST UPDATED: 2024-03-18<br>
+  <small>(a day early due to vacation)</small>
+</center>
+
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
@@ -43,5 +48,6 @@ or tightly focused on Agile, Open Source, etc.
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
 Just please make sure that
-the CfP is indeed closing within the next two weeks,
+the CfP is indeed closing within the next two weeks
+_from the latest update_,
 else I might already have it in the _big_ list, just not this _extract_.
