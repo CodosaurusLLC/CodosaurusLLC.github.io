@@ -11,14 +11,14 @@ headline up into the header; dunno why it does that.  -->
 I do this by:
 
 - **[Roadmapping projects and large features](roadmapping)**
-to help you figure out where you want to go, and how to get there
+to help you figure out where you want to go, and how to get there.
 
 - **[Advising development teams](advice)**
 about processes, tools, techniques, etc.
 
 - **[Training developers](training)**
 how to write better software faster,
-including what "better" even means in the first place
+including what "better" even means in the first place.
 
 - **[Speaking](speaking)**
 at corporate events, conferences, and podcasts.
@@ -26,7 +26,7 @@ at corporate events, conferences, and podcasts.
 - **[Writing software](development)**,
 usually on a staff-augmentation basis,
 to "lead by example"
-or just help get your project done
+or just help get your project done.
 
 I do these mainly for
 established

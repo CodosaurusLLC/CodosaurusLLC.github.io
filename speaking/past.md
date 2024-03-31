@@ -63,9 +63,10 @@ title: Past
       <td>Athens, Greece</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.codosaur.us/reds/gen-algs-open-23-slides" target="_new">slides</a>*
+        <a href="https://www.codosaur.us/reds/gen-algs-open-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=r0mLPjyYBqk" rel="nofollow" target="_new">video</a>
       </td>
-      <td class="numeric">30</td>
+      <td class="numeric">35</td>
     </tr>
     
     <tr>
