@@ -111,9 +111,11 @@ which was putting up an event planning system in Ruby on Rails,
 including ways for attendees to
 choose and track which sessions to attend, and network with others-->;
 
-- [Department Thirteen](http://www.department13.com/){:rel="nofollow" target="_new"},
+- Department Thirteen,
+a now-defunct defense contracting company
+(unrelated to the current holders of that dot-com)<!--
 which had a device tracking system and wanted a demo to display
-what could be done with the data via correlation and display of map points<!--,
+what could be done with the data via correlation and display of map points,
 which I did in JavaScript and HTML5,
 with Ruby to convert a SQL data dump into JS-->;
 
@@ -151,6 +153,9 @@ I have worked in the past with
 [Toptal](https://www.toptal.com/#accept-only-candid-coders){:rel="nofollow" target="_new"}
 (please make sure you include the anchor on that URL,
 as it's my referral code),
-and
-[Celerity](https://www.celerity.com/){:rel="nofollow" target="_new"}.&nbsp;
-(And others, now defunct.)
+[Celerity](https://www.celerity.com/){:rel="nofollow" target="_new"}
+(now part of
+[Randstad Digital Advisory](https://www.randstaddigital.com/expertise/advisory-services/){:rel="nofollow" target="_new"}),
+and others now defunct.&nbsp;
+I am also a member of
+[Gun.io](https://gun.io/){:rel="nofollow" target="_new"}.
