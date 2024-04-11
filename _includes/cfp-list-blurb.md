@@ -1,6 +1,6 @@
 <center>
-LAST UPDATED: 2024-04-01
-<br><small>(a bit early due to vacation; next one will be a bit late)</small>
+LAST UPDATED: 2024-04-11
+<br><small>(a bit late due to vacation)</small>
 </center>
 
 This is a list of CfPs
@@ -43,7 +43,8 @@ It usually omits CfPs from conferences
 held in places I won't go,
 lasting less than a full work-day,
 or about any other tech stack or topic,
-or tightly focused on Agile, Open Source, etc.
+or tightly focused on Agile, Open Source, security, AI, data science,
+or various other topics.
 
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;

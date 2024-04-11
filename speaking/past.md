@@ -18,6 +18,18 @@ title: Past
   </thead>
   <tbody>
     <tr>
+      <td class="numeric">2024</td>
+      <td><a href="https://pycon.lt/2024" rel="nofollow" target="_new">PyCon Lithuania</a></td>
+      <td>Vilnius, Lithuania</td>
+      <td>Mutants</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/mutants-pycon-lt-24-slides" target="_new">slides</a>
+        (video coming)
+      </td>
+      <td class="numeric">25</td>
+    </tr>
+
+    <tr>
       <td class="numeric">2023</td>
       <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf</a></td>
       <td>S&atilde;o Paulo, Brazil</td>
