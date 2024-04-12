@@ -1,11 +1,13 @@
 ---
-layout: default
+author: Dave Aronson
+date: 2024-04-12
+layout: blog-post
+permalink: blog/speaking-engagements-2024-04-12
+section: Blog
+tags: speaking
 style: speaking
-section: Speaking
-title: Upcoming
+title: Speaking Engagements as of 2024-04-12
 ---
-
-<!-- I have no definite speaking engagements in the _future_. -->
 
 These are my _definite_ speaking engagements in the future.&nbsp;
 There is also a
@@ -18,3 +20,6 @@ page, for ones that are not yet definite.
 |April&nbsp;2024||[Software Quality Days](https://www.software-quality-days.com/){:rel="nofollow" target="_new"}||Vienna, Austria||Mutants|
 |May&nbsp;2024||[JNation](https://jnation.pt/){:rel="nofollow" target="_new"}||Coimbra, Portugal||Genetic Algos|
 {:class="upcoming-engagements speaking"}
+
+You can always get the latest version of this list at
+https://www.Codosaur.us/speaking/upcoming.
