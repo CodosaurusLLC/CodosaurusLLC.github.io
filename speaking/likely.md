@@ -28,6 +28,5 @@ include:
 |[JS Day Canarias](https://jsdaycanarias.com/){:rel="nofollow" target="_new"}||Tenerife, Spain||Mutants|
 |[Voxxed Days Brussels](https://brussels.voxxeddays.com/){:rel="nofollow" target="_new"}||Brussels, Belgium||Mutants|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
-|[We Rock IT](https://werockitconf.com/){:rel="nofollow" target="_new"}||Huntsville, AL, USA||Mutants|
 {:class="likely-engagements speaking"}
 
