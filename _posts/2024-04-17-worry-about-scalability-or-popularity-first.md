@@ -33,8 +33,8 @@ And even if your product is popular,
 it’s extremely difficult to figure out
 how much scalability you’ll actually need.
 
-This is one of the reasons why I describe the ideal clients
-for my software process/tools/etc. advisory service
+This is one of the reasons why I describe the ideal clients for
+[my software process/tools/etc. advisory service](https://www.codosaur.us/advice){:target="_new"}
 as "established" (among other factors),
 by which I mean either they’ve been in business for at least a year
 or they’re turning a profit, preferably both.&nbsp;
