@@ -4,7 +4,7 @@ date: 2024-04-17
 layout: blog-post
 permalink: blog/worry-about-scalability-or-popularity-first
 section: Blog
-tags: business, dev-life, iteration, software-quality
+tags: business dev-life iteration software-quality
 title: Worry about Scalability or Popularity First?
 ---
 
