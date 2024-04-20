@@ -19,14 +19,29 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://xtremepython.dev/" rel="nofollow" target="_new">XtremePython</a></td>
+      <td>Online</td>
+      <td>Mutants</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/mutants-xtremepy-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=9u5oUprNQYA" target="_new">video</a>
+      </td>
+      <td class="numeric">21</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="5">Video is actually longer, just black past my talk though.</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://pycon.lt/2024" rel="nofollow" target="_new">PyCon Lithuania</a></td>
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-pycon-lt-24-slides" target="_new">slides</a>
-        (video coming)
+        <a href="https://www.codosaur.us/reds/mutants-pycon-lt-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=kmxK1kccUp8" target="_new">video</a>
       </td>
-      <td class="numeric">25</td>
+      <td class="numeric">23</td>
     </tr>
 
     <tr>
@@ -308,7 +323,10 @@ title: Past
       <td><a href="https://www.jsconfhi.com/" rel="nofollow" target="_new">JSConf Hawai'i</a></td>
       <td>Waikiki, HI, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" target="_new">video</a></td>
+      <td>
+       <a href="https://www.codosaur.us/reds/mutants-jsconf-hi-20-slides" target="_new">slides</a>,
+       <a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" target="_new">video</a>
+       </td>
       <td class="numeric">22</td>
     </tr>
     <tr>
