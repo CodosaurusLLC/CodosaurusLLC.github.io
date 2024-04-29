@@ -19,6 +19,17 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://www.software-quality-days.com/" rel="nofollow" target="_new">Software Quality Days</a></td>
+      <td>Vienna, Austria</td>
+      <td>Mutants</td>
+      <td>
+        <a href="https://www.Codosaur.us/reds/mutants-sqd-24-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">21</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://xtremepython.dev/" rel="nofollow" target="_new">XtremePython</a></td>
       <td>Online</td>
       <td>Mutants</td>
@@ -26,10 +37,7 @@ title: Past
         <a href="https://www.codosaur.us/reds/mutants-xtremepy-24-slides" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=9u5oUprNQYA" target="_new">video</a>
       </td>
-      <td class="numeric">21</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="5">Video is actually longer, just black past my talk though.</td>
+      <td class="numeric">50</td>
     </tr>
 
     <tr>

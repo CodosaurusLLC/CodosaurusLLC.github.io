@@ -14,7 +14,6 @@ page, for ones that are not yet definite.
 
 |When||Conference||Where||Topic(s) |
 |-|
-|April&nbsp;2024||[Software Quality Days](https://www.software-quality-days.com/){:rel="nofollow" target="_new"}||Vienna, Austria||Mutants|
 |May&nbsp;2024||Toptal Talent Conference (Internal)||Online||ACRUMEN|
 |June&nbsp;2024||[JNation](https://jnation.pt/){:rel="nofollow" target="_new"}||Coimbra, Portugal||Genetic Algos|
 {:class="upcoming-engagements speaking"}
