@@ -21,7 +21,11 @@ or a lightning talk.
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
 I have prepared versions with the code in
 several programming languages,
-and lengths from 20 minutes to a bit over an hour (plus Q&A).
+and lengths from 20 minutes to a bit over an hour (plus Q&A).&nbsp;
+This was voted the third best talk
+(out of over 70) at
+[Software Quality Days](https://www.software-quality-days.com/){:rel="nofollow" target="_new"}
+2024.
 
 - [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
 (title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
