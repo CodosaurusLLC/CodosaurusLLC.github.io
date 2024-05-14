@@ -1,5 +1,5 @@
 <center>
-LAST UPDATED: 2024-05-06
+LAST UPDATED: 2024-05-13
 </center>
 
 This is a list of CfPs
