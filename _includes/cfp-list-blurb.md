@@ -1,5 +1,10 @@
 <center>
-LAST UPDATED: 2024-05-13
+LAST UPDATED: 2024-05-17
+<br>
+<small>
+(Updated early due to<br>
+lack of fast Internet next week)
+</small>
 </center>
 
 This is a list of CfPs
