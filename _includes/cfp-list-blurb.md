@@ -1,10 +1,5 @@
 <center>
-LAST UPDATED: 2024-05-17
-<br>
-<small>
-(Updated early due to<br>
-lack of fast Internet next week)
-</small>
+LAST UPDATED: 2024-05-28
 </center>
 
 This is a list of CfPs
@@ -48,7 +43,9 @@ held in places I won't go,
 lasting less than a full work-day,
 or about any other tech stack or topic,
 or tightly focused on Agile, Open Source, security, AI, data science,
-or various other topics.
+or various other topics,
+or that doesn't have a website of its own
+(at least about the series).
 
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
