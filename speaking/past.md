@@ -19,6 +19,17 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2024</td>
+      <td>Toptal Talent Conference</td>
+      <td>Online</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/acrumen-toptal-24-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">40</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://www.software-quality-days.com/" rel="nofollow" target="_new">Software Quality Days</a></td>
       <td>Vienna, Austria</td>
       <td>Mutants</td>
@@ -64,7 +75,7 @@ title: Past
       <td class="numeric">25</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">In Portuguese!</td>
+      <td colspan="6">In Portuguese!</td>
     </tr>
 
     <tr>
@@ -89,7 +100,7 @@ title: Past
       <td class="numeric">20</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">Last talk, so sort of "Closing Keynote" ;-)</td>
+      <td colspan="6">Last talk, so sort of "Closing Keynote" ;-)</td>
     </tr>
     
     <tr>
@@ -316,7 +327,7 @@ title: Past
       <td class="numeric">31</td>
     </tr>
     <!-- <tr class="notes">
-      <td colspan="5">(30-min backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a>)</td>
+      <td colspan="6">(30-min backup video <a href="https://www.youtube.com/watch?v=JN3CRHWUHTk&list=PLMrm16n64Bub8urB-bsyMyHiNPMLG7FAS" rel="nofollow" target="_new">here</a>)</td>
     </tr> -->
     <tr>
       <td class="numeric">2020</td>
@@ -354,7 +365,7 @@ title: Past
       <td class="numeric">45</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(Sorry for the bad audio, they don't record, so it's from my phone on a tripod, and slightly cleaned up)</td>
+      <td colspan="6">(Sorry for the bad audio, they don't record, so it's from my phone on a tripod, and slightly cleaned up)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -365,7 +376,7 @@ title: Past
       <td class="numeric">44</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(recorded on my phone, since they don't record sessions)</td>
+      <td colspan="6">(recorded on my phone, since they don't record sessions)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -392,7 +403,7 @@ title: Past
       <td class="numeric">24</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(My first podcast!)</td>
+      <td colspan="6">(My first podcast!)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -402,7 +413,7 @@ title: Past
       <td>(none)</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(They recorded it but messed it up)</td>
+      <td colspan="6">(They recorded it but messed it up)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -416,7 +427,7 @@ title: Past
       <td class="numeric">75!</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(Again, more aimed at feedback than teaching, taking advantage of their long timeslots (and big brains))</td>
+      <td colspan="6">(Again, more aimed at feedback than teaching, taking advantage of their long timeslots (and big brains))</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -427,7 +438,7 @@ title: Past
       <td class="numeric">150!</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(Aimed mainly at discussing and perfecting it, not so much teaching it)</td>
+      <td colspan="6">(Aimed mainly at discussing and perfecting it, not so much teaching it)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -438,7 +449,7 @@ title: Past
       <td class="numeric">60</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(My first delivery of this talk, not very good)</td>
+      <td colspan="6">(My first delivery of this talk, not very good)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -449,7 +460,7 @@ title: Past
       <td class="numeric">60</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(Another one where they don't record so it was just my phone on a tripod)</td>
+      <td colspan="6">(Another one where they don't record so it was just my phone on a tripod)</td>
     </tr>
     <tr>
       <td class="numeric">2019</td>
@@ -468,7 +479,7 @@ title: Past
       <td class="numeric">37</td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(My very first conference talk, so not very well done, sorry!)</td>
+      <td colspan="6">(My very first conference talk, so not very well done, sorry!)</td>
     </tr>
     <tr>
       <td class="numeric">2018</td>
@@ -495,7 +506,7 @@ title: Past
       <td class="numeric"></td>
     </tr>
     <tr class="notes">
-      <td colspan="5">(as BACKUP speaker; didn't actually get to speak)</td>
+      <td colspan="6">(as BACKUP speaker; didn't actually get to speak)</td>
     </tr>
     <tr>
       <td class="numeric">2017</td>
