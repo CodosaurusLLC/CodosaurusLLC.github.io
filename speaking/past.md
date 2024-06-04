@@ -19,6 +19,17 @@ title: Past
   <tbody>
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://jnation.pt/" target="_new">JNation</a></td>
+      <td>Coimbra, Portugal</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="https://www.codosaur.us/reds/gen-algs-jnation-24-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">40</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td>Toptal Talent Conference</td>
       <td>Online</td>
       <td>ACRUMEN</td>
