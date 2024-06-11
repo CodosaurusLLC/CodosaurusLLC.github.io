@@ -10,4 +10,4 @@ notes: Use Airtable to mail view to self (select all, and send from context menu
 
 <hr>
 
-{% include cfps-ending-soon.html %}
+<center>{% include cfps-ending-soon.html %}</center>
