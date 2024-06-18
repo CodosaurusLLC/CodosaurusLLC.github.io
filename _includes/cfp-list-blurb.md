@@ -1,5 +1,5 @@
 <center>
-LAST UPDATED: 2024-06-10
+LAST UPDATED: 2024-06-18
 <small><br>(A bit early due to outage last week)</small>
 </center>
 
