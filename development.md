@@ -69,12 +69,15 @@ Retainers are available for
 10 to 80 hours per _month_.
 
 - My usual hourly asking rate
-is $199/hour.&nbsp;
+is $199/hour,
+for up to 80 hours per month.&nbsp;
 However, this gets adjusted up or down,
 by up to about 25%,
 according to various factors of
-pain (such as working in C, or bureaucracy) or
-fun/convenience (such as working in Elixir, or on retainer).&nbsp;
+pain (such as
+working in C, or bureaucracy) or
+fun/convenience (such as
+working in Elixir, on retainer, or about 10/20/40 hours per month).&nbsp;
 There is also a discount for
 agencies or other such middlemen,
 to allow them room to make a profit.
