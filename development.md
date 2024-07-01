@@ -64,23 +64,34 @@ but the time and expenses are fully billable.
 - I generally don't do 40 hour weeks,
 strongly prefer about 5-10,
 and will do more than 20
-only for unforeseeable emergencies.&nbsp;
-Retainers are available for
-10 to 80 hours per _month_.
+only for unforeseeable emergencies.
 
 - My usual hourly asking rate
 is $199/hour,
 for up to 80 hours per month.&nbsp;
 However, this gets adjusted up or down,
-by up to about 25%,
 according to various factors of
-pain (such as
-working in C, or bureaucracy) or
-fun/convenience (such as
-working in Elixir, on retainer, or about 10/20/40 hours per month).&nbsp;
-There is also a discount for
-agencies or other such middlemen,
-to allow them room to make a profit.
+pain or fun/convenience.&nbsp;
+Inquire for details.
+<!--
+such as a level of effort about 10 hours/month or less (15% off),
+about 20 (10% off),
+about 40 (5% off),
+working in Elixir (10% off),
+working through an agency (10% off)
+working on retainer (5% off),
+working in C (20% extra), or
+tracking time closer than full hours
+(1% per increment that fits in an hour).&nbsp;
+So for example,
+if you want me to work
+about 10 hours a month,
+on retainer,
+in Elixir,
+through an agency,
+you get a discount of 15% + 5% + 10% + 10%,
+which makes a whopping 40% off!
+-->
 
 ### 3: As Part of my [Advice](advice) Service
 

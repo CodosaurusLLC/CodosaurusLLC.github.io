@@ -24,9 +24,7 @@ including what "better" even means in the first place.
 at corporate events, conferences, and podcasts.
 
 - **[Writing software](development)**,
-usually on a staff-augmentation basis,
-to "lead by example"
-or just help get your project done.
+remotely, part-time.
 
 I do these mainly for
 established

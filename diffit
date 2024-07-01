@@ -1,1 +1,0 @@
-diff -r -w -x '*Gemfile*' -x '*\.git*' -x _site . ../new-site/ > diffs
