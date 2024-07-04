@@ -95,7 +95,7 @@ title: Past
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a> (video coming)
+        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a><sup>+</sup>
       </td>
       <td class="numeric">35</td>
     </tr>

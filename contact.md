@@ -57,9 +57,13 @@ but I get enough spam already thankyouverymuch.
 or
 [Twitter](https://twitter.com/DaveAronson){:target="_new"}.
 
-- If you're not just telemarketing, call me at +1-571-308-6622.
+- If you're not just telemarketing, call me at +1-571-308-6622.&nbsp;
+However, I usually have "Silence Unknown Callers" turned on,
+and if you call multiple times without leaving a message,
+I may ass-u-me you're a persistent scammer and block your number.
 
-- Or you can send me snailmail at 3683 Blenheim Blvd., Fairfax, VA 22030 USA.
+- You can send me snailmail at
+3683 Blenheim Blvd., Fairfax, VA 22030 USA.
 
 - Lastly, I can also be reached via
 the usual real-time video-chat apps.&nbsp;

@@ -5,22 +5,22 @@ section: Speaking
 title: Talks
 ---
 
-The talks I am currently pitching include:
+I have already done these talks at conferences
+(details [here](past)):
 
 - My
-[**ACRUMEN**](acrumen)
+[**ACRUMEN**](../acrumen)
 definition of software quality
 (title: "Write Better Software with ACRUMEN").&nbsp;
-<!-- This is completely technology-agnostic;
-in fact there is not even any code!&nbsp; -->
-I can do this as a keynote,
-a regular session,
-or a lightning talk.
+This is completely technology-agnostic;
+in fact there is not even any code!&nbsp;
+I have done this in lengths from 20 minutes to 50,
+and can do this as a keynote, a regular session, or a lightning talk.
 
 - [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
 (title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
 I have prepared versions with the code in
-several programming languages,
+Ruby, Elixir, Python, and JavaScript,
 and lengths from 20 minutes to a bit over an hour (plus Q&A).&nbsp;
 This was voted the third best talk
 (out of over 70) at
@@ -30,59 +30,11 @@ This was voted the third best talk
 - [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
 (title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
 Yes I do mean gene<b><i>t</i></b>ic, not gene<b><i>r</i></b>ic!&nbsp;
-This one includes lots of code (but not _live_ coding),
-currently in Ruby or Python,
-but I could certainly translate it into other languages if you want.&nbsp;
+This one includes lots of code, but not _live_ coding.&nbsp;
+(It is currently in Ruby,
+but I could certainly translate it into
+Elixir, Python, JavaScript, or even C if you like.)&nbsp;
 I have versions prepared from 30 minutes to 50.
-
-- [**TDD (Test Driven Development)**](https://en.wikipedia.org/wiki/Test-driven_development){:rel="nofollow" target="_new"}
-(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
-This talk describes the benefits and process of TDD,
-and walks through several examples
-as I develop some helpful calculators
-for brewing mead.&nbsp;
-There is quite a lot of code,
-but it is not _live_-coded.&nbsp;
-Unlike most of my talks,
-this is _only_ in JavaScript.
-
-- **Ruby "gotchas"**
-(title: "Ruby Gotchas").&nbsp;
-I have done this for local user groups,
-for about 45 minutes.&nbsp;
-It details some of the unexpected rough edges of Ruby,
-that are contrary to what one might expect,
-based on expectations built up by "most other languages",
-or common sense.&nbsp;
-Unlike most of my talks,
-this is _only_ in Ruby.
-
-- [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
-(title: "Whose Line of Code Is It Anyway?").&nbsp;
-This is a hands-on demo with
-a co-speaker _or_
-a volunteer from the audience
-(or series of them),
-working on a problem
-and (at polyglot conferences) in a language
-both _chosen by the audience_
-(from a relatively small set).
-
-- **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
-(title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
-the History and Making of MEAD!").&nbsp;
-Yes, this is not a technical thing,
-at least in the computer sense.&nbsp;
-;-)
-
-- **Breaking into conference speaking**
-(title: "You Wanna Say Somethin'?").&nbsp;
-This includes things like
-why you might want to talk at a conference (or not),
-how to find and choose the conferences,
-apply to speak at them,
-track your applications,
-and a few basic public speaking tips.
 
 - **[Genaver](https://github.com/CodosaurusLLC/Genaver){:target="_new"}**
 (title: "Multi-Talking (not a typo!) with Genaver!").&nbsp;
@@ -113,8 +65,95 @@ and
 This is currently written in Portuguese
 (as delivered at
 [GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}
-2023, in São Paulo, Brazil),
-but I could deliver it in English or French as well.
+2023, in São Paulo, Brazil).&nbsp;
+Unlike most of my talks,
+this one is specific to JavaScript.
+
+- **Ruby "gotchas"**
+(title: "Ruby Gotchas").&nbsp;
+I have done this for local user groups,
+for about 45 minutes.&nbsp;
+It details some of the unexpected rough edges of Ruby,
+that are contrary to what one might expect,
+based on expectations built up by "most other languages",
+or common sense.&nbsp;
+Unlike most of my talks,
+this is _only_ in Ruby.
+
+- **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
+(title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
+the History and Making of MEAD!").&nbsp;
+Yes, this is not a technical thing,
+at least in the computer sense.&nbsp;
+;-)
+
+Other talks I am currently pitching include:
+
+- **Bug-Magnets** (title: "Bug Magnets: Booby-Traps in your Code").&nbsp;
+This is about certain patterns often found in code,
+that are not _wrong_ per se,
+but make it much more likely that
+the _next_ person to change that code
+will introduce a bug.&nbsp;
+These could be considered a subcategory of
+[code smells](https://en.wikipedia.org/wiki/Code_smell){:rel="nofollow" target="_new"}.
+
+- [**OOP (Object Oriented Programming)**](https://en.wikipedia.org/wiki/Object-oriented_programming){:rel="nofollow" target="_new"}
+and
+**the [Actor Model](https://en.wikipedia.org/wiki/Actor_model){:rel="nofollow" target="_new"}**
+(title: "OOP: You Keep On Using That Word...").&nbsp;
+This is about how the term Object Oriented Programming came to be,
+what the person who coined it really meant
+(hint: it's not what we now call OOP),
+and how the two can be used separately or together.&nbsp;
+
+- **Doctests (tests built into the documentation)**
+(working title: "Test your Docs and Doc your Tests").&nbsp;
+This talk describes the benefits, limitations, and how-to, of doctests,
+such as commonly used in
+[Python](https://docs.python.org/3/library/doctest.html){:rel="nofollow" target="_new"}
+or
+[Elixir](https://hexdocs.pm/ex_unit/1.13/ExUnit.DocTest.html){:rel="nofollow" target="_new"}.
+
+- [**TDD (Test Driven Development)**](https://en.wikipedia.org/wiki/Test-driven_development){:rel="nofollow" target="_new"}
+(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
+This talk describes the benefits and process of TDD,
+and walks through several examples
+as I develop some helpful calculators
+for brewing mead.&nbsp;
+There is quite a lot of code,
+but it is not _live_-coded.&nbsp;
+Longer versions also include some of the how-to of brewing mead.&nbsp;
+Unlike most of my talks,
+this is _only_ in JavaScript.
+
+- [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
+(title: "Whose Line of Code Is It Anyway?").&nbsp;
+This is a hands-on demo with
+a co-speaker _or_
+a volunteer from the audience
+(or series of them),
+working on a problem
+and (at polyglot conferences) in a language
+both _chosen by the audience_
+(from a relatively small set).
+
+- **Breaking into conference speaking**
+(title: "From Audience to Authority: Breaking Into Conference Speaking").&nbsp;
+This includes things like
+why you might want to talk at a conference (or not),
+how to find and choose the conferences,
+apply to speak at them,
+track your applications,
+and a few basic public speaking tips.
+
+- **Using
+[Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
+to build a test suite**
+(title: "Hire Mutants to Build Your Test Suite!").&nbsp;
+This is a deeper dive into an idea from
+the extra-long version of my "Kill All Mutants" talk.
+
 
 I also have some five-minute "lightning" talks prepared:
 
@@ -140,7 +179,9 @@ and more.
 
 
 - Want me to speak on something not covered above?&nbsp;
-[Ask me](/contact), and we'll see.
+[Ask me](/contact), and we'll see.&nbsp;
+I might write a new talk for free for a conference,
+but there will be a significant fee to write a new one for a corporate event.
 
 - Except as noted above,
 these are all in English,
@@ -150,6 +191,7 @@ I could also do them in French or Portuguese.&nbsp;
 I also do my intro in the local language.&nbsp;
 So far, I have done that in
 Dutch,
+German,
 Greek,
 Lithuanian,
 Polish,
@@ -157,10 +199,9 @@ Norwegian,
 Portuguese,
 Romanian,
 Spanish, and
-Swedish,
-and will soon add German.)
+Swedish.)
 
-- I will travel anywhere not a danger zone nor a PITA to get to,
+- I will travel anywhere that is not a danger zone nor a PITA to get to,
 especially interesting tourist/history spots.
 
 - If you want my talk but are afraid of the airfare expenses,
