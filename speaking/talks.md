@@ -8,17 +8,16 @@ title: Talks
 I have already done these talks at conferences
 (details [here](past)):
 
-- My
-[**ACRUMEN**](../acrumen)
-definition of software quality
-(title: "Write Better Software with ACRUMEN").&nbsp;
+- **_[ACRUMEN](../acrumen): What IS Software Quality Anyway?!_**{:class="big"},
+about my definition of software quality.&nbsp;
+(Yes, I mean ACRUMEN, not ACUMEN.&nbsp;
+Follow the link for more details.)&nbsp;
 This is completely technology-agnostic;
 in fact there is not even any code!&nbsp;
 I have done this in lengths from 20 minutes to 50,
 and can do this as a keynote, a regular session, or a lightning talk.
 
-- [**Mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
-(title: "Kill All Mutants!&nbsp; (Intro to Mutation Testing)").&nbsp;
+- **_Kill All Mutants!&nbsp; (Intro to [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"})_**{:class="big"}.&nbsp;
 I have prepared versions with the code in
 Ruby, Elixir, Python, and JavaScript,
 and lengths from 20 minutes to a bit over an hour (plus Q&A).&nbsp;
@@ -27,8 +26,7 @@ This was voted the third best talk
 [Software Quality Days](https://www.software-quality-days.com/){:rel="nofollow" target="_new"}
 2024.
 
-- [**Genetic Algorithms**](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}
-(title: "Tight Genes: Intro to Genetic Algorithms").&nbsp;
+- **_Tight Genes: Intro to [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm){:rel="nofollow" target="_new"}_**{:class="big"}.&nbsp;
 Yes I do mean gene<b><i>t</i></b>ic, not gene<b><i>r</i></b>ic!&nbsp;
 This one includes lots of code, but not _live_ coding.&nbsp;
 (It is currently in Ruby,
@@ -36,14 +34,13 @@ but I could certainly translate it into
 Elixir, Python, JavaScript, or even C if you like.)&nbsp;
 I have versions prepared from 30 minutes to 50.
 
-- **[Genaver](https://github.com/CodosaurusLLC/Genaver){:target="_new"}**
-(title: "Multi-Talking (not a typo!) with Genaver!").&nbsp;
-Genaver is a tool I have created
+- **_Multi-Talking (not a typo!) with [Genaver](https://github.com/CodosaurusLLC/Genaver){:target="_new"}!_**{:class="big"},
+about a tool I created
 that lets me quickly and easily generate
 a version of a presentation
 (if it's already in HTML, not PowerPoint, Keynote, etc.),
-with various parts chosen
-such as
+with various parts customized.&nbsp;
+For instance,
 what human-language to use for the introduction,
 what _programming_ language to use for any code samples,
 whether to use the short, medium, or long
@@ -55,13 +52,13 @@ how the need came to be,
 how I settled on this implementation,
 how it works, and
 how to use it.&nbsp;
-It is suitable mainly for conferences focusing on
+<!-- It is suitable mainly for conferences focusing on
 kluges, hacks, jury/jerry-rigging, etc.,
 such as
 [GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"},
 [!!Con (BangBangCon)](https://bangbangcon.com/){:rel="nofollow" target="_new"},
 and
-[SIGBOVIK](http://sigbovik.org/){:rel="nofollow" target="_new"}.&nbsp;
+[SIGBOVIK](http://sigbovik.org/){:rel="nofollow" target="_new"}.&nbsp; -->
 This is currently written in Portuguese
 (as delivered at
 [GambiConf](https://gambiconf.dev/){:rel="nofollow" target="_new"}
@@ -69,8 +66,7 @@ This is currently written in Portuguese
 Unlike most of my talks,
 this one is specific to JavaScript.
 
-- **Ruby "gotchas"**
-(title: "Ruby Gotchas").&nbsp;
+- **_Ruby Gotchas_**{:class="big"}.&nbsp;
 I have done this for local user groups,
 for about 45 minutes.&nbsp;
 It details some of the unexpected rough edges of Ruby,
@@ -80,17 +76,19 @@ or common sense.&nbsp;
 Unlike most of my talks,
 this is _only_ in Ruby.
 
-- **Making [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}**
-(title: "Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
-the History and Making of MEAD!").&nbsp;
+- **_Drink Like a Chinese Egyptian Ethiopian Filipino Finnish Greek Indian Lithuanian Mayan Nepalese Polish Welsh Xhosa Viking:
+the History and Making of [MEAD](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}!_**{:class="big"}&nbsp;
 Yes, this is not a technical thing,
 at least in the computer sense.&nbsp;
-;-)
+;-)&nbsp;
+However, in some of the longer versions,
+I go into detail about some of the equipment and processes commonly used,
+and some of the mathematical calculations involved.&nbsp;
 
 Other talks I am currently pitching include:
 
-- **Bug-Magnets** (title: "Bug Magnets: Booby-Traps in your Code").&nbsp;
-This is about certain patterns often found in code,
+- **_Bug Magnets: Booby-Traps in your Code_**{:class="big"},
+about certain patterns often found in code,
 that are not _wrong_ per se,
 but make it much more likely that
 the _next_ person to change that code
@@ -98,27 +96,29 @@ will introduce a bug.&nbsp;
 These could be considered a subcategory of
 [code smells](https://en.wikipedia.org/wiki/Code_smell){:rel="nofollow" target="_new"}.
 
-- [**OOP (Object Oriented Programming)**](https://en.wikipedia.org/wiki/Object-oriented_programming){:rel="nofollow" target="_new"}
-and
-**the [Actor Model](https://en.wikipedia.org/wiki/Actor_model){:rel="nofollow" target="_new"}**
-(title: "OOP: You Keep On Using That Word...").&nbsp;
-This is about how the term Object Oriented Programming came to be,
-what the person who coined it really meant
-(hint: it's not what we now call OOP),
-and how the two can be used separately or together.&nbsp;
+- **_OOP: You Keep On Using That Word..._**{:class="big"},
+about how the term
+[OOP (Object Oriented Programming)](https://en.wikipedia.org/wiki/Object-oriented_programming){:rel="nofollow" target="_new"}
+came to mean what it now means,
+versus what the person who coined it really meant,
+which is much closer to the
+[Actor Model](https://en.wikipedia.org/wiki/Actor_model){:rel="nofollow" target="_new"},
+when to use each, and how the two can be used together.&nbsp;
 
-- **Doctests (tests built into the documentation)**
-(working title: "Test your Docs and Doc your Tests").&nbsp;
-This talk describes the benefits, limitations, and how-to, of doctests,
-such as commonly used in
+- **_Test your Docs and Doc your Tests_**{:class="big"},
+on the benefits, limitations, and how-to, of
+doctests (tests built into the documentation),
+as commonly used in
 [Python](https://docs.python.org/3/library/doctest.html){:rel="nofollow" target="_new"}
 or
-[Elixir](https://hexdocs.pm/ex_unit/1.13/ExUnit.DocTest.html){:rel="nofollow" target="_new"}.
+[Elixir](https://hexdocs.pm/ex_unit/1.13/ExUnit.DocTest.html){:rel="nofollow" target="_new"}.&nbsp;
+(Yes I know the title needs work.&nbsp; Suggestions are welcome.)
 
-- [**TDD (Test Driven Development)**](https://en.wikipedia.org/wiki/Test-driven_development){:rel="nofollow" target="_new"}
-(title: "TDD like a Viking: Making Mead with JavaScript!").&nbsp;
-This talk describes the benefits and process of TDD,
-and walks through several examples
+- **_TDD like a Viking: Making Mead with JavaScript!_**{:class="big"},
+about the benefits and process of
+[TDD (Test Driven Development)](https://en.wikipedia.org/wiki/Test-driven_development){:rel="nofollow" target="_new"},
+as applied to JavaScript, including Domain Object Model manipulation.&nbsp;
+This talk walks through several examples
 as I develop some helpful calculators
 for brewing mead.&nbsp;
 There is quite a lot of code,
@@ -127,10 +127,10 @@ Longer versions also include some of the how-to of brewing mead.&nbsp;
 Unlike most of my talks,
 this is _only_ in JavaScript.
 
-- [**Ping-Pong Pair Programming**](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
-(title: "Whose Line of Code Is It Anyway?").&nbsp;
-This is a hands-on demo with
-a co-speaker _or_
+- **_Whose Line of Code Is It Anyway?_**{:class="big"}&nbsp;
+This is a hands-on demo of
+[Ping-Pong Pair Programming](https://openpracticelibrary.com/practice/ping-pong-programming/){:rel="nofollow" target="_new"}
+with a co-speaker _or_
 a volunteer from the audience
 (or series of them),
 working on a problem
@@ -138,21 +138,20 @@ and (at polyglot conferences) in a language
 both _chosen by the audience_
 (from a relatively small set).
 
-- **Breaking into conference speaking**
-(title: "From Audience to Authority: Breaking Into Conference Speaking").&nbsp;
-This includes things like
+- **_Hire Mutants to Build Your Test Suite!_**{:class="big"}&nbsp;
+This is a deeper dive into an idea from
+the extra-long version of my "Kill All Mutants" talk,
+about using
+[mutation testing](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
+to build a test suite for code that doesn't have tests yet.
+
+- **_From Audience to Authority: Breaking Into Conference Speaking_**{:class="big"},
+including things like
 why you might want to talk at a conference (or not),
 how to find and choose the conferences,
 apply to speak at them,
 track your applications,
 and a few basic public speaking tips.
-
-- **Using
-[Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing){:rel="nofollow" target="_new"}
-to build a test suite**
-(title: "Hire Mutants to Build Your Test Suite!").&nbsp;
-This is a deeper dive into an idea from
-the extra-long version of my "Kill All Mutants" talk.
 
 
 I also have some five-minute "lightning" talks prepared:
@@ -181,7 +180,11 @@ and more.
 - Want me to speak on something not covered above?&nbsp;
 [Ask me](/contact), and we'll see.&nbsp;
 I might write a new talk for free for a conference,
-but there will be a significant fee to write a new one for a corporate event.
+but there will be a significant fee to
+write a new one for a corporate event.&nbsp;
+(Especially if I can't use it again,
+such as if the company wants the IP rights
+or the talk is specific to that company.)
 
 - Except as noted above,
 these are all in English,
