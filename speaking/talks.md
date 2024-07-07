@@ -5,6 +5,14 @@ section: Speaking
 title: Talks
 ---
 
+Mostly I speak on software quality
+(such as my definition),
+techniques conducive to it
+(such as mutation testing),
+or explaining useful techniques
+that _seem_ more complex than they are,
+so that people might be scared to try them
+(such as genetic algorithms).&nbsp;
 I have already done these talks at conferences
 (details [here](past)):
 
@@ -100,19 +108,10 @@ These could be considered a subcategory of
 about how the term
 [OOP (Object Oriented Programming)](https://en.wikipedia.org/wiki/Object-oriented_programming){:rel="nofollow" target="_new"}
 came to mean what it now means,
-versus what the person who coined it really meant,
-which is much closer to the
-[Actor Model](https://en.wikipedia.org/wiki/Actor_model){:rel="nofollow" target="_new"},
+versus what the person who coined it really meant
+(which is much closer to the
+[Actor Model](https://en.wikipedia.org/wiki/Actor_model){:rel="nofollow" target="_new"}),
 when to use each, and how the two can be used together.&nbsp;
-
-- **_Test your Docs and Doc your Tests_**{:class="big"},
-on the benefits, limitations, and how-to, of
-doctests (tests built into the documentation),
-as commonly used in
-[Python](https://docs.python.org/3/library/doctest.html){:rel="nofollow" target="_new"}
-or
-[Elixir](https://hexdocs.pm/ex_unit/1.13/ExUnit.DocTest.html){:rel="nofollow" target="_new"}.&nbsp;
-(Yes I know the title needs work.&nbsp; Suggestions are welcome.)
 
 - **_TDD like a Viking: Making Mead with JavaScript!_**{:class="big"},
 about the benefits and process of
@@ -152,6 +151,20 @@ how to find and choose the conferences,
 apply to speak at them,
 track your applications,
 and a few basic public speaking tips.
+
+- **_Tame Two Tedious Tasks Together, with Doctests_**{:class="big"},
+on the benefits, limitations, and how-to, of
+doctests (tests built into the documentation),
+as commonly used in
+[Python](https://docs.python.org/3/library/doctest.html){:rel="nofollow" target="_new"}
+or
+[Elixir](https://hexdocs.pm/ex_unit/1.13/ExUnit.DocTest.html){:rel="nofollow" target="_new"}.&nbsp;
+(This is intended to be a lightning talk of about ten minutes,
+for either language.&nbsp;
+I might be able to chop it down to five if needed,
+or stretch it out to fifteen or so by including both languages.&nbsp;
+Maybe even twenty with examples from additional languages,
+but I think that would get boring.)
 
 
 I also have some five-minute "lightning" talks prepared:

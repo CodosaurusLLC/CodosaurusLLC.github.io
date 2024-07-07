@@ -5,6 +5,10 @@ section: Speaking
 title: Past
 ---
 
+These are the speaking engagements I have had in the _past_,
+including mainly conferences
+but also some podcasts, user-group meetings, etc.:
+
 <table class="past-engagements speaking">
   <thead>
     <tr>
