@@ -104,6 +104,10 @@ will introduce a bug.&nbsp;
 These could be considered a subcategory of
 [code smells](https://en.wikipedia.org/wiki/Code_smell){:rel="nofollow" target="_new"}.
 
+- **_From Examples to Exhaustive: Intro to [Property-Based Testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing){:rel="nofollow" target="_new"}_**{:class="big"}.
+
+- **_TWO Weird Tricks: Intro to [Property-Based Testing](https://en.wikipedia.org/wiki/Software_testing#Property_testing){:rel="nofollow" target="_new"} and [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)_**{:class="big"}.
+
 - **_OOP: You Keep On Using That Word..._**{:class="big"},
 about how the term
 [OOP (Object Oriented Programming)](https://en.wikipedia.org/wiki/Object-oriented_programming){:rel="nofollow" target="_new"}
@@ -174,18 +178,6 @@ when using immutable data,
 as is used with most "functional" programming languages.
 
 - Five-minute versions of my ACRUMEN, mead, and conference-speaking talks.
-
-<!--
-I'm also interested in putting together talks on
-doctests (such as in Elixir or Python),
-_property-based_ testing,
-any other weird dev-testing tricks I find,
-ways to ease into TDD/BDD,
-helpful TDD/BDD hints,
-code smells,
-design patterns,
-and more.
--->
 
 ### Other Info for Organizers
 
