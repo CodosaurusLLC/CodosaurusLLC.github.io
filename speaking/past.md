@@ -23,7 +23,7 @@ but also some podcasts, user-group meetings, etc.:
   <tbody>
     <tr>
       <td class="numeric">2024</td>
-      <td><a href="https://jnation.pt/" target="_new">JNation</a></td>
+      <td><a href="https://jnation.pt/" rel="nofollow" target="_new">JNation</a></td>
       <td>Coimbra, Portugal</td>
       <td>Genetic Algos</td>
       <td>
@@ -34,7 +34,7 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2024</td>
-      <td>Toptal Talent Conference</td>
+      <td><a href="https://www.toptal.com/community/events/2024-05-28/global-talent-conference-2024" rel="nofollow" target="_new">Toptal Talent Conference</a></td>
       <td>Online</td>
       <td>ACRUMEN</td>
       <td>
