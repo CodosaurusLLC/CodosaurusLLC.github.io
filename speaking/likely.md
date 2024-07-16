@@ -18,7 +18,6 @@ include:
 | Conference || Where || Topic(s) |
 |-|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
-|[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants|
 |[DevConf South Africa](https://www.devconf.co.za/){:rel="nofollow" target="_new"}||various, South Africa||Genetic Algos|
 |[DevDays Europe](https://devdays.lt/){:rel="nofollow" target="_new"}||Vilnius, Lithuania||Mutants|
 |[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and maybe Genetic Algos|
@@ -31,3 +30,4 @@ include:
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
 {:class="likely-engagements speaking"}
 
+<!-- |[CodeStock](http://codestock.org/){:rel="nofollow" target="_new"}||Knoxville, TN, USA||Mutants| -->
