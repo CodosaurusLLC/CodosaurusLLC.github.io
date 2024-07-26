@@ -21,6 +21,18 @@ but also some podcasts, user-group meetings, etc.:
     </tr>
   </thead>
   <tbody>
+
+    <tr>
+      <td class="numeric">2024</td>
+      <td><a href="https://www.reddotrubyconf.com/" rel="nofollow" target="_new">Red Dot Ruby Conference</a></td>
+      <td>Singapore</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="/reds/gen-algs-rdrc-24-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">30</td>
+    </tr>
+
     <tr>
       <td class="numeric">2024</td>
       <td><a href="https://jnation.pt/" rel="nofollow" target="_new">JNation</a></td>
