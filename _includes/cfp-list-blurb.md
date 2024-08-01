@@ -1,5 +1,5 @@
-<center>LAST UPDATED: 2024-07-22<br>
-<small>(early due to travel tomorrow)</small>
+<center>LAST UPDATED: 2024-07-31<br>
+<small>(late due to conference travel yesterday)</small>
 </center>
 
 This is a list of CfPs
