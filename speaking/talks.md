@@ -89,9 +89,27 @@ the History and Making of [MEAD](https://en.wikipedia.org/wiki/Mead){:rel="nofol
 Yes, this is not a technical thing,
 at least in the computer sense.&nbsp;
 ;-)&nbsp;
-However, in some of the longer versions,
-I go into detail about some of the equipment and processes commonly used,
-and some of the mathematical calculations involved.&nbsp;
+This goes over the very basics,
+including the history,
+some common varieties,
+and how to make a small batch yourself at home
+with only equipment and ingredients
+you can surely find at your local grocery store.&nbsp;
+Basically, Mead 101.
+
+- **_Drink Like a Geeky Viking: the Nitty-Gritty of Brewing
+[MEAD](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}!_**{:class="big"}&nbsp;
+This talk is about the geeky details
+that my main mead talk (above) omits,
+such as
+more on equipment (though still homebrew level, not commercial),
+calculations,
+how to fix problematic batches,
+what to do with the leftover sludge,
+and many more topics of technical interest.&nbsp;
+Basically, Mead 201.
+
+&nbsp;
 
 Other talks I am currently pitching include:
 
