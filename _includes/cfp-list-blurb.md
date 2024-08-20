@@ -1,4 +1,4 @@
-<center>LAST UPDATED: 2024-08-13</center>
+<center>LAST UPDATED: 2024-08-20</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -40,8 +40,7 @@ It usually omits CfPs from conferences
 held in places I won't go,
 lasting less than a full work-day,
 or about any other tech stack or topic,
-or tightly focused on Agile, Open Source, security, AI, data science,
-or various other topics,
+or tightly focused on various specific subtopics,
 or that doesn't have a website of its own
 (at least about the series).
 
