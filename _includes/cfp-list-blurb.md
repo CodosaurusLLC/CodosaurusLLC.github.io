@@ -1,4 +1,4 @@
-<center>LAST UPDATED: 2024-08-20</center>
+<center>LAST UPDATED: 2024-08-27</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
