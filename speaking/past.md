@@ -39,9 +39,10 @@ but also some podcasts, user-group meetings, etc.:
       <td>Coimbra, Portugal</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.codosaur.us/reds/gen-algs-jnation-24-slides" target="_new">slides</a>+
+        <a href="https://www.codosaur.us/reds/gen-algs-jnation-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=FJRVmBZxoJo" target="_new">video</a>
       </td>
-      <td class="numeric">40</td>
+      <td class="numeric">47</td>
     </tr>
 
     <tr>
