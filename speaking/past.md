@@ -24,7 +24,7 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2024</td>
-      <td><a href="https://tmd29.org/" rel="nofollow" target="_new">Toastmasters District 29</a> Area 22 Contest</td>
+      <td><a href="https://tmd29.org/" rel="nofollow" target="_new">Toastmasters District 29</a><br>Area 22 Online Speech Contest</td>
       <td>Online</td>
       <td>ACRUMEN</td>
       <td>
