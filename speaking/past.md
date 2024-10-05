@@ -24,6 +24,18 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://tmd29.org/" rel="nofollow" target="_new">Toastmasters District 29</a> Area 22 Contest</td>
+      <td>Online</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="/reds/acrumen-tmd29a22-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=a9jmHE4HULc" target="_new">video</a>
+      </td>
+      <td class="numeric">6</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://www.reddotrubyconf.com/" rel="nofollow" target="_new">Red Dot Ruby Conference</a></td>
       <td>Singapore</td>
       <td>Genetic Algos</td>
