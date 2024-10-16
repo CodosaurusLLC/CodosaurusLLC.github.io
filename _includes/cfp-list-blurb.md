@@ -1,4 +1,9 @@
-<center>LAST UPDATED: 2024-10-08</center>
+<center>
+LAST UPDATED: 2024-10-16<br>
+<small>
+(a bit late due to speaking at a conference myself)
+</small>
+</center>
 
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
@@ -7,6 +12,8 @@ closing within the next two weeks.&nbsp;
 It is updated approximately every week
 (usually on Tuesday afternoon),
 so nothing should fall through the cracks.&nbsp;
+There are usually about ten to twenty,
+but highly variable.&nbsp;
 It is an extract of a much larger list
 that I maintain on behalf of
 [Toptal](https://www.toptal.com/#accept-only-candid-coders){:rel="nofollow" target="_new"}'s
