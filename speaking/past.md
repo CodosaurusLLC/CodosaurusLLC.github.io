@@ -24,6 +24,18 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://codebeameurope.com/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
+      <td>Berlin, Germany</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="/reds/acrumen-cbe-24-slides" target="_new">slides</a>+<!--,
+        <a href="https://www.youtube.com/watch?v=ZzP9JujOl1I" target="_new">video</a>-->
+      </td>
+      <td class="numeric">41</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://tmd29.org/" rel="nofollow" target="_new">Toastmasters District 29</a><br>Area 22 Online Speech Contest</td>
       <td>Online</td>
       <td>ACRUMEN</td>
