@@ -188,6 +188,11 @@ or stretch it out to fifteen or so by including both languages.&nbsp;
 Maybe even twenty with examples from additional languages,
 but I think that would get boring.)
 
+- **_COARSNO: The First Rule of Composition_**{:class="big"},
+about how things should be
+**C**omposed **O**f **A** **R**easonably **S**mall **N**umber **O**f
+items from the next layer down in the hierarchy.
+
 
 I also have some five-minute "lightning" talks prepared:
 

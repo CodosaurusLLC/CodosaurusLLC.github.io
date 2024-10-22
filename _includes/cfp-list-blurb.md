@@ -1,8 +1,5 @@
 <center>
-LAST UPDATED: 2024-10-16<br>
-<small>
-(a bit late due to speaking at a conference myself)
-</small>
+LAST UPDATED: 2024-10-22<br>
 </center>
 
 This is a list of CfPs
