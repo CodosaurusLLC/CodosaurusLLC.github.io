@@ -97,18 +97,6 @@ with only equipment and ingredients
 you can surely find at your local grocery store.&nbsp;
 Basically, Mead 101.
 
-- **_Drink Like a Geeky Viking: the Nitty-Gritty of Brewing
-[MEAD](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}!_**{:class="big"}&nbsp;
-This talk is about the geeky details
-that my main mead talk (above) omits,
-such as
-more on equipment (though still homebrew level, not commercial),
-calculations,
-how to fix problematic batches,
-what to do with the leftover sludge,
-and many more topics of technical interest.&nbsp;
-Basically, Mead 201.
-
 &nbsp;
 
 Other talks I am currently pitching include:
@@ -192,6 +180,18 @@ but I think that would get boring.)
 about how things should be
 **C**omposed **O**f **A** **R**easonably **S**mall **N**umber **O**f
 items from the next layer down in the hierarchy.
+
+- **_Drink Like a Geeky Viking: the Nitty-Gritty of Brewing
+[MEAD](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"}!_**{:class="big"}&nbsp;
+This talk is about the geeky details
+that my main mead talk (above) omits,
+such as
+more on equipment (though still homebrew level, not commercial),
+calculations,
+how to fix problematic batches,
+what to do with the leftover sludge,
+and many more topics of technical interest.&nbsp;
+Basically, Mead 201.
 
 
 I also have some five-minute "lightning" talks prepared:
