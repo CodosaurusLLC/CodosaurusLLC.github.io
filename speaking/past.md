@@ -136,7 +136,8 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a><sup>+</sup>
+        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=pJyuQXo5Uyo" target="_new">video</a>
       </td>
       <td class="numeric">35</td>
     </tr>
