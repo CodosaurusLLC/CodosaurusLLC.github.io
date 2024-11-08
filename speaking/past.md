@@ -24,6 +24,17 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2024</td>
+      <td><a href="https://heapcon.io/" rel="nofollow" target="_new">Heapcon</a></td>
+      <td>Belgrade, Serbia</td>
+      <td>Mutants</td>
+      <td>
+        <a href="/reds/mutants-heapcon-24-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">35</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2024</td>
       <td><a href="https://codebeameurope.com/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Berlin, Germany</td>
       <td>ACRUMEN</td>
