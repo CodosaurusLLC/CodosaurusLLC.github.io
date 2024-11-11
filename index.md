@@ -24,7 +24,8 @@ including what "better" even means in the first place.
 at corporate events, conferences, and podcasts.
 
 - **[Writing software](development)**,
-at least mostly remotely, and very part-time.
+including mentoring juniors,
+all done at least mostly remotely, and very part-time.
 
 I do these mainly for
 established
