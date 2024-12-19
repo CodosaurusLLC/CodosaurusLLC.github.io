@@ -27,6 +27,7 @@ at corporate events, conferences, and podcasts.
 including mentoring juniors,
 all done at least mostly remotely, and very part-time.
 
+<!--
 I do these mainly for
 established
 American
@@ -35,6 +36,7 @@ companies,
 but other companies could be a reasonable fit too.&nbsp;
 See
 [the Clients page](clients) for more details.
+-->
 
 Other content here:
 - **[the <span class="acrumen">ACRUMEN</span> Software Quality Definition](acrumen)**
