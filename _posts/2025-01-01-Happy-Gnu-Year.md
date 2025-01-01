@@ -1,8 +1,8 @@
 ---
 author: Dave Aronson
-date: 2024-01-01
+date: 2025-01-01
 layout: blog-post
-permalink: blog/happy-gnu-year-2024
+permalink: blog/happy-gnu-year-2025
 section: Blog
 tags: silliness
 title: Happy Gnu Year!
@@ -17,10 +17,10 @@ title: Happy Gnu Year!
   ###/       \ 2 \               [><] \\_@)
  ## /         \ 0 \             _/      \_
 ##  |          \ 2 \           /          \_
-#   |      /    \ 4 \   \   / /     ###     \_@ fweee!
+#   |      /    \ 5 \   \   / /     ###     \_@ fweee!
 #    `.    )——___\___\__—| |-'      |##
        /  //             | ||       | #
       /  //              ( ))      /  ##    |=|
       | ||  ASCII Art by |||      |KORB##   |:|
       | ||  Dave Aronson |||      | Brut##  `V'
-      \__\\ &copy; 1987-2024  \_\\  @= |_____### _|_</pre><div>
+      \__\\ &copy; 1987-2025  \_\\  @= |_____### _|_</pre><div>
