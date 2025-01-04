@@ -21,7 +21,7 @@ how to write better software faster,
 including what "better" even means in the first place.
 
 - **[Speaking](speaking)**
-at corporate events, conferences, and podcasts.
+at conferences, corporate events, and podcasts.
 
 - **[Writing software](development)**,
 including mentoring juniors,
