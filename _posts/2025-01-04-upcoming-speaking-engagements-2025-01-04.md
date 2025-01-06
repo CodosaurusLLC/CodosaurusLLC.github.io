@@ -1,12 +1,12 @@
 ---
 author: Dave Aronson
-date: 2024-11-12
+date: 2025-01-04
 layout: blog-post
-permalink: blog/upcoming-speaking-engagements-2024-11-12
+permalink: blog/upcoming-speaking-engagements-2025-01-04
 section: Blog
 tags: speaking
 style: speaking
-title: Upcoming Speaking Engagements as of 2024-11-12
+title: Upcoming Speaking Engagements as of 2025-01-04
 ---
 
 {% include upcoming-engagements.html %}
