@@ -1,5 +1,12 @@
-<center>
-LAST UPDATED: 2025-01-07<br>
+<center style="line-height: 1.2">
+LAST UPDATED: 2025-01-19<br>
+<small>
+late due to a trip to<br>
+&lt;brag&gt;keynote
+<a href="https://cern.voxxeddays.com/" rel="nofollow" target="_new">Voxxed Days CERN!</a>&lt;/brag&gt;<br>
+The next one will probably be a bit late<br>
+to give you time to see <i>this</i> one.
+</small>
 </center>
 
 This is a list of CfPs
