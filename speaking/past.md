@@ -23,6 +23,31 @@ but also some podcasts, user-group meetings, etc.:
   <tbody>
 
     <tr>
+      <td class="numeric">2025</td>
+      <td><a href="https://cern.voxxeddays.com/" rel="nofollow" target="_new">Voxxed Days CERN</a></td>
+      <td>Geneva, Switzerland</td>
+      <td>Mutants</td>
+      <td>
+        <a href="/reds/mutants-vdcern-25-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">45</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
+      <td><a href="https://cern.voxxeddays.com/" rel="nofollow" target="_new">Voxxed Days CERN</a></td>
+      <td>Geneva, Switzerland</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="/reds/acrumen-vdcern-25-slides" target="_new">slides</a>+
+      </td>
+      <td class="numeric">40</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="6">As the OPENING KEYNOTE!</td>
+    </tr>
+
+    <tr>
       <td class="numeric">2024</td>
       <td><a href="https://heapcon.io/" rel="nofollow" target="_new">Heapcon</a></td>
       <td>Belgrade, Serbia</td>
