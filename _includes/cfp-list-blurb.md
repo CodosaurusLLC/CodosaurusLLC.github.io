@@ -1,8 +1,7 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-01-24<br>
+LAST UPDATED: 2025-01-28<br>
 <small>
-A bit less than a week from the last one,<br>
-to try to get back on the Tuesday schedule.
+Back on the Tuesday schedule for now.
 </small>
 </center>
 
