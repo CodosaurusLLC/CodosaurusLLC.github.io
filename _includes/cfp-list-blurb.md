@@ -1,5 +1,5 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-01-28<br>
+LAST UPDATED: 2025-02-04<br>
 <small>
 Back on the Tuesday schedule for now.
 </small>
