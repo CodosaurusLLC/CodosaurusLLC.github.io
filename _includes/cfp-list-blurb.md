@@ -1,8 +1,5 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-02-04<br>
-<small>
-Back on the Tuesday schedule for now.
-</small>
+LAST UPDATED: 2025-02-11
 </center>
 
 This is a list of CfPs
