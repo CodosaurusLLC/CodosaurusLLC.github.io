@@ -1,5 +1,6 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-02-11
+LAST UPDATED: 2025-02-17
+<br><small>A bit early because I'm on the road and have a moment</small>
 </center>
 
 This is a list of CfPs
