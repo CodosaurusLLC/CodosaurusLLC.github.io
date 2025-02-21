@@ -28,9 +28,10 @@ but also some podcasts, user-group meetings, etc.:
       <td>Geneva, Switzerland</td>
       <td>Mutants</td>
       <td>
-        <a href="/reds/mutants-vdcern-25-slides" target="_new">slides</a>+
+        <a href="/reds/mutants-vdcern-25-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=ahfhOCrG1z4" target="_new">video</a>
       </td>
-      <td class="numeric">45</td>
+      <td class="numeric">47</td>
     </tr>
 
     <tr>
@@ -39,9 +40,10 @@ but also some podcasts, user-group meetings, etc.:
       <td>Geneva, Switzerland</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-vdcern-25-slides" target="_new">slides</a>+
+        <a href="/reds/acrumen-vdcern-25-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=DyFhs9YMpmo" target="_new">video</a>
       </td>
-      <td class="numeric">40</td>
+      <td class="numeric">37</td>
     </tr>
     <tr class="notes">
       <td colspan="6">As the OPENING KEYNOTE!</td>
