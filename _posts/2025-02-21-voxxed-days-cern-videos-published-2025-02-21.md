@@ -13,6 +13,6 @@ The videos of my talks from
 have been published!
 
 My keynote, "ACRUMEN: What IS Software Quality Anyway?!" is at
-https://www.youtube.com/watch?v=DyFhs9YMpmo
+[https://www.youtube.com/watch?v=DyFhs9YMpmo](https://www.youtube.com/watch?v=DyFhs9YMpmo)
 and my other session, "Kill All Mutants! (Intro to Mutation Testing" is at
-https://www.youtube.com/watch?v=ahfhOCrG1z4
+[https://www.youtube.com/watch?v=ahfhOCrG1z4](https://www.youtube.com/watch?v=ahfhOCrG1z4).
