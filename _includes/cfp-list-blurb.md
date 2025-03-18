@@ -1,5 +1,5 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-03-11
+LAST UPDATED: 2025-03-18
 </center>
 
 This is a list of CfPs
