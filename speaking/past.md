@@ -558,7 +558,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Codecamp Chișinău, by<br/><a href="https://codecamp.ro/" rel="nofollow" target="_new">Codecamp Romania</a></td>
       <td>Chișinău, Moldova</td>
       <td>ACRUMEN</td>
-      <td>(none*)</td>
+      <td><a href="https://speakerhub.com/sites/default/files/ACRUMEN-for-Codecamp-Chisinau.pdf" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
