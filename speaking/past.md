@@ -366,7 +366,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://sceniccitysummit.com/" rel="nofollow" target="_new">Scenic City Summit</a></td>
       <td>Online (to Chattanooga, TN, USA)</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-scs-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://speakerhub.com/sites/default/files/Kill-All-Mutants-for-Scenic-City-Summit.pdf" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~40?</td>
     </tr>
     <tr>
@@ -382,7 +382,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Warsaw</i></a></td>
       <td>Warsaw, Poland</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://speakerhub.com/sites/default/files/Mutants-Poland-2021.pdf" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -390,7 +390,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://codeeurope.pl/" rel="nofollow" target="_new">Code Europe <i>Gdansk</i></a></td>
       <td>Gdansk, Poland</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="https://www.slideshare.net/dare2xl/mutants-poland-2021" target="_new">slides</a><sup>+</sup></td>
+      <td style="padding-top: 0"><a href="https://speakerhub.com/sites/default/files/Mutants-Poland-2021.pdf" target="_new">slides</a><sup>+</sup></td>
       <td class="numeric">~55?</td>
     </tr>
     <tr>
@@ -398,7 +398,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://www.kcdc.info/" rel="nofollow" target="_new">Kansas City Developer<br/>Conference (KCDC)</a></td>
       <td>Kansas City, MO, USA</td>
       <td>Mutants</td>
-      <td><a href="https://www.slideshare.net/dare2xl/kill-all-mutants-kcdc-2021" target="_new">slides</a>*</td>
+      <td><a href="https://speakerhub.com/sites/default/files/Kill-All-Mutants-for-KCDC.pdf" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -406,7 +406,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://ndcsydney.com/" rel="nofollow" target="_new">NDC Sydney</a></td>
       <td>Online, darnit! (to Sydney, Australia)</td>
       <td>Mutants</td>
-      <td><a href="https://www.slideshare.net/dare2xl/kill-all-mutants-intro-to-mutation-testing-slides-from-ndc-sydney-2020" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
+      <td><a href="https://speakerhub.com/sites/default/files/Kill-All-Mutants-FOR-NDC-SYDNEY.pdf" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=vQrnVD6CbxU" target="_new">video</a></td>
       <td class="numeric">52</td>
     </tr>
     <tr>
