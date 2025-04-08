@@ -1,5 +1,5 @@
 <center style="line-height: 1.2">
-LAST UPDATED: 2025-04-01
+LAST UPDATED: 2025-04-08
 </center>
 
 This is a list of CfPs
@@ -54,3 +54,11 @@ Just please make sure that
 the CfP is indeed closing within the next two weeks
 _from the latest update_,
 else I might already have it in the _big_ list, just not this _extract_.
+
+Also see
+[https://airtable.com/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs](https://airtable.com/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs)
+for an experiment,
+that I hope will replace this page/post!&nbsp;
+Please give me some feedback about it,
+wherever you saw the update notice.&nbsp;
+Thanks!
