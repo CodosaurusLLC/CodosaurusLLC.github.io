@@ -5,11 +5,13 @@ LAST UPDATED: 2025-04-08
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
-closing within the next two weeks.&nbsp;
-It is updated approximately every week
+closing within the next 30 days.&nbsp;
+It is updated as I add CfPs I find out about,
+plus some extra "CfP-hunting"
+approximately every week
 (usually on Tuesday afternoon),
 so nothing should fall through the cracks.&nbsp;
-There are usually about ten to twenty,
+There are usually about twenty to forty,
 but highly variable.&nbsp;
 It is an extract of a much larger list
 that I maintain on behalf of
@@ -31,34 +33,34 @@ the CfPs of conferences I am personally interested in,
 ones that other
 [Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"} members inform me of,
 and a _few_ others I happen to stumble across.&nbsp;
-So, that's mainly software development conferences,
-focused on Elixir (or Phoenix), Ruby (or Rails), Python, JavaScript, C,
+So, that's mainly:
+
+- software development conferences,
+- focused on Elixir (or Phoenix), Ruby (or Rails), Python, JavaScript, C,
 or sometimes closely related things
 (like the BEAM or C++),
-or _not_ tightly focused on any particular tech stack
-(though it may _lean heavily_ towards one or two),
-or occasionally testing
+- or _not_ tightly focused on any particular tech stack
+(though it may _lean heavily_ towards one or two), domain, technique,
+or methodology,
+- or occasionally testing
 (of the kind devs should do to their own code,
-not the kind a QA tester does).&nbsp;
-It usually omits CfPs from conferences
-held in places I won't go,
-lasting less than a full work-day,
-or about any other tech stack or topic,
-or tightly focused on various specific subtopics,
-or that doesn't have a website of its own
+not the kind a QA tester does).
+
+
+It usually _omits_ CfPs from conferences:
+
+- held in places I won't go,
+- lasting less than a full work-day,
+- about any other tech stack or topic,
+- tightly focused on various specific subtopics,
+- or that doesn't have a website of its own
 (at least about the series).
 
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
 Just please make sure that
-the CfP is indeed closing within the next two weeks
+the CfP is indeed closing within the next 30 days
 _from the latest update_,
 else I might already have it in the _big_ list, just not this _extract_.
 
-Also see
-[https://airtable.com/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs](https://airtable.com/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs)
-for an experiment,
-that I hope will replace this page/post!&nbsp;
-Please give me some feedback about it,
-wherever you saw the update notice.&nbsp;
-Thanks!
+<iframe class="airtable-embed" src="https://airtable.com/embed/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
