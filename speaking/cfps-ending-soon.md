@@ -6,21 +6,17 @@ title: CfPs Closing Soon
 notes: Use Airtable to mail view to self (select all, and send from context menu), copy table from email, remove styling, and update date.
 ---
 
-<center style="line-height: 1.2">
-LAST UPDATED: 2025-04-08
-</center>
-
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
 closing within the next 30 days.&nbsp;
 It is updated as I add CfPs I find out about,
 plus some extra "CfP-hunting"
-approximately every week
-(usually on Tuesday afternoon),
-so nothing should fall through the cracks.&nbsp;
+I do about once a week
+(usually on Tuesdays).&nbsp;
 There are usually about twenty to forty,
-but highly variable.&nbsp;
+but highly variable.
+
 It is an extract of a much larger list
 that I maintain on behalf of
 [Toptal](https://www.toptal.com/#accept-only-candid-coders){:rel="nofollow" target="_new"}'s
@@ -38,8 +34,10 @@ which may require going through their Speakers _Academy_ first.)
 
 This list contains _only_
 the CfPs of conferences I am personally interested in,
-ones that other
-[Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"} members inform me of,
+ones that other people
+(especially
+[Speakers Network](https://www.toptal.com/community/speakers){:rel="nofollow" target="_new"}
+members) tell me about,
 and a _few_ others I happen to stumble across.&nbsp;
 So, that's mainly software development conferences, focused on:
 
@@ -66,8 +64,7 @@ It usually _omits_ CfPs from conferences:
 If you know of something missing, feel free to
 [contact me](/contact){:target="_new"}.&nbsp;
 Just please make sure that
-the CfP is indeed closing within the next 30 days
-_from the latest update_,
+the CfP is indeed closing within the next 30 days,
 else I might already have it in the _big_ list, just not this _extract_.
 
 Donation form coming eventually.&nbsp; ;-)
