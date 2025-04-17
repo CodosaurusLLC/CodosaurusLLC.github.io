@@ -70,3 +70,7 @@ else I might already have it in the _big_ list, just not this _extract_.
 Donation form coming eventually.&nbsp; ;-)
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600"></iframe>
+
+You can get reminded to check this weekly,
+by subscribing to
+[my blog](/blog).
