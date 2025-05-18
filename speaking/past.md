@@ -24,6 +24,31 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2025</td>
+      <td><a href="https://sddconf.com/" rel="nofollow" target="_new">Software Design &amp; Development</a></td>
+      <td>London, UK</td>
+      <td>ACRUMEN</td>
+      <td>
+        <a href="/reds/acrumen-sdd-25-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">70</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
+      <td><a href="https://sddconf.com/" rel="nofollow" target="_new">Software Design &amp; Development</a></td>
+      <td>London, UK</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="/reds/gen-algs-sdd-25-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">80</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="6">No script this time, due to PDF creation problems</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
       <td><a href="https://cern.voxxeddays.com/" rel="nofollow" target="_new">Voxxed Days CERN</a></td>
       <td>Geneva, Switzerland</td>
       <td>Mutants</td>
@@ -625,7 +650,7 @@ but also some podcasts, user-group meetings, etc.:
     </tr>
   </tbody>
 </table>
-*<small>These conferences don't record sessions, and I didn't either.</small>
+*<small>These conferences don't record sessions (or at least don't release them publicly), and I didn't either.</small>
 <br/>
 <small><sup>+</sup>These conferences recorded, but haven't yet released it.</small>
 
