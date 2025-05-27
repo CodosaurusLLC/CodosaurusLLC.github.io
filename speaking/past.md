@@ -313,7 +313,7 @@ but also some podcasts, user-group meetings, etc.:
       <td class="numeric">2022</td>
       <td><a href="https://www.centraltexasmensa.org/" rel="nofollow" target="_new">Central Texas Mensa<br/>Monthly Speaker Meeting</a></td>
       <td>Online (to Austin, TX, USA)</td>
-      <td>Mead</td>
+      <td>Mead 101</td>
       <td>none</td>
       <td class="numeric">~50</td>
     </tr>
@@ -353,7 +353,7 @@ but also some podcasts, user-group meetings, etc.:
       <td class="numeric">2022</td>
       <td><a href="https://pandemicrg2022.wordpress.com/" rel="nofollow" target="_new">MWM RG 2022<br/><small>(Metropolitan Washington Mensa<br/>Regional Gathering)</small></a></td>
       <td>Reston, VA, USA</td>
-      <td>Mead</td>
+      <td>Mead 101</td>
       <td><a href="https://www.youtube.com/watch?v=jwjVYhl4rqI" target="_new">video</a></td>
       <td class="numeric">62</td>
     </tr>
