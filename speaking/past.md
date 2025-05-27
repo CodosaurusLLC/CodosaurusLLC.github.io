@@ -24,6 +24,17 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2025</td>
+      <td><a href="https://devdays.lt/" rel="nofollow" target="_new">DevDays Europe</a></td>
+      <td>Vilnius, Lithuania</td>
+      <td>Genetic Algos</td>
+      <td>
+        <a href="/reds/gen-algs-dd-eu-25-slides" target="_new">slides</a>*
+      </td>
+      <td class="numeric">35</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
       <td><a href="https://sddconf.com/" rel="nofollow" target="_new">Software Design &amp; Development</a></td>
       <td>London, UK</td>
       <td>ACRUMEN</td>
