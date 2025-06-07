@@ -91,7 +91,8 @@ but also some podcasts, user-group meetings, etc.:
       <td>Belgrade, Serbia</td>
       <td>Mutants</td>
       <td>
-        <a href="/reds/mutants-heapcon-24-slides" target="_new">slides</a>+
+        <a href="/reds/mutants-heapcon-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=vy07zfPDzzw" target="_new">video</a>
       </td>
       <td class="numeric">35</td>
     </tr>
