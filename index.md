@@ -6,6 +6,8 @@ title: Home
 <!-- this comment is here just to keep Jekyll from moving the below
 headline up into the header; dunno why it does that.  -->
 
+<!--
+
 ### I help companies write better software faster.
 
 I do this by:
@@ -27,6 +29,23 @@ at conferences, corporate events, and podcasts.
 including mentoring juniors,
 all done at least mostly remotely, and very part-time.
 
+-->
+
+I am in the process of retiring,
+so I am REMOVING most of my services.&nbsp;
+For now, I will still
+[speak](speaking)
+at conferences, corporate events, and podcasts,
+and do
+[software development](development),
+including mentoring juniors,
+remotely (plus maybe occasional light travel),
+on a "very part-time" basis
+(20 hours a week or fewer).
+
+Also, my wife and I plan to move to Portugal,
+most likely sometime in the latter half of 2026.
+
 <!--
 I do these mainly for
 established
@@ -47,10 +66,11 @@ Other content here:
 Elsewhere:
 
 - **[Resume](https://bit.ly/dave-aronson-resume){:target="_new"}**
-- **[Github](https://github.com/davearonson/){:target="_new"}**
-- **[LinkedIn (Dave)](https://www.linkedin.com/in/davearonson/){:target="_new"}**
+- **[Github (Dave)](https://github.com/DaveAronson/){:target="_new"}**
+- **[Github (Codosaurus)](https://github.com/CodosaurusLLC/){:target="_new"}**
+- **[LinkedIn (Dave)](https://www.linkedin.com/in/DaveAronson/){:target="_new"}**
 - **[LinkedIn (Codosaurus)](http://www.linkedin.com/company/Codosaurus-LLC){:target="_new"}**
-- **[Twitter](https://twitter.com/davearonson){:target="_new"}**
+- **[Bluesky](https://bsky.app/profile/davearonson.bsky.social){:target="_new"}**
 - **[Exercism](https://exercism.io/profiles/DaveAronson){:target="_new"}**
 - **[Quora](https://www.quora.com/profile/Dave-Aronson){:target="_new"}**
 
