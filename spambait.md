@@ -3,6 +3,7 @@ Spammers:
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
+- [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
 - [ag@ig-institute.net](mailto:ag@ig-institute.net)
 - [alerts@johnsonjobs.com](mailto:alerts@johnsonjobs.com)
