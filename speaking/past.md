@@ -103,8 +103,8 @@ but also some podcasts, user-group meetings, etc.:
       <td>Berlin, Germany</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-cbe-24-slides" target="_new">slides</a>+<!--,
-        <a href="https://www.youtube.com/watch?v=ZzP9JujOl1I" target="_new">video</a>-->
+        <a href="/reds/acrumen-cbe-24-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=ZzP9JujOl1I" target="_new">video</a>
       </td>
       <td class="numeric">41</td>
     </tr>
