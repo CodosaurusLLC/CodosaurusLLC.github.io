@@ -24,6 +24,21 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2025</td>
+      <td><a href="https://pandemicrg2025.wordpress.com/" rel="nofollow" target="_new">MWM RG</a></td>
+      <td>Reston, VA, USA</td>
+      <td>Mead</td>
+      <td>
+        <!-- <a href="/reds/mead-mwmrg-25" target="_new">slides</a>, -->
+        <a href="https://www.youtube.com/watch?v=mhcPQlEe9fI" target="_new">video</a>
+      </td>
+      <td class="numeric">61</td>
+    </tr>
+    <tr class="notes">
+      <td colspan="6">Slides coming eventually; I need to change how they're generated</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
       <td><a href="https://devdays.lt/" rel="nofollow" target="_new">DevDays Europe</a></td>
       <td>Vilnius, Lithuania</td>
       <td>Genetic Algos</td>

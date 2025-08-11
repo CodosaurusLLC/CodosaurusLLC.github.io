@@ -1,6 +1,7 @@
 Spammers:
 - [ACMEY Co., lanxifa9@163.com](mailto:lanxifa9@163.com)
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
+- [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
 - [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
@@ -23,6 +24,7 @@ Spammers:
 - [noi.keom4@gmail.com](mailto:noi.keom4@gmail.com)
 - [noreply@jobsora.com](mailto:noreply@jobsora.com)
 - [partner@jobsora.com](mailto:partner@jobsora.com)
+- [partnership@akiracollaborator.me](mailto:partnership@akiracollaborator.me)
 - [privacy@johnsonjobs.com](mailto:privacy@johnsonjobs.com)
 - [privacy@kochdavisjobs.com](mailto:privacy@kochdavisjobs.com)
 - [sam@career-growth.co](mailto:sam@career-growth.co)
