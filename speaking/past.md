@@ -28,13 +28,10 @@ but also some podcasts, user-group meetings, etc.:
       <td>Reston, VA, USA</td>
       <td>Mead</td>
       <td>
-        <!-- <a href="/reds/mead-mwmrg-25" target="_new">slides</a>, -->
+        <a href="/reds/specific-gravity-mwmrg-2025" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=mhcPQlEe9fI" target="_new">video</a>
       </td>
       <td class="numeric">61</td>
-    </tr>
-    <tr class="notes">
-      <td colspan="6">Slides coming eventually; I need to change how they're generated</td>
     </tr>
 
     <tr>
