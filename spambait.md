@@ -3,6 +3,7 @@ Spammers:
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
+- [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
 - [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
