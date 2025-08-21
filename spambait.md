@@ -1,9 +1,11 @@
 Spammers:
 - [ACMEY Co., lanxifa9@163.com](mailto:lanxifa9@163.com)
+- [Alex Bothe, alex@hireboard.co](mailto:alex@hireboard.co)
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
 - [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
+- [Muhammad Usama, usama@hireboard.co](mailto:usama@hireboard.co)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
 - [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
@@ -29,3 +31,8 @@ Spammers:
 - [privacy@johnsonjobs.com](mailto:privacy@johnsonjobs.com)
 - [privacy@kochdavisjobs.com](mailto:privacy@kochdavisjobs.com)
 - [sam@career-growth.co](mailto:sam@career-growth.co)
+
+Want to join this "lustrious" group?&nbsp;
+Just send me some spam.&nbsp;
+Hopefully, you'll get enough of it in return,
+that maybe you'll realize the error of your ways.
