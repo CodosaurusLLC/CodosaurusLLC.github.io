@@ -7,6 +7,8 @@ Spammers:
 - [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
 - [Muhammad Usama, usama@hireboard.co](mailto:usama@hireboard.co)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
+- [Patricia Hill, patricia@empiriclinks.net](mailto:patricia@empiriclinks.net)
+- [Reuben Langston, mreuben.lang@hqprioritypro.com](mailto:mreuben.lang@hqprioritypro.com)
 - [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
 - [ag@ig-institute.net](mailto:ag@ig-institute.net)
