@@ -6,6 +6,7 @@ Spammers:
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
+- [Haroun Barhoumi, haroun.barhoumi2001@gmail.com](mailto:haroun.barhoumi2001@gmail.com)
 - [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
 - [Muhammad Usama, usama@hireboard.co](mailto:usama@hireboard.co)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
