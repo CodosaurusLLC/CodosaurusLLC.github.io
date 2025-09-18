@@ -1,6 +1,8 @@
 Spammers:
 - [ACMEY Co., lanxifa9@163.com](mailto:lanxifa9@163.com)
 - [Adam Morgan, adam@elevatepath.co](mailto:adam@elevatepath.co)
+- [Aden Baker, aden.baker@glowpulse.co](mailto:aden.baker@glowpulse.co)
+- [Adnan, adnan@codeautomation.us](mailto:adnan@codeautomation.us)
 - [Alex Bothe, alex@hireboard.co](mailto:alex@hireboard.co)
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
