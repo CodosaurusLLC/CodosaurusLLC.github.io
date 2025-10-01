@@ -21,6 +21,7 @@ Spammers:
 - [info@kimblegroup.com](mailto:info@kimblegroup.com)
 - [James Seeha, jamesseeha06@gmail.com](mailto:jamesseeha06@gmail.com)
 - [James Seeha, jamesseeha224@gmail.com](mailto:jamesseeha224@gmail.com)
+- [Jane Richards, jane@advanceguardianfunding.com](mailto:jane@advanceguardianfunding.com)
 - [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
 - [kd@kochdavisjobs.com](mailto:kd@kochdavisjobs.com)
 - [kimble@kimblegroup.com](mailto:kimble@kimblegroup.com)
