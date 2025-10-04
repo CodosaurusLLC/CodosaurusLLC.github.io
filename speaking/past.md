@@ -24,6 +24,18 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2025</td>
+      <td><a href="https://luma.com/pydistrict" rel="nofollow" target="_new">PyDistrict (September)</a></td>
+      <td>Washington, DC, USA</td>
+      <td>Mead</td>
+      <td>
+        <a href="/reds/mutants-pydist-25-slides" target="_new">slides</a>,
+        <a href="https://youtu.be/JTMOFAYMg8E" target="_new">video</a>
+      </td>
+      <td class="numeric">34</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2025</td>
       <td><a href="https://pandemicrg2025.wordpress.com/" rel="nofollow" target="_new">MWM RG</a></td>
       <td>Reston, VA, USA</td>
       <td>Mead</td>
