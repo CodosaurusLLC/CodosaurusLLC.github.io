@@ -26,7 +26,7 @@ but also some podcasts, user-group meetings, etc.:
       <td class="numeric">2025</td>
       <td><a href="https://luma.com/pydistrict" rel="nofollow" target="_new">PyDistrict (September)</a></td>
       <td>Washington, DC, USA</td>
-      <td>Mead</td>
+      <td>Mutants</td>
       <td>
         <a href="/reds/mutants-pydist-25-slides" target="_new">slides</a>,
         <a href="https://youtu.be/JTMOFAYMg8E" target="_new">video</a>
