@@ -25,6 +25,7 @@ Spammers:
 - [Jane Richards, jane@advanceguardianfunding.com](mailto:jane@advanceguardianfunding.com)
 - [Jason T. Roff, roff@startfirstfactorymeeting.com](mailto:roff@startfirstfactorymeeting.com)
 - [Jeff Ajluni, events@fusionsportsandentertainment.com](mailto:events@fusionsportsandentertainment.com)
+- [Jimmy Chen, jimmy.chen.talent@gmail.com](mailto:jimmy.chen.talent@gmail.com)
 - [Jordan Margaret, jordanmargaret2025@gmail.com](mailto:jordanmargaret2025@gmail.com)
 - [Kaito Masaki, kaitomasaki1@gmail.com](mailto:kaitomasaki1@gmail.com)
 - [kd@kochdavisjobs.com](mailto:kd@kochdavisjobs.com)
