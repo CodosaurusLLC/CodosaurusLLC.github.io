@@ -13,6 +13,7 @@ Spammers:
 - [christopher.oneal@jobsora.com](mailto:christopher.oneal@jobsora.com)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [compliance@jobsora.com](mailto:compliance@jobsora.com)
+- [Cryptonewshubb, candice@irmatokenverse.com](mailto:candice@irmatokenverse.com)
 - [daniel.m@johnsonjobs.com](mailto:daniel.m@johnsonjobs.com)
 - [dave@johnsonjobs.com](mailto:dave@johnsonjobs.com)
 - [eesha@cioviews.com](mailto:eesha@cioviews.com)
