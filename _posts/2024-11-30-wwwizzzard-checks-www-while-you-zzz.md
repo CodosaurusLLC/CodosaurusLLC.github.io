@@ -4,7 +4,7 @@ date: 2024-11-30
 layout: blog-post
 permalink: blog/wwwizzzard-checks-www-while-you-zzz
 section: Blog
-tags: speaking tools
+tags: speaking tools wwwizzzard
 title: WWWizzard Checks the WWW while you ZZZ!
 ---
 
