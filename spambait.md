@@ -39,6 +39,7 @@ Spammers:
 - [noi.keom4@gmail.com](mailto:noi.keom4@gmail.com)
 - [noreply@jobsora.com](mailto:noreply@jobsora.com)
 - [Norq Quinn, quinn@swagmagic.net](mailto:nora.quinn@swagmagic.net)
+- [olliejamesb@cb.maiilr.com](mailto:olliejamesb@cb.maiilr.com)
 - [partner@jobsora.com](mailto:partner@jobsora.com)
 - [partnership@akiracollaborator.me](mailto:partnership@akiracollaborator.me)
 - [Patricia Hill, patricia@empiriclinks.net](mailto:patricia@empiriclinks.net)
