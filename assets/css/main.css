@@ -33,6 +33,15 @@ a:hover      {
 
 blockquote { font-style: italic; }
 
+div.dropdown-menu {
+  background-color: var(--fg-color);
+  color: var(--bg-color);
+  padding: 0.5em;
+  position: absolute;
+  a { color: var(--bg-color); }
+  ul { margin: 0 }
+}
+
 div.header-sublines {
   font-style: italic;
   font-size: var(--big-size);
@@ -69,7 +78,7 @@ main h5 { margin-top: var(--h5-size); }
 
 li { margin-right: min(2%, 2em); }
 
-th,td { text-align: left; }
+th,td { text-align: left; vertical-align: top; }
 
 ul { padding-left: calc(1em + min(1%, 1em)); }
 

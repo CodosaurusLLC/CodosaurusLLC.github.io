@@ -26,6 +26,62 @@
     <a href="/spambait" style="font-size: 0.0001em"> </a>
 
     <header>
+      <div style="float: left; position: absolute">
+        <details>
+          <summary>Nav&nbsp;</summary>
+          <div class="dropdown-menu">
+            <table>
+
+              <tr>
+                <td></td>
+                <td><a href="/"><ul><li>Home</li></ul></a></td>
+              </tr>
+
+              <tr>
+                <td><b>Dave:</b></td>
+                <td>
+                  <ul>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="https://github.com/DaveAronson/" target="_new">Github</a></li>
+                    <li><a href="https://exercism.io/profiles/DaveAronson" target="_new">Exercism</a></li>
+                    <li><a href="https://www.linkedin.com/in/DaveAronson/" target="_new">LinkedIn</a></li>
+                    <li><a href="https://bit.ly/dave-aronson-resume" target="_new">Resume</a></li>
+                    <li><a href="https://www.quora.com/profile/Dave-Aronson" target="_new">Quora</a></li>
+                    <li><a href="https://bsky.app/profile/davearonson.bsky.social" target="_new">Bluesky</a></li>
+                    <li><a href="https://www.facebook.com/dare2xl" target="_new">Facebook</a></li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr>
+                <td><b>Company:</b></td>
+                <td>
+                  <ul>
+                    <li><a href="/services">Services</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="https://blog.codosaur.us" target="_new">Old Blog</a></li>
+                    <li><a href="https://github.com/CodosaurusLLC/" target="_new">Github</a></li>
+                    <li><a href="http://www.linkedin.com/company/Codosaurus-LLC" target="_new">LinkedIn</a></li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr>
+                <td><b>Other:</b></td>
+                <td>
+                  <ul>
+                    <li class="on-light">
+                      <a href="/acrumen">ACRUMEN</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </details>
+      </div>
+
       <h1>
         <!-- flipH won't work w/ a span; must be a block-y element, wtf?! -->
         <big><div class="flipH" style="display: inline-block">🦖</div></big>
@@ -33,17 +89,19 @@
         <big>🦖</big>
       </h1>
       <div class="header-sublines">How can we evolve you today?</div>
+
       <h2>
         {% if page.section %}
           <a href="/{{ page.section | downcase }}">{{ page.section }}</a>:
         {% endif %}
         {{ page.title }}
       </h2>
+
     </header>
 
-    <a href="/spambait" style="font-size: 0.0001em"> </a>
-
     <hr>
+
+    <a href="/spambait" style="font-size: 0.0001em"> </a>
 
     <main class="page-content" aria-label="Content">
       {{ content }}

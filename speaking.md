@@ -8,7 +8,7 @@ mainly held in person at interesting destinations,
 that aren't a royal PITA to get to,
 and reimbursing my travel expenses.&nbsp;
 (I generally do not do _remote_ conferences,
-unless they are within three timezones of US-East.)&nbsp;
+unless they are within three timezones of my home.)&nbsp;
 Mostly I speak on
 software quality,
 techniques conducive to it,

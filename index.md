@@ -3,48 +3,39 @@ layout: default
 title: Home
 ---
 
-<!-- this comment is here just to keep Jekyll from moving the below
-headline up into the header; dunno why it does that.  -->
+# The Codosaurus is now ***retired***... <br> more or less.
 
-<!--
-
-### I help companies write better software faster.
-
-I do this by:
-
-- **[Roadmapping projects and large features](roadmapping)**
-to help you figure out where you want to go, and how to get there.
-
-- **[Advising development teams](advice)**
-about processes, tools, techniques, etc.
-
-- **[Training developers](training)**
-how to write better software faster,
-including what "better" even means in the first place.
-
-- **[Speaking](speaking)**
-at conferences, corporate events, and podcasts.
-
-- **[Writing software](development)**,
-including mentoring juniors,
-all done at least mostly remotely, and very part-time.
-
--->
-
-I am in the process of retiring,
-so I am REMOVING most of my services.&nbsp;
-For now, I will still
+I will still
 [speak](speaking)
-at conferences, corporate events, and podcasts,
-and do
-[software development](development),
-including mentoring juniors,
-remotely (plus maybe occasional light travel),
-on a "very part-time" basis
-(20 hours a week or fewer).
+at your in-person conference,
+or on your podcast,
+for a sliding scale
+from "free for free conferences where I would be anyway"
+to "full expenses (maybe more) for big for-profit conferences".
 
-Also, my wife and I plan to move to Portugal,
-most likely sometime in the latter half of 2026.
+If you want me to
+[speak](speaking) at your _corporate_ event,
+or
+[do other software development related consulting](services),
+<!--
+[sling code for you](development);
+[mentor your devs](development);
+[advise about processes, tools, techniques, etc.](advice);
+[train developers](training)
+how to write better software faster
+(including what "better" even means in the first place);
+or maybe even
+[roadmap your projects or large features](roadmapping),
+-->
+it will be a tough sell but
+you have two choices.&nbsp;
+Either convince me that
+it will be fun enough and/or for a good enough cause
+that I should do it for _free_,
+or pay well enough that it's worth coming out of retirement.<!--&nbsp;
+($10,000 _minimum_,
+mid-$1xx/hour _minimum_ for any hourly work,
+and 20 hours/week _maximum_.)-->
 
 <!--
 I do these mainly for
@@ -57,22 +48,14 @@ See
 [the Clients page](clients) for more details.
 -->
 
-Other content here:
-- **[the <span class="acrumen">ACRUMEN</span> Software Quality Definition](acrumen)**
-- **[Blog](blog)**
-- **[About Me](about)**
-- **[Contact](contact)**
+The other big news that will affect potential clients,
+is that I will soon be moving to Portugal!&nbsp;
+This is currently slated for late July 2026.&nbsp;
+Unfortunately, it also means that
+international travel will be severely limited
+in August, probably September, and possibly October.
 
-Elsewhere:
-
-- **[Resume](https://bit.ly/dave-aronson-resume){:target="_new"}**
-- **[Github (Dave)](https://github.com/DaveAronson/){:target="_new"}**
-- **[Github (Codosaurus)](https://github.com/CodosaurusLLC/){:target="_new"}**
-- **[LinkedIn (Dave)](https://www.linkedin.com/in/DaveAronson/){:target="_new"}**
-- **[LinkedIn (Codosaurus)](http://www.linkedin.com/company/Codosaurus-LLC){:target="_new"}**
-- **[Bluesky](https://bsky.app/profile/davearonson.bsky.social){:target="_new"}**
-- **[Exercism](https://exercism.io/profiles/DaveAronson){:target="_new"}**
-- **[Quora](https://www.quora.com/profile/Dave-Aronson){:target="_new"}**
-
+<small>
 (The design and wording of this whole site is under renovation.&nbsp;
 I know it's not very pretty now, but at least you get the general idea!)
+</small>
