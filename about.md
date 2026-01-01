@@ -12,10 +12,15 @@ who am I?
 {:class="center"}
 
 I am Dave Aronson,
-a semi-retired software development consultant
-(meaning I write code _and_ give advice about how),
-with professional experience dating back to 1983,
+a retired software development consultant
+(meaning I wrote code _and_ gave advice about how),
+with about forty years of professional experience
 in a wide variety of languages, systems, techniques, and domains.&nbsp;
+Further details have been elided from here upon retirement.  :-)
+
+<!--
+
+&nbsp;
 Since 2011,
 I've mostly been doing
 [Ruby](https://www.ruby-lang.org/en/){:rel="nofollow" target="_new"},
@@ -48,33 +53,43 @@ so I tried that again &mdash;
 and this time it has worked much better!&nbsp;
 ;-)
 
+-->
+
 Aside from actual hands-on software development,
 I also enjoy [speaking at conferences](speaking),
 especially in interesting places
 where I can take a few extra days to play tourist.&nbsp;
 (The picture above is from
 [JSConf Hawai'i](https://www.jsconfhi.com/){:rel="nofollow" target="_new"}
-2020.)&nbsp;
-Relatedly, I also maintain the
+2020.)
+
+Relatedly, I also maintain a
 CfP (Call for Papers/Presentations/Proposals) list
+(what's closing in the next 30 days)
+available [here](/speaking/cfps-ending-soon).&nbsp;
+(This is actually a smallish subset of
+a much larger one I maintain
 for the Speakers Network within the
 [Toptal](https://www.toptal.com/#accept-only-candid-coders){:target="_new"}
 consulting network.&nbsp;
-(Please use that link to hire or join them,
+Please use that link to hire or join them,
 the anchor is my referral tag.)
 
 On personal notes:&nbsp;
 I am married to a smart cutie who doesn't like publicity,
 so no more details there.&nbsp;
-We live in
+For now, we live in
 [City of Fairfax, VA](https://www.google.com/maps/place/Fairfax,+Virginia/){:rel="nofollow" target="_new"}
 (a suburb of Washington, DC),
-and are owned by two cats.&nbsp;
+and are owned by two cats,
+but we plan to move to
+[Porto, Portugal](https://www.google.com/maps/place/Porto,+Portugal/){:rel="nofollow" target="_new"}
+around July 2026.&nbsp;
 In my spare time,
-I make
+I brew
 [mead](https://en.wikipedia.org/wiki/Mead){:rel="nofollow" target="_new"},
-maintain
-[a website about it](https://www.SumOfABatch.com/){:target="_new"},
+and maintain
+[a website about it](https://www.SumOfABatch.com/){:target="_new"}<!-- ,
 record
 [videos about making mead simply](https://www.SumOfABatch.com/videos){:target="_new"},
-and run [workshops to teach that](https://www.SumOfABatch.com/workshops){:target="_new"}.
+and run [workshops to teach that](https://www.SumOfABatch.com/workshops){:target="_new"} -->.
