@@ -1,4 +1,5 @@
 Spammers:
+- [Griffin with no other name, jalen@webre2.com](mailto:jalen@webre2.com)
 - [$YOUR_DOMAIN Authority, administrator@charliedoan.com](mailto:administrator@charliedoan.com)
 - [ACMEY Co., lanxifa9@163.com](mailto:lanxifa9@163.com)
 - [Adam Morgan, adam@elevatepath.co](mailto:adam@elevatepath.co)
