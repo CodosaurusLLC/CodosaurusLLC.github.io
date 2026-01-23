@@ -20,6 +20,7 @@ Spammers:
 - [eesha@cioviews.com](mailto:eesha@cioviews.com)
 - [Emily Parker, emily.globalrecruitconnecty@gmail.com](mailto:emily.globalrecruitconnecty@gmail.com)
 - [feedback@jobsora.com](mailto:feedback@jobsora.com)
+- [Frank Lucas, frank@techverxprotech.com](mailto:frank@techverxprotech.com)
 - [Haroun Barhoumi, haroun.barhoumi2001@gmail.com](mailto:haroun.barhoumi2001@gmail.com)
 - [info@kimblegroup.com](mailto:info@kimblegroup.com)
 - [James Seeha, jamesseeha06@gmail.com](mailto:jamesseeha06@gmail.com)
