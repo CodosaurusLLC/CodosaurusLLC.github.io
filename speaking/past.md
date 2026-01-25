@@ -387,7 +387,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Wisconsin Dells, WI, USA</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-that-wi-22-slides.md" target="_new">slides</a>*</td>
+      <td><a href="/reds/mutants-that-wi-22-slides" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
