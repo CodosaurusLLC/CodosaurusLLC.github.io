@@ -57,6 +57,7 @@ Spammers:
 - [Robert Potts, robertpottscareercoach@gmail.com](mailto:robertpottscareercoach@gmail.com)
 - [Sam Oke, career@careergrowthconsulting.com](mailto:career@careergrowthconsulting.com)
 - [sam@career-growth.co](mailto:sam@career-growth.co)
+- [Sydney Van Kammen, sydney@localwarespace.com](mailto:sydney@localwarespace.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
 
 Want to join this "lustrious" group?&nbsp;
