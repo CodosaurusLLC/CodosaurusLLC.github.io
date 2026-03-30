@@ -11,6 +11,7 @@ Spammers:
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [alexia@ciobusinessleaders.com](mailto:alexia@ciobusinessleaders.com)
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
+- [Batouk Hussaint, batoukh@yzltbs.com](mailto:batoukh@yzltbs.com)
 - [christopher.oneal@jobsora.com](mailto:christopher.oneal@jobsora.com)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [compliance@jobsora.com](mailto:compliance@jobsora.com)
