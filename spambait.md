@@ -10,6 +10,7 @@ Spammers:
 - [Alex Bothe, alex@hireboard.co](mailto:alex@hireboard.co)
 - [Alex Jane, alex@empiriclinks.net](mailto:alex@empiriclinks.net)
 - [alexia@ciobusinessleaders.com](mailto:alexia@ciobusinessleaders.com)
+- [Allison Cox, allison.director.executive.search@gmail.com](mailto:allison.director.executive.search@gmail.com); note that this is almost certainly NOT the real Allison Cox!
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
 - [Batouk Hussaint, batoukh@yzltbs.com](mailto:batoukh@yzltbs.com)
 - [christopher.oneal@jobsora.com](mailto:christopher.oneal@jobsora.com)
