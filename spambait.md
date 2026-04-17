@@ -13,6 +13,7 @@ Spammers:
 - [Allison Cox, allison.director.executive.search@gmail.com](mailto:allison.director.executive.search@gmail.com); note that this is almost certainly NOT the real Allison Cox!
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
 - [Batouk Hussaint, batoukh@yzltbs.com](mailto:batoukh@yzltbs.com)
+- [Cassandra Johnson, cassandra@heypodcastpros.com](mailto:cassandra@heypodcastpros.com)
 - [christopher.oneal@jobsora.com](mailto:christopher.oneal@jobsora.com)
 - [Claudia Frank, claudia@tryrenaissadvis.co](mailto:claudia@tryrenaissadvis.co)
 - [compliance@jobsora.com](mailto:compliance@jobsora.com)
