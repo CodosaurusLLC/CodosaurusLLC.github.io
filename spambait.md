@@ -26,10 +26,10 @@ Spammers:
 - [feedback@jobsora.com](mailto:feedback@jobsora.com)
 - [FOESCO, info@fecbonificables.org](mailto:info@fecbonificables.org)
 - [Frank Lucas, frank@techverxprotech.com](mailto:frank@techverxprotech.com)
-- [Griffin with no other name, jalen@webre2.com](mailto:jalen@webre2.com)
 - [Haroun Barhoumi, haroun.barhoumi2001@gmail.com](mailto:haroun.barhoumi2001@gmail.com)
 - [info@customuniformsupplier.com](mailto:info@customuniformsupplier.com)
 - [info@kimblegroup.com](mailto:info@kimblegroup.com)
+- [jalen@webre2.com](mailto:jalen@webre2.com)
 - [James Seeha, jamesseeha06@gmail.com](mailto:jamesseeha06@gmail.com)
 - [James Seeha, jamesseeha224@gmail.com](mailto:jamesseeha224@gmail.com)
 - [Jane Richards, jane@advanceguardianfunding.com](mailto:jane@advanceguardianfunding.com)
@@ -41,6 +41,7 @@ Spammers:
 - [kd@kochdavisjobs.com](mailto:kd@kochdavisjobs.com)
 - [kimble@kimblegroup.com](mailto:kimble@kimblegroup.com)
 - [lauraglobalrecruitconnect@gmail.com](mailto:lauraglobalrecruitconnect@gmail.com)
+- [LoanSphere360, info@loansphere360.com](mailto:info@loansphere360.com)
 - [Mike McCarthy, mike@mccarthysearch.com](mailto:mike@mccarthysearch.com)
 - [mike@mccarthysearch.com](mailto:mike@mccarthysearch.com)
 - [Muhammad Usama, usama@hireboard.co](mailto:usama@hireboard.co)
@@ -67,7 +68,7 @@ Spammers:
 - [sam@career-growth.co](mailto:sam@career-growth.co)
 - [Sydney Van Kammen, sydney@localwarespace.com](mailto:sydney@localwarespace.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
-= [Willow Dane, willow.dane@cclustox.cyou](mailto:willow.dane@cclustox.cyou)
+- [Willow Dane, willow.dane@cclustox.cyou](mailto:willow.dane@cclustox.cyou)
 
 Want to join this "lustrious" group?&nbsp;
 Just send me some spam.&nbsp;
