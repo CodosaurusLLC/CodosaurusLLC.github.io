@@ -40,6 +40,7 @@ Spammers:
 - [Kaito Masaki, kaitomasaki1@gmail.com](mailto:kaitomasaki1@gmail.com)
 - [kd@kochdavisjobs.com](mailto:kd@kochdavisjobs.com)
 - [kimble@kimblegroup.com](mailto:kimble@kimblegroup.com)
+- [Latsamy BNY, workandlife620204@gmail.com](mailto:workandlife620204@gmail.com)
 - [lauraglobalrecruitconnect@gmail.com](mailto:lauraglobalrecruitconnect@gmail.com)
 - [LoanSphere360, info@loansphere360.com](mailto:info@loansphere360.com)
 - [Mike McCarthy, mike@mccarthysearch.com](mailto:mike@mccarthysearch.com)
