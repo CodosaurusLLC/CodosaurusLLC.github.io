@@ -44,7 +44,7 @@ So, that's mainly software development conferences, focused on:
 or sometimes closely related things
 (like the BEAM or C++),
 - or _not_ tightly focused on any particular tech stack
-(though it may _lean heavily_ towards one or two), domain, technique,
+(though it may _lean heavily_ towards one or two), OS, domain, technique,
 methodology, etc.,
 - or occasionally testing
 (of the kind devs should do to their own code,
@@ -70,6 +70,6 @@ Donation form coming eventually.&nbsp; ;-)
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appQTxgB6oYHHwBCF/shrjC7MHNuQuXKPbs?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600"></iframe>
 
-You can get reminded to check this weekly,
+You can get reminded to check this monthly or so,
 by subscribing to
 [my blog](/blog).
