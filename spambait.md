@@ -59,6 +59,7 @@ Spammers:
 - [partnership@akiracollaborator.me](mailto:partnership@akiracollaborator.me)
 - [Patricia Hill, patricia@empiriclinks.net](mailto:patricia@empiriclinks.net)
 - [Paul K. Chung, paul@pkcrealestate.com](mailto:paul@pkcrealestate.com)
+- [Paul K. Chung, reply-to-agent@alerts3.realscout.com](mailto:reply-to-agent@alerts3.realscout.com)
 - [Power Brokers Events, events@fusionsportsandentertainment.com](mailto:events@fusionsportsandentertainment.com)
 - [Power Brokers Mid-Atlantic Sports Summit, events@fusionsportsandentertainment.com](mailto:events@fusionsportsandentertainment.com)
 - [privacy@johnsonjobs.com](mailto:privacy@johnsonjobs.com)
