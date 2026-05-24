@@ -23,6 +23,18 @@ but also some podcasts, user-group meetings, etc.:
   <tbody>
 
     <tr>
+      <td class="numeric">2026</td>
+      <td><a href="https://software-quality-days.com/" rel="nofollow" target="_new">Software Quality Days</a></td>
+      <td>Vienna, Austria</td>
+      <td>Property-Based Testing</td>
+      <td>
+        <a href="/slides/Examples-to-Exhaustive-Intro-to-Property-Based-Testing.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=KyZ6_6fO0dY" target="_new">video</a>
+      </td>
+      <td class="numeric">43</td>
+    </tr>
+
+    <tr>
       <td class="numeric">2025</td>
       <td><a href="https://luma.com/pydistrict" rel="nofollow" target="_new">PyDistrict (September)</a></td>
       <td>Washington, DC, USA</td>

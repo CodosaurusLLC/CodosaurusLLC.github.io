@@ -42,6 +42,13 @@ but I could certainly translate it into
 Elixir, Python, JavaScript, or even C if you like.)&nbsp;
 I have versions prepared from 30 minutes to 50.
 
+- **_From Examples to Exhaustive: Intro to [Property-Based Testing](https://antithesis.com/docs/resources/property_based_testing/){:rel="nofollow" target="_new"}_**{:class="big"}.&nbsp;
+Just as with _Tight Genes_,
+this one includes code (though not as much),
+but not _live_ coding,
+and is currently in Ruby,
+but could be translated if needed.
+
 - **_Multi-Talking (not a typo!) with [Genaver](https://github.com/CodosaurusLLC/Genaver){:target="_new"}!_**{:class="big"},
 about a tool I created
 that lets me quickly and easily generate
@@ -222,6 +229,7 @@ I could also do them in French or Portuguese.&nbsp;
 I also do my intro in the local language.&nbsp;
 So far, I have done that in
 Dutch,
+French,
 German,
 Greek,
 Lithuanian,
@@ -238,4 +246,5 @@ especially interesting tourist/history spots.
 
 - If you want my talk but are afraid of the airfare expenses,
 let's talk about it.&nbsp;
-There may be options, such as combining conferences on one trip.
+There may be options, such as combining conferences on one trip.&nbsp;
+Note however that I will soon be based in Europe, not the USA.
