@@ -58,12 +58,20 @@ or
 [Twitter](https://twitter.com/DaveAronson){:target="_new"}.
 
 - If you're not just telemarketing, call me at +1-571-308-6622.&nbsp;
+(That will work for telephone,
+since it's actually a Google Voice number,
+and it's also my number on WhatsApp.)&nbsp;
 However, I usually have "Silence Unknown Callers" turned on,
 and if you call multiple times without leaving a message,
 I may ass-u-me you're a persistent scammer and block your number.
 
-- You can send me snailmail at
-3683 Blenheim Blvd., Fairfax, VA 22030 USA.
+- You can send me snailmail at:<br><br>
+3683 Blenheim Blvd.<br>
+Fairfax, VA 22030 USA<br><br>
+until July 10, 2026.&nbsp;
+After that, use:<br><br>
+Rua General Norton de Matos 392, 9º Centro<br>
+4050-424 Porto, Portugal
 
 - Lastly, I can also be reached via
 the usual real-time video-chat apps.&nbsp;
