@@ -32,6 +32,7 @@ Spammers:
 - [info@customuniformsupplier.com](mailto:info@customuniformsupplier.com)
 - [info@kimblegroup.com](mailto:info@kimblegroup.com)
 - [jalen@webre2.com](mailto:jalen@webre2.com)
+- [James, jamesseeha01@gmail.com](mailto:jamesseeha01@gmail.com)
 - [James Seeha, jamesseeha06@gmail.com](mailto:jamesseeha06@gmail.com)
 - [James Seeha, jamesseeha224@gmail.com](mailto:jamesseeha224@gmail.com)
 - [Jane Richards, jane@advanceguardianfunding.com](mailto:jane@advanceguardianfunding.com)
