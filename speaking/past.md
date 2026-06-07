@@ -52,7 +52,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Reston, VA, USA</td>
       <td>Mead</td>
       <td>
-        <a href="/reds/specific-gravity-mwmrg-2025" target="_new">slides</a>,
+        <a href="/slides/Specific-Gravity-MWM-RG-2025.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=mhcPQlEe9fI" target="_new">video</a>
       </td>
       <td class="numeric">61</td>
@@ -75,7 +75,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>London, UK</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-sdd-25-slides" target="_new">slides</a>*
+        <a href="/slides/ACRUMEN-SDD-2025.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">70</td>
     </tr>
@@ -112,7 +112,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Geneva, Switzerland</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-vdcern-25-slides" target="_new">slides</a>,
+        <a href="/slides/ACRUMEN-Vox-Days-CERN-2025.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=DyFhs9YMpmo" target="_new">video</a>
       </td>
       <td class="numeric">37</td>
@@ -139,7 +139,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Berlin, Germany</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-cbe-24-slides" target="_new">slides</a>,
+        <a href="/slides/ACRUMEN-Code-Beam-Europe-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=ZzP9JujOl1I" target="_new">video</a>
       </td>
       <td class="numeric">41</td>
@@ -151,7 +151,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Online</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-tmd29a22-24-slides" target="_new">slides</a>,
+        <a href="/slides/ACRUMEN-for-Toastmasters.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=a9jmHE4HULc" target="_new">video</a>
       </td>
       <td class="numeric">6</td>
@@ -186,7 +186,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Online</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-toptal-24-slides" target="_new">slides</a>+
+        <a href="/slides/ACRUMEN-Toptal-2024.pdf" target="_new">slides</a>+
       </td>
       <td class="numeric">40</td>
     </tr>
@@ -232,7 +232,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>S&atilde;o Paulo, Brazil</td>
       <td>Genaver</td>
       <td>
-        <a href="/reds/genaver-gambi-23-slides.md" target="_new">slides</a>,
+        <a href="/slides/Genaver-Gambi-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=CJtFPdvBcj8" target="_new">video</a>
       </td>
       <td class="numeric">25</td>
@@ -259,7 +259,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="/reds/acrumen-bs-app-23-slides" target="_new">slides</a>*
+        <a href="/slides/ACRUMEN-BuildStuff-Appetizer-2023.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">20</td>
     </tr>
@@ -339,7 +339,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Arlington, VA, USA</td>
       <td>ACRUMEN</td>
       <td style="padding-top: 0">
-        <a href="/reds/acrumen-front-23-slides" target="_new">slides</a>,
+        <a href="/slides/ACRUMEN-Frontrunners-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=5iJGC01ApSc" target="_new">video</a>
       </td>
       <td class="numeric">23</td>
@@ -525,7 +525,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Waikiki, HI, USA</td>
       <td>Mutants</td>
       <td>
-       <!--<a href="/reds/mutants-jsconf-hi-20-slides" target="_new">-->slides temporarily unavailable<!--</a>-->,
+       slides lost,
        <a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" target="_new">video</a>
        </td>
       <td class="numeric">22</td>
