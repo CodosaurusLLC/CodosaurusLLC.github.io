@@ -40,7 +40,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Washington, DC, USA</td>
       <td>Mutants</td>
       <td>
-        <a href="/reds/mutants-pydist-25-slides" target="_new">slides</a>,
+        <a href="/slides/Kill-All-Mutants-PyDistrict-2025.pdf" target="_new">slides</a>,
         <a href="https://youtu.be/JTMOFAYMg8E" target="_new">video</a>
       </td>
       <td class="numeric">34</td>
@@ -64,7 +64,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="/reds/gen-algs-dd-eu-25-slides" target="_new">slides</a>*
+        <a href="/slides/Tight-Genes-DevDays-EU-2025.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">35</td>
     </tr>
@@ -86,7 +86,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>London, UK</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="/reds/gen-algs-sdd-25-slides" target="_new">slides</a>*
+        <a href="/slides/Tight-Genes-SDD-2025.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">80</td>
     </tr>
@@ -100,7 +100,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Geneva, Switzerland</td>
       <td>Mutants</td>
       <td>
-        <a href="/reds/mutants-vdcern-25-slides" target="_new">slides</a>,
+        <a href="/slides/Kill-All-Mutants-Vox-Days-CERN-2025.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=ahfhOCrG1z4" target="_new">video</a>
       </td>
       <td class="numeric">47</td>
@@ -127,7 +127,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Belgrade, Serbia</td>
       <td>Mutants</td>
       <td>
-        <a href="/reds/mutants-heapcon-24-slides" target="_new">slides</a>,
+        <a href="/slides/Kill-All-Mutants-Heapcon-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=vy07zfPDzzw" target="_new">video</a>
       </td>
       <td class="numeric">35</td>
@@ -163,7 +163,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Singapore</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="/reds/gen-algs-rdrc-24-slides" target="_new">slides</a>+
+        <a href="/slides/Tight-Genes-Red-Dot-Ruby-2024.pdf" target="_new">slides</a>+
       </td>
       <td class="numeric">30</td>
     </tr>
@@ -174,7 +174,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Coimbra, Portugal</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.codosaur.us/reds/gen-algs-jnation-24-slides" target="_new">slides</a>,
+        <a href="/slides/Tight-Genes-JNation-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=FJRVmBZxoJo" target="_new">video</a>
       </td>
       <td class="numeric">47</td>
@@ -186,7 +186,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Online</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="https://www.codosaur.us/reds/acrumen-toptal-24-slides" target="_new">slides</a>+
+        <a href="/reds/acrumen-toptal-24-slides" target="_new">slides</a>+
       </td>
       <td class="numeric">40</td>
     </tr>
@@ -197,7 +197,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vienna, Austria</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/mutants-sqd-24-slides" target="_new">slides</a>*
+        <a href="/slides/Kill-All-Mutants-SQD-2024.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">21</td>
     </tr>
@@ -208,7 +208,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Online</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-xtremepy-24-slides" target="_new">slides</a>,
+        <a href="/slides/Kill-All-Mutants-XtremePy-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=9u5oUprNQYA" target="_new">video</a>
       </td>
       <td class="numeric">50</td>
@@ -220,7 +220,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-pycon-lt-24-slides" target="_new">slides</a>,
+        <a href="/slides/Kill-All-Mutants-PyCon-LT-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=kmxK1kccUp8" target="_new">video</a>
       </td>
       <td class="numeric">23</td>
@@ -232,7 +232,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>S&atilde;o Paulo, Brazil</td>
       <td>Genaver</td>
       <td>
-        <a href="https://www.codosaur.us/reds/genaver-gambi-23-slides" target="_new">slides</a>,
+        <a href="/reds/genaver-gambi-23-slides.md" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=CJtFPdvBcj8" target="_new">video</a>
       </td>
       <td class="numeric">25</td>
@@ -247,7 +247,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-buildstuff-23-slides" target="_new">slides</a>,
+        <a href="https://www.codosaur.us/slides/Kill-All-Mutants-BuildStuff-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=pJyuQXo5Uyo" target="_new">video</a>
       </td>
       <td class="numeric">35</td>
@@ -259,7 +259,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Vilnius, Lithuania</td>
       <td>ACRUMEN</td>
       <td>
-        <a href="https://www.codosaur.us/reds/acrumen-bs-app-23-slides" target="_new">slides</a>*
+        <a href="/reds/acrumen-bs-app-23-slides" target="_new">slides</a>*
       </td>
       <td class="numeric">20</td>
     </tr>
@@ -273,7 +273,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Athens, Greece</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.codosaur.us/reds/gen-algs-open-23-slides" target="_new">slides</a>,
+        <a href="/slides/Tight-Genes-Open-Conf-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=r0mLPjyYBqk" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">35</td>
@@ -285,7 +285,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Utrecht, Netherlands</td>
       <td>Mutants</td>
       <td>
-        <a href="https://www.codosaur.us/reds/mutants-blipz-23-slides" target="_new">slides</a>*
+        <a href="https://www.codosaur.us/slides/Kill-All-Mutants-Blipz-2023.pdf" target="_new">slides</a>*
       </td>
       <td class="numeric">45</td>
     </tr>
@@ -295,7 +295,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Oslo, Norway</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-ndc-oslo-23-slides" target="_new">slides</a>,
+        <a href="/slides/Tight-Genes-NDC-Oslo-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=bJXPAhEzvXc" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">45</td>
@@ -306,7 +306,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Utrecht, Netherlands</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-teqnation-23-slides" target="_new">slides</a>,
+        <a href="/slides/Tight-Genes-TEQnation-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=3pMYSj2iPUM" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">45</td>
@@ -317,7 +317,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Málaga, Spain</td>
       <td>Genetic Algos</td>
       <td>
-        <a href="https://www.Codosaur.us/reds/gen-algs-jotb-23-slides" target="_new">slides</a>,
+        <a href="/slides/Tight-Genes-JotB-2023.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=PhTsJ1i1un0" rel="nofollow" target="_new">video</a>
       </td>
       <td class="numeric">30</td>
@@ -327,7 +327,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://us.pycon.org/2023/" rel="nofollow" target="_new">PyCon US</a></td>
       <td>Salt Lake City, UT, USA</td>
       <td>Mutants</td>
-      <td style="padding-top: 0"><a href="/reds/mutants-pycon-us-23-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=G0MbITvWfgY" target="_new">video</a></td>
+      <td style="padding-top: 0">
+        <a href="/slides/Kill-All-Mutants-PyCon-US-2023.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=G0MbITvWfgY" target="_new">video</a>
+      </td>
       <td class="numeric">30</td>
     </tr>
     <tr>
@@ -335,7 +338,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://frontrunners.tech/" rel="nofollow" target="_new">Frontrunners DC</a></td>
       <td>Arlington, VA, USA</td>
       <td>ACRUMEN</td>
-      <td style="padding-top: 0"><a href="https://www.codosaur.us/reds/acrumen-front-23-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=5iJGC01ApSc" target="_new">video</a></td>
+      <td style="padding-top: 0">
+        <a href="/reds/acrumen-front-23-slides" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=5iJGC01ApSc" target="_new">video</a>
+      </td>
       <td class="numeric">23</td>
     </tr>
     <tr>
@@ -343,7 +349,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://that.us/events/tx/2023/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Austin, TX, USA</td>
       <td>Genetic Algos</td>
-      <td><a href="/reds/gen-algs-that-tx-23-slides" target="_new">slides</a>*</td>
+      <td>slides lost*</td>
       <td class="numeric">60</td>
     </tr>
     <tr>
@@ -359,7 +365,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://techbash.com/" rel="nofollow" target="_new">TechBash</a></td>
       <td>Pocono Manor, PA, USA</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-techbash-22-slides" target="_new">slides</a>*</td>
+      <td><a href="/slides/Kill-All-Mutants-TechBash-2022.pdf" target="_new">slides</a>*</td>
       <td class="numeric">~50</td>
     </tr>
     <tr>
@@ -367,7 +373,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://nerdear.la/" rel="nofollow" target="_new">Nerdear.LA</a></td>
       <td>Online (to Buenos Aires, Argentina)</td>
       <td>Genetic Algos</td>
-      <td><a href="https://github.com/CodosaurusLLC/tight-genes" target="_new">repo</a>, <a href="https://www.youtube.com/watch?v=p0QYB_8yL0c" target="_new">video</a></td>
+      <td>
+        <a href="https://github.com/CodosaurusLLC/tight-genes" target="_new">repo</a>,
+        <a href="https://www.youtube.com/watch?v=p0QYB_8yL0c" target="_new">video</a>
+      </td>
       <td class="numeric">30</td>
     </tr>
     <tr>
@@ -375,7 +384,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://voxxeddays.com/athens/" rel="nofollow" target="_new">Voxxed Days Athens</a></td>
       <td>Athens, Greece</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-voxxed-ath-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=AUS_G6yCpP0" target="_new">video</a></td>
+      <td><a href="/slides/Kill-All-Mutants-Voxxed-Athens-2022.pdf" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=AUS_G6yCpP0" target="_new">video</a></td>
       <td class="numeric">41</td>
     </tr>
     <tr>
@@ -383,7 +392,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://gambiconf.dev/" rel="nofollow" target="_new">GambiConf EU</a></td>
       <td>Lisbon, Portugal</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-gambi-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=uIDVJGTdKD4" target="_new">video</a></td>
+      <td>
+        <a href="/slides/Kill-All-Mutants-GambiConf-2022.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=uIDVJGTdKD4" target="_new">video</a>
+      </td>
       <td class="numeric">29</td>
     </tr>
     <tr>
@@ -399,7 +411,7 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://that.us/events/wi/2022/" rel="nofollow" target="_new">THAT Conference</a></td>
       <td>Wisconsin Dells, WI, USA</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-that-wi-22-slides" target="_new">slides</a>*</td>
+      <td><a href="/slides/Kill-All-Mutants-THAT-WI-2022.pdf" target="_new">slides</a>*</td>
       <td class="numeric"></td>
     </tr>
     <tr>
@@ -407,7 +419,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://ndcmelbourne.com/" rel="nofollow" target="_new">NDC Melbourne</a></td>
       <td>Melbourne, Australia</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-ndcmel-22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=GS16Hyad-i0" target="_new">video</a></td>
+      <td>
+        <a href="/slides/Kill-All-Mutants-NDC-Melbourne-2022.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=GS16Hyad-i0" target="_new">video</a>
+      </td>
       <td class="numeric">50</td>
     </tr>
     <tr>
@@ -415,7 +430,10 @@ but also some podcasts, user-group meetings, etc.:
       <td><a href="https://codesync.global/conferences/code-beam-sto-2022/" rel="nofollow" target="_new">Code BEAM Europe</a></td>
       <td>Stockholm, Sweden</td>
       <td>Mutants</td>
-      <td><a href="/reds/mutants-cbsto22-slides" target="_new">slides</a>, <a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" target="_new">video</a></td>
+      <td>
+        <a href="/slides/Kill-All-Mutants-Code-BEAM-Europe-2022.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=X9tqoJ_wDgA" target="_new">video</a>
+      </td>
       <td class="numeric">41</td>
     </tr>
     <tr>
@@ -507,7 +525,7 @@ but also some podcasts, user-group meetings, etc.:
       <td>Waikiki, HI, USA</td>
       <td>Mutants</td>
       <td>
-       <a href="https://www.codosaur.us/reds/mutants-jsconf-hi-20-slides" target="_new">slides</a>,
+       <!--<a href="/reds/mutants-jsconf-hi-20-slides" target="_new">-->slides temporarily unavailable<!--</a>-->,
        <a href="https://www.youtube.com/watch?v=yNMBOj7JUPs" target="_new">video</a>
        </td>
       <td class="numeric">22</td>
