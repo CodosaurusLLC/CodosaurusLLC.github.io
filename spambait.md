@@ -12,6 +12,7 @@ Spammers:
 - [alexia@ciobusinessleaders.com](mailto:alexia@ciobusinessleaders.com)
 - [Allison Cox, allison.director.executive.search@gmail.com](mailto:allison.director.executive.search@gmail.com); note that this is almost certainly NOT the real Allison Cox!
 - [Ambreen Younas, ambreen.younas@ambreeny.com](mailto:ambreen.younas@ambreeny.com)
+- [Angel Gambino, trinalynch1974@gmail.com](mailto:trinalynch1974@gmail.com)
 - [Awais Sarwar, awais@bitsclanexperts.com](mailto:awais@bitsclanexperts.com)
 - [Awais Sarwar, awais@bitsclans.com](mailto:awais@bitsclans.com)
 - [Batouk Hussaint, batoukh@yzltbs.com](mailto:batoukh@yzltbs.com)
@@ -44,6 +45,7 @@ Spammers:
 - [Kaito Masaki, kaitomasaki1@gmail.com](mailto:kaitomasaki1@gmail.com)
 - [kd@kochdavisjobs.com](mailto:kd@kochdavisjobs.com)
 - [kimble@kimblegroup.com](mailto:kimble@kimblegroup.com)
+- [Kody Fink, kody@geospace-techinc.com](mailto:kody@geospace-techinc.com)
 - [Latsamy Bounyavong, workandlife620204@gmail.com](mailto:workandlife620204@gmail.com)
 - [lauraglobalrecruitconnect@gmail.com](mailto:lauraglobalrecruitconnect@gmail.com)
 - [LoanSphere360, info@loansphere360.com](mailto:info@loansphere360.com)
