@@ -1,7 +1,3 @@
-<center style="line-height: 1.2">
-LAST UPDATED: 2025-04-08
-</center>
-
 This is a list of CfPs
 (Calls for Papers/Presentations/Participation/etc.)
 that I know of,
