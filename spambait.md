@@ -76,6 +76,7 @@ Spammers:
 - [sam@career-growth.co](mailto:sam@career-growth.co)
 - [Sydney Van Kammen, sydney@localwarespace.com](mailto:sydney@localwarespace.com)
 - [Tehillim Kollel, ads@ysmarketing.org](mailto:ads@ysmarketing.org)
+- [Tim van Zeeland, timvanzeeland.hr@gmail.com](mailto:timvanzeeland.hr@gmail.com)
 - [Willow Dane, willow.dane@cclustox.cyou](mailto:willow.dane@cclustox.cyou)
 
 Want to join this "lustrious" group?&nbsp;
