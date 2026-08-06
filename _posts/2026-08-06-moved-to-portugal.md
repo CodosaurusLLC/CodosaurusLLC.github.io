@@ -8,8 +8,6 @@ tags: personal
 title: Moved to Portugal!
 ---
 
-<!-- NOTE TO SELF: grab a new picture and fix the URL, each time -->
-
 How could I forget to post about
 one of the biggest events of my entire life?!&nbsp;
 After living in the USA
