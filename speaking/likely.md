@@ -19,7 +19,6 @@ include:
 |-|
 |[Code.Talks](https://www.codetalks.de/){:rel="nofollow" target="_new"}||Hamburg, Germany||Mutants|
 |[DevConf South Africa](https://www.devconf.co.za/){:rel="nofollow" target="_new"}||various, South Africa||Genetic Algos|
-|[Devoxx Belgium](https://devoxx.be/){:rel="nofollow" target="_new"}||Antwerp, Belgium||Mutants and maybe Genetic Algos|
 |[Devoxx Morocco](https://devoxx.ma/){:rel="nofollow" target="_new"}||Marrakech, Morocco||Mutants|
 |[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||ACRUMEN|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
