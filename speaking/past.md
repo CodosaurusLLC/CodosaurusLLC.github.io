@@ -211,7 +211,7 @@ but also some podcasts, user-group meetings, etc.:
         <a href="/slides/Kill-All-Mutants-XtremePy-2024.pdf" target="_new">slides</a>,
         <a href="https://www.youtube.com/watch?v=9u5oUprNQYA" target="_new">video</a>
       </td>
-      <td class="numeric">50</td>
+      <td class="numeric">21</td>
     </tr>
 
     <tr>
