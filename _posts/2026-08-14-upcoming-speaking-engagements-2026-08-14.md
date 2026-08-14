@@ -1,18 +1,13 @@
 ---
 author: Dave Aronson
-date: 2026-02-04
+date: 2026-08-14
 layout: blog-post
-permalink: blog/upcoming-speaking-engagements-2026-02-04
+permalink: blog/upcoming-speaking-engagements-2026-08-14
 section: Blog
 tags: speaking
 style: speaking
-title: Upcoming Speaking Engagements as of 2026-02-04
+title: Upcoming Speaking Engagements as of 2026-08-14
 ---
-
-Oops, I haven't been keeping this blog post updated!&nbsp;
-Sorry!&nbsp;
-I've actually known about this one for a few months,
-and it has been publicly announced.
 
 {% include upcoming-engagements.html %}
 
