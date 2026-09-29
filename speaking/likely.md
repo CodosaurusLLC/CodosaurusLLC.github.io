@@ -23,6 +23,7 @@ include:
 |[Devoxx Poland](https://devoxx.pl/){:rel="nofollow" target="_new"}||Krakow, Poland||ACRUMEN|
 |[I T.A.K.E.](https://itakeunconf.com/){:rel="nofollow" target="_new"}||Bucharest, Romania||ACRUMEN|
 |[JS Day Canarias](https://jsdaycanarias.com/){:rel="nofollow" target="_new"}||Tenerife, Spain||Mutants|
+|[NDC London](https://ndclondon.com/){:rel="nofollow" target="_new"}||London, UK||Property-Based Testing|
 |[RubyConf Africa](https://rubyconf.africa/){:rel="nofollow" target="_new"}||Nairobi, Kenya||ACRUMEN|
 |[Voxxed Days Brussels](https://brussels.voxxeddays.com/){:rel="nofollow" target="_new"}||Brussels, Belgium||Mutants|
 |[WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress){:rel="nofollow" target="_new"}||Berlin, Germany||Mutants|
