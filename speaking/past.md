@@ -24,6 +24,18 @@ but also some podcasts, user-group meetings, etc.:
 
     <tr>
       <td class="numeric">2026</td>
+      <td><a href="https://devoxx.be/" rel="nofollow" target="_new">Devoxx Belgium</a></td>
+      <td>Antwerp, Belgium</td>
+      <td>Mutants</td>
+      <td>
+        <a href="/slides/mutants-dvxbe-26.pdf" target="_new">slides</a>,
+        <a href="https://www.youtube.com/watch?v=AsVt_dzTmN4" target="_new">video</a>
+      </td>
+      <td class="numeric">50</td>
+    </tr>
+
+    <tr>
+      <td class="numeric">2026</td>
       <td><a href="https://software-quality-days.com/" rel="nofollow" target="_new">Software Quality Days</a></td>
       <td>Vienna, Austria</td>
       <td>Property-Based Testing</td>
